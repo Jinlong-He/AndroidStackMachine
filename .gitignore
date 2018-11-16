@@ -1,0 +1,41 @@
+
+
+.DS_Store
+*/.DS_Store
+
+release
+
+# Object files
+*.o
+
+# Libraries
+*.so
+*.lib
+*.a
+*.dll
+*.so.*
+*.dylib
+
+#folder
+/nuXmv
+/res
+/verify
+/test
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Make.properties
+./Make.properties
+asm
+
+# Codeblocks project files
+*.layout
+*.cbp
+
+# Other files
+*.png
+*.dot
+
