@@ -1,5 +1,4 @@
 
-
 .DS_Store
 */.DS_Store
 
@@ -21,6 +20,8 @@ release
 /res
 /verify
 /test
+*.txt
+*.smv
 
 # Executables
 *.exe
