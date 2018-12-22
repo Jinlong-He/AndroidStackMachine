@@ -118,6 +118,16 @@ void getBackPatten(VerificationDatas& datas, ofstream& outfile)
     cout << endl;
 }
 
+void getLoop(VerificationDatas& datas, ofstream& outfile)
+{
+    outfile << "Loop is :" << endl;
+    for (VerificationData data : datas) {
+        if (*(data.value) == 1) {
+            outfile << *(data.path) << endl << endl;
+        }
+    }
+}
+
 void writeFile(ofstream& outfile, string& fileName) {
     string info = fileName.replace(fileName.find("/"), 1, "_");
     //string outfileName = "res//" + info.replace(info.find("ActivityInfo"), 12, "res"); 
@@ -150,7 +160,13 @@ int main(int argc, const char * argv[]) {
         a.mkConfig("", window);
         ATMSolver solver(&a);
         solver.init();
-        //exit(1);
+        if (! a.isBounded()) {
+            VerificationDatas datas;
+            solver.pre4GetLoop(datas);
+            for (ID i = 0; i <= datas.size() / ThreadCount; i++)
+                multiCalculation(datas, i);
+            getLoop(datas, outfile);
+        }
         VerificationDatas datas;
         string targetName = argv[5];
         for (Activity* act : solver.getActivities()) {

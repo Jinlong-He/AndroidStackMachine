@@ -94,6 +94,10 @@ namespace atm {
         /// \return A map from Aft to Acts.
         Aft2ActsMap& getRealActMap() {return atm -> getRealActMap();}
 
+        /// \brief Gets loopMap in atm.
+        /// \return A map from Act to Acts.
+        Act2ActsMap& getLoopMap() {return atm -> getLoopMap();}
+
         /// \brief Gets main Activity in atm.
         /// \return A Activity pointer..
         Activity* getMainActivity() {return atm -> getMainActivity();}
@@ -178,6 +182,7 @@ namespace atm {
         void mkBackPattenConfiguration(Activity* act, Activity* bAct);
 
         void pre4BackPatten(VerificationDatas& datas, Activity* act);
+        void pre4GetLoop(VerificationDatas& datas);
 
     }; 
 

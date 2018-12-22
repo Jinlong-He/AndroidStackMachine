@@ -140,11 +140,6 @@ namespace atm {
         bool hasCTKFlag();
         bool hasCTPFlag();
         bool hasRTFFlag();
-        static bool hasCTPFlag(Flags& flags) {
-            for (FLAG flag : flags)
-                if (flag == CTP) return true;
-            return false;
-        }
     };
     struct ActionHash {
         size_t operator()(const Action* action) const {

@@ -50,6 +50,7 @@ namespace atm {
         ID window;                              ///< the max length limitation for this ATM
         DFAMap dfaMap;                          ///< the NFA of each task.
         Act2ActsMap loopMap;                    ///< the loopActs of each task.
+        bool bounded;                           ///< records this ATM is bounded or not.
     public:
         ATM() : mainActivity(nullptr) {} 
         ATM(Parse& parse);
@@ -66,9 +67,10 @@ namespace atm {
 
         ID getStackLength() {return maxLength + 1;}
         ID getStackNum() {return afts.size();}
+        bool isBounded() {return bounded;}
 
         void mkConfig(const Aft& tAft, ID w);
-        bool isBounded();
+        void mkLoopMap();
         void mkExitAndEntranceMap(Act2ActsMap& taskMap, Act2ActionsMap& visitedActions);
         void addVirtualAction(Act2ActsMap& taskMap);
         void CompleteGraph();

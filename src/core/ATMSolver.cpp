@@ -140,7 +140,7 @@ void ATMSolver::Push(Condition* condition, Action* action, ID i, ID j, bool fin)
 void ATMSolver::ClrTop(Condition* condition, Activity* realAct, Action* action, ID i, ID j, ID m) {
     Activity* targetAct = action -> getTargetAct(); 
     for (ID n : targetAct -> getAvailablePos()[realAct]) {
-        if (n <= m || n >= j) continue;
+        if (n <= m || n > j) continue;
         condition -> mkStateAtomic(getStateVar(i, n), act2ValueMap[targetAct], 0);
     }
     for (ID n = m + 1; n <= j; n++) {
@@ -157,7 +157,7 @@ void ATMSolver::ClrTop(Condition* condition, Activity* realAct, Action* action, 
     Activity* targetAct = action -> getTargetAct();
     Condition* stdCondition = mkCondition(condition);
     for (ID m : targetAct -> getAvailablePos()[realAct]) {
-        if (m >= j) continue;
+        if (m > j) continue;
         stdCondition -> mkStateAtomic(getStateVar(i, m), act2ValueMap[targetAct], 0);
         Condition* ctpCondition = mkCondition(condition);
         ctpCondition -> mkStateAtomic(getStateVar(i, m), act2ValueMap[targetAct]);
@@ -419,11 +419,12 @@ void ATMSolver::mkLoopConfiguration(Activity* realAct, Acts& loopActs) {
     ID i = aft2IDMap[aft];
     for (auto& loop : permutation) {
         for (ID j : loop[0] -> getAvailablePos()[realAct]) {
-            if (j > getTaskLength() - loop.size() + 1) continue;
+            if (j > getTaskLength() - loop.size()) continue;
             StateAtomics stateAtomics;
             for (ID m = 0; m < loop.size(); m++) {
-            stateAtomics.push_back(new StateAtomic(getStateVar(i, j + m), act2ValueMap[loop[m]]));
+                stateAtomics.push_back(new StateAtomic(getStateVar(i, j + m), act2ValueMap[loop[m]]));
             }
+            stateAtomics.push_back(new StateAtomic(getStateVar(i, j + loop.size()), act2ValueMap[loop[0]]));
             this -> configuration.push_back(stateAtomics);
         }
     }
@@ -468,6 +469,16 @@ void ATMSolver::mkBackPattenConfiguration(Activity* act, Activity* bAct) {
     }
 }
 
+void ATMSolver::pre4GetLoop(VerificationDatas& datas) {
+    for (auto& mapPair : getLoopMap()) {
+       mkLoopConfiguration(mapPair.first, mapPair.second);
+       string smv = getPreSMV() + getINVARSPEC();
+       int* value = nullptr;
+       string* path = nullptr;
+       VerificationData data = {mapPair.first, "", smv, value, path, this};
+       datas.push_back(data);
+    }
+}
 
 void ATMSolver::pre4BackPatten(VerificationDatas& datas, Activity* act) {
     for (Activity* bAct : getActivities()) {
