@@ -14,7 +14,8 @@ release
 *.dll
 *.so.*
 *.dylib
-Make*
+*Make*.*
+*Make*
 
 #folder
 /nuXmv
