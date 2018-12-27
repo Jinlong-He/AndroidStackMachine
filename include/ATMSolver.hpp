@@ -25,6 +25,7 @@ namespace atm {
     typedef unordered_map<Activity*, Value*> Act2ValueMap;
     typedef unordered_map<Action*, Value*> Action2ValueMap;
     typedef unordered_map<Order, Value*> Order2ValueMap;
+    typedef unordered_map<ID, ID> ID2IDMap;
 
     struct VerificationData {
         Activity* act;
@@ -46,6 +47,7 @@ namespace atm {
         ID2ActMap id2ActMap;                ///< a map from id to Activity in atm.
         ID2ActionMap id2ActionMap;          ///< a map from id to Action in atm.
         ID2OrderMap id2OrderMap;            ///< a map from id to Order in atm.
+        ID2IDMap lengthMap;                 ///< a map from id to id in atm.
         Aft2IDMap aft2IDMap;                ///< a map from affinity to id.
         Act2ValueMap act2ValueMap;          ///< a map from Activity to Value.
         Action2ValueMap action2ValueMap;    ///< a map from Action to Value;
@@ -98,6 +100,10 @@ namespace atm {
         /// \return A map from Act to Acts.
         Act2ActsMap& getLoopMap() {return atm -> getLoopMap();}
 
+        /// \brief Gets lengthMap in atm.
+        /// \return A map from Aft to ID.
+        Aft2IDMap& getLengthMap() {return atm -> getLengthMap();}
+
         /// \brief Gets main Activity in atm.
         /// \return A Activity pointer..
         Activity* getMainActivity() {return atm -> getMainActivity();}
@@ -115,14 +121,22 @@ namespace atm {
         /// \param pId The position of the Activity.
         /// \return StateVar pointer.
         StateVar* getStateVar(ID tId, ID pId) {
-            return stateVars[tId * (getTaskLength() + 1) + pId];
+            ID sId = 0;
+            for (ID i = 0; i < tId; i++) {
+                sId += lengthMap[i] + 1;
+            }
+            return stateVars[sId + pId];
         }
 
         /// \brief Gets StateVar from param id.
         /// \param id The index of the task.
         /// \return StateVar pointer.
         StateVar* getStateVar(ID id) {
-            return stateVars[id * (getTaskLength() + 1) + 1];
+            ID sId = 0;
+            for (ID i = 0; i < id; i++) {
+                sId += lengthMap[i] + 1;
+            }
+            return stateVars[sId + 1];
             //return stateVars[id * (getTaskLength() + 1)];
         }
 

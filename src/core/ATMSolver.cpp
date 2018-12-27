@@ -11,35 +11,42 @@
 using namespace atm;
 
 void ATMSolver::initActVars() {
-    ID id = 1;
     Values stateValues;
     stateValues.push_back(nullValue);
     for (Activity* act : getActivities()) {
-        Value* value = mkValue(id);
-        id2ActMap[id++] = act;
-        act2ValueMap[act] = value;
+        Value* value = act2ValueMap[act];
         stateValues.push_back(value);
     }
+    ID sId = 0;
     for (ID i = 0; i < getTaskNum(); i++) {
-        for (ID j = 1; j <= getTaskLength(); j++) {
-            ID sId = i * (getTaskLength() + 1) + j;
+        sId++;
+        for (ID j = 1; j <= lengthMap[i]; j++) {
             stateVars[sId] = mkStateVar(sId, stateValues, nullValue);
+            sId ++;
         }
     }
 }
 
 void ATMSolver::initTaskVars() {
     Values taskValues;
-    ID id = 0;
+    ID id = 1;
+    ID sId = 0;
+    for (Activity* act : getActivities()) {
+        Value* value = mkValue(id);
+        id2ActMap[id++] = act;
+        act2ValueMap[act] = value;
+    }
+    id = 0;
     for (auto& mapPair : getRealActMap()) {
         taskValues.clear();
         taskValues.push_back(nullValue);
         for (Activity* realAct : mapPair.second) {
             taskValues.push_back(act2ValueMap[realAct]);
         }
-        ID sId = id * (getTaskLength() + 1);
-        aft2IDMap[mapPair.first] = id++;
+        lengthMap[id] = getLengthMap()[mapPair.first];
+        aft2IDMap[mapPair.first] = id;
         stateVars[sId] = mkStateVar(sId, taskValues, nullValue);
+        sId += lengthMap[id++] + 1;
     }
 }
 
@@ -87,14 +94,17 @@ void ATMSolver::initOrderVars() {
 }
 void ATMSolver::init() {
     ID n = getTaskNum();
-    ID l = getTaskLength();
-    stateVarNum = (l + 1) * n + 1;
+    ID l = 0;
+    for (auto& mapPair : getLengthMap()) {
+        l += mapPair.second;
+    }
+    stateVarNum = l + n + 1;
     StateVar* tempStateVar = nullptr;
     for (ID i = 0; i < stateVarNum; i++)
         this -> stateVars.push_back(tempStateVar);
     nullValue = mkValue(0);
-    initActVars();
     initTaskVars();
+    initActVars();
     initOrderVars();
     initCharVars();
     startMain();
@@ -121,7 +131,7 @@ Condition* ATMSolver::mkCondition(Activity* realAct, Action* action, ID i, ID j,
     condition -> mkStateAtomic(getStateVar(i), act2ValueMap[realAct]);
     if (order)
         mkOrderAtomic(condition, i);
-    if (j < getTaskLength())
+    if (j < lengthMap[i])
         condition -> mkStateAtomic(getStateVar(i, j + 1), nullValue);
     return condition;
 }
@@ -131,7 +141,7 @@ void ATMSolver::Push(Condition* condition, Action* action, ID i, ID j, bool fin)
     if (fin) {
         getStateVar(i, j - 1) -> mkTransition(condition, act2ValueMap[targetAct]);
     } else {
-        if (j > getTaskLength())
+        if (j > lengthMap[i])
             return;
         getStateVar(i, j) -> mkTransition(condition, act2ValueMap[targetAct]);
     }
@@ -226,13 +236,16 @@ void ATMSolver::New(Condition* condition, Action* action, ID i, ID j, bool push)
         if (order[m] == 0) {
             Push(orderCondition, action, m, 1);
         } else {
-            for (ID n = 1; n < getTaskLength(); n++) {
+            for (ID n = 1; n <= lengthMap[m]; n++) {
                 Condition* cpCondition = mkCondition(orderCondition);
                 cpCondition -> mkStateAtomic(getStateVar(m, n), nullValue, 0);
-                cpCondition -> mkStateAtomic(getStateVar(m, n + 1), nullValue);
-                if (push) {
-                    Push(cpCondition, action, m, n + 1);
-                } else {
+                if (n < lengthMap[m]) {
+                    cpCondition -> mkStateAtomic(getStateVar(m, n + 1), nullValue);
+                    if (push) {
+                        Push(cpCondition, action, m, n + 1);
+                    }
+                }
+                if (!push) {
                     for (Activity* realAct : getRealActMap()[targetAft]) {
                         ClrTop(cpCondition, realAct, action, m, n);
                     }
@@ -292,12 +305,12 @@ void ATMSolver::pop() {
     for (Order& order : orders) {
         for (ID i = 0; i < order.size(); i++) {
             if (order[i] == 1) {
-                for (ID j = 1; j <= getTaskLength(); j++) {
+                for (ID j = 1; j <= lengthMap[i]; j++) {
                     Condition* condition = mkCondition();
                     condition -> mkStateAtomic(getStateVar(), order2ValueMap[order]);
                     condition -> mkStateAtomic(getStateVar(i, j), nullValue, 0);
                     condition -> mkCharAtomic(charVars[0], popValue);
-                    if (j < getTaskLength())
+                    if (j < lengthMap[i])
                         condition -> mkStateAtomic(getStateVar(i, j + 1), nullValue);
                     getStateVar(i, j) -> mkTransition(condition, nullValue);
                 }
@@ -311,14 +324,18 @@ void ATMSolver::startActions() {
         if (action == atm -> getMainAction()) continue;
         if (action -> hasNTKFlag()) {
             if (action -> hasCTPFlag()) {
+                //cout << "startNewCTP" << endl;
                 startNewCTP(action);
             } else {
+                //cout << "startNewSTD" << endl;
                 startNewSTD(action);
             }
         } else {
             if (action -> hasCTPFlag()) {
+                //cout << "startCTP" << endl;
                 startCTP(action);
             } else {
+                //cout << "startSTD" << endl;
                 startSTD(action);
             }
         }
@@ -419,7 +436,7 @@ void ATMSolver::mkLoopConfiguration(Activity* realAct, Acts& loopActs) {
     ID i = aft2IDMap[aft];
     for (auto& loop : permutation) {
         for (ID j : loop[0] -> getAvailablePos()[realAct]) {
-            if (j > getTaskLength() - loop.size()) continue;
+            if (j > lengthMap[i] - loop.size()) continue;
             StateAtomics stateAtomics;
             for (ID m = 0; m < loop.size(); m++) {
                 stateAtomics.push_back(new StateAtomic(getStateVar(i, j + m), act2ValueMap[loop[m]]));
@@ -448,13 +465,13 @@ void ATMSolver::mkBackPattenConfiguration(Activity* act, Activity* bAct) {
                         if (order[i] > 0) {
                             for (ID m = 0; m < order.size(); m++) {
                                 if (order[m] == order[i] + 1) {
-                                    for (ID n = 1; n <= getTaskLength(); n++) {
+                                    for (ID n = 1; n <= lengthMap[m]; n++) {
                                         StateAtomics stateAtomics;
                                         stateAtomics.push_back(new StateAtomic(getStateVar(i, 1), actValue));
                                         stateAtomics.push_back(new StateAtomic(getStateVar(), order2ValueMap[order]));
 
                                         stateAtomics.push_back(new StateAtomic(getStateVar(m, n), bActValue));
-                                        if (n < getTaskLength()) {
+                                        if (n < lengthMap[m]) {
                                             stateAtomics.push_back(new StateAtomic(getStateVar(m, n + 1), nullValue));
                                         }
                                         configuration.push_back(stateAtomics);

@@ -84,100 +84,52 @@ namespace cgh
     template <class Character>
     class Global
     {
-        typedef FA<Character> FA;
-        typedef DFA<Character> DFA;
-        typedef NFA<Character> NFA;
-        typedef DFAState<Character> DFAState;
-        typedef NFAState<Character> NFAState;
-        typedef PDSTrans<Character> PDSTrans;
-        typedef PopPDSTrans<Character> PopPDSTrans;
-        typedef PushPDSTrans<Character> PushPDSTrans;
-        typedef ReplacePDSTrans<Character> ReplacePDSTrans;
         
     public:
-
         /***************** Character  *****************/
         
         static Character epsilon;
         typedef vector<Character> Word;
         typedef pair<Character, Character> Char2;
         typedef unordered_set<Character> CharacterSet;
-        typedef typename CharacterSet::iterator CharacterSetIter;
-        typedef typename CharacterSet::const_iterator CharacterSetConstIter;
         
         /***************** NFAState  *****************/
         
-        typedef unordered_set<NFAState*> NFAStateSet;
-        typedef unordered_map<NFAState*, NFAState*> NFAState2Map;
+        typedef unordered_set<NFAState<Character>*> NFAStateSet;
+        typedef unordered_map<NFAState<Character>*, NFAState<Character>*> NFAState2Map;
         typedef unordered_map<Character, NFAStateSet> NFATransMap;
-        typedef unordered_map<NFAState*, DFAState*> NFAState2DFAStateMap;
-        typedef unordered_map<NFAState*, NFAStateSet> NFAState2NFAStateSetMap;
-        typedef unordered_map<NFAStateSet, DFAState*> NFAStateSet2DFAStateMap;
-        
-        typedef typename NFAStateSet::iterator NFAStateSetIter;
-        typedef typename NFATransMap::iterator NFATransMapIter;
-        typedef typename NFAState2Map::iterator NFAState2MapIter;
-        typedef typename NFAState2NFAStateSetMap::iterator NFAState2NFAStateSetMapIter;
-        typedef typename NFAStateSet2DFAStateMap::iterator NFAStateSet2DFAStateMapIter;
-
-        typedef typename NFAStateSet::const_iterator NFAStateSetConstIter;
-        typedef typename NFATransMap::const_iterator NFATransMapConstIter;
-        typedef typename NFAState2NFAStateSetMap::const_iterator NFAState2NFAStateSetMapConstIter;
+        typedef unordered_map<NFAState<Character>*, DFAState<Character>*> NFAState2DFAStateMap;
+        typedef unordered_map<NFAState<Character>*, NFAStateSet> NFAState2NFAStateSetMap;
+        typedef unordered_map<NFAStateSet, DFAState<Character>*> NFAStateSet2DFAStateMap;
         
         /***************** DFAState  *****************/
         
-        typedef pair<DFAState*, DFAState*> DFAState2;
-        typedef unordered_set<DFAState*> DFAStateSet;
-        typedef unordered_map<Character, DFAState*> DFATransMap;
-        typedef unordered_map<DFAState*, DFAState*> DFAState2Map;
-        typedef unordered_map<DFAState2, DFAState*> DFAStatePairMap;
-        typedef unordered_map<DFAStateSet, DFAState*> DFAStateSetMap;
+        typedef pair<DFAState<Character>*, DFAState<Character>*> DFAState2;
+        typedef unordered_set<DFAState<Character>*> DFAStateSet;
+        typedef unordered_map<Character, DFAState<Character>*> DFATransMap;
+        typedef unordered_map<DFAState<Character>*, DFAState<Character>*> DFAState2Map;
+        typedef unordered_map<DFAState2, DFAState<Character>*> DFAStatePairMap;
+        typedef unordered_map<DFAStateSet, DFAState<Character>*> DFAStateSetMap;
         typedef unordered_map<Character, DFAState2> Char2DFAState2Map;
-        typedef unordered_map<DFAState*, NFAState*> DFAState2NFAStateMap;
+        typedef unordered_map<DFAState<Character>*, NFAState<Character>*> DFAState2NFAStateMap;
         typedef unordered_map<Character, DFAStateSet> Char2DFAStateSetMap;
-        typedef unordered_map<DFAState*, DFAStateSet> DFAState2DFAStateSetMap;
+        typedef unordered_map<DFAState<Character>*, DFAStateSet> DFAState2DFAStateSetMap;
         
-        typedef typename DFAStateSet::iterator DFAStateSetIter;
-        typedef typename DFATransMap::iterator DFATransMapIter;
-        typedef typename DFAState2Map::iterator DFAState2MapIter;
-        typedef typename DFAStateSetMap::iterator DFAStateSetMapIter;
-        typedef typename DFAStatePairMap::iterator DFAStatePairMapIter;
-        typedef typename Char2DFAState2Map::iterator Char2DFAState2MapIter;
-        typedef typename Char2DFAStateSetMap::iterator Char2DFAStateSetMapIter;
-        typedef typename DFAState2NFAStateMap::iterator DFAState2NFAStateMapIter;
-        typedef typename DFAState2DFAStateSetMap::iterator DFAState2DFAStateSetMapIter;
+                /***************** FA  *****************/
         
-        typedef typename DFAStateSet::const_iterator DFAStateSetConstIter;
-        typedef typename DFATransMap::const_iterator DFATransMapConstIter;
-        typedef typename DFAState2Map::const_iterator DFAState2MapConstIter;
-        typedef typename DFAStatePairMap::const_iterator DFAStatePairMapConstIter;
-        typedef typename DFAStateSetMap::const_iterator DFAStateSetMapConstIter;
-        typedef typename Char2DFAState2Map::const_iterator Char2DFAState2MapConstIter;
-        typedef typename Char2DFAStateSetMap::const_iterator Char2DFAStateSetMapConstIter;
-        typedef typename DFAState2DFAStateSetMap::const_iterator DFAState2DFAStateSetMapConstIter;
-        
-        /***************** FA  *****************/
-        
-        typedef list<FA*> FAList;
-        typedef unordered_set<FA*> FASet;
-        typedef unordered_set<DFA*> DFASet;
-        typedef unordered_set<NFA*> NFASet;
+        typedef list<FA<Character>*> FAList;
+        typedef unordered_set<FA<Character>*> FASet;
+        typedef unordered_set<DFA<Character>*> DFASet;
+        typedef unordered_set<NFA<Character>*> NFASet;
         typedef unordered_map<Character, ID> Char2IDMap;
-
-        typedef typename FASet::iterator FASetIter;
-        typedef typename DFASet::iterator DFASetIter;
-        typedef typename FAList::iterator FAListIter;
-
-        typedef typename FASet::const_iterator FASetConstIter;
-        typedef typename FAList::const_iterator FAListConstIter;
         
         /***************** PDSTrans  *****************/
         
-        typedef list<PDSTrans*> PDSTransList;
-        typedef list<PopPDSTrans*> PopPDSTransList;
-        typedef list<PushPDSTrans*> PushPDSTransList;
-        typedef list<ReplacePDSTrans*> ReplacePDSTransList;
-        typedef unordered_map<PDSState*, NFAState*> PDSState2NFAStateMap;
+        typedef list<PDSTrans<Character>*> PDSTransList;
+        typedef list<PopPDSTrans<Character>*> PopPDSTransList;
+        typedef list<PushPDSTrans<Character>*> PushPDSTransList;
+        typedef list<ReplacePDSTrans<Character>*> ReplacePDSTransList;
+        typedef unordered_map<PDSState*, NFAState<Character>*> PDSState2NFAStateMap;
    };
     
 };

@@ -159,6 +159,7 @@ namespace atm {
         if (bounded) {
             cout << "Bounded" << endl;
             for (auto& mapPair : availableActs) {
+                Aft aft = mapPair.first -> getAft();
                 if (mapPair.second.size() == 0) continue;
                 unordered_set<ID> alphabet;
                 alphabet.insert(1);
@@ -166,12 +167,19 @@ namespace atm {
                     alphabet.insert(act -> getID());
                 }
                 DFA<ID>* sit = dfaMap[mapPair.first];
-                for (ID length = mapPair.second.size(); length > maxLength; length--) {
+                for (ID length = mapPair.second.size(); length > 0; length--) {
                     DFA<ID>* lengthDFA = mkLengthDFA(length, alphabet);
                     DFA<ID>* inter = &(*lengthDFA & *sit).determinize();
                     if (!inter -> isNULL()) {
+                        delete inter;
                         delete lengthDFA;
                         maxLength = length > maxLength ? length : maxLength;
+                        if (lengthMap.count(aft) == 0) {
+                            lengthMap[aft] = length;
+                        } else {
+                            ID l = lengthMap[aft];
+                            lengthMap[aft] = length > l ? length : l;
+                        }
                         break;
                     }
                     delete inter;
@@ -183,6 +191,7 @@ namespace atm {
             cout << "Unbounded" << endl;
             for (auto& mapPair : availableActs) {
                 if (mapPair.second.size() == 0) continue;
+                Aft aft = mapPair.first -> getAft();
                 unordered_set<ID> alphabet;
                 alphabet.insert(1);
                 for (Activity* act : mapPair.second) {
@@ -190,13 +199,19 @@ namespace atm {
                 }
                 DFA<ID>* dfa = mkSITDFA(alphabet);
                 DFA<ID>* sit = &(*dfa & *(dfaMap[mapPair.first])).determinize().minimize();
-                for (ID length = mapPair.second.size(); length > maxLength; length--) {
+                for (ID length = mapPair.second.size(); length > 0; length--) {
                     DFA<ID>* lengthDFA = mkLengthDFA(length, alphabet);
                     DFA<ID>* inter = &(*lengthDFA & *sit).determinize();
                     if (!inter -> isNULL()) {
                         delete lengthDFA;
                         delete inter;
                         maxLength = length > maxLength ? length : maxLength;
+                        if (lengthMap.count(aft) == 0) {
+                            lengthMap[aft] = length;
+                        } else {
+                            ID l = lengthMap[aft];
+                            lengthMap[aft] = length > l ? length : l;
+                        }
                         break;
                     }
                     delete inter;
@@ -223,7 +238,7 @@ namespace atm {
             }
             for (Activity* act : mapPair.second) {
                 //cout << act -> getName() << " : ";
-                for (ID pos = 1; pos <= maxLength; pos++) {
+                for (ID pos = 1; pos <= lengthMap[realAct -> getAft()]; pos++) {
                     DFA<ID>* posDFA = mkPosDFA(pos, act, alphabet);
                     DFA<ID>* inter = &(*posDFA & *dfa).determinize();
                     if (!inter -> isNULL()) {

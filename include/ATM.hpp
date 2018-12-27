@@ -23,6 +23,7 @@ namespace atm {
     typedef unordered_map<ID, ID> ID2Map;
     typedef unordered_map<Activity*, vector<char> > Act2CharsMap;
     typedef unordered_map<Activity*, ActActsPairs> Act2ActActsPairsMap;
+    typedef unordered_map<Aft, ID> Aft2IDMap;
     class ATM
     {
     private:
@@ -47,6 +48,7 @@ namespace atm {
         Act2ActionsMap availableActions;        ///< the visitedActions of each task.
         Act2ActsMap availableActs;              ///< the visitedActions of each task.
         ID maxLength;                           ///< the max length for this ATM
+        Aft2IDMap lengthMap;                    ///< the max legnth for each task.
         ID window;                              ///< the max length limitation for this ATM
         DFAMap dfaMap;                          ///< the NFA of each task.
         Act2ActsMap loopMap;                    ///< the loopActs of each task.
@@ -64,6 +66,7 @@ namespace atm {
         Aft& getIgnoreAft() {return ignoreAft;}
         Aft2ActsMap& getRealActMap() {return realActMap;}
         Act2ActsMap& getLoopMap() {return loopMap;}
+        Aft2IDMap& getLengthMap() {return lengthMap;}
 
         ID getStackLength() {return maxLength + 1;}
         ID getStackNum() {return afts.size();}
