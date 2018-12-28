@@ -44,7 +44,7 @@ namespace cgh{
         }
         
         void getTargetStateSetByChar(NFAStateSet& stateSet, Character character) {
-            if (character == Global::epsilon) {
+            if (character == Global<Character>::epsilon) {
                 getEpsilonClosure(stateSet);
                 return;
             }
@@ -64,7 +64,7 @@ namespace cgh{
         }
 
         void getEpsilonClosure(NFAStateSet& epsilonClosure) {
-            auto mapIt = nfaTransMap.find(Global::epsilon);
+            auto mapIt = nfaTransMap.find(Global<Character>::epsilon);
             if (mapIt != nfaTransMap.end()) { 
                 NFAStateSet workSet;
                 for (NFAState* state : mapIt -> second)
@@ -108,7 +108,7 @@ namespace cgh{
         /// The target state must be created by the same NFA with this state.
         /// \param target The target state in the transition.
         /// \return A boolean representing whether add an epsilon transition to a state successfully.
-        bool addEpsilonTrans(NFAState *target) {return addNFATrans(Global::epsilon, target);}
+        bool addEpsilonTrans(NFAState *target) {return addNFATrans(Global<Character>::epsilon, target);}
         
         /// \brief Deletes a transition which label is param character and target state is param target for this state.
         ///
@@ -186,7 +186,7 @@ namespace cgh{
         const NFAStateSet getTargetStateSetByChar(Character character) {
             NFAStateSet epsilonClosure;
             getEpsilonClosure(epsilonClosure);
-            if (character == Global::epsilon) return epsilonClosure;
+            if (character == Global<Character>::epsilon) return epsilonClosure;
             epsilonClosure.insert(this);
             NFAStateSet stateSet;
             for (NFAState* nfaState : epsilonClosure) {
@@ -208,7 +208,7 @@ namespace cgh{
         /// \return A const set of states in NFA.
         const NFAStateSet getEpsilonClosure() {
             NFAStateSet epsilonClosure;
-            auto mapIt = nfaTransMap.find(Global::epsilon);
+            auto mapIt = nfaTransMap.find(Global<Character>::epsilon);
             if (mapIt == nfaTransMap.end()) return epsilonClosure;
             NFAStateSet workSet;
             for (NFAState* state : mapIt -> second)
