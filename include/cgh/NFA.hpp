@@ -12,7 +12,7 @@
 #include "FA.hpp"
 #include "NFAState.hpp"
 #include "PDS.hpp"
-#include "RegularExp.hpp"
+//#include "RegularExp.hpp"
 
 namespace cgh {
     
@@ -335,12 +335,12 @@ namespace cgh {
             }
         }
 
-        /// \brief Copy construction function by regEx.
-        /// \param regEx The regular expression.
-        NFA(const string& regEx) {
-            BasicRegEx<Character> basicRegEx(regEx);
-            *this = *basicRegEx.mkNFA();
-        }
+        ///// \brief Copy construction function by regEx.
+        ///// \param regEx The regular expression.
+        //NFA(const string& regEx) {
+        //    BasicRegEx<Character> basicRegEx(regEx);
+        //    *this = *basicRegEx.mkNFA();
+        //}
         
         /// \brief Desconstruction function.
         ///
