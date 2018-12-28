@@ -31,10 +31,9 @@ namespace cgh{
     template <class Character>
     class NFAState : public State {
     public:
-        typedef Global<Character> Global;
-        typedef typename Global::CharacterSet CharacterSet;
-        typedef typename Global::NFAStateSet NFAStateSet;
-        typedef typename Global::NFATransMap NFATransMap;
+        typedef typename Global<Character>::CharacterSet CharacterSet;
+        typedef typename Global<Character>::NFAStateSet NFAStateSet;
+        typedef typename Global<Character>::NFATransMap NFATransMap;
         
     private:
         NFATransMap nfaTransMap; ///< A transition map for this state, the key is character and the value is a set of states.

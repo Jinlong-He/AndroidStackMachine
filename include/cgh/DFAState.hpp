@@ -31,10 +31,9 @@ namespace cgh{
     class DFAState : public State
     {
     public:
-        typedef Global<Character> Global;
-        typedef typename Global::CharacterSet CharacterSet;
-        typedef typename Global::DFAStateSet DFAStateSet;
-        typedef typename Global::DFATransMap DFATransMap;
+        typedef typename Global<Character>::CharacterSet CharacterSet;
+        typedef typename Global<Character>::DFAStateSet DFAStateSet;
+        typedef typename Global<Character>::DFATransMap DFATransMap;
         
     private:
         DFATransMap dfaTransMap; ///< A transition map for this state, the key is character and the value is a state.
@@ -127,10 +126,10 @@ namespace cgh{
         /// If this state has no transition with the label param character, then return a nullptr.
         /// \param character The label in a transition, which is a template class.
         /// \return A states in DFA. 
-        DFAState* getTargetStateByChar(Character character) {
+        DFAState<Character>* getTargetStateByChar(Character character) {
             auto mapIt = dfaTransMap.find(character);
             if (mapIt != dfaTransMap.end()) return mapIt -> second;
-            DFAState* null = nullptr;
+            DFAState<Character>* null = nullptr;
             return null;
         }
 

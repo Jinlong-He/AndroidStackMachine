@@ -16,17 +16,12 @@ namespace cgh
     template <class Character>
     class PDS
     {
-        typedef Global<Character> Global;
-        typedef PopPDSTrans<Character> PopPDSTrans;
-        typedef PushPDSTrans<Character> PushPDSTrans;
-        typedef ReplacePDSTrans<Character> ReplacePDSTrans;
-        
-        typedef typename Global::Char2 Char2;
-        typedef typename Global::NFAStateSet NFAStateSet;
-        typedef typename Global::PDSTransList PDSTransList;
-        typedef typename Global::PopPDSTransList PopPDSTransList;
-        typedef typename Global::PushPDSTransList PushPDSTransList;
-        typedef typename Global::ReplacePDSTransList ReplacePDSTransList;
+        typedef typename Global<Character>::Char2 Char2;
+        typedef typename Global<Character>::NFAStateSet NFAStateSet;
+        typedef typename Global<Character>::PDSTransList PDSTransList;
+        typedef typename Global<Character>::PopPDSTransList PopPDSTransList;
+        typedef typename Global<Character>::PushPDSTransList PushPDSTransList;
+        typedef typename Global<Character>::ReplacePDSTransList ReplacePDSTransList;
     private:
         PDSStateSet stateSet;                   ///< The set of states for this PDS.
         PDSStateSet controlStateSet;            ///< The set of control states for this PDS.
@@ -44,13 +39,13 @@ namespace cgh
             for (PDSState* state : stateSet) {
                 delete state;
             }
-            for (PopPDSTrans* trans : popTransList) {
+            for (PopPDSTrans<Character>* trans : popTransList) {
                 delete trans;
             }
-            for (PushPDSTrans* trans : pushTransList) {
+            for (PushPDSTrans<Character>* trans : pushTransList) {
                 delete trans;
             }
-            for (ReplacePDSTrans* trans : replaceTransList) {
+            for (ReplacePDSTrans<Character>* trans : replaceTransList) {
                 delete trans;
             }
         }
@@ -108,8 +103,8 @@ namespace cgh
         /// \param targetState The target state in a popPDSTrans.
         /// \param character The source character in a popPDSTrans.
         /// \return A PopPDSTrans pointer.
-        PopPDSTrans* mkPopPDSTrans(PDSState* sourceState, PDSState* targetState, Character character) {
-            PopPDSTrans* pdsTrans = new PopPDSTrans(sourceState, targetState, character);
+        PopPDSTrans<Character>* mkPopPDSTrans(PDSState* sourceState, PDSState* targetState, Character character) {
+            PopPDSTrans<Character>* pdsTrans = new PopPDSTrans<Character>(sourceState, targetState, character);
             popTransList.push_back(pdsTrans);
             return pdsTrans;
         }
@@ -119,8 +114,8 @@ namespace cgh
         /// \param targetState The target state in a pushPDSTrans.
         /// \param character The source character in a pushPDSTrans.
         /// \return A PushPDSTrans pointer.
-        PushPDSTrans* mkPushPDSTrans(PDSState* sourceState, PDSState* targetState, Character character, const Char2& stack) {
-            PushPDSTrans* pdsTrans = new PushPDSTrans(sourceState, targetState, character, stack);
+        PushPDSTrans<Character>* mkPushPDSTrans(PDSState* sourceState, PDSState* targetState, Character character, const Char2& stack) {
+            PushPDSTrans<Character>* pdsTrans = new PushPDSTrans<Character>(sourceState, targetState, character, stack);
             pushTransList.push_back(pdsTrans);
             return pdsTrans;
         }
@@ -130,8 +125,8 @@ namespace cgh
         /// \param targetState The target state in a replacePDSTrans.
         /// \param character The source character in a replacePDSTrans.
         /// \return A ReplacePDSTrans pointer.
-        ReplacePDSTrans* mkReplacePDSTrans(PDSState* sourceState, PDSState* targetState, Character character, Character stack) {
-            ReplacePDSTrans* pdsTrans = new ReplacePDSTrans(sourceState, targetState, character, stack);
+        ReplacePDSTrans<Character>* mkReplacePDSTrans(PDSState* sourceState, PDSState* targetState, Character character, Character stack) {
+            ReplacePDSTrans<Character>* pdsTrans = new ReplacePDSTrans<Character>(sourceState, targetState, character, stack);
             replaceTransList.push_back(pdsTrans);
             return pdsTrans;
         }
