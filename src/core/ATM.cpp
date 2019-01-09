@@ -162,7 +162,9 @@ namespace atm {
                 }
             }
             faSet.insert(dfa);
+            if (faSet.size() > 9) break;
         }
+        cout << faSet.size() << endl;
         DFA<ID>* dfa = &(FA<ID>::intersectFA(faSet)).determinize();
         for (FA<ID>* fa : faSet) {
             delete fa;
@@ -464,9 +466,14 @@ namespace atm {
                 for (Activity* act : mapPair.second) {
                     alphabet.insert(act -> getID());
                 }
+                cout << 111 << endl;
                 DFA<ID>* dfa = mkSITDFA(alphabet);
+                dfa -> output();
+                dfaMap[mapPair.first] -> output();
                 DFA<ID>* sit = &(*dfa & *(dfaMap[mapPair.first])).determinize().minimize();
+                cout << 111 << endl;
                 for (ID length = mapPair.second.size(); length > 0; length--) {
+                    cout << length << endl;
                     DFA<ID>* lengthDFA = mkLengthDFA(length, alphabet);
                     DFA<ID>* inter = &(*lengthDFA & *sit).determinize();
                     if (!inter -> isNULL()) {

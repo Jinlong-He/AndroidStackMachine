@@ -128,9 +128,10 @@ void getLoop(VerificationDatas& datas, ofstream& outfile)
 }
 
 void writeFile(ofstream& outfile, string& fileName) {
-    string info = fileName.replace(fileName.find("/"), 1, "_");
+    string info = Utility::ReplaceAll(fileName, "/", "_");
     //string outfileName = "res//" + info.replace(info.find("ActivityInfo"), 12, "res"); 
     string outfileName = "res" + info;
+    cout << outfileName << endl;
     outfile.open(outfileName, ios::app);
     outfile << outfileName << endl;
 }
@@ -142,11 +143,13 @@ int main(int argc, const char * argv[]) {
     ofstream mostTrue;
     ofstream truefile;
     ofstream falsefile;
+    ofstream detail;
     successfile.open("success.txt", ios::app);
     allfile.open("all.txt", ios::app);
     mostTrue.open("mostTrue.txt", ios::app);
     truefile.open("true.txt", ios::app);
     falsefile.open("f.txt", ios::app);
+    detail.open("detail.txt", ios::app);
     string commond = argv[1];
     string infoFile = argv[2];
     string transFile = argv[3];
@@ -156,7 +159,7 @@ int main(int argc, const char * argv[]) {
     if (window == 0) window = 100;
     ofstream outfile;
     string fileName = argv[2];
-    writeFile(outfile, fileName);
+    //writeFile(outfile, fileName);
     cout << fileName << endl;
     allfile << fileName << endl;
     allfile.close();
@@ -178,11 +181,12 @@ int main(int argc, const char * argv[]) {
         ATMSolver solver(&a);
         solver.init();
         if (! a.isBounded()) {
+            detail << fileName << endl;
             VerificationDatas datas;
             solver.pre4GetLoop(datas);
             for (ID i = 0; i <= datas.size() / ThreadCount; i++)
                 multiCalculation(datas, i);
-            getLoop(datas, outfile);
+            getLoop(datas, detail);
         }
         exit(1);
         VerificationDatas datas;
