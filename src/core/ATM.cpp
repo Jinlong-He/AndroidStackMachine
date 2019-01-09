@@ -440,12 +440,12 @@ namespace atm {
                     if (!inter -> isNULL()) {
                         delete inter;
                         delete lengthDFA;
-                        maxLength = length > maxLength ? length : maxLength;
+                        maxLength = length + 1 > maxLength ? length + 1 : maxLength;
                         if (lengthMap.count(aft) == 0) {
-                            lengthMap[aft] = length;
+                            lengthMap[aft] = length + 1;
                         } else {
                             ID l = lengthMap[aft];
-                            lengthMap[aft] = length > l ? length : l;
+                            lengthMap[aft] = length + 1 > l ? length + 1 : l;
                         }
                         break;
                     }
@@ -472,12 +472,12 @@ namespace atm {
                     if (!inter -> isNULL()) {
                         delete lengthDFA;
                         delete inter;
-                        maxLength = length > maxLength ? length : maxLength;
+                        maxLength = length + 1 > maxLength ? length + 1 : maxLength;
                         if (lengthMap.count(aft) == 0) {
-                            lengthMap[aft] = length;
+                            lengthMap[aft] = length + 1;
                         } else {
                             ID l = lengthMap[aft];
-                            lengthMap[aft] = length > l ? length : l;
+                            lengthMap[aft] = length + 1 > l ? length + 1 : l;
                         }
                         break;
                     }
