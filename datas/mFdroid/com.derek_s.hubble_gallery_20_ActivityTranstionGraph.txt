@@ -1,0 +1,9 @@
+com.derek_s.hubble_gallery.ui.activities.ActDetails-->com.derek_s.hubble_gallery.ui.activities.ActImageViewer
+flag:
+
+com.derek_s.hubble_gallery.act_main.ActMain-->com.derek_s.hubble_gallery.ui.activities.ActWelcome
+flag:
+
+com.derek_s.hubble_gallery.act_main.ActMain-->com.derek_s.hubble_gallery.ui.activities.ActDetails
+flag:
+

@@ -1,0 +1,14 @@
+activity:me.alexghr.bulkshare.android.app2.ShareActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:me.alexghr.bulkshare.android.app2.EmailActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:me.alexghr.bulkshare.android.app2.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

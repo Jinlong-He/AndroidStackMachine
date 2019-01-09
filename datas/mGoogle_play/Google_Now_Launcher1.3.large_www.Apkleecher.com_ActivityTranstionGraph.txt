@@ -1,0 +1,6 @@
+com.google.android.launcher.StubApp-->com.google.android.launcher.StubApp
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.launcher.StubApp-->com.google.android.launcher.StubApp
+flag:finish
+

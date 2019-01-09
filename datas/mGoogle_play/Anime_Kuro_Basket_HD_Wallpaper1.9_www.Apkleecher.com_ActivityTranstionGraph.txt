@@ -1,0 +1,15 @@
+com.nimposoft.kurokowallpaper.SlideImageActivity-->com.nimposoft.kurokowallpaper.SetAsWallpaperActivity
+flag:
+
+com.nimposoft.kurokowallpaper.SlideImageActivity-->com.nimposoft.kurokowallpaper.PinchZoom
+flag:
+
+com.nimposoft.kurokowallpaper.SplashActivity-->com.nimposoft.kurokowallpaper.MainActivity
+flag:finish
+
+com.nimposoft.kurokowallpaper.CategoryItem-->com.nimposoft.kurokowallpaper.SlideImageActivity
+flag:
+
+com.nimposoft.kurokowallpaper.MainActivity-->com.nimposoft.kurokowallpaper.AboutActivity
+flag:
+

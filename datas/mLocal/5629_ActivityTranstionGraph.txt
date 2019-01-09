@@ -1,0 +1,27 @@
+com.project.ui.SplashActivity-->com.project.ui.MainActivity
+flag:finish
+
+com.project.ui.MainActivity-->com.project.ui.SearchActivity
+flag:
+
+com.project.ui.MainActivity-->com.project.ui.StreamListActivity
+flag:
+
+com.project.ui.MainActivity-->com.project.ui.SettingsActivity
+flag:
+
+com.google.ads.AdActivity-->com.project.ui.SplashActivity
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+com.adsdk.sdk.video.RichMediaActivity-->com.adsdk.sdk.video.RichMediaActivity
+flag:
+
+io.vov.vitamio.activity.InitActivity-->com.project.ui.SplashActivity
+flag:finish
+
+com.millennialmedia.android.VideoPlayer-->com.millennialmedia.android.MMAdViewOverlayActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

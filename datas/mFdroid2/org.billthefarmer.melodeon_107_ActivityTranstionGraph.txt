@@ -1,0 +1,9 @@
+org.billthefarmer.melodeon.MainActivity-->org.billthefarmer.melodeon.SettingsActivity
+flag:
+
+org.billthefarmer.melodeon.SettingsActivity-->org.billthefarmer.melodeon.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+org.billthefarmer.melodeon.SettingsActivity-->org.billthefarmer.melodeon.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

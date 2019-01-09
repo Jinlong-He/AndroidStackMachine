@@ -1,0 +1,15 @@
+com.yelong.footprint.HomeActivity-->com.yelong.footprint.modules.system.activity.SettingActivity
+flag:
+
+com.yelong.footprint.HomeActivity-->com.yelong.footprint.modules.system.activity.RecordActivity
+flag:
+
+com.yelong.footprint.HomeActivity-->com.yelong.footprint.modules.system.activity.OfflineMapActivity
+flag:
+
+com.yelong.footprint.wxapi.WXEntryActivity-->cn.sharesdk.framework.ShareSDKUIShell
+flag:
+
+com.yelong.footprint.modules.system.activity.SettingActivity-->com.yelong.footprint.HomeActivity
+flag:finish
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:atm.rocketguardian.AndroidLauncher
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

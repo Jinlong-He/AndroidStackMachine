@@ -1,0 +1,159 @@
+.historyIndent.HistoryIndent-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.historyIndent.HistoryIndent-->com.yet.act.historyIndent.IndentDetail
+flag:
+
+.historyIndent.HistoryIndent-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.historyIndent.HistoryIndent-->com.yet.act.historyIndent.IndentSearch
+flag:
+
+.market.BaoShanSuperMarket-->com.yet.act.Login
+flag:
+
+.market.BaoShanSuperMarket-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.market.BaoShanSuperMarket-->com.zhsw.scanner.CaptureActivity
+flag:
+
+.market.BaoShanSuperMarket-->com.yet.act.trolley.TrolleyActivity
+flag:finish
+
+.notice.NoticeList-->com.yet.act.nitifycation.NoticeDetail
+flag:
+
+.notice.NoticeList-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.notice.NoticeList-->com.yet.act.market.MarketTab
+flag:finish
+
+.updatePassWord.UpdatePassWord-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.userInformation.ManagementInformation-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.userInformation.ManagementInformation-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.market.BaoShanFavoritesList-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.userInformation.ManageInformation-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.userInformation.ManageInformation-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.nitifycation.NoticeList-->com.yet.act.market.MarketTab
+flag:finish
+
+.nitifycation.NoticeList-->com.yet.act.nitifycation.NoticeDetail
+flag:
+
+.nitifycation.NoticeList-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.historyIndent.IndentDetail-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.favorites.Favorites-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.favorites.Favorites-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.systemSetup.SetTab-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.historyIndent.CurentIndent-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.historyIndent.CurentIndent-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.trolley.TrolleyBJActivity-->com.yet.act.market.MarketTab
+flag:finish
+
+.trolley.TrolleyBJActivity-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.trolley.TrolleyBJActivity-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.balance.myBankAcc-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.balance.myBankAcc-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.notice.Notice-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.systemSetup.SystemSetup-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.userInformation.RoleStatus-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.userInformation.RoleStatus-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.userInformation.UserInformationTab-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.market.MarketTab-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.market.FavoritesList-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.historyIndent.IndentSearch-->com.yet.act.historyIndent.HistoryIndent
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.search.SearchAct-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.market.SuperMarket-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.market.SuperMarket-->com.zhsw.scanner.CaptureActivity
+flag:
+
+.market.SuperMarket-->com.yet.act.Login
+flag:
+
+.market.SuperMarket-->com.yet.act.trolley.TrolleyActivity
+flag:finish
+
+.userInformation.BasisInformation-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.userInformation.BasisInformation-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.notice.NoticeCategoryActivity-->com.yet.act.notice.NoticeList
+flag:
+
+.trolley.TrolleyActivity-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.trolley.TrolleyActivity-->com.yet.act.market.MarketTab
+flag:finish
+
+.trolley.TrolleyActivity-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.historyIndent.CurentIndentBJ-->com.yet.act.Login
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.historyIndent.CurentIndentBJ-->com.yet.act.HomePage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.Login-->com.yet.act.HomePage
+flag:
+

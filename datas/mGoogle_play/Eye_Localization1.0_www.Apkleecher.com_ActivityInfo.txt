@@ -1,0 +1,6 @@
+#MAIN
+activity:EyeLocActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

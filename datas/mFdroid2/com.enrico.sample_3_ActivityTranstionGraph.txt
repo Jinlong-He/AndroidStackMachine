@@ -1,0 +1,6 @@
+com.enrico.sample.MainActivity-->com.enrico.sample.PreferenceActivity
+flag:
+
+com.enrico.sample.PreferenceActivity-->com.enrico.sample.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+

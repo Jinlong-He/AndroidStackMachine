@@ -1,0 +1,6 @@
+#MAIN
+activity:com.dolphin.browser.zero.main.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

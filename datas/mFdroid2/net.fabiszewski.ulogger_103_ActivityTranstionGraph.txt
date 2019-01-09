@@ -1,0 +1,3 @@
+net.fabiszewski.ulogger.MainActivity-->net.fabiszewski.ulogger.SettingsActivity
+flag:
+

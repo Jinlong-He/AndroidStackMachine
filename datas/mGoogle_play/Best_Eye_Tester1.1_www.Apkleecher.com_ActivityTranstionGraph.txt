@@ -1,0 +1,12 @@
+com.ebmacs.best.eye.tester.eyesight.Splash-->com.ebmacs.best.eye.tester.eyesight.MainActivity
+flag:
+
+com.ebmacs.best.eye.tester.eyesight.MainActivity-->com.ebmacs.best.eye.tester.eyesight.Numbers
+flag:
+
+com.ebmacs.best.eye.tester.eyesight.MainActivity-->com.ebmacs.best.eye.tester.eyesight.Leters
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.ebmacs.best.eye.tester.eyesight.MainActivity
+flag:
+

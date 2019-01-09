@@ -1,0 +1,6 @@
+#MAIN
+activity:click.dummer.textthing.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

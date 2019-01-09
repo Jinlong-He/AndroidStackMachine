@@ -1,0 +1,8 @@
+activity:.SkinConfigActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.WeatherInfoActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+.ui.activity.SettingsActivity-->com.fansapk.rootex.ui.activity.DirectoryChooserActivity
+flag:
+
+.ui.activity.IndexActivity-->com.fansapk.rootex.ui.activity.MainActivity
+flag:finish
+

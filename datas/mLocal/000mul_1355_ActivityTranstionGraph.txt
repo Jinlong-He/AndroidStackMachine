@@ -1,0 +1,51 @@
+com.kingroot.kingmaster.network.updata.KmInstallNotifyActivity-->com.kingroot.master.main.ui.KmExchangeActivity
+flag:
+
+com.kingroot.master.main.ui.KmExchangeActivity-->com.kingroot.master.main.ui.qqpimsecure.MainActivityForQQpimSecure
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.kingroot.master.main.ui.KmExchangeActivity-->com.kingroot.sdkadblock.adblock.ui.AdbMainActivity
+flag:
+
+com.kingroot.master.main.ui.KmExchangeActivity-->com.kingroot.sdkadblock.adblock.ui.AdbBootActivity
+flag:
+
+com.kingroot.master.main.ui.KmExchangeActivity-->com.kingroot.sdkuninstall.SoftwareUninstallActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.kingroot.master.main.ui.KmExchangeActivity-->com.kingroot.master.main.ui.KmMainActivity
+flag:
+
+com.kingroot.master.main.ui.KmExchangeActivity-->com.kingroot.kingmaster.toolbox.processwall.ui.ProcWallSettingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.kingroot.master.main.ui.KmExchangeActivity-->com.kingroot.master.main.ui.KmMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.kingroot.master.main.ui.page.EmptyActivity-->com.kingroot.master.main.ui.KmExchangeActivity
+flag:
+
+com.kingroot.masterlib.notifycenter.prowall.ui.ProWallFloatEmptyActivity-->com.kingroot.master.main.ui.KmExchangeActivity
+flag:
+
+com.kingroot.master.main.ui.KmMainActivity-->com.kingroot.master.main.ui.KmFunctionDowngradeActivity
+flag:
+
+com.kingroot.master.main.ui.KmMainActivity-->com.kingroot.master.main.ui.KmMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.kingroot.master.main.ui.KmMainActivity-->com.kingroot.master.main.ui.KmMainActivity
+flag:
+
+com.kingroot.master.main.ui.KmMainActivity-->com.kingroot.master.main.ui.KmExchangeActivity
+flag:
+
+com.kingroot.kingmaster.toolbox.accessibility.ui.AccessEmptyActivity-->com.kingroot.kingmaster.toolbox.accessibility.ui.AccessEmptyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.kingroot.kingmaster.toolbox.accessibility.ui.AccessEmptyActivity-->com.kingroot.master.main.ui.KmExchangeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.kingroot.kingmaster.toolbox.accessibility.ui.AccessEmptyActivity-->com.kingroot.master.main.ui.KmExchangeActivity
+flag:
+

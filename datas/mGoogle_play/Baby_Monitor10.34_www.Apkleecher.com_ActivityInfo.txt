@@ -1,0 +1,14 @@
+#MAIN
+activity:com.weebly.faebir.safebabymontrial.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.weebly.faebir.safebabymontrial.SettingsActivity
+launchMode:stp
+TaskAffinity:null
+
+activity:com.weebly.faebir.safebabymontrial.SettingsFragmentActivity
+launchMode:stp
+TaskAffinity:null
+

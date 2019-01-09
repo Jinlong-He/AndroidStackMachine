@@ -1,0 +1,24 @@
+com.xinshuru.inputmethod.FTInputGuideThirdStepActivity-->com.xinshuru.inputmethod.FTInputSettingsActivity
+flag:finish
+
+com.xinshuru.inputmethod.plugins.search.FTSearchActivity-->com.xinshuru.inputmethod.plugins.search.FTSearchActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.xinshuru.inputmethod.FTInputChooseImeActivity-->com.xinshuru.inputmethod.FTInputSettingsActivity
+flag:finish
+
+com.xinshuru.inputmethod.FTInputChooseImeActivity-->com.xinshuru.inputmethod.FTInputGuideThirdStepActivity
+flag:finish
+
+com.xinshuru.inputmethod.FTInputSettingsActivity-->com.xinshuru.inputmethod.FTInputChooseImeActivity
+flag:
+
+com.xinshuru.inputmethod.FTInputSettingsActivity-->com.xinshuru.inputmethod.FTInputSettingsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.xinshuru.inputmethod.plugins.ocr.FTCameraActivity-->com.xinshuru.inputmethod.plugins.ocr.FTOCRActivity
+flag:
+
+com.xinshuru.inputmethod.FTInputSplashActivity-->com.xinshuru.inputmethod.FTInputChooseImeActivity
+flag:finish
+

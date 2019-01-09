@@ -1,0 +1,9 @@
+com.soft.modforminecraft.activities.MainActivity-->com.revmob.FullscreenActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.soft.modforminecraft.activities.SplashActivity-->com.soft.modforminecraft.activities.MainActivity
+flag:finish
+

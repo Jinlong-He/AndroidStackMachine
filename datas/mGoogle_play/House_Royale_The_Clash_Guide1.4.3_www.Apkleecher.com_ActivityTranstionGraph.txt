@@ -1,0 +1,9 @@
+houseroyale.frankeaplicativos.com.houseroyale.Pages_Activity-->houseroyale.frankeaplicativos.com.houseroyale.Web_Activity
+flag:
+
+houseroyale.frankeaplicativos.com.houseroyale.WebMain_Activity-->houseroyale.frankeaplicativos.com.houseroyale.Pages_Activity
+flag:
+
+houseroyale.frankeaplicativos.com.houseroyale.Splash_Activity-->houseroyale.frankeaplicativos.com.houseroyale.WebMain_Activity
+flag:finish
+

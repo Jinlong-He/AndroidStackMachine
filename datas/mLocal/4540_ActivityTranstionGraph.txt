@@ -1,0 +1,6 @@
+com.sinyee.babybus.SplashAct-->com.sinyee.babybus.Main
+flag:finish
+
+com.baidu.appx.ui.BDInnerBrowser-->com.baidu.appx.ui.BDInnerBrowser
+flag:
+

@@ -1,0 +1,6 @@
+appjodic.princess.puzzles.FisrtScreen-->appjodic.princess.puzzles.MainActivity
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

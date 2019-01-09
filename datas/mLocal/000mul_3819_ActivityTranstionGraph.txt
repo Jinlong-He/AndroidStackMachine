@@ -1,0 +1,6 @@
+com.ios.seven.LauncherActivity-->com.ios.seven.LauncherActivity
+flag:
+
+com.ios.seven.LauncherActivity-->com.ios.seven.LauncherActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

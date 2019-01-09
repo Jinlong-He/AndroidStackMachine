@@ -1,0 +1,8 @@
+activity:com.kanedias.vanilla.coverfetch.CoverShowActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.kanedias.vanilla.plugins.saf.SafRequestActivity
+LaunchMode:std
+TaskAffinity:null
+

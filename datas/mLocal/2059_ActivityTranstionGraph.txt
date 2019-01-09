@@ -1,0 +1,15 @@
+com.doaspx.TouTiao.UI.SearchActivity-->com.doaspx.TouTiao.UI.ContentActivity
+flag:
+
+com.doaspx.TouTiao.UI.FavoriteActivity-->com.doaspx.TouTiao.UI.ContentActivity
+flag:
+
+com.doaspx.TouTiao.UI.NewsActivity-->com.doaspx.TouTiao.UI.ContentActivity
+flag:
+
+.UI.CnblogsMainActivity-->com.doaspx.TouTiao.UI.ContentActivity
+flag:
+
+com.doaspx.TouTiao.UI.SettingActivity-->com.doaspx.TouTiao.UI.AboutActivity
+flag:
+

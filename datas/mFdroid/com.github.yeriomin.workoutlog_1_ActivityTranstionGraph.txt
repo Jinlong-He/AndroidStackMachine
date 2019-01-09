@@ -1,0 +1,3 @@
+com.github.yeriomin.workoutlog.Activity.ExerciseListActivity-->com.github.yeriomin.workoutlog.Activity.AddExerciseActivity
+flag:
+

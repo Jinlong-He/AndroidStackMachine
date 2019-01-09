@@ -1,0 +1,9 @@
+com.mvb.washergirl.MainActivity-->com.mvb.washergirl.WasherGirlPreferencesActivity
+flag:
+
+com.mvb.washergirl.MainActivity-->com.startapp.android.publish.AppWallActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.mvb.washergirl.WasherGirlPreferencesActivity-->com.startapp.android.publish.AppWallActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+

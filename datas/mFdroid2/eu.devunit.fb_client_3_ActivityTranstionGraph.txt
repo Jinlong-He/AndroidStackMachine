@@ -1,0 +1,9 @@
+eu.devunit.fb_client.MainActivity-->eu.devunit.fb_client.SettingsActivity
+flag:
+
+eu.devunit.fb_client.MainActivity-->eu.devunit.fb_client.PostUploadActivity
+flag:
+
+eu.devunit.fb_client.SettingsActivity-->eu.devunit.fb_client.LoginActivity
+flag:
+

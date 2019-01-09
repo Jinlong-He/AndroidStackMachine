@@ -1,0 +1,12 @@
+com.alienskills.geekapp.TerminalSplashActivity-->com.alienskills.geekapp.MainActivity
+flag:finish
+
+com.alienskills.geekapp.TerminalSplashActivity-->com.alienskills.geekapp.RegisterActivity
+flag:finish
+
+com.alienskills.geekapp.RegisterActivity-->com.alienskills.geekapp.MainActivity
+flag:finish
+
+com.alienskills.geekapp.SplashActivity-->com.alienskills.geekapp.TerminalSplashActivity
+flag:finish
+

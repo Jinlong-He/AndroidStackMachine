@@ -1,0 +1,9 @@
+.ui.activity.BackupFontPreviewActivity-->com.fansapk.manager.font.ui.activity.RootHelpActivity
+flag:
+
+.ui.activity.OnlineFontPreviewActivity-->com.fansapk.manager.font.ui.activity.LocalFontPreviewActivity
+flag:finish
+
+.ui.activity.IndexActivity-->com.fansapk.manager.font.ui.activity.MainActivity
+flag:finish
+

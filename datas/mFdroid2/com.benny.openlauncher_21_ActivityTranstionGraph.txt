@@ -1,0 +1,30 @@
+com.benny.openlauncher.activity.AutoFinishActivity-->com.benny.openlauncher.activity.AutoFinishActivity
+flag:
+
+com.benny.openlauncher.activity.SettingsActivity-->com.benny.openlauncher.activity.HideAppsSelectionActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.benny.openlauncher.activity.SettingsActivity-->com.benny.openlauncher.activity.AboutActivity
+flag:
+
+com.benny.openlauncher.activity.SettingsActivity-->com.benny.openlauncher.activity.MinibarEditActivity
+flag:
+
+com.benny.openlauncher.activity.SettingsActivity-->com.benny.openlauncher.activity.SettingsActivity
+flag:
+
+cat.ereza.customactivityoncrash.activity.DefaultErrorActivity-->com.benny.openlauncher.activity.Home
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.benny.openlauncher.activity.Home-->com.benny.openlauncher.activity.Home
+flag:
+
+com.benny.openlauncher.activity.Home-->com.benny.openlauncher.activity.MinibarEditActivity
+flag:
+
+com.benny.openlauncher.activity.Home-->com.benny.openlauncher.activity.SettingsActivity
+flag:
+
+com.benny.openlauncher.activity.InitActivity-->com.benny.openlauncher.activity.Home
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

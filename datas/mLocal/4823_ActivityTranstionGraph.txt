@@ -1,0 +1,3 @@
+com.Tidus.PayActivity-->com.heepay.plugin.activity.WeChatNotityActivity
+flag:
+

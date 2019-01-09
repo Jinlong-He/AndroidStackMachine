@@ -1,0 +1,36 @@
+com.simplysecuresolution.pdplugin.activity.GetAdminActivity-->com.simplysecuresolution.pdplugin.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+me.dawson.applock.HomePage-->me.dawson.applock.core.AppLockActivity
+flag:
+
+com.simplysecuresolution.pdplugin.activity.SamsungLicenseActivity-->com.simplysecuresolution.pdplugin.activity.DeviceOwnerActivity
+flag:
+
+com.simplysecuresolution.pdplugin.activity.MainActivity-->com.simplysecuresolution.pdplugin.activity.ImportExportActivity
+flag:
+
+com.simplysecuresolution.pdplugin.activity.MainActivity-->me.dawson.applock.core.AppLockActivity
+flag:
+
+com.simplysecuresolution.pdplugin.activity.MainActivity-->com.simplysecuresolution.pdplugin.activity.HelpActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.simplysecuresolution.pdplugin.activity.MainActivity-->com.simplysecuresolution.pdplugin.activity.ServicesListActivity
+flag:
+
+com.simplysecuresolution.pdplugin.activity.StartupActivity-->com.simplysecuresolution.pdplugin.activity.MainActivity
+flag:finish
+
+com.simplysecuresolution.pdplugin.activity.StartupActivity-->com.simplysecuresolution.pdplugin.activity.SamsungLicenseActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.simplysecuresolution.pdplugin.activity.StartupActivity-->com.simplysecuresolution.pdplugin.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.simplysecuresolution.pdplugin.activity.StartupActivity-->com.simplysecuresolution.pdplugin.activity.GetAdminActivity
+flag:finish
+
+com.simplysecuresolution.pdplugin.activity.ImportExportActivity-->com.simplysecuresolution.pdplugin.fileexplorer.FileExplorerActivity
+flag:
+

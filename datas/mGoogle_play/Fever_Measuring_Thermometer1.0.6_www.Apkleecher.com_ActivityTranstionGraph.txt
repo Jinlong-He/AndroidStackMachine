@@ -1,0 +1,12 @@
+com.fever_thermometer.lucapp.thermometer.HeartRateMonitor-->com.fever_thermometer.lucapp.thermometer.Instruction
+flag:
+
+com.fever_thermometer.lucapp.thermometer.HeartRateMonitor-->com.fever_thermometer.lucapp.thermometer.MainActivity
+flag:
+
+com.fever_thermometer.lucapp.thermometer.Instruction-->com.fever_thermometer.lucapp.thermometer.MainActivity
+flag:
+
+com.fever_thermometer.lucapp.thermometer.MainActivity-->com.fever_thermometer.lucapp.thermometer.Instruction
+flag:
+

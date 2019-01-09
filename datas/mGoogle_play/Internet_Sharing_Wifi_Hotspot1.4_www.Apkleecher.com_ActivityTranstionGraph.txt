@@ -1,0 +1,3 @@
+com.easysoftlogics.wifi.myfi.hotspot.internet.sharing.MainActivity-->com.easysoftlogics.wifi.myfi.hotspot.internet.sharing.Setting
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:ch.logixisland.anuto.view.game.GameActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ch.logixisland.anuto.view.menu.MenuActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ch.logixisland.anuto.view.menu.SelectLevelActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,3 @@
+com.pablo.gallegoFalcon.PDLNormalEN.activity.Splash-->com.pablo.gallegoFalcon.PDLNormalEN.activity.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:scoutlit.main.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.htc.dnatransfer.legacy.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

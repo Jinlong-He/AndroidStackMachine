@@ -1,0 +1,15 @@
+com.youxiang.meiyanzipaishenqi.WebViewActivity-->com.youxiang.meiyanzipaishenqi.WebViewActivity
+flag:
+
+com.youxiang.meiyanzipaishenqi.BeautyContentNewActivity-->com.youxiang.widget.showpic.ImageShoweActivity
+flag:
+
+com.youxiang.meiyanzipaishenqi.BeautyContentNewActivity-->com.youxiang.meiyanzipaishenqi.WebViewActivity
+flag:
+
+com.youxiang.meiyanzipaishenqi.BeautyContentNewActivity-->com.youxiang.meiyanzipaishenqi.WebViewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.youxiang.meiyanzipaishenqi.SplashActivity-->com.youxiang.meiyanzipaishenqi.AppMainUI
+flag:finish
+

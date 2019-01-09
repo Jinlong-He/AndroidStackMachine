@@ -1,0 +1,12 @@
+GarfieldMore-->com.pawsinc.garfielddaily.GarfieldApps
+flag:finish
+
+GarfieldMore-->com.pawsinc.garfielddaily.GarfieldBios
+flag:finish
+
+GarfieldMore-->com.pawsinc.garfielddaily.GarfieldHelp
+flag:finish
+
+.GarfieldDaily-->com.pawsinc.garfielddaily.GarfieldMore
+flag:
+

@@ -1,0 +1,12 @@
+com.joshtwigg.cmus.droid.ActivityRemote-->com.joshtwigg.cmus.droid.ActivityHostManager
+flag:
+
+com.joshtwigg.cmus.droid.ActivityRemote-->com.joshtwigg.cmus.droid.ActivityWelcome
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.joshtwigg.cmus.droid.ActivityWelcome-->com.joshtwigg.cmus.droid.ActivityWelcome
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.joshtwigg.cmus.droid.ActivityHostManager-->com.joshtwigg.cmus.droid.ActivityHostManager
+flag:
+

@@ -1,0 +1,15 @@
+org.bottiger.podcast.activities.feedview.FeedActivity-->org.bottiger.podcast.activities.feedview.FeedActivity
+flag:
+
+org.bottiger.podcast.MainActivity-->org.bottiger.podcast.activities.intro.Intro
+flag:
+
+org.bottiger.podcast.MainActivity-->org.bottiger.podcast.WebScannerActivity
+flag:
+
+org.bottiger.podcast.MainActivity-->unknown
+flag:
+
+org.bottiger.podcast.activities.about.AboutActivity-->org.bottiger.podcast.activities.discovery.DiscoveryFeedActivity
+flag:
+

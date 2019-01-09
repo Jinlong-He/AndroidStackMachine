@@ -1,0 +1,12 @@
+com.doitflash.air.extensions.gcm.TypeActions.OpenUrlActivity-->.AppEntry
+flag:
+
+com.google.ads.AdActivity-->.AppEntry
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+com.doitflash.air.extensions.gcm.TypeActions.DialogActivity-->.AppEntry
+flag:finish
+

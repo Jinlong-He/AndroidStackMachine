@@ -1,0 +1,33 @@
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.HelpActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.hybrid.basspro.activity.SplashScreen-->com.hybrid.basspro.activity.CordovaApp
+flag:finish
+
+com.hybrid.basspro.activity.ProductListActivity-->com.hybrid.basspro.activity.HybridActivity
+flag:
+
+com.hybrid.basspro.activity.ProductListActivity-->com.hybrid.basspro.activity.FilterActivity
+flag:
+
+com.hybrid.basspro.activity.ProductListActivity-->com.hybrid.basspro.activity.BasicWebViewActivity
+flag:
+
+com.hybrid.basspro.activity.ProductListActivity-->com.hybrid.basspro.activity.SortActivity
+flag:
+
+com.hybrid.basspro.activity.ProductListActivity-->com.hybrid.basspro.activity.HybridActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.hybrid.basspro.activity.ProductListActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.hybrid.basspro.activity.ProductDetailActivity-->com.hybrid.basspro.activity.HybridActivity
+flag:
+
+com.hybrid.basspro.activity.ProductDetailActivity-->com.hybrid.basspro.activity.ImportantNoticeActivity
+flag:
+
+com.hybrid.basspro.activity.ProductDetailActivity-->com.hybrid.basspro.activity.HybridActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

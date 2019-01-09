@@ -1,0 +1,9 @@
+com.wbrenna.gtfsoffline.MainActivity-->com.wbrenna.gtfsoffline.TimesActivity
+flag:
+
+com.wbrenna.gtfsoffline.MainActivity-->com.wbrenna.gtfsoffline.UpdateActivity
+flag:
+
+com.wbrenna.gtfsoffline.MainActivity-->com.wbrenna.gtfsoffline.PrefsActivity
+flag:
+

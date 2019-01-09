@@ -1,0 +1,12 @@
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.sworkit.core.Sworkit
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.sworkit.core.Sworkit
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.sworkit.core.Sworkit
+flag:
+
+de.appplant.cordova.plugin.localnotification.ReceiverActivity-->com.sworkit.core.Sworkit
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+

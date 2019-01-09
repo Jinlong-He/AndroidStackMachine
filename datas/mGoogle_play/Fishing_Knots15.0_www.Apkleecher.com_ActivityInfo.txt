@@ -1,0 +1,14 @@
+#MAIN
+activity:de.perished.android.apps.fishingknots.ListableObjectListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.perished.android.apps.fishingknots.ListableObjectDetailActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

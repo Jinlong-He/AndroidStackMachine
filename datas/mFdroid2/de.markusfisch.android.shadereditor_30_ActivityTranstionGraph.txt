@@ -1,0 +1,18 @@
+de.markusfisch.android.shadereditor.activity.SplashActivity-->de.markusfisch.android.shadereditor.activity.MainActivity
+flag:finish
+
+de.markusfisch.android.shadereditor.activity.AddUniformActivity-->de.markusfisch.android.shadereditor.activity.MainActivity
+flag:
+
+de.markusfisch.android.shadereditor.activity.MainActivity-->de.markusfisch.android.shadereditor.activity.AddUniformActivity
+flag:
+
+de.markusfisch.android.shadereditor.activity.MainActivity-->de.markusfisch.android.shadereditor.activity.PreviewActivity
+flag:FLAG_ACTIVITY_LAUNCH_ADJACENT FLAG_ACTIVITY_NEW_TASK  
+
+de.markusfisch.android.shadereditor.activity.MainActivity-->de.markusfisch.android.shadereditor.activity.PreviewActivity
+flag:
+
+de.markusfisch.android.shadereditor.activity.MainActivity-->de.markusfisch.android.shadereditor.activity.PreferencesActivity
+flag:
+

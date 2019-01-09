@@ -1,0 +1,6 @@
+#MAIN
+activity:MouseApp
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:de.dotwee.micropinner.view.MainDialog
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

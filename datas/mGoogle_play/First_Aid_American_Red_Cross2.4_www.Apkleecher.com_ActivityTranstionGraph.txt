@@ -1,0 +1,9 @@
+com.cube.arc.fa.MainTabbedActivity-->com.cube.arc.fa.SettingsActivity
+flag:
+
+com.cube.arc.fa.BootActivity-->com.cube.arc.fa.MainTabbedActivity
+flag:finish
+
+com.cube.arc.fa.QuizContentActivity-->com.cube.arc.fa.QuizResultsActivity
+flag:
+

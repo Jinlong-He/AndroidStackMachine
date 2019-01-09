@@ -1,0 +1,6 @@
+#MAIN
+activity:de.j4velin.wifiAutoOff.Preferences
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

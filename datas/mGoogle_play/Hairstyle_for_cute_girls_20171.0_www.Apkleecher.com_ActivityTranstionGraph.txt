@@ -1,0 +1,15 @@
+com.aann.hairstyle_for_cute.girls_2017.Selection_Activity-->com.aann.hairstyle_for_cute.girls_2017.Hand_designs
+flag:
+
+com.aann.hairstyle_for_cute.girls_2017.Selection_Activity-->com.aann.hairstyle_for_cute.girls_2017.Third_Activity
+flag:
+
+com.aann.hairstyle_for_cute.girls_2017.Selection_Activity-->com.aann.hairstyle_for_cute.girls_2017.MainActivity
+flag:
+
+com.aann.hairstyle_for_cute.girls_2017.Splesh_Activity-->com.aann.hairstyle_for_cute.girls_2017.Start_Activity
+flag:finish
+
+com.aann.hairstyle_for_cute.girls_2017.Start_Activity-->com.aann.hairstyle_for_cute.girls_2017.Selection_Activity
+flag:
+

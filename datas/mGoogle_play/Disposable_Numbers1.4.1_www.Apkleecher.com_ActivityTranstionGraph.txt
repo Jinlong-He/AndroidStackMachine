@@ -1,0 +1,15 @@
+com.mathrawk.disposablenumbers.SMSActivity-->com.mathrawk.disposablenumbers.BuyNumberActivity
+flag:finish
+
+com.mathrawk.disposablenumbers.SMSActivity-->com.mathrawk.disposablenumbers.PhoneCallActivity
+flag:
+
+com.apptentive.android.sdk.ViewActivity-->unknown
+flag:finish
+
+com.mathrawk.disposablenumbers.DashboardActivity-->com.mathrawk.disposablenumbers.ShowNumberActivity
+flag:
+
+com.mathrawk.disposablenumbers.DashboardActivity-->com.mathrawk.disposablenumbers.BuyNumberActivity
+flag:
+

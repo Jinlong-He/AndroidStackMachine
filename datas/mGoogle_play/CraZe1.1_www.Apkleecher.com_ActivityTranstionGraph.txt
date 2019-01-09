@@ -1,0 +1,9 @@
+.CrazeActivity-->com.zubieta.craze.ColorPicker
+flag:
+
+.CrazeActivity-->.Preferences
+flag:
+
+.Splash-->com.zubieta.craze.CrazeActivity
+flag:
+

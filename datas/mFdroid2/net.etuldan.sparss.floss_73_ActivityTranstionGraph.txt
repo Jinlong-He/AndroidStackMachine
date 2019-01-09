@@ -1,0 +1,15 @@
+net.etuldan.sparss.activity.EditFeedActivity-->net.etuldan.sparss.activity.EditFeedActivity
+flag:
+
+net.etuldan.sparss.activity.HomeActivity-->net.etuldan.sparss.activity.AddGoogleNewsActivity
+flag:
+
+net.etuldan.sparss.activity.HomeActivity-->net.etuldan.sparss.activity.EditFeedsListActivity
+flag:
+
+net.etuldan.sparss.activity.HomeActivity-->net.etuldan.sparss.activity.GeneralPrefsActivity
+flag:
+
+net.etuldan.sparss.activity.EntryActivity-->net.etuldan.sparss.activity.HomeActivity
+flag:finish
+

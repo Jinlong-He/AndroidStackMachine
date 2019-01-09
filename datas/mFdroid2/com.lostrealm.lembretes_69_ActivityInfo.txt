@@ -1,0 +1,14 @@
+#MAIN
+activity:com.lostrealm.lembretes.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.lostrealm.lembretes.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.lostrealm.lembretes.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

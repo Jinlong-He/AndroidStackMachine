@@ -1,0 +1,15 @@
+com.brainly.StartActivity-->com.brainly.StartActivity
+flag:finish
+
+com.brainly.StartActivity-->com.brainly.ui.splash.SplashActivity
+flag:
+
+com.brainly.ui.dialog.RankDialog-->com.brainly.ui.dialog.RankDialog
+flag:
+
+com.brainly.feature.share.view.ShareAskActivity-->com.brainly.StartActivity
+flag:finish
+
+com.brainly.feature.share.view.ShareSendActivity-->com.brainly.StartActivity
+flag:finish
+

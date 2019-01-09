@@ -1,0 +1,12 @@
+com.boccfc.wallet.activity.HomeActivity-->com.boccfc.wallet.activity.HomeActivity
+flag:
+
+com.boccfc.wallet.activity.HomeActivity-->com.oliveapp.liveness.sample.liveness.view_controller.SampleResultSuccesedActivity
+flag:
+
+com.boccfc.wallet.activity.HomeActivity-->com.oliveapp.liveness.sample.liveness.view_controller.SampleResultFailedActivity
+flag:
+
+com.boccfc.wallet.activity.WebActivity-->com.boccfc.wallet.activity.WebActivity
+flag:
+

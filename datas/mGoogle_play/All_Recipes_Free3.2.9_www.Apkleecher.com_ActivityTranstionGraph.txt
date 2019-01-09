@@ -1,0 +1,27 @@
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.omniluxtrade.allrecipes.activity.RecipeListActivity-->com.omniluxtrade.allrecipes.activity.ShoppingListActivity
+flag:
+
+com.omniluxtrade.allrecipes.activity.RecipeListActivity-->com.omniluxtrade.allrecipes.activity.ReviewActivity
+flag:
+
+com.omniluxtrade.allrecipes.activity.RecipeListActivity-->com.omniluxtrade.allrecipes.activity.SettingsActivity
+flag:
+
+com.omniluxtrade.allrecipes.activity.RecipeListActivity-->com.omniluxtrade.allrecipes.activity.SubmitRecipeActivity
+flag:
+
+com.omniluxtrade.allrecipes.activity.RecipeListActivity-->com.omniluxtrade.allrecipes.activity.MoreRecipesActivity
+flag:
+
+com.omniluxtrade.allrecipes.activity.RecipeListActivity-->com.omniluxtrade.allrecipes.activity.MoreGamesActivity
+flag:
+
+com.omniluxtrade.allrecipes.activity.RecipeListActivity-->com.omniluxtrade.allrecipes.activity.MyWebsiteActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

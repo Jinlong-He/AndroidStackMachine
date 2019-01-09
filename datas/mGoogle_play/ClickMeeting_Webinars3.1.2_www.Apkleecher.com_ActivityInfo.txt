@@ -1,0 +1,10 @@
+#MAIN
+activity:.AppEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.distriqt.extension.nativewebview.activities.BrowseActivity
+LaunchMode:std
+TaskAffinity:null
+

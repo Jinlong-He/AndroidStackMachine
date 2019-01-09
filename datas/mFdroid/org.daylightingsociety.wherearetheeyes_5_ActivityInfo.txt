@@ -1,0 +1,14 @@
+#MAIN
+activity:org.daylightingsociety.wherearetheeyes.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.daylightingsociety.wherearetheeyes.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.daylightingsociety.wherearetheeyes.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

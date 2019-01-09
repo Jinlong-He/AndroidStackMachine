@@ -1,0 +1,3 @@
+com.vsmartcard.remotesmartcardreader.app.MainActivity-->com.vsmartcard.remotesmartcardreader.app.SettingsActivity
+flag:
+

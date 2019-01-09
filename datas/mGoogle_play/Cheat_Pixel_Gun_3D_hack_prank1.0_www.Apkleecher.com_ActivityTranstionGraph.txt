@@ -1,0 +1,12 @@
+com.flowprod.tools.pixelrun2.MainActivity-->com.flowprod.tools.pixelrun2.Main2Activity
+flag:
+
+com.flowprod.tools.pixelrun2.Main2Activity-->com.flowprod.tools.pixelrun2.step
+flag:
+
+com.flowprod.tools.pixelrun2.done-->com.flowprod.tools.pixelrun2.MainActivity
+flag:
+
+com.flowprod.tools.pixelrun2.step-->com.flowprod.tools.pixelrun2.done
+flag:
+

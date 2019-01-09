@@ -1,0 +1,14 @@
+activity:at.enajat.david.android.filechooser.FileChooser
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.ui.activity.OpenOfficeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.ui.activity.DocumentActivity
+LaunchMode:std
+TaskAffinity:null
+

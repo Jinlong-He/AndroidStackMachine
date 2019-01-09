@@ -1,0 +1,9 @@
+com.indeed.android.jobsearch.webview.ExternalActivity-->com.indeed.android.jobsearch.MainActivity
+flag:
+
+com.indeed.android.jobsearch.MainActivity-->com.indeed.android.jobsearch.webview.ExternalActivity
+flag:
+
+com.indeed.android.jobsearch.MainActivity-->com.indeed.android.jobsearch.MainActivity
+flag:
+

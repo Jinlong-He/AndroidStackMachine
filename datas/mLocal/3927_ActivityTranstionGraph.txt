@@ -1,0 +1,6 @@
+com.wisnia.euagreement.EUAgreement-->unknown
+flag:finish
+
+com.wisnia.telescope.Splash-->com.wisnia.telescope.Zoomer
+flag:finish
+

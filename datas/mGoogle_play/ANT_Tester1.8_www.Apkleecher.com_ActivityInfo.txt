@@ -1,0 +1,6 @@
+#MAIN
+activity:com.quantrity.anttester.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

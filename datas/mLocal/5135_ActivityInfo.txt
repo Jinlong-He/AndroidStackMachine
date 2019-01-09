@@ -1,0 +1,14 @@
+#MAIN
+activity:.MyReadActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.MyViewFile
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.waps.OffersWebView
+LaunchMode:std
+TaskAffinity:null
+

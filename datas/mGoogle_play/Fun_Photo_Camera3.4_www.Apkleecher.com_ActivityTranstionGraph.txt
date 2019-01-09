@@ -1,0 +1,15 @@
+com.evsoft.utils.gallery.GalleryActivity-->com.evsoft.utils.imageeffect.ImageEffectActivity
+flag:
+
+com.evsoft.frames.SplashScreenActivity-->com.evsoft.frames.MainActivity
+flag:finish
+
+com.onegravity.rteditor.media.choose.MediaChooserActivity-->com.onegravity.rteditor.media.crop.CropImageActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.evsoft.frames.MainActivity-->com.evsoft.frames.TutorialActivity
+flag:
+

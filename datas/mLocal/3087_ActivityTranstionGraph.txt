@@ -1,0 +1,9 @@
+.NoteListActivity-->com.xiaomi.notes.NoteAboutActivity
+flag:
+
+.NoteListActivity-->com.xiaomi.notes.NoteMoreActivity
+flag:
+
+.NoteListActivity-->com.xiaomi.notes.NoteEditActivity
+flag:
+

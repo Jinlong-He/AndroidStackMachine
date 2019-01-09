@@ -1,0 +1,14 @@
+#MAIN
+activity:com.platypus.SAnd.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.platypus.SAnd.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.platypus.SAnd.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

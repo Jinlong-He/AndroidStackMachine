@@ -1,0 +1,30 @@
+com.zwigglers.android.horoscopes.SplashFortune-->com.zwigglers.android.horoscopes.Splash
+flag:finish
+
+com.zwigglers.android.horoscopes.HoroscopesViewActivity-->com.zwigglers.android.horoscopes.ChooseHoroscopeActivity
+flag:
+
+com.zwigglers.android.horoscopes.NewsFeedSingleActivity-->com.zwigglers.android.horoscopes.HoroscopesViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.zwigglers.android.horoscopes.NewsFeedSingleActivity-->com.zwigglers.android.horoscopes.ProfileActivity
+flag:
+
+com.zwigglers.android.horoscopes.ChooseHoroscopeActivity-->com.zwigglers.android.horoscopes.HoroscopesViewActivity
+flag:finish
+
+com.zwigglers.android.horoscopes.ProfileActivity-->com.zwigglers.android.horoscopes.HoroscopesViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.zwigglers.android.horoscopes.Splash-->com.zwigglers.android.horoscopes.ChooseHoroscopeActivity
+flag:finish
+
+com.zwigglers.android.horoscopes.Splash-->com.zwigglers.android.horoscopes.FortuneActivity
+flag:finish
+
+com.zwigglers.android.horoscopes.Splash-->com.zwigglers.android.horoscopes.HoroscopesViewActivity
+flag:finish
+
+com.zwigglers.android.horoscopes.Splash-->com.zwigglers.android.horoscopes.RouterActivity
+flag:
+

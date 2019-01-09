@@ -1,0 +1,10 @@
+#MAIN
+activity:de.quaddyservices.dynamicnightlight.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.quaddyservices.dynamicnightlight.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

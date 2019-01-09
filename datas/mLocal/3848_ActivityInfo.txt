@@ -1,0 +1,10 @@
+#MAIN
+activity:MenuActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:GridPictureActivity
+LaunchMode:std
+TaskAffinity:null
+

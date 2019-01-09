@@ -1,0 +1,6 @@
+#MAIN
+activity:org.amoradi.syncopoli.BackupActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

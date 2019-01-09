@@ -1,0 +1,10 @@
+#MAIN
+activity:com.jmolsmobile.landscapevideocapture_sample.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.jmolsmobile.landscapevideocapture.VideoCaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

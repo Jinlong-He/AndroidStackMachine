@@ -1,0 +1,3 @@
+com.easyhairstylesstepbystep.littlegirls.view.DetailActivity-->com.easyhairstylesstepbystep.littlegirls.view.MainActivity
+flag:
+

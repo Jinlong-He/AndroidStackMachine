@@ -1,0 +1,14 @@
+#MAIN
+activity:de.arnefeil.bewegungsmelder.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.arnefeil.bewegungsmelder.SettingActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.arnefeil.bewegungsmelder.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

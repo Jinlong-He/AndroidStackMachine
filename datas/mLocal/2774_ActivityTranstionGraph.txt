@@ -1,0 +1,6 @@
+cld.navi.c2883.mainframe.NaviMainActivity-->cld.navi.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+cld.navi.MainActivity-->cld.navi.c2883.mainframe.NaviMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

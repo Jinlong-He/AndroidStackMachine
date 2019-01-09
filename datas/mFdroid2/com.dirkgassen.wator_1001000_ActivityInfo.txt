@@ -1,0 +1,6 @@
+#MAIN
+activity:com.dirkgassen.wator.ui.activity.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

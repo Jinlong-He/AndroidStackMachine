@@ -1,0 +1,14 @@
+#MAIN
+activity:tkj.android.homecontrol.mythmote.MythMote
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:tkj.android.homecontrol.mythmote.MythMotePreferences
+LaunchMode:std
+TaskAffinity:null
+
+activity:tkj.android.homecontrol.mythmote.LocationEditor
+LaunchMode:std
+TaskAffinity:null
+

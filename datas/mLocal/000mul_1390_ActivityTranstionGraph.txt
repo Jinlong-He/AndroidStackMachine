@@ -1,0 +1,9 @@
+com.smartisanos.mover.ui.MoreInfoActivity-->com.smartisanos.mover.ui.OldPhoneActivity
+flag:
+
+com.smartisanos.mover.ui.OldPhoneActivity-->com.smartisanos.mover.ui.OldPhoneActivity
+flag:
+
+com.smartisanos.mover.ui.OldPhoneQRCodeActivity-->com.smartisanos.mover.ui.OldPhoneActivity
+flag:finish
+

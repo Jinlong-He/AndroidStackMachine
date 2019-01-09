@@ -1,0 +1,3 @@
+com.youyudk.app.IntroActivity-->com.youyudk.app.MainActivity
+flag:finish
+

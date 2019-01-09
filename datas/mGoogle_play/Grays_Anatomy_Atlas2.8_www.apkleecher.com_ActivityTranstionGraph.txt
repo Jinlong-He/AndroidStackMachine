@@ -1,0 +1,6 @@
+com.ssstudio.anatomy.activities.SplashActivity-->com.ssstudio.anatomy.activities.MainActivity
+flag:finish
+
+com.ssstudio.anatomy.activities.MainActivity-->com.ssstudio.anatomy.activities.MainMedical
+flag:
+

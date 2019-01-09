@@ -1,0 +1,84 @@
+com.sethchhim.comicviewerforubooquity.activity.main.MainActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.main.MainActivity-->com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.main.MainActivity-->com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.main.MainActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity-->com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity-->com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity-->com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity-->com.sethchhim.comicviewerforubooquity.activity.webview.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.reader_book.BookActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity-->com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity-->com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity-->com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity-->com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity-->com.sethchhim.comicviewerforubooquity.activity.webview.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.SplashActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:finish
+
+com.sethchhim.comicviewerforubooquity.activity.reader_comic.ComicActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.webview.WebViewActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:
+
+com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity-->com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity-->com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity-->com.sethchhim.comicviewerforubooquity.activity.browser.BrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity-->com.sethchhim.comicviewerforubooquity.activity.browser_custom.BrowserCustomActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity-->com.sethchhim.comicviewerforubooquity.activity.webview.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sethchhim.comicviewerforubooquity.activity.search.SearchActivity-->com.sethchhim.comicviewerforubooquity.activity.main.MainActivity
+flag:
+

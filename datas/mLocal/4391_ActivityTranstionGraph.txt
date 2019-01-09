@@ -1,0 +1,6 @@
+com.google.example.games.pluginsupport.InvitationInboxHelperActivity-->com.google.example.games.pluginsupport.InvitationInboxHelperActivity
+flag:
+
+com.google.example.games.pluginsupport.SelectOpponentsHelperActivity-->com.google.example.games.pluginsupport.SelectOpponentsHelperActivity
+flag:
+

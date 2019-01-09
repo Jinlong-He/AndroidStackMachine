@@ -1,0 +1,14 @@
+#MAIN
+activity:de.j4velin.pedometer.ui.Activity_Main
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:de.j4velin.pedometer.widget.WidgetConfig
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.j4velin.lib.colorpicker.ExtractFromPhoto
+LaunchMode:std
+TaskAffinity:null
+

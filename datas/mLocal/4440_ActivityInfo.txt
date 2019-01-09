@@ -1,0 +1,10 @@
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.example.zww.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

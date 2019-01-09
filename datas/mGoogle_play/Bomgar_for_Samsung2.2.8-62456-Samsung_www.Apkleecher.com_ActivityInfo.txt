@@ -1,0 +1,14 @@
+#MAIN
+activity:com.bomgar.thinscc.android.ui.login.LoginActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.bomgar.thinscc.android.ui.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:com.bomgar.thinscc.android.ui.CameraActivity
+LaunchMode:sit
+TaskAffinity:null
+

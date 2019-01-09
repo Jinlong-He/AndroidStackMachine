@@ -1,0 +1,9 @@
+.ui.MainActivity-->com.leinardi.kitchentimer.ui.InfoActivity
+flag:
+
+.ui.MainActivity-->com.leinardi.kitchentimer.ui.PresetsActivity
+flag:
+
+.ui.MainActivity-->com.leinardi.kitchentimer.ui.ConfigActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.sprd.android.videowallpaper.VideoWallpaperSetting-->com.sprd.android.videowallpaper.DownloadList
+flag:
+

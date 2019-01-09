@@ -1,0 +1,66 @@
+com.drivemode.activity.FaqActivity-->com.drivemode.activity.SplashScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivemode.activity.TutorialActivity-->com.drivemode.activity.DriveModeOn
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivemode.activity.TutorialActivity-->com.drivemode.activity.AppUsageAlert
+flag:
+
+com.drivemode.activity.Settings-->com.drivemode.activity.ShareActivity
+flag:
+
+com.drivemode.activity.Settings-->com.drivemode.activity.AdminAlertsActivity
+flag:
+
+com.drivemode.activity.Settings-->com.drivemode.activity.SplashScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivemode.activity.WelcomeActivity-->com.drivemode.activity.TutorialActivity
+flag:finish
+
+com.drivemode.activity.AddContact-->com.drivemode.activity.Contacts
+flag:
+
+com.drivemode.activity.SplashScreen-->com.drivemode.activity.UpgradedFeature
+flag:
+
+com.drivemode.activity.SplashScreen-->com.drivemode.activity.RuntimePermissions
+flag:
+
+com.drivemode.activity.SplashScreen-->com.drivemode.activity.WelcomeActivity
+flag:finish
+
+com.drivemode.activity.SplashScreen-->com.drivemode.activity.AppUsageAlert
+flag:
+
+com.drivemode.activity.DriveModeOn-->com.drivemode.activity.SplashScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivemode.activity.DriveModeOn-->com.drivemode.activity.RuntimePermissions
+flag:
+
+com.drivemode.activity.DriveModeOn-->com.drivemode.activity.DriveModeOn
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_RESET_TASK_IF_NEEDED  
+
+com.drivemode.activity.EditAdminContact-->com.drivemode.activity.Contacts
+flag:
+
+com.drivemode.activity.AppUsageAlert-->com.drivemode.activity.TutorialActivity
+flag:finish
+
+com.drivemode.activity.AppUsageAlert-->com.drivemode.activity.DriveModeOn
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivemode.activity.PhotoChooserActivity-->com.drivemode.activity.CropActivity
+flag:
+
+com.drivemode.activity.ShareActivity-->com.drivemode.activity.Contacts
+flag:
+
+com.drivemode.activity.ShareActivity-->com.drivemode.activity.SplashScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivemode.activity.EditContact-->com.drivemode.activity.Contacts
+flag:
+

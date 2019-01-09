@@ -1,0 +1,6 @@
+org.xphnx.ameixa.MainActivity-->org.xphnx.ameixa.IconActivity
+flag:
+
+org.xphnx.ameixa.MainActivity-->org.xphnx.ameixa.LicenseActivity
+flag:
+

@@ -1,0 +1,15 @@
+com.dwgsee.dwgviewer.DWGSeeLauncher-->com.dwgsee.dwgviewer.DWGActivity
+flag:
+
+com.dwgsee.dwgviewer.DWGSeeLauncher-->com.dwgsee.dwgviewer.FileExplorerActivity
+flag:
+
+com.dwgsee.dwgviewer.DWGSeeLauncher-->com.dwgsee.dwgviewer.DWGActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.dwgsee.dwgviewer.DWGActivity-->com.dwgsee.dwgviewer.DWGActivity$AlertActivity
+flag:
+
+com.dwgsee.dwgviewer.FileExplorerActivity-->com.dwgsee.dwgviewer.DWGActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

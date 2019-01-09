@@ -1,0 +1,6 @@
+#MAIN
+activity:com.autocodes.autocodes.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

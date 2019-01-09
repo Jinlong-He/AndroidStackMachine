@@ -1,0 +1,12 @@
+com.yellowpages.android.app.ChainedActivity-->YPG
+flag:finish
+
+BusinessMIPActivity-->YPG
+flag:
+
+GasMIPActivity-->YPG
+flag:
+
+AboutActivity-->YPG
+flag:
+

@@ -1,0 +1,6 @@
+org.jsl.shmp.MainActivity-->org.jsl.shmp.GameClientActivity
+flag:
+
+org.jsl.shmp.MainActivity-->org.jsl.shmp.GameServerActivity
+flag:
+

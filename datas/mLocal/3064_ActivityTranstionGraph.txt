@@ -1,0 +1,3 @@
+com.costep.aml_lite.SplashActivity-->com.costep.aml_lite.MainActivity
+flag:finish
+

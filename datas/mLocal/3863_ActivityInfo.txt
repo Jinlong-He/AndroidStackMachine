@@ -1,0 +1,6 @@
+#MAIN
+activity:com.mycheering.launcher.ios.BitmapUtilActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

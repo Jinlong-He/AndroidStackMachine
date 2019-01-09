@@ -1,0 +1,21 @@
+net.app.guideteeken3game.FullScrn2-->net.app.guideteeken3game.FullScrn3
+flag:
+
+net.app.guideteeken3game.FullScrn2-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+net.app.guideteeken3game.FullScrn3-->net.app.guideteeken3game.FullScrn1
+flag:
+
+net.app.guideteeken3game.FullScrn3-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+net.app.guideteeken3game.FullScrn1-->net.app.guideteeken3game.FullScrn2
+flag:
+
+net.app.guideteeken3game.FullScrn1-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

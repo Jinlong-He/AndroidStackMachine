@@ -1,0 +1,6 @@
+com.tony.viewpager.MyViewPagerActivity-->com.tony.viewpager.IntentActivity
+flag:
+
+com.tony.viewpager.SplashActivity-->com.tony.viewpager.MyViewPagerActivity
+flag:finish
+

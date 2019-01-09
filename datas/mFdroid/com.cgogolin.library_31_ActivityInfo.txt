@@ -1,0 +1,6 @@
+#MAIN
+activity:Library
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

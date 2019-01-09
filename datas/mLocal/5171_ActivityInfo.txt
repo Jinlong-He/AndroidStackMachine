@@ -1,0 +1,10 @@
+#MAIN
+activity:io.dcloud.PandoraEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:io.dcloud.imagepick.CustomGalleryActivity
+LaunchMode:std
+TaskAffinity:null
+

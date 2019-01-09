@@ -1,0 +1,9 @@
+com.csmart.hairandeyecolorchanger.MainActivity-->com.csmart.fragmentshair.HairColorBaseActivity
+flag:
+
+com.csmart.hairandeyecolorchanger.MainActivity-->com.gaurava.eyechanger.activity.MainActivity
+flag:
+
+com.csmart.hairandeyecolorchanger.MainActivity-->com.csmart.effectFx.EffectFxMain
+flag:
+

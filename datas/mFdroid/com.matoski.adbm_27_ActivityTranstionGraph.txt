@@ -1,0 +1,12 @@
+com.matoski.adbm.activity.MainActivity-->com.matoski.adbm.activity.MyPreferencesActivity
+flag:
+
+com.matoski.adbm.activity.MainActivity-->com.matoski.adbm.activity.AboutActivity
+flag:
+
+com.matoski.adbm.activity.MainActivity-->com.matoski.adbm.activity.ChangeLogActivity
+flag:
+
+com.matoski.adbm.activity.MyPreferencesActivity-->com.matoski.adbm.activity.WiFiListViewCheckboxesActivity
+flag:
+

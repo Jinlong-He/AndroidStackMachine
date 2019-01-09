@@ -1,0 +1,14 @@
+#MAIN
+activity:.AppEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.distriqt.extension.inappbilling.activities.PurchaseActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

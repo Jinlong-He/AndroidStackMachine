@@ -1,0 +1,24 @@
+com.keyboard.oneemoji.latin.setup.SetupWizardActivity-->com.keyboard.oneemoji.latin.settings.SettingsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP  
+
+com.keyboard.oneemoji.latin.setup.SetupWizardActivity-->com.keyboard.oneemoji.latin.setup.SetupWizardActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.keyboard.oneemoji.latin.setup.SetupActivity-->com.keyboard.oneemoji.latin.settings.SettingsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.keyboard.oneemoji.latin.theme.themecontainer.ThemeManagerActivity-->com.keyboard.oneemoji.latin.settings.SettingsActivity
+flag:
+
+com.keyboard.oneemoji.latin.theme.themecontainer.ThemeManagerActivity-->com.keyboard.oneemoji.latin.theme.EmojiActivity
+flag:
+
+com.keyboard.oneemoji.latin.theme.themecontainer.ThemeManagerActivity-->com.keyboard.oneemoji.latin.theme.FontActivity
+flag:
+
+com.keyboard.oneemoji.latin.theme.MyLoadingActivity-->com.keyboard.oneemoji.latin.theme.themecontainer.ThemeManagerActivity
+flag:finish
+
+com.keyboard.oneemoji.latin.permissions.PermissionsActivity-->com.keyboard.oneemoji.latin.permissions.PermissionsActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+

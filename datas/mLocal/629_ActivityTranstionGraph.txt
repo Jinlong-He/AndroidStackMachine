@@ -1,0 +1,15 @@
+.Start-->com.msshan.citymonitor.MainTab
+flag:finish
+
+com.msshan.citymonitor.CityVideoList-->com.msshan.citymonitor.PlayVideo
+flag:
+
+com.msshan.citymonitor.PlayVideo-->com.msshan.citymonitor.PlayHDVideo
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+com.msshan.citymonitor.SpyVideo-->com.msshan.citymonitor.CityVideoList
+flag:
+

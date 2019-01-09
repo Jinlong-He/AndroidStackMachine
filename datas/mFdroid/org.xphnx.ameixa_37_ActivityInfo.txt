@@ -1,0 +1,14 @@
+#MAIN
+activity:org.xphnx.ameixa.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.xphnx.ameixa.LicenseActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.xphnx.ameixa.IconActivity
+LaunchMode:std
+TaskAffinity:null
+

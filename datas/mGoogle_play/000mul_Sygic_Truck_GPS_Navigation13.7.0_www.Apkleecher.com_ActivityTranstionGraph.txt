@@ -1,0 +1,12 @@
+com.sygic.aura.frw.PermissionsActivity-->com.sygic.truck.SygicNaviTruck
+flag:
+
+com.sygic.aura.SygicNaviActivity-->com.sygic.aura.frw.PermissionsActivity
+flag:
+
+com.sygic.aura.SygicNaviActivity-->com.sygic.aura.downloader.DownloaderActivity
+flag:
+
+com.sygic.aura.WebActivity-->com.sygic.truck.SygicNaviTruck
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

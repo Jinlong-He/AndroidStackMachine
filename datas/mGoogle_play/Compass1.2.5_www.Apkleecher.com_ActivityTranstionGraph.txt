@@ -1,0 +1,9 @@
+app.melon.icompass.CompassActivi-->app.melon.icompass.activi.PreferenceActivi
+flag:
+
+app.melon.icompass.CompassActivi-->app.melon.icompass.activi.CalibrationActivi
+flag:
+
+app.melon.icompass.CompassActivi-->app.melon.icompass.activi.LocationActivi
+flag:
+

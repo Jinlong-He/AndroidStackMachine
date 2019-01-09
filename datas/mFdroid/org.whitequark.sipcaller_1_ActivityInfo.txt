@@ -1,0 +1,6 @@
+#MAIN
+activity:org.whitequark.sipcaller.CallActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

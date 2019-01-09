@@ -1,0 +1,6 @@
+#MAIN
+activity:.SearchLight
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

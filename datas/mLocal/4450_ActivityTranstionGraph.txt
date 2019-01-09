@@ -1,0 +1,6 @@
+com.wisedu.pinyin.activity.LaucherPyActivity-->com.wisedu.pinyin.activity.PinYinActivity
+flag:finish
+
+com.wisedu.pinyin.activity.PinYinActivity-->com.wisedu.pinyin.activity.PinYinDetailActivity
+flag:
+

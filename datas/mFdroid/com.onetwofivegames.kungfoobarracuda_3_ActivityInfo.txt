@@ -1,0 +1,6 @@
+#MAIN
+activity:KungFooBarracudaNativeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

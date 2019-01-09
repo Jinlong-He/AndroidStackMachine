@@ -1,0 +1,6 @@
+com.onecwireless.keyboard.MainActivity-->com.onecwireless.keyboard.material_design.TutorialActivity
+flag:
+
+com.onecwireless.keyboard.MainActivity-->com.onecwireless.keyboard.material_design.promo.PromoActivity
+flag:
+

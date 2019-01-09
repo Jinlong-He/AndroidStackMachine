@@ -1,0 +1,6 @@
+#MAIN
+activity:cz.jirkovsky.lukas.chmupocasi.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

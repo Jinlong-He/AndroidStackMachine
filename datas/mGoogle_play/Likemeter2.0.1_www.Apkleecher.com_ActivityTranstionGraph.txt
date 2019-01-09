@@ -1,0 +1,6 @@
+com.mylikemeter.mobile.ResultsActivity-->com.mylikemeter.mobile.MainActivity
+flag:
+
+com.mobfox.sdk.interstitialads.InterstitialActivity-->com.mylikemeter.mobile.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

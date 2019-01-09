@@ -1,0 +1,21 @@
+.PreviewActivity-->com.fueled.afterlight.ImageEditorActivity
+flag:finish
+
+.TakePhotoActivity-->com.fueled.afterlight.PreviewActivity
+flag:FLAG_GRANT_READ_URI_PERMISSION  finish
+
+.TakePhotoActivity-->com.fueled.afterlight.PreviewActivity
+flag:
+
+.HomeActivity-->com.fueled.afterlight.InfoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.HomeActivity-->com.fueled.afterlight.SettingsActivity
+flag:
+
+.HomeActivity-->com.fueled.afterlight.PreviewActivity
+flag:FLAG_GRANT_READ_URI_PERMISSION  finish
+
+.HomeActivity-->com.fueled.afterlight.PreviewActivity
+flag:
+

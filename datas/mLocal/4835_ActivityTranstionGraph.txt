@@ -1,0 +1,6 @@
+com.apptracker.android.module.AppModuleActivity-->com.apptracker.android.module.AppModuleActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+ColouringLittlePrincess-->com.chartboost.sdk.CBImpressionActivity
+flag:
+

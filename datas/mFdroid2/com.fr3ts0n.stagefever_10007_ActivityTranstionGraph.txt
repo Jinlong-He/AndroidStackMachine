@@ -1,0 +1,3 @@
+com.fr3ts0n.stagefever.MainActivity-->com.fr3ts0n.stagefever.SettingsActivity
+flag:
+

@@ -1,0 +1,33 @@
+com.linkedin.android.lookup.login.enterprisesso.EnterpriseAuthActivity-->com.linkedin.android.lookup.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.linkedin.android.lookup.login.enterprisesso.EnterpriseAuthActivity-->com.linkedin.android.lookup.onboarding.OnboardingActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.linkedin.android.lookup.home.HomeActivity-->com.linkedin.android.lookup.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.linkedin.android.lookup.onboarding.OnboardingActivity-->com.linkedin.android.lookup.home.HomeActivity
+flag:finish
+
+com.linkedin.android.lookup.LaunchActivity-->com.linkedin.android.lookup.onboarding.OnboardingActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.linkedin.android.lookup.LaunchActivity-->com.linkedin.android.lookup.login.enterprisesso.EnterpriseAuthActivity
+flag:finish
+
+com.linkedin.android.lookup.LaunchActivity-->com.linkedin.android.lookup.home.HomeActivity
+flag:finish
+
+com.linkedin.android.lookup.LaunchActivity-->com.linkedin.android.lookup.login.LoginActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.linkedin.android.lookup.LaunchActivity-->com.linkedin.android.lookup.login.LoginActivity
+flag:finish
+
+com.linkedin.android.lookup.login.LoginActivity-->com.linkedin.android.lookup.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.linkedin.android.lookup.login.LoginActivity-->com.linkedin.android.lookup.LaunchActivity
+flag:
+

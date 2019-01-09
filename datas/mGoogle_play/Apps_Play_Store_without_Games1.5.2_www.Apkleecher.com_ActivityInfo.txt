@@ -1,0 +1,6 @@
+#MAIN
+activity:com.happening.studios.apps.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

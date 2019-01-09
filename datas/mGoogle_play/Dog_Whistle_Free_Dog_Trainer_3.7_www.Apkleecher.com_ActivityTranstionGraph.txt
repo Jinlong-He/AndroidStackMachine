@@ -1,0 +1,3 @@
+com.deadswine.activities.ActivityMain-->com.deadswine.activities.ActivityInApp
+flag:
+

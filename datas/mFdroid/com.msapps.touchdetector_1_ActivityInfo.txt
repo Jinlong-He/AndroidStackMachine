@@ -1,0 +1,6 @@
+#MAIN
+activity:com.msapps.touchdetector.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

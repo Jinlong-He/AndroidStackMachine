@@ -1,0 +1,10 @@
+#MAIN
+activity:air.com.zy.meishaonv.AppEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:org.dayw.eixa.xwro
+LaunchMode:sit
+TaskAffinity:null
+

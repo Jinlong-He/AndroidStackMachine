@@ -1,0 +1,21 @@
+com.wdtinc.android.whitelabel.fragments.settings.WHTLightningRegistrationActivity-->unknown
+flag:
+
+com.wdtinc.android.common.licensing.WDTLicenseDialogActivity-->com.wdtinc.android.whitelabel.WHTMainActivity
+flag:finish
+
+com.roximity.sdk.messages.ROXIMITYIntentLauncher-->com.roximity.sdk.activities.ROXWebviewActivity
+flag:
+
+com.roximity.sdk.messages.ROXIMITYIntentLauncher-->com.wdtinc.android.whitelabel.WHTMainActivity
+flag:
+
+com.wdtinc.android.whitelabel.gui.WHTSplashActivity-->com.wdtinc.android.whitelabel.WHTMainActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.wdtinc.android.whitelabel.fragments.social.WHTSocialWeatherActivity-->com.wdtinc.android.whitelabel.fragments.social.WHTSocialWeatherProfileActivity
+flag:
+

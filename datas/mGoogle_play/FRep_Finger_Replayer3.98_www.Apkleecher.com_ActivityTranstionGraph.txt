@@ -1,0 +1,6 @@
+com.x0.strai.frep.ManageFingerActivity-->com.x0.strai.frep.EditSequenceActivity
+flag:
+
+com.x0.strai.frep.FingerActivity-->com.x0.strai.frep.ManageFingerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

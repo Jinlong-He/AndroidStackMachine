@@ -1,0 +1,10 @@
+#MAIN
+activity:com.unity3d.player.UnityPlayerActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

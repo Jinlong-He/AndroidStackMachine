@@ -1,0 +1,6 @@
+neondeveloper.com.earamplifier.MainActivity-->neondeveloper.com.earamplifier.EqualizeerActivity
+flag:
+
+neondeveloper.com.earamplifier.MainActivity-->neondeveloper.com.earamplifier.PrivacyActivity
+flag:
+

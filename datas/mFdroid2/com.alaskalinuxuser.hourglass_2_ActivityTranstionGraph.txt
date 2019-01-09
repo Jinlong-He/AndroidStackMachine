@@ -1,0 +1,3 @@
+com.alaskalinuxuser.hourglass.MainActivity-->com.alaskalinuxuser.hourglass.SetScaleActivity
+flag:
+

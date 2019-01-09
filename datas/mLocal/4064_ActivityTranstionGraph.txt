@@ -1,0 +1,12 @@
+com.yunpicture.mmqcshow.activity.MainActivity-->com.yunpicture.mmqcshow.activity.OtherShow
+flag:
+
+com.yunpicture.mmqcshow.activity.MainActivity-->com.yunpicture.mmqcshow.activity.SettingActivity
+flag:
+
+com.yunpicture.mmqcshow.activity.LoadingActivity-->com.yunpicture.mmqcshow.activity.MainActivity
+flag:finish
+
+com.yunpicture.mmqcshow.activity.GalleryActivity-->com.yunpicture.mmqcshow.activity.GalleryActivity
+flag:
+

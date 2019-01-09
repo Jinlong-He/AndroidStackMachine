@@ -1,0 +1,15 @@
+com.microsoft.office.sfb.activity.voicemail.dialpadvoicemailviewpager.DialpadVoicemailActivity-->com.microsoft.office.sfb.common.ui.splash.EntryPoint
+flag:
+
+com.microsoft.intune.mam.client.app.offline.OfflineInstallCompanyPortalDialogActivity-->com.microsoft.office.sfb.common.ui.splash.EntryPoint
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.microsoft.office.sfb.activity.call.IncomingCallActivity-->com.microsoft.office.sfb.common.ui.splash.EntryPoint
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

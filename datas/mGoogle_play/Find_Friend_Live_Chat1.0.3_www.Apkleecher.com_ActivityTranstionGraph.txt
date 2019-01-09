@@ -1,0 +1,3 @@
+com.foreverbilisim.arkadasbul.SplashScreen-->com.foreverbilisim.arkadasbul.MyActivity
+flag:finish
+

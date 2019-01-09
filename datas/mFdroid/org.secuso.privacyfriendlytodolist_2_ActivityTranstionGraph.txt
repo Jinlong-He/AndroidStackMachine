@@ -1,0 +1,15 @@
+org.secuso.privacyfriendlytodolist.view.MainActivity-->org.secuso.privacyfriendlytodolist.view.MainActivity
+flag:finish
+
+org.secuso.privacyfriendlytodolist.view.MainActivity-->org.secuso.privacyfriendlytodolist.view.Settings
+flag:
+
+org.secuso.privacyfriendlytodolist.view.MainActivity-->org.secuso.privacyfriendlytodolist.view.AboutActivity
+flag:
+
+org.secuso.privacyfriendlytodolist.view.MainActivity-->org.secuso.privacyfriendlytodolist.view.HelpActivity
+flag:
+
+org.secuso.privacyfriendlytodolist.view.SplashActivity-->org.secuso.privacyfriendlytodolist.view.MainActivity
+flag:finish
+

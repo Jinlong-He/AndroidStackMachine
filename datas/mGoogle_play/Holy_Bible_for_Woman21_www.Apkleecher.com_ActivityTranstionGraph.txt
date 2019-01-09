@@ -1,0 +1,3 @@
+br.com.tunglabs.bibliasagrada.kjv.women.SplashActivity-->br.com.tunglabs.bibliasagrada.kjv.women.MainActivity
+flag:finish
+

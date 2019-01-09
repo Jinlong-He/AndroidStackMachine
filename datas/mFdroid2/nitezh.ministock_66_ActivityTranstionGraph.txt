@@ -1,0 +1,3 @@
+nitezh.ministock.activities.PreferencesActivity-->nitezh.ministock.activities.PortfolioActivity
+flag:
+

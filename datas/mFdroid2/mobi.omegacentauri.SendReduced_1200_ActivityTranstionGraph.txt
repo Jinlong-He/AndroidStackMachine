@@ -1,0 +1,6 @@
+mobi.omegacentauri.SendReduced.SendReduced-->ShowLicense
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+mobi.omegacentauri.SendReduced.GetReduced-->ShowLicense
+flag:
+

@@ -1,0 +1,3 @@
+com.moon.hao2.mhnn2.RSplashActivity-->com.moon.hao2.mhnn2.MainActivity
+flag:finish
+

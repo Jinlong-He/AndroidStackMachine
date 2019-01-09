@@ -1,0 +1,3 @@
+de.live.gdev.cherrymusic.activity.MainActivity-->de.live.gdev.cherrymusic.activity.InfoActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.ecobee.athenamobile.ui.MainActivity
+launchMode:stp
+TaskAffinity:com.ecobee.athenamobile.ui.MainActivity
+NIAM#
+

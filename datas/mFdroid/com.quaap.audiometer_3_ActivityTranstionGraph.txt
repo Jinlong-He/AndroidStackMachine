@@ -1,0 +1,6 @@
+com.quaap.audiometer.MainActivity-->com.quaap.audiometer.AboutActivity
+flag:
+
+com.quaap.audiometer.MainActivity-->com.quaap.audiometer.HelpActivity
+flag:
+

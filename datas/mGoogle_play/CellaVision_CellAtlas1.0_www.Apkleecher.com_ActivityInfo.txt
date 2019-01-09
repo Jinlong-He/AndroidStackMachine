@@ -1,0 +1,6 @@
+#MAIN
+activity:se.cellavision.cellatlas.view.StartActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

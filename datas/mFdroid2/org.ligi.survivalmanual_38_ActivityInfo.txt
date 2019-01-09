@@ -1,0 +1,14 @@
+activity:org.ligi.survivalmanual.ui.ImageViewActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.ligi.survivalmanual.ui.PreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:org.ligi.survivalmanual.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

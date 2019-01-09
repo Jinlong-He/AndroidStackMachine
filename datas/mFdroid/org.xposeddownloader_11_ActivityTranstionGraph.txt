@@ -1,0 +1,6 @@
+org.xposeddownloader.MainActivity-->org.xposeddownloader.SetPreferenceActivity
+flag:
+
+org.xposeddownloader.DirectoryPicker-->org.xposeddownloader.DirectoryPicker
+flag:
+

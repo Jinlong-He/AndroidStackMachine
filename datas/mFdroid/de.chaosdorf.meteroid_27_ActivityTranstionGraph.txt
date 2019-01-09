@@ -1,0 +1,15 @@
+de.chaosdorf.meteroid.SetHostname-->unknown
+flag:
+
+de.chaosdorf.meteroid.BuyDrink-->unknown
+flag:
+
+de.chaosdorf.meteroid.MainActivity-->unknown
+flag:
+
+de.chaosdorf.meteroid.UserSettings-->unknown
+flag:
+
+de.chaosdorf.meteroid.PickUsername-->unknown
+flag:
+

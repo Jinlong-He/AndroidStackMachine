@@ -1,0 +1,14 @@
+#MAIN
+activity:com.b44t.ui.LaunchActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.b44t.ui.IntroActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.b44t.messenger.OpenChatReceiver
+LaunchMode:std
+TaskAffinity:null
+

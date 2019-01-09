@@ -1,0 +1,6 @@
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+com.adsdk.sdk.video.RichMediaActivity-->com.adsdk.sdk.video.RichMediaActivity
+flag:
+

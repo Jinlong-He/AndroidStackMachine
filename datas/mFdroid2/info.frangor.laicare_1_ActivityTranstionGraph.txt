@@ -1,0 +1,9 @@
+info.frangor.laicare.view.PetList-->info.frangor.laicare.view.TreatmentList
+flag:
+
+info.frangor.laicare.view.PetList-->info.frangor.laicare.view.SettingsActivity
+flag:
+
+info.frangor.laicare.view.PetList-->info.frangor.laicare.view.AboutActivity
+flag:
+

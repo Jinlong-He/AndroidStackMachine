@@ -1,0 +1,9 @@
+com.porsa.sumalus.smiles.activities.SplashActivity-->com.porsa.sumalus.smiles.activities.LoginActivity
+flag:finish
+
+com.porsa.sumalus.smiles.activities.SplashActivity-->com.porsa.sumalus.smiles.activities.MainActivity
+flag:finish
+
+com.porsa.sumalus.smiles.activities.MainActivity-->com.porsa.sumalus.smiles.activities.LoginActivity
+flag:finish
+

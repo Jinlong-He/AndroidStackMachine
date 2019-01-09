@@ -1,0 +1,10 @@
+#MAIN
+activity:.WakeOnLan
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:.Settings
+LaunchMode:std
+TaskAffinity:null
+

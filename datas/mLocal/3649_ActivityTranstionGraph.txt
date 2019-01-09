@@ -1,0 +1,24 @@
+com.megvii.livenesslib.FaceLivenessResultActivity-->com.megvii.livenesslib.FaceLivenessResultActivity
+flag:
+
+com.shudu.chaoshi.activity.WelcomeActivity-->com.shudu.chaoshi.activity.MainActivity
+flag:finish
+
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.jpush.android.ui.PopWinActivity-->com.shudu.chaoshi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.shudu.chaoshi.activity.FaceIDCardScanActivity-->com.shudu.chaoshi.activity.FaceIDCardScanActivity
+flag:
+
+cn.jpush.android.ui.PushActivity-->com.shudu.chaoshi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.shudu.chaoshi.activity.FaceBankCardScanActivity-->com.shudu.chaoshi.activity.FaceBankCardScanActivity
+flag:
+
+com.shudu.chaoshi.activity.FaceLivenessActivity-->com.megvii.livenesslib.FaceLivenessResultActivity
+flag:finish
+

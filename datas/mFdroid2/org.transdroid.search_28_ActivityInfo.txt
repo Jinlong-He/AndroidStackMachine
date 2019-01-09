@@ -1,0 +1,14 @@
+#MAIN
+activity:org.transdroid.search.gui.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.transdroid.search.gui.SettingsActivityCompat
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.transdroid.search.gui.SettingsActivityModern
+LaunchMode:std
+TaskAffinity:null
+

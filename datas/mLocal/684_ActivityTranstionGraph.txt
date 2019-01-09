@@ -1,0 +1,3 @@
+com.ljezny.pencilcamera.lib.SplashActivity-->com.ljezny.pencilcamera.lib.PencilCameraActivity
+flag:finish
+

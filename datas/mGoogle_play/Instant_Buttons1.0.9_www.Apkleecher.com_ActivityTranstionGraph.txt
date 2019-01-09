@@ -1,0 +1,12 @@
+com.crema.instant.MainActivity-->com.crema.instant.MainActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+com.inmobi.rendering.InMobiAdActivity-->com.crema.instant.MainActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.crema.instant.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.heyzap.sdk.ads.HeyzapProxyActivity-->com.crema.instant.MainActivity
+flag:
+

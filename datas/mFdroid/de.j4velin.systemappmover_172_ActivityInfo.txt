@@ -1,0 +1,6 @@
+#MAIN
+activity:de.j4velin.systemappmover.MoverActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

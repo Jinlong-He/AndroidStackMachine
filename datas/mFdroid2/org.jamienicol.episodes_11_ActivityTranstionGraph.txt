@@ -1,0 +1,21 @@
+org.jamienicol.episodes.ShowActivity-->org.jamienicol.episodes.SeasonActivity
+flag:
+
+org.jamienicol.episodes.AddShowSearchActivity-->org.jamienicol.episodes.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+org.jamienicol.episodes.MainActivity-->org.jamienicol.episodes.ShowActivity
+flag:
+
+org.jamienicol.episodes.MainActivity-->org.jamienicol.episodes.AboutActivity
+flag:
+
+org.jamienicol.episodes.MainActivity-->org.jamienicol.episodes.AddShowSearchActivity
+flag:
+
+org.jamienicol.episodes.MainActivity-->org.jamienicol.episodes.SettingsActivity
+flag:
+
+org.jamienicol.episodes.SeasonActivity-->org.jamienicol.episodes.EpisodeActivity
+flag:
+

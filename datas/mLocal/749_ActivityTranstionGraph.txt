@@ -1,0 +1,6 @@
+com.tiger.goodvideo.activity.HbDetailActivity-->com.tiger.goodvideo.activity.AdActivity
+flag:
+
+tcking.github.com.giraffeplayer.GiraffePlayerActivity-->tcking.github.com.giraffeplayer.GiraffePlayerActivity
+flag:
+

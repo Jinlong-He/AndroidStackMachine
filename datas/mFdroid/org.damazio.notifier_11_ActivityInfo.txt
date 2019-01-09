@@ -1,0 +1,10 @@
+#MAIN
+activity:.NotifierMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.locale.EditActivity
+LaunchMode:std
+TaskAffinity:null
+

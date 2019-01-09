@@ -1,0 +1,3 @@
+br.com.arlsoft.pushclient.PendingNotificationActivity-->com.radioreference.broadcastify.NotificationClickedActivity
+flag:finish
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.abcmouse.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

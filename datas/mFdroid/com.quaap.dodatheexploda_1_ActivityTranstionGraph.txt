@@ -1,0 +1,12 @@
+com.quaap.dodatheexploda.EntryActivity-->com.quaap.dodatheexploda.MainActivity
+flag:
+
+com.quaap.dodatheexploda.SplashActivity-->com.quaap.dodatheexploda.AboutActivity
+flag:
+
+com.quaap.dodatheexploda.SplashActivity-->com.quaap.dodatheexploda.EntryActivity
+flag:finish
+
+com.quaap.dodatheexploda.MainActivity-->com.quaap.dodatheexploda.EntryActivity
+flag:finish
+

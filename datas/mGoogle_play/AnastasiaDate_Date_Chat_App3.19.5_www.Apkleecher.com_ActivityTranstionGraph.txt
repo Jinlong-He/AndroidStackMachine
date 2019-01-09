@@ -1,0 +1,3 @@
+com.itonline.anastasiadate.activities.AnastasiaDateActivity-->com.itonline.anastasiadate.activities.AnastasiaDateBasicActivity
+flag:
+

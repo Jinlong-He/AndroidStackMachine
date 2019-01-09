@@ -1,0 +1,14 @@
+activity:me.piebridge.prevent.ui.AdvancedSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:me.piebridge.prevent.ui.UserGuideActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:me.piebridge.prevent.ui1.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

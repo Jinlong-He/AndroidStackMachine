@@ -1,0 +1,9 @@
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.to.optimizer.battery.optimize.act.QuickOptimizeActivity
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.to.optimizer.battery.optimize.act.QuickOptimizeActivity
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.to.optimizer.battery.optimize.act.QuickOptimizeActivity
+flag:
+

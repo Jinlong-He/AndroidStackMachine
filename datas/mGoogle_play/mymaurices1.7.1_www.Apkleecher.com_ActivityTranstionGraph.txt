@@ -1,0 +1,27 @@
+com.maurices.mymaurices.activity.more.MoreActivity-->com.maurices.mymaurices.activity.more.ProgramDetailsActivity
+flag:
+
+com.maurices.mymaurices.activity.more.MoreActivity-->com.maurices.mymaurices.activity.more.TermsActivity
+flag:
+
+com.maurices.mymaurices.activity.more.MoreActivity-->com.maurices.mymaurices.activity.more.FaqActivity
+flag:
+
+com.maurices.mymaurices.activity.SignUpProfileActivity-->com.maurices.mymaurices.activity.PointsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.maurices.mymaurices.activity.SignUpProfileActivity-->com.maurices.mymaurices.activity.TempTermsActivity
+flag:
+
+com.maurices.mymaurices.activity.SignInUpLandingActivity-->com.maurices.mymaurices.activity.PointsActivity
+flag:finish
+
+com.maurices.mymaurices.activity.ProfileActivity-->com.maurices.mymaurices.activity.UpdatePasswordActivity
+flag:
+
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

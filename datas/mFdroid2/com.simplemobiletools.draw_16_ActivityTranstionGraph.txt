@@ -1,0 +1,9 @@
+com.simplemobiletools.draw.activities.AboutActivity-->com.simplemobiletools.draw.activities.LicenseActivity
+flag:
+
+com.simplemobiletools.draw.activities.MainActivity-->com.simplemobiletools.draw.activities.SettingsActivity
+flag:
+
+com.simplemobiletools.draw.activities.MainActivity-->com.simplemobiletools.draw.activities.AboutActivity
+flag:
+

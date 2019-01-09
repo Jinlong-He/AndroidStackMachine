@@ -1,0 +1,6 @@
+#MAIN
+activity:com.nicusa.utdwrmobile.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

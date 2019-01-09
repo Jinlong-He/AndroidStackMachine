@@ -1,0 +1,3 @@
+.AnCameraActivity-->android.provider.Settings
+flag:
+

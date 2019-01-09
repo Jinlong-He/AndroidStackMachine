@@ -1,0 +1,9 @@
+net.sourceforge.wifiremoteplay.MainActivity-->net.sourceforge.wifiremoteplay.DVDActivity
+flag:
+
+net.sourceforge.wifiremoteplay.MainActivity-->net.sourceforge.wifiremoteplay.MyPreferenceActivity
+flag:
+
+net.sourceforge.wifiremoteplay.MainActivity-->net.sourceforge.wifiremoteplay.FileBrowserActivity
+flag:
+

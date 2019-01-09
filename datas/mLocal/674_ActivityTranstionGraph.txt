@@ -1,0 +1,27 @@
+com.sundaybugs.spring.SettingActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.sundaybugs.spring.MainActivity-->com.sundaybugs.spring.GalleryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sundaybugs.spring.MainActivity-->com.sundaybugs.spring.SettingActivity
+flag:
+
+com.sundaybugs.spring.MainActivity-->com.sundaybugs.spring.StretchActivity
+flag:
+
+com.sundaybugs.spring.MainActivity-->com.gun0912.tedpermission.TedPermissionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.sundaybugs.spring.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.sundaybugs.spring.ResultActivity-->com.sundaybugs.spring.GalleryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.sundaybugs.spring.StretchActivity-->com.sundaybugs.spring.ResultActivity
+flag:finish
+

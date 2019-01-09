@@ -1,0 +1,14 @@
+#MAIN
+activity:com.vst.live.VstLivePlayer
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.vst.live.GuidePageActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.vst.dev.common.screensaver.ScreenSaverActivity
+LaunchMode:sit
+TaskAffinity:null
+

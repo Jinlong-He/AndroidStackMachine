@@ -1,0 +1,9 @@
+yamayka.apps.NailsTutorial.MyActivity-->yamayka.apps.NailsTutorial.ImageFragment
+flag:
+
+yamayka.apps.NailsTutorial.MyActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.startapp.android.publish.ads.list3d.List3DActivity-->com.startapp.android.publish.adsCommon.activities.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

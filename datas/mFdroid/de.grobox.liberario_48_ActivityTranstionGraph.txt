@@ -1,0 +1,21 @@
+de.grobox.liberario.activities.MapActivity-->de.grobox.liberario.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+de.grobox.liberario.activities.MainActivity-->de.grobox.liberario.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+de.grobox.liberario.activities.MainActivity-->de.grobox.liberario.activities.PickNetworkProviderActivity
+flag:
+
+de.grobox.liberario.activities.TripsActivity-->de.grobox.liberario.activities.TripDetailActivity
+flag:
+
+de.grobox.liberario.activities.TripDetailActivity-->de.grobox.liberario.activities.MapActivity
+flag:
+
+de.grobox.liberario.activities.AmbiguousLocationActivity-->de.grobox.liberario.activities.TripsActivity
+flag:
+
+de.grobox.liberario.activities.AmbiguousLocationActivity-->de.grobox.liberario.activities.AmbiguousLocationActivity
+flag:
+

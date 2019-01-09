@@ -1,0 +1,30 @@
+com.ht.realblacklove.LoginActivity-->com.ht.realblacklove.SignUpActivity
+flag:
+
+com.ht.realblacklove.LoginActivity-->com.ht.realblacklove.AboutUs_Activity
+flag:
+
+com.ht.realblacklove.HomeActivity-->com.ht.realblacklove.SignUpActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ht.realblacklove.HomeActivity-->com.ht.realblacklove.EditProfileActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ht.realblacklove.HomeActivity-->com.ht.realblacklove.AboutUs_Activity
+flag:
+
+com.ht.realblacklove.MySubscriptionActivity-->com.ht.realblacklove.PaymentActivityWeb
+flag:
+
+com.ht.realblacklove.ScreenCalculationActivity-->com.ht.realblacklove.LoginActivity
+flag:
+
+com.ht.realblacklove.PaymentActivityWeb-->com.ht.realblacklove.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ht.realblacklove.ChangeSettingActivity-->com.ht.realblacklove.SignUpActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ht.realblacklove.SearchMembersActivity-->com.ht.realblacklove.SearchMembersActivity
+flag:finish
+

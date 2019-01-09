@@ -1,0 +1,6 @@
+#MAIN
+activity:org.vi_server.red_screen.RedScreenActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

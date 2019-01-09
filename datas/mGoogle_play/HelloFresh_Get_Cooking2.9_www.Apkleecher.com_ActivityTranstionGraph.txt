@@ -1,0 +1,66 @@
+com.hellofresh.androidapp.ui.flows.web.view.WebActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.launch.LaunchActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:finish
+
+com.hellofresh.androidapp.ui.flows.launch.LaunchActivity-->com.hellofresh.androidapp.ui.flows.welcome.WelcomeActivity
+flag:finish
+
+com.hellofresh.androidapp.ui.flows.subscription.settings.SubscriptionSettingsActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.hellofresh.androidapp.deeplinks.receiver.DeepLinkReceiverActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.main.settings.SettingsActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.main.settings.SettingsActivity-->com.zopim.android.sdk.prechat.ZopimChatActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.main.settings.SettingsActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.hellofresh.androidapp.ui.flows.login.LoginSignUpActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:finish
+
+com.hellofresh.androidapp.ui.flows.login.LoginSignUpActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.hellofresh.androidapp.ui.flows.main.MainActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.main.MainActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.zopim.android.sdk.prechat.ZopimChatActivity-->com.zopim.android.sdk.prechat.ZopimChatActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.main.shop.purchase.view.ShopPurchaseActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.hellofresh.androidapp.ui.flows.subscription.SubscriptionActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.appboy.ui.AppboyWebViewActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.main.more.appsettings.language.view.LanguageSelectionActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.hellofresh.androidapp.ui.flows.welcome.WelcomeActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.hellofresh.androidapp.ui.flows.recipe.RecipeActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:
+
+com.hellofresh.androidapp.ui.flows.main.more.appsettings.country.view.CountrySelectionActivity-->com.hellofresh.androidapp.ui.flows.launch.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+

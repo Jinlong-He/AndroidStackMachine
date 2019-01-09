@@ -1,0 +1,21 @@
+com.peter.images.shape.ShapeActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.peter.images.shape.ShapeActivity-->com.peter.images.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.peter.images.setting.SettingActivity-->com.peter.images.setting.edit.EditActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.peter.images.setting.SettingActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.peter.images.setting.SettingActivity-->com.peter.images.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.peter.images.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+

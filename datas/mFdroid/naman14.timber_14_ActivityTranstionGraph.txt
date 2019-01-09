@@ -1,0 +1,15 @@
+com.naman14.timber.activities.MainActivity-->com.naman14.timber.activities.DonateActivity
+flag:
+
+com.naman14.timber.activities.MainActivity-->com.naman14.timber.activities.NowPlayingActivity
+flag:
+
+com.naman14.timber.activities.MainActivity-->com.naman14.timber.activities.NowPlayingActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.naman14.timber.activities.MainActivity-->com.naman14.timber.activities.SettingsActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.naman14.timber.activities.MainActivity-->com.naman14.timber.activities.SettingsActivity
+flag:
+

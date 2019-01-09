@@ -1,0 +1,9 @@
+AboutActivity-->com.dozingcatsoftware.bouncy.AboutActivity
+flag:
+
+.BouncyActivity-->com.dozingcatsoftware.bouncy.BouncyPreferences
+flag:
+
+.BouncyActivity-->com.dozingcatsoftware.bouncy.AboutActivity
+flag:
+

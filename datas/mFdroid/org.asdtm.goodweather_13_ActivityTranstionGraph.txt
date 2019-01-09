@@ -1,0 +1,6 @@
+org.asdtm.goodweather.SettingsActivity-->org.asdtm.goodweather.LicenseActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+org.asdtm.goodweather.MainActivity-->org.asdtm.goodweather.SearchActivity
+flag:
+

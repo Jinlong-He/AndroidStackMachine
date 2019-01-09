@@ -1,0 +1,9 @@
+com.quaap.primary.MainActivity-->com.quaap.primary.base.SubjectMenuActivity
+flag:
+
+com.quaap.primary.MainActivity-->com.quaap.primary.NounCleanActivity
+flag:
+
+com.quaap.primary.base.SubjectMenuActivity-->unknown
+flag:
+

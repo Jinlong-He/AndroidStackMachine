@@ -1,0 +1,3 @@
+grmpl.mk.stepandheightcounter.MainActivity-->grmpl.mk.stepandheightcounter.SettingsActivity
+flag:
+

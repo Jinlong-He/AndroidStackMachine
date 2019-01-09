@@ -1,0 +1,10 @@
+#MAIN
+activity:com.marcasra.whatsappprivate1click.free.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

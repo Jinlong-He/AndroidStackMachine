@@ -1,0 +1,14 @@
+#MAIN
+activity:appjodic.princess.puzzles.FisrtScreen
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:appjodic.princess.puzzles.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,14 @@
+activity:ca.farrelltonsolar.classic.MonitorActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:ca.farrelltonsolar.classic.Splash
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ca.farrelltonsolar.classic.Settings
+LaunchMode:std
+TaskAffinity:null
+

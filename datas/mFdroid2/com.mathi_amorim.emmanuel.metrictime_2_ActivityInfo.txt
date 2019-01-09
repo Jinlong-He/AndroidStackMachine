@@ -1,0 +1,6 @@
+#MAIN
+activity:com.mathi_amorim.emmanuel.metrictime.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

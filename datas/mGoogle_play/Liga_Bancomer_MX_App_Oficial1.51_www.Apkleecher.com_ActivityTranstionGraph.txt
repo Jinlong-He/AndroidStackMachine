@@ -1,0 +1,72 @@
+com.artech.activities.WebViewActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:
+
+com.artech.activities.WebViewActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.WebViewActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.VideoViewActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:
+
+com.artech.activities.DetailFiltersActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.DetailFiltersActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.DetailFiltersActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:
+
+com.artech.android.gam.AuthRedirectActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:finish
+
+com.artech.activities.FiltersActivity-->com.artech.activities.DetailFiltersActivity
+flag:
+
+com.artech.activities.FiltersActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.FiltersActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.FiltersActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.genexus.android.twitterapi.TwitterAuthWebView-->com.artech.android.gam.AuthRedirectActivity
+flag:
+
+com.artech.activities.SearchResultsActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.SearchResultsActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.SearchResultsActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:
+
+com.artech.android.gam.AuthManagementActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.artech.activities.dashboard.DashboardActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:finish
+
+com.artech.activities.dashboard.DashboardActivity-->com.artech.application.Preferences
+flag:
+
+com.artech.activities.dashboard.DashboardActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.artech.activities.dashboard.DashboardActivity-->com.artech.android.gam.AuthRedirectActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.futbolx.ligamx.Main-->com.artech.application.Preferences
+flag:
+

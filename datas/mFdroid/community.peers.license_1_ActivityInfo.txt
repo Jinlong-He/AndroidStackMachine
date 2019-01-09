@@ -1,0 +1,14 @@
+#MAIN
+activity:community.peers.license.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:community.peers.license.activity.LicenseActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:community.peers.license.activity.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,3 @@
+com.flavionet.android.camera.preferences.NewCameraPreferences-->com.lamerman.FileDialog
+flag:
+

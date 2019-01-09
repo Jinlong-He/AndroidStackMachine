@@ -1,0 +1,6 @@
+.main_activity-->com.cam.clip_activity
+flag:
+
+.main_activity-->net.youmi.android.appoffers.YoumiOffersActivity
+flag:
+

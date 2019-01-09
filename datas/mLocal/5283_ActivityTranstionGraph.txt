@@ -1,0 +1,6 @@
+com.androidnative.gms.core.GooglePlaySupportActivity-->com.androidnative.AndroidNativeProxy
+flag:
+
+com.androidnative.AndroidNativeProxy-->com.androidnative.AndroidNativeProxy
+flag:
+

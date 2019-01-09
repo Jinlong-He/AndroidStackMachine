@@ -1,0 +1,24 @@
+com.jb.gokeyboard.theme.twchangecolorofkeypad.ActivateActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.TestKeyboardActivity
+flag:
+
+com.jb.gokeyboard.theme.twchangecolorofkeypad.ActivateActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.jb.gokeyboard.theme.twchangecolorofkeypad.TestKeyboardActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity
+flag:
+
+com.jb.gokeyboard.theme.twchangecolorofkeypad.InstallActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity
+flag:finish
+
+com.jb.gokeyboard.theme.twchangecolorofkeypad.DownloadActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.ActivateActivity
+flag:finish
+
+com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity
+flag:
+
+com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity-->com.jb.gokeyboard.theme.twchangecolorofkeypad.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

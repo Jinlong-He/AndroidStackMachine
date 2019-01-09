@@ -1,0 +1,9 @@
+com.cookware.eggrecipes.SplashActivity-->com.cookware.eggrecipes.MainActivity
+flag:finish
+
+com.cookware.eggrecipes.MainActivity-->com.cookware.eggrecipes.MainActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.cookware.eggrecipes.MainActivity
+flag:
+

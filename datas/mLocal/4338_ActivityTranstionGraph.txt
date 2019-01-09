@@ -1,0 +1,3 @@
+com.c4mprod.ezcodescanner.RootActivity-->com.c4mprod.ezcodescanner.camera.CameraActivity
+flag:
+

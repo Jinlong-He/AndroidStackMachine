@@ -1,0 +1,14 @@
+#MAIN
+activity:free.rm.skytube.gui.activities.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:free.rm.skytube.gui.activities.YouTubePlayerActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:free.rm.skytube.gui.activities.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

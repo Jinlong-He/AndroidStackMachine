@@ -1,0 +1,33 @@
+com.google.zxing.client.android.encode.EncodeActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.google.zxing.client.android.GoogleSignInActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.google.zxing.client.android.SignInOptionsActivity-->unknown
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.google.zxing.client.android.history.HistoryActivity-->com.google.zxing.client.android.CloudSettingsActivity
+flag:
+
+com.google.zxing.client.android.share.ShareActivity-->com.google.zxing.client.android.encode.EncodeActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.CloudSettingsActivity
+flag:
+
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.google.zxing.client.android.CloudSettingsActivity-->com.google.zxing.client.android.SignInOptionsActivity
+flag:
+

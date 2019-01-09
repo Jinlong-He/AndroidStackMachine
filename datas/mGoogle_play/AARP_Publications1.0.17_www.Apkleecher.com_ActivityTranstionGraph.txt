@@ -1,0 +1,6 @@
+.folioview.FolioActivity-->org.aarp.epubdps.LibraryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+.placeholder.SdcardBrowserActivity-->org.aarp.epubdps.folioview.FolioActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.jellybelly.beanboozled.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:.StartActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.SingleActivity
+LaunchMode:std
+TaskAffinity:null
+

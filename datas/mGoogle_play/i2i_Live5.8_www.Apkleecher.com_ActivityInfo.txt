@@ -1,0 +1,6 @@
+#MAIN
+activity:info.videoplus.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

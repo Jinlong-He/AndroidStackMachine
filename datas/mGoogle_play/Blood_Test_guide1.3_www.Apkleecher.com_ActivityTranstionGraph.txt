@@ -1,0 +1,6 @@
+com.blood.testre.firstpage-->com.blood.testre.MainActivity
+flag:finish
+
+com.blood.testre.MainActivity-->com.blood.testre.DetailsActivity
+flag:
+

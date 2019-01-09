@@ -1,0 +1,9 @@
+.ui.activity.BackupFontPreviewActivity-->com.jumobile.manager.font.ui.activity.RootHelpActivity
+flag:
+
+.ui.activity.OnlineFontPreviewActivity-->com.jumobile.manager.font.ui.activity.LocalFontPreviewActivity
+flag:finish
+
+.ui.activity.IndexActivity-->com.jumobile.manager.font.ui.activity.MainActivity
+flag:finish
+

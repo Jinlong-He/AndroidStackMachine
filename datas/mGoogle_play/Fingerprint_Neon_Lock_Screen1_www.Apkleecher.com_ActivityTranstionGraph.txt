@@ -1,0 +1,39 @@
+neon.lockscreen.fingerprint.animal.Permission_activity-->neon.lockscreen.fingerprint.animal.activity.SettingActivity
+flag:finish
+
+neon.lockscreen.fingerprint.animal.activity.LockHasPasscode-->neon.lockscreen.fingerprint.animal.activity.LockHasPasscode
+flag:FLAG_FROM_BACKGROUND FLAG_ACTIVITY_NEW_TASK  
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.LockHasPasscode
+flag:
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.LockHasPasscode_finger
+flag:
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.LockNoPasscode
+flag:
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.DisablePass
+flag:
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.ChangePassCodeActivity
+flag:
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.Disable_Finger_Pass
+flag:
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.Change_Finger_passcode_Activity
+flag:
+
+neon.lockscreen.fingerprint.animal.activity.SettingActivity-->neon.lockscreen.fingerprint.animal.activity.PaddyGetBackgroundActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+neon.lockscreen.fingerprint.animal.activity.LockHasPasscode_finger-->neon.lockscreen.fingerprint.animal.activity.LockHasPasscode_finger
+flag:FLAG_FROM_BACKGROUND FLAG_ACTIVITY_NEW_TASK  
+
+neon.lockscreen.fingerprint.animal.activity.LockNoPasscode-->neon.lockscreen.fingerprint.animal.activity.LockNoPasscode
+flag:FLAG_FROM_BACKGROUND FLAG_ACTIVITY_NEW_TASK  
+

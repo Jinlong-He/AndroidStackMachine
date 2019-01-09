@@ -1,0 +1,6 @@
+.SplashScreen-->com.aminov.changeyourvoice.MainActivity
+flag:finish
+
+.MainActivity-->com.aminov.changeyourvoice.RecordingDailog
+flag:
+

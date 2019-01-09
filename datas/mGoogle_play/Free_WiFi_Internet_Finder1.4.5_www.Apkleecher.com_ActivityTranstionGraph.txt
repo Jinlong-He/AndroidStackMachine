@@ -1,0 +1,9 @@
+my.hotspot.ui.NetListActivity-->my.hotspot.ui.MainNetListActivity
+flag:finish
+
+my.hotspot.ui.NetViewActivity-->my.hotspot.ui.NetSpeedActivity
+flag:
+
+my.hotspot.ui.MainNetListActivity-->my.hotspot.ui.NetViewActivity
+flag:
+

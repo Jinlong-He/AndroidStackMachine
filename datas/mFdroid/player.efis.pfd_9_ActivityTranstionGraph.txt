@@ -1,0 +1,6 @@
+player.efis.pfd.EFISMainActivity-->player.efis.pfd.EFISPrefManage
+flag:
+
+player.efis.pfd.EFISMainActivity-->player.efis.pfd.EFISPrefSettings
+flag:
+

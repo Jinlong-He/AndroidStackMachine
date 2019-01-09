@@ -1,0 +1,3 @@
+com.apptentive.android.sdk.ApptentiveViewActivity-->com.buffalowildwings.bdubsapp.MainActivity
+flag:
+

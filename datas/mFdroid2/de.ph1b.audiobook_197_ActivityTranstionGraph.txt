@@ -1,0 +1,6 @@
+de.ph1b.audiobook.features.coldStart.SplashActivity-->de.ph1b.audiobook.features.MainActivity
+flag:finish
+
+de.ph1b.audiobook.features.folderChooser.FolderChooserActivity-->de.ph1b.audiobook.features.MainActivity
+flag:
+

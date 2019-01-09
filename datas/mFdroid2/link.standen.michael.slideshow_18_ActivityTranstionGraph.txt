@@ -1,0 +1,3 @@
+link.standen.michael.slideshow.MainActivity-->link.standen.michael.slideshow.ImageActivity
+flag:
+

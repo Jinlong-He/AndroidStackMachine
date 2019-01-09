@@ -1,0 +1,54 @@
+com.unlockd.mobile.registered.presentation.OfferDetailActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.unlockd.mobile.registered.presentation.OfferDetailActivity-->com.unlockd.mobile.registered.presentation.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.unlockd.mobile.onboarding.presentation.WelcomeActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.unlockd.mobile.onboarding.presentation.RegistrationCompleteActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.millennialmedia.internal.MMIntentWrapperActivity
+flag:
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.unlockd.mobile.onboarding.presentation.SignupActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.unlockd.mobile.onboarding.presentation.SmsVerifyActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:
+
+com.unlockd.mobile.landing.presentation.LandingActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.unlockd.mobile.onboarding.presentation.EnterPhoneActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+
+com.unlockd.mobile.onboarding.presentation.InterestsActivity-->com.unlockd.mobile.landing.presentation.LandingActivity
+flag:
+

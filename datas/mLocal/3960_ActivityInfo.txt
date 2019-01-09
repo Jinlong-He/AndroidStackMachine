@@ -1,0 +1,14 @@
+#MAIN
+activity:com.codore.dressup.anastasia.MoreAppsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.codore.dressup.anastasia.DressUp
+LaunchMode:sit
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

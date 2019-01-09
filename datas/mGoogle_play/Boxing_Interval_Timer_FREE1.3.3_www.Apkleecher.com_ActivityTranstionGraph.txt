@@ -1,0 +1,9 @@
+com.mopub.common.MoPubBrowser-->com.mopub.common.MoPubBrowser
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.eightbitdreams.boxingintervaltimer.MainActivity-->com.eightbitdreams.boxingintervaltimer.SettingsActivity
+flag:finish
+
+com.eightbitdreams.boxingintervaltimer.SettingsActivity-->com.eightbitdreams.boxingintervaltimer.MainActivity
+flag:
+

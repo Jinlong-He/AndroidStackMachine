@@ -1,0 +1,33 @@
+pl.hypeapp.endoscope.ui.activity.ConnectToStreamActivity-->pl.hypeapp.endoscope.ui.activity.MainMenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+pl.hypeapp.endoscope.ui.activity.ConnectToStreamActivity-->pl.hypeapp.endoscope.ui.activity.PlayStreamActivity
+flag:
+
+pl.hypeapp.endoscope.ui.activity.MainMenuActivity-->pl.hypeapp.endoscope.ui.activity.HowToUseActivity
+flag:
+
+pl.hypeapp.endoscope.ui.activity.MainMenuActivity-->pl.hypeapp.endoscope.ui.activity.StartStreamActivity
+flag:
+
+pl.hypeapp.endoscope.ui.activity.MainMenuActivity-->pl.hypeapp.endoscope.ui.activity.ConnectToStreamActivity
+flag:
+
+pl.hypeapp.endoscope.ui.activity.MainMenuActivity-->pl.hypeapp.endoscope.ui.activity.SettingsActivity
+flag:
+
+pl.hypeapp.endoscope.ui.activity.SplashScreenActivity-->pl.hypeapp.endoscope.ui.activity.HowToUseActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+pl.hypeapp.endoscope.ui.activity.SplashScreenActivity-->pl.hypeapp.endoscope.ui.activity.MainMenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+pl.hypeapp.endoscope.ui.activity.StartStreamActivity-->pl.hypeapp.endoscope.ui.activity.MainMenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+pl.hypeapp.endoscope.ui.activity.HowToUseActivity-->pl.hypeapp.endoscope.ui.activity.MainMenuActivity
+flag:
+
+pl.hypeapp.endoscope.ui.activity.PlayStreamActivity-->pl.hypeapp.endoscope.ui.activity.ConnectToStreamActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

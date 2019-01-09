@@ -1,0 +1,14 @@
+#MAIN
+activity:fr.anuman.HomeDesign3D.HD3DActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.facebook.FacebookActivity
+LaunchMode:std
+TaskAffinity:null
+

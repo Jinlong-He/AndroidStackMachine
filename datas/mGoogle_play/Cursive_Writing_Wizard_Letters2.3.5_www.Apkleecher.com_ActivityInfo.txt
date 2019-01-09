@@ -1,0 +1,6 @@
+#MAIN
+activity:org.cocos2dx.cpp.AppActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

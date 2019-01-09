@@ -1,0 +1,6 @@
+#MAIN
+activity:com.koalasafe.KoalaSafePhoneCompanionApp.KoalaSafe
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

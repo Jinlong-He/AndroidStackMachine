@@ -1,0 +1,6 @@
+org.surrel.facebooknotifications.MainActivity-->org.surrel.facebooknotifications.PrefsActivity
+flag:
+
+org.surrel.facebooknotifications.MainActivity-->org.surrel.facebooknotifications.MainActivity
+flag:
+

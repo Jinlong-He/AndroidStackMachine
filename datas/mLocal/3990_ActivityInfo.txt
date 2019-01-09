@@ -1,0 +1,6 @@
+#MAIN
+activity:.Template
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

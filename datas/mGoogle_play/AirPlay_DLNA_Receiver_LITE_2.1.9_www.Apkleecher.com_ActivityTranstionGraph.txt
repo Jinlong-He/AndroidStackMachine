@@ -1,0 +1,12 @@
+com.waxrain.ui.WaxPlayer-->com.waxrain.ui.WaxPlayerSetting
+flag:
+
+io.vov.vitamio.activity.InitActivity-->com.waxrain.ui.WaxPlayer
+flag:finish
+
+com.waxrain.ui.WaxPlayerSetting-->com.waxrain.ui.WaxPlayerSetting
+flag:finish
+
+com.waxrain.ui.WaxPlayerSetting-->com.waxrain.ui.WaxPlayer
+flag:FLAG_ACTIVITY_NEW_TASK  
+

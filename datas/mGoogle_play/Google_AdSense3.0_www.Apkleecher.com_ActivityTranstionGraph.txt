@@ -1,0 +1,3 @@
+com.google.android.apps.ads.publisher.activity.BaseActivity-->com.google.android.apps.ads.publisher.activity.BaseActivity
+flag:
+

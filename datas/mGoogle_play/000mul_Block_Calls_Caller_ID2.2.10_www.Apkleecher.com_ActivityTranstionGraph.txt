@@ -1,0 +1,3 @@
+com.privacystar.core.ui.EulaActivity-->com.privacystar.core.ui.EulaActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

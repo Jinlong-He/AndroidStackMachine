@@ -1,0 +1,6 @@
+#MAIN
+activity:org.bobstuff.bobball.BobBallActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

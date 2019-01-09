@@ -1,0 +1,18 @@
+gov.honolulu.dabus2.InfoActivity-->gov.honolulu.dabus2.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+gov.honolulu.dabus2.MapActivity-->gov.honolulu.dabus2.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+gov.honolulu.dabus2.Map2Activity-->gov.honolulu.dabus2.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+gov.honolulu.dabus2.FavoriteActivity-->gov.honolulu.dabus2.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+gov.honolulu.dabus2.YouTubeActivity-->gov.honolulu.dabus2.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+gov.honolulu.dabus2.SearchActivity-->gov.honolulu.dabus2.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

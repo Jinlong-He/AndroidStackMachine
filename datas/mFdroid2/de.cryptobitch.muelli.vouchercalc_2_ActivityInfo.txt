@@ -1,0 +1,6 @@
+#MAIN
+activity:de.cryptobitch.muelli.vouchercalc.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

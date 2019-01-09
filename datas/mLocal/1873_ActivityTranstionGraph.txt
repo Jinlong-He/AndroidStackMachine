@@ -1,0 +1,3 @@
+.MainActivity-->com.Chaoji.man1.AActivity
+flag:
+

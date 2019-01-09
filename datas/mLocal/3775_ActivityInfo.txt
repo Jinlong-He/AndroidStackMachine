@@ -1,0 +1,14 @@
+#MAIN
+activity:com.mobilewindow.theme.windowsstyle.windows7.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.baidu.mobstat.demo.supportv4fragment.MainFragmentActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:com.baidu.mobstat.demo.appfragment.AppFragmentDemoActivity
+LaunchMode:sit
+TaskAffinity:null
+

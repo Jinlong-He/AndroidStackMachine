@@ -1,0 +1,3 @@
+.ArticleListActivity-->com.twobuntu.twobuntu.ArticleDetailActivity
+flag:
+

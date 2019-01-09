@@ -1,0 +1,12 @@
+re.jcg.playmusicexporter.activities.SettingsActivity-->re.jcg.playmusicexporter.activities.SettingsActivity
+flag:
+
+re.jcg.playmusicexporter.activities.MusicContainerListActivity-->re.jcg.playmusicexporter.activities.MusicTrackListActivity
+flag:
+
+re.jcg.playmusicexporter.activities.MusicContainerListActivity-->re.jcg.playmusicexporter.activities.Intro
+flag:finish
+
+re.jcg.playmusicexporter.activities.Intro-->re.jcg.playmusicexporter.activities.MusicContainerListActivity
+flag:
+

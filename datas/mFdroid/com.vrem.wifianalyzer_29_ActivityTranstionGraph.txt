@@ -1,0 +1,3 @@
+com.vrem.wifianalyzer.MainActivity-->com.vrem.wifianalyzer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+

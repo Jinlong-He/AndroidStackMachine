@@ -1,0 +1,9 @@
+MoreSettings-->net.tedstein.AndroSS.DebugInfo
+flag:
+
+ConfigurationActivity-->net.tedstein.AndroSS.GLDetector
+flag:
+
+ConfigurationActivity-->net.tedstein.AndroSS.MoreSettings
+flag:
+

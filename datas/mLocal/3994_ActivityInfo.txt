@@ -1,0 +1,14 @@
+#MAIN
+activity:com.example.android.navigationdrawerexample.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.youmi.android.AdBrowser
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.example.android.navigationdrawerexample.Ad
+LaunchMode:std
+TaskAffinity:null
+

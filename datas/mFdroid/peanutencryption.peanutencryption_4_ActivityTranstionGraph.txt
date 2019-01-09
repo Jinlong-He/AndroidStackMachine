@@ -1,0 +1,15 @@
+peanutencryption.peanutencryption.MainActivity-->peanutencryption.peanutencryption.Log_In
+flag:
+
+peanutencryption.peanutencryption.MainActivity-->peanutencryption.peanutencryption.Initialization
+flag:
+
+peanutencryption.peanutencryption.MainActivity-->peanutencryption.peanutencryption.NewCodeActivity
+flag:
+
+peanutencryption.peanutencryption.MainActivity-->peanutencryption.peanutencryption.LicenseActivity
+flag:
+
+peanutencryption.peanutencryption.MainActivity-->peanutencryption.peanutencryption.Change_Password_Activity
+flag:
+

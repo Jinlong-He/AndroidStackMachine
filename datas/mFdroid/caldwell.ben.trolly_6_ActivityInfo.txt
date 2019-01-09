@@ -1,0 +1,10 @@
+#MAIN
+activity:.Trolly
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.TrollyPreferences
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+de.hirtenstrasse.michael.lnkshortener.MainActivity-->de.hirtenstrasse.michael.lnkshortener.SetupActivity
+flag:finish
+
+de.hirtenstrasse.michael.lnkshortener.MainActivity-->de.hirtenstrasse.michael.lnkshortener.SettingsActivity
+flag:
+
+de.hirtenstrasse.michael.lnkshortener.DisplayShortenedUrlActivity-->de.hirtenstrasse.michael.lnkshortener.MainActivity
+flag:finish
+
+de.hirtenstrasse.michael.lnkshortener.DisplayShortenedUrlActivity-->de.hirtenstrasse.michael.lnkshortener.SetupActivity
+flag:
+

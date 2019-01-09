@@ -1,0 +1,14 @@
+#MAIN
+activity:.SolitaireCG
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.Preferences
+LaunchMode:std
+TaskAffinity:null
+
+activity:.Help
+LaunchMode:std
+TaskAffinity:null
+

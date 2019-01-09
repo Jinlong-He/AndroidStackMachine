@@ -1,0 +1,6 @@
+com.ywqc.show.SplashActivity-->com.ywqc.show.MainActivity
+flag:finish
+
+com.ywqc.show.MainActivity-->com.ywqc.show.DriftbottleActivity
+flag:
+

@@ -1,0 +1,102 @@
+com.hutch.hutchapp.Activities.SwapProductsActivity-->com.hutch.hutchapp.Activities.SubmitProjectActivity
+flag:
+
+com.hutch.hutchapp.Activities.ConfirmPhotoActivity-->com.hutch.hutchapp.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.hutch.hutchapp.Activities.ReplaceProductsActivity-->com.hutch.hutchapp.Activities.ConfirmProductsActivity
+flag:
+
+com.hutch.hutchapp.Activities.MainActivity-->com.hutch.hutchapp.Activities.PhotoActivity
+flag:
+
+com.hutch.hutchapp.Activities.MainActivity-->com.hutch.hutchapp.Activities.AccountActivity
+flag:
+
+com.hutch.hutchapp.Activities.MainActivity-->com.hutch.hutchapp.Activities.OrderHistoryActivity
+flag:
+
+com.hutch.hutchapp.Activities.MainActivity-->com.hutch.hutchapp.Activities.ReferFriendsActivity
+flag:
+
+com.hutch.hutchapp.Activities.MainActivity-->com.hutch.hutchapp.Activities.SplashActivity
+flag:
+
+com.hutch.hutchapp.Activities.MainActivity-->com.hutch.hutchapp.Activities.GetStartedActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.SplashActivity
+flag:
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.PhotoActivity
+flag:
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.RenderFilterActivity
+flag:
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.ProjectDetailsActivity
+flag:
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.GetStartedActivity
+flag:
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.ProjectDetailsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.hutch.hutchapp.Activities.SplashActivity-->com.hutch.hutchapp.Activities.GetStartedActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.hutch.hutchapp.Activities.SurveyActivity-->com.hutch.hutchapp.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.hutch.hutchapp.Activities.DeepLinkingActivity-->com.hutch.hutchapp.Activities.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.hutch.hutchapp.Activities.DeepLinkingActivity-->com.hutch.hutchapp.Activities.ProjectDetailsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.hutch.hutchapp.Activities.DeepLinkingActivity-->com.hutch.hutchapp.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.hutch.hutchapp.Activities.DeepLinkingActivity-->com.hutch.hutchapp.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.hutch.hutchapp.Activities.ProjectDetailsActivity-->com.hutch.hutchapp.Activities.SplashActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.hutch.hutchapp.Activities.PhotoActivity-->com.hutch.hutchapp.Activities.RoomTypeActivity
+flag:
+
+com.hutch.hutchapp.Activities.RoomTypeActivity-->com.hutch.hutchapp.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.hutch.hutchapp.Activities.SplashActivity
+flag:
+
+com.hutch.hutchapp.Activities.ConversationActivity-->com.hutch.hutchapp.Activities.CartActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.hutch.hutchapp.Activities.BaseActivity-->com.hutch.hutchapp.Activities.GetStartedActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+io.card.payment.CardIOActivity-->io.card.payment.DataEntryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NO_HISTORY  
+
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

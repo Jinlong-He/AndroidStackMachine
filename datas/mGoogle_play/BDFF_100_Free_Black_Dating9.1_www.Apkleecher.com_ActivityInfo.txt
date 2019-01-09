@@ -1,0 +1,10 @@
+#MAIN
+activity:MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

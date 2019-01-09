@@ -1,0 +1,6 @@
+com.morlunk.mumbleclient.app.PlumbleActivity-->com.morlunk.mumbleclient.preference.Preferences
+flag:
+
+com.morlunk.mumbleclient.app.PlumbleActivity-->com.morlunk.mumbleclient.app.PlumbleActivity
+flag:finish
+

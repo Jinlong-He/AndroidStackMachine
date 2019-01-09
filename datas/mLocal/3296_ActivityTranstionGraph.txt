@@ -1,0 +1,3 @@
+jp.co.cayto.appc.sdk.android.AppCWebActivity-->jp.co.cayto.appc.sdk.android.AppCAgreementActivity
+flag:
+

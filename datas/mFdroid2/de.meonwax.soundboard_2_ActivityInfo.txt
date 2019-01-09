@@ -1,0 +1,6 @@
+#MAIN
+activity:de.meonwax.soundboard.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

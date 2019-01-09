@@ -1,0 +1,9 @@
+com.turner.cnvideoapp.apps.go.MainController-->com.turner.cnvideoapp.apps.go.MainController
+flag:
+
+com.helpshift.campaigns.activities.NotificationActivity-->com.helpshift.campaigns.activities.ParentActivity
+flag:finish
+
+com.playhaven.android.view.FullScreen-->com.turner.cnvideoapp.apps.go.MainController
+flag:
+

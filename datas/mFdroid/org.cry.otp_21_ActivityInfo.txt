@@ -1,0 +1,14 @@
+activity:org.cry.otp.ProfileSetup
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:org.cry.otp.Profiles
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.cry.otp.Home
+LaunchMode:std
+TaskAffinity:null
+

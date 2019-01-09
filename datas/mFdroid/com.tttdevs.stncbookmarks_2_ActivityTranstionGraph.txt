@@ -1,0 +1,3 @@
+com.tttdevs.stncbookmarks.MainActivity-->com.tttdevs.stncbookmarks.ConfigActivity
+flag:
+

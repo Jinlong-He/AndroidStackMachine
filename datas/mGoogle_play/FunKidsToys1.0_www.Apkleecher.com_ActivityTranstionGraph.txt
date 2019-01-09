@@ -1,0 +1,3 @@
+com.funkidstoys.toys.kids.Logo-->com.funkidstoys.toys.kids.MainActivity
+flag:
+

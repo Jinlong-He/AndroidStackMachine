@@ -1,0 +1,6 @@
+#MAIN
+activity:com.huijiekuan.daikuanbao.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

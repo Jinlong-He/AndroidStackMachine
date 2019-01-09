@@ -1,0 +1,297 @@
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WebexAccountActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapScheduleActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.inmeeting.MeetingClient
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->unknown
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->unknown
+flag:finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapSigninActivity
+flag:finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity-->com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapSigninActivity
+flag:finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.ui.inmeeting.MeetingClient
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.app.DisableEmulatorActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity-->com.cisco.webex.meetings.app.PermissionCheckActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->unknown
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->unknown
+flag:finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapScheduleActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.inmeeting.MeetingClient
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity
+flag:
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.app.DisableEmulatorActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.app.PermissionCheckActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationActivity-->com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cisco.webex.meetings.ui.inmeeting.MeetingClient-->com.cisco.webex.meetings.ui.premeeting.SettingActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.inmeeting.MeetingClient-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.inmeeting.MeetingClient-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cisco.webex.meetings.ui.inmeeting.MeetingClient-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:
+
+com.cisco.webex.meetings.ui.inmeeting.MeetingClient-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebexAccountActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebexAccountActivity-->com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebexAccountActivity-->com.cisco.webex.meetings.app.DisableEmulatorActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebexAccountActivity-->com.cisco.webex.meetings.app.PermissionCheckActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  finish
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.app.DisableEmulatorActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.app.UnsupportDeviceActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting-->com.cisco.webex.meetings.app.PermissionCheckActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.signin.synergy.SetupActivity-->com.cisco.webex.meetings.app.DisableEmulatorActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.signin.synergy.SetupActivity-->com.cisco.webex.meetings.app.PermissionCheckActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.SettingHelpActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:
+
+com.cisco.webex.meetings.ui.premeeting.ShortcutActivity-->com.cisco.webex.meetings.ui.integration.IntegrationInternalActivity
+flag:
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapScheduleActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->com.cisco.webex.meetings.ui.inmeeting.MeetingClient
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->unknown
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->unknown
+flag:finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationAuthorizationActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapSigninActivity
+flag:finish
+
+com.cisco.webex.meetings.client.premeeting.OtherRoomInfoActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:
+
+com.cisco.webex.meetings.client.premeeting.OtherRoomInfoActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.SettingActivity-->com.cisco.webex.meetings.ui.premeeting.SettingSeamlessActivity
+flag:
+
+com.cisco.webex.meetings.ui.premeeting.SettingActivity-->com.cisco.webex.meetings.ui.premeeting.SettingHelpActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.SettingActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.premeeting.SettingActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.SettingActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:finish
+
+com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:
+
+com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity-->com.cisco.webex.meetings.ui.inmeeting.MeetingClient
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.integration.IntegrationFakeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapScheduleActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.inmeeting.MeetingClient
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->unknown
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->unknown
+flag:finish
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.premeeting.welcome.TermsofUseActivity-->com.cisco.webex.meetings.ui.integration.IntegrationWrapSigninActivity
+flag:finish
+
+com.cisco.webex.meetings.client.premeeting.MyAccountActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.client.premeeting.MyAccountActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:finish
+
+com.cisco.webex.meetings.ui.premeeting.AboutActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:
+
+com.cisco.webex.meetings.app.UnsupportDeviceActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:
+
+com.cisco.webex.meetings.ui.integration.IntegrationWrapAccountActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cisco.webex.meetings.ui.integration.IntegrationWrapAccountActivity-->com.cisco.webex.meetings.ui.integration.IntegrationActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.cisco.webex.meetings.ui.integration.IntegrationWrapAccountActivity-->com.cisco.webex.meetings.app.DisableEmulatorActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.integration.IntegrationWrapAccountActivity-->com.cisco.webex.meetings.app.PermissionCheckActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity-->com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity-->com.cisco.webex.meetings.ui.premeeting.meetinglist.MeetingListActivity
+flag:
+
+com.cisco.webex.meetings.ui.premeeting.welcome.WelcomeActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

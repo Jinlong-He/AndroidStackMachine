@@ -1,0 +1,9 @@
+com.pin.screen.lock.Loading-->com.pin.screen.lock.LockSettingActivity
+flag:finish
+
+com.pin.screen.lock.LockSettingActivity-->com.pin.screen.lock.WalpaerActivity
+flag:
+
+com.pin.screen.lock.LockSettingActivity-->com.pin.screen.lock.PinCodeActivity
+flag:
+

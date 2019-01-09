@@ -1,0 +1,9 @@
+net.justdave.nwsweatheralertswidget.MainActivity-->net.justdave.nwsweatheralertswidget.SettingsActivity
+flag:
+
+net.justdave.nwsweatheralertswidget.MainActivity-->net.justdave.nwsweatheralertswidget.DemoActivity
+flag:
+
+net.justdave.nwsweatheralertswidget.MainActivity-->net.justdave.nwsweatheralertswidget.DebugActivity
+flag:
+

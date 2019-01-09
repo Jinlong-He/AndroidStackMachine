@@ -1,0 +1,6 @@
+#MAIN
+activity:com.anddevw.getchromium.GetChromium
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

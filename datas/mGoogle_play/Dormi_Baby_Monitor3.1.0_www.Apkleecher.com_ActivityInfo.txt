@@ -1,0 +1,6 @@
+#MAIN
+activity:com.sleekbit.dormi.ui.BmActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

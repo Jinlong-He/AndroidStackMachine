@@ -1,0 +1,6 @@
+#MAIN
+activity:net.tevp.postcode.Postcode
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

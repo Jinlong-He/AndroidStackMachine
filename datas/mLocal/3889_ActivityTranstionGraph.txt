@@ -1,0 +1,15 @@
+.activity.SplashActivity-->org.xinmei.xuanziti.activity.MainActivity
+flag:finish
+
+.activity.MainActivity-->org.xinmei.xuanziti.activity.FeedbackActivity
+flag:
+
+.activity.MainActivity-->org.xinmei.xuanziti.activity.HelpActivity
+flag:
+
+.activity.MainActivity-->org.xinmei.xuanziti.activity.MoreApplyActivity
+flag:
+
+.activity.MainActivity-->com.umeng.update.UpdateDialogActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,12 @@
+com.adtech.yindaoye.SplashActivity-->com.adtech.regclientmyl.MainActivity
+flag:finish
+
+com.adtech.yindaoye.SplashActivity-->com.adtech.yindaoye.GuideActivity
+flag:finish
+
+com.adtech.regclientmyl.MainActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.adtech.yindaoye.GuideActivity-->com.adtech.regclientmyl.MainActivity
+flag:
+

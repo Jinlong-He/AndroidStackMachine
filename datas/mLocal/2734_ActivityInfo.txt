@@ -1,0 +1,6 @@
+#MAIN
+activity:Main
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

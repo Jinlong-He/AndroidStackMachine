@@ -1,0 +1,10 @@
+#MAIN
+activity:.BatteryDog
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.BatteryGraph
+LaunchMode:std
+TaskAffinity:null
+

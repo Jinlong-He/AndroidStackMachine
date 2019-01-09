@@ -1,0 +1,10 @@
+#MAIN
+activity:org.openlp.android2.OpenLP
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.openlp.android2.activities.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

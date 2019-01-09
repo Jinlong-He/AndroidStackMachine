@@ -1,0 +1,6 @@
+io.github.gsantner.memetastic.activity.MainActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+io.github.gsantner.memetastic.activity.SplashActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

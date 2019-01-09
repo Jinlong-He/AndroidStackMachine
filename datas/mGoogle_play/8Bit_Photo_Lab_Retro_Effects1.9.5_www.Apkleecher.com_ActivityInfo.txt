@@ -1,0 +1,14 @@
+#MAIN
+activity:com.ilixa.ebp.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.ilixa.ebp.ui.WallpaperPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

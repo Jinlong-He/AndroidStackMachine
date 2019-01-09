@@ -1,0 +1,6 @@
+#MAIN
+activity:com.yubico.yubioath.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

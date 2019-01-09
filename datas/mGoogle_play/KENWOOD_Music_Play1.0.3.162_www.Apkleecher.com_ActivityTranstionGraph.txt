@@ -1,0 +1,3 @@
+com.jvckenwood.ao2.kenwood.musicplay.MainActivity-->com.jvckenwood.ao2.preference.SettingActivity
+flag:
+

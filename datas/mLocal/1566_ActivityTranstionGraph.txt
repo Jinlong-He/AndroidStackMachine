@@ -1,0 +1,15 @@
+.preference.UserDictionaryActivity-->com.phatware.writepadsip.preference.UserDictionaryDeleteActivity
+flag:
+
+.preference.AutocorrectorListActivity-->com.phatware.writepadsip.preference.AutocorrectorDeleteListActivity
+flag:
+
+.Main-->com.phatware.writepadsip.Steps
+flag:
+
+.Main-->com.phatware.writepadsip.Tutorial
+flag:finish
+
+.Steps-->com.phatware.writepadsip.Tutorial
+flag:finish
+

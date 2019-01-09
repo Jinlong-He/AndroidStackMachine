@@ -1,0 +1,10 @@
+#MAIN
+activity:com.ultimarom.launchnavigation.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

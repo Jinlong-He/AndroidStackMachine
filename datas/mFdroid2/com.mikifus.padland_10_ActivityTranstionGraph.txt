@@ -1,0 +1,33 @@
+com.mikifus.padland.NewPadActivity-->com.mikifus.padland.PadViewActivity
+flag:finish
+
+com.mikifus.padland.PadLandDataActivity-->com.mikifus.padland.PadListActivity
+flag:finish
+
+com.mikifus.padland.SplashActivity-->com.mikifus.padland.IntroActivity
+flag:finish
+
+com.mikifus.padland.SplashActivity-->com.mikifus.padland.PadListActivity
+flag:finish
+
+com.mikifus.padland.PadViewActivity-->com.mikifus.padland.PadListActivity
+flag:
+
+com.mikifus.padland.PadViewActivity-->com.mikifus.padland.PadViewActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_NO_HISTORY  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mikifus.padland.PadInfoActivity-->com.mikifus.padland.PadViewActivity
+flag:
+
+com.mikifus.padland.IntroActivity-->com.mikifus.padland.PadListActivity
+flag:finish
+
+com.mikifus.padland.PadListActivity-->com.mikifus.padland.PadInfoActivity
+flag:
+
+com.mikifus.padland.PadListActivity-->com.mikifus.padland.NewPadActivity
+flag:
+
+com.mikifus.padland.PadListActivity-->com.mikifus.padland.PadViewActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_NO_HISTORY  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+

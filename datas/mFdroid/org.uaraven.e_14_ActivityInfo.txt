@@ -1,0 +1,14 @@
+#MAIN
+activity:.EMainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:EHelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ECodeViewActivity
+LaunchMode:std
+TaskAffinity:null
+

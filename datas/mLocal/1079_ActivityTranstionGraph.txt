@@ -1,0 +1,12 @@
+com.ph.ui.PzDeliveryActivity-->com.ph.ui.LotterActivity
+flag:
+
+com.alipay.sdk.auth.AuthActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.ph.ui.CordovaApp-->com.ph.ui.LotterActivity
+flag:
+
+com.ph.ui.SplashActivity-->com.ph.ui.CordovaApp
+flag:finish
+

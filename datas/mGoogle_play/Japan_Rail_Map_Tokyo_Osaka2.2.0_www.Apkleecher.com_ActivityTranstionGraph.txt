@@ -1,0 +1,6 @@
+jp.tokyostudio.android.surface.MainActivity-->jp.tokyostudio.android.setting.SettingPrefActivity
+flag:
+
+jp.tokyostudio.android.surface.MainActivity-->jp.tokyostudio.android.surface.MainActivity
+flag:finish
+

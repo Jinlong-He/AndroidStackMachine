@@ -1,0 +1,3 @@
+com.piviandco.boothcore.activities.AdsActivity-->com.piviandco.app.activities.mHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

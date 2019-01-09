@@ -1,0 +1,6 @@
+ru.valle.btc.MainActivity-->unknown
+flag:
+
+ru.valle.btc.MainActivity-->ru.valle.btc.ScanActivity
+flag:
+

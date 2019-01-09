@@ -1,0 +1,6 @@
+#MAIN
+activity:dmusiolik.pijaret.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

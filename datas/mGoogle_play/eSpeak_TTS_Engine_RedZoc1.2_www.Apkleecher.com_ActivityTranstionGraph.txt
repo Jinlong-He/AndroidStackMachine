@@ -1,0 +1,18 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.redzoc.ramees.tts.espeak.eSpeakActivity-->com.redzoc.ramees.tts.espeak.CheckVoiceData
+flag:
+
+com.redzoc.ramees.tts.espeak.eSpeakActivity-->com.redzoc.ramees.tts.espeak.TtsSettingsActivity
+flag:
+
+com.redzoc.ramees.tts.espeak.eSpeakActivity-->com.redzoc.ramees.tts.espeak.DownloadVoiceData
+flag:
+
+com.redzoc.ramees.tts.espeak.eSpeakActivity-->com.redzoc.ramees.tts.espeak.ContactActivity
+flag:
+
+com.redzoc.ramees.tts.espeak.eSpeakActivity-->com.redzoc.ramees.tts.espeak.AboutActivity
+flag:
+

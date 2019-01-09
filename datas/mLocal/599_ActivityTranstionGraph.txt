@@ -1,0 +1,15 @@
+com.adsk.sketchbook.SketchGallery-->com.adsk.sketchbook.SketchSlideGallery
+flag:
+
+com.adsk.sketchbook.SketchBook-->com.adsk.sketchbook.SketchGallery
+flag:
+
+com.adsk.sketchbook.SketchBook-->com.adsk.sketchbook.SketchBookStatement
+flag:
+
+com.adsk.sketchbook.SketchBook-->com.adsk.sketchbook.helpinfo.PreferencesSetting
+flag:
+
+com.adsk.sketchbook.SketchBook-->com.adsk.sketchbook.SketchBookTour
+flag:
+

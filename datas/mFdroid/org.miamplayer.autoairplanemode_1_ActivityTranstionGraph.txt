@@ -1,0 +1,3 @@
+org.miamplayer.autoairplanemode.MainActivity-->org.miamplayer.autoairplanemode.SettingsActivity
+flag:
+

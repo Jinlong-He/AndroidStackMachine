@@ -1,0 +1,30 @@
+com.carnival.sdk.MessageActivity-->com.birchbox.birchbox.activities.NavigationActivity
+flag:finish
+
+com.zendesk.sdk.support.ViewArticleActivity-->com.birchbox.birchbox.activities.NavigationActivity
+flag:
+
+com.zendesk.sdk.support.ViewArticleActivity-->com.zendesk.sdk.support.ViewArticleActivity
+flag:
+
+com.birchbox.birchbox.activities.NavigationActivity-->com.birchbox.birchbox.activities.LoginActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.localytics.android.PushTrackingActivity-->com.birchbox.birchbox.activities.NavigationActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.birchbox.birchbox.activities.NavigationActivity
+flag:
+
+com.zendesk.sdk.support.SupportActivity-->com.zendesk.sdk.feedback.ui.ContactZendeskActivity
+flag:
+
+com.zendesk.sdk.support.SupportActivity-->com.birchbox.birchbox.activities.NavigationActivity
+flag:
+
+com.zendesk.sdk.support.SupportActivity-->com.zendesk.sdk.support.ViewArticleActivity
+flag:
+
+com.zopim.android.sdk.prechat.ZopimChatActivity-->com.zopim.android.sdk.prechat.ZopimChatActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.secuso.privacyFriendlyCodeScanner.SplashActivity-->com.secuso.privacyFriendlyCodeScanner.MainActivity
+flag:finish
+

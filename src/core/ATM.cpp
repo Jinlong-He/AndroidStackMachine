@@ -12,6 +12,112 @@ using namespace cgh;
 ID State::counter = 0;
 template<> ID Global<ID>::epsilon = 0;
 namespace atm {
+    bool HasSameAct(const Acts& acts1, const Acts& acts2) {
+        for (Activity* act : acts1) {
+            if (acts2.count(act) > 0) return true;
+        }
+        return false;
+    }
+
+    bool isEqual(const Acts& acts1, const Acts& acts2) {
+        if (acts1.size() != acts2.size()) return false;
+        for (Activity* act : acts1) {
+            if (acts2.count(act) == 0) return false;
+        }
+        return true;
+    }
+
+    void getLoopActs(unordered_map<Activity*, pair<Acts, Act2ActionsMap> >& act2PrePostActsMap) {
+        bool flag = true;
+        while (flag && act2PrePostActsMap.size() > 0) {
+            flag = false;
+            for (auto& pair : act2PrePostActsMap) {
+                if (pair.second.first.size() == 0) {
+                    act2PrePostActsMap.erase(pair.first);
+                    for (auto& pair1 : act2PrePostActsMap) {
+                        pair1.second.first.erase(pair.first);
+                    }
+                    flag = true;
+                    break;
+                } else if (pair.second.second.size() == 0) {
+                    act2PrePostActsMap.erase(pair.first);
+                    for (auto& pair1 : act2PrePostActsMap) {
+                        pair1.second.second.erase(pair.first);
+                    }
+                    flag = true;
+                    break;
+                }
+            }
+        }
+    }
+
+    void getLoopByAct(Activity* act, Acts& visited, unordered_map<Activity*, pair<Acts, Act2ActionsMap> >& act2PrePostActsMap, Acts& minActs) {
+        for (auto& pair : act2PrePostActsMap[act].second) {
+            if (visited.count(pair.first) > 0) {
+                minActs.insert(visited.begin(), visited.end());
+                return;
+            }         
+        }
+        for (auto& pair : act2PrePostActsMap[act].second) {
+            Acts newMinActs;
+            Acts newVisited(visited.begin(), visited.end());
+            newVisited.insert(pair.first);
+            getLoopByAct(pair.first, newVisited, act2PrePostActsMap, newMinActs);
+            if (newMinActs.size() == 0) continue;
+            if (minActs.size() == 0 || minActs.size() > newMinActs.size()) {
+                minActs.clear();
+                minActs.insert(newMinActs.begin(), newMinActs.end());
+            }
+        }
+    }
+
+    void getMiniLoopActs(unordered_map<Activity*, pair<Acts, Act2ActionsMap> >& act2PrePostActsMap, Acts& loopActs, Acts& minActs) {
+        for (Activity* act : loopActs) {
+            Acts visited;
+            Acts newMinActs;
+            visited.insert(act);
+            getLoopByAct(act, visited, act2PrePostActsMap, newMinActs);
+            if (newMinActs.size() == 0) continue;
+            if (minActs.size() == 0 || minActs.size() > newMinActs.size()) {
+                minActs.clear();
+                minActs.insert(newMinActs.begin(), newMinActs.end());
+            }
+        }
+    }
+
+    void getPrePostActsMap(Actions& actions, Activity* realAct, Activity* mainAct, Acts& minActs) {
+        unordered_map<Activity*, pair<Acts, Act2ActionsMap> > act2PrePostActsMap;
+        Aft aft = realAct -> getAft();
+        for (Action* action : actions) {
+            Activity* act = action -> getSourceAct();
+            Activity* postActivity = action -> getTargetAct();
+            if (action -> hasNTKFlag() && postActivity == realAct && realAct != mainAct && !action -> hasCTPFlag())
+                continue;
+            if (action -> isFinishStart() && act == postActivity) {
+                continue;
+            }
+            if (action -> isNormalAction(aft, act)) {
+                act2PrePostActsMap[act].second[postActivity].insert(action);
+                act2PrePostActsMap[postActivity].first.insert(act);
+            }
+        }
+        getLoopActs(act2PrePostActsMap);
+        if (act2PrePostActsMap.size() > 0) {
+            Acts loopActs;
+            for (auto& mapPair : act2PrePostActsMap) {
+                loopActs.insert(mapPair.first);
+            }
+            getMiniLoopActs(act2PrePostActsMap, loopActs, minActs);
+            if (minActs.size() > 0) {
+                cout << realAct -> getName() << " : " << endl;
+                for (Activity* act : minActs) {
+                    cout << act -> getName() << endl;
+                }
+                cout << endl;
+            }
+        }
+    }
+
     ATM::ATM(Parse& parse) : maxLength(0), window(0), ignoreAft(""), mainActivity(parse.getMainActivity()), mainAft(parse.getMainAft()), afts(parse.getAfts().begin(), parse.getAfts().end()) {
         nullActivity = new Activity("null", 0);
         botActivity = new Activity("bot", 1);
@@ -22,7 +128,7 @@ namespace atm {
             }
         }
         Activity* botAct = new Activity();
-        mainAction = new Action(botActivity, mainActivity, Flags(), parse.getActions().size() + 1);
+        mainAction = new Action(botActivity, mainActivity, Flags(), 0, parse.getActions().size() + 1);
         actions.insert(mainAction);
     }
 
@@ -129,8 +235,9 @@ namespace atm {
                 }
             }
         }
-        mkNFAs();
         mkLoopMap();
+        mkCompGragh();
+        mkNFAs();
         getMaxLength(isBounded());
         getAvailablePos();
         Afts aftSet;
@@ -152,6 +259,166 @@ namespace atm {
         }
         afts.clear();
         afts.insert(aftSet.begin(), aftSet.end());
+    }
+
+    ID ATM::mkCompGragh() {
+        Act2ActionsMap reachActionsMap;
+        mkOutActionsMap(reachActionsMap);
+        bool flag = true;
+        for (auto& mapPair : realActMap) {
+            for (Activity* realAct : mapPair.second) {
+                Acts visited;
+                if (outActionsMap[realAct].size() == 0) {
+                    Acts minActs;
+                    Actions& virtualActions = reachActionsMap[realAct];
+                    getPrePostActsMap(virtualActions, realAct, mainActivity, minActs);
+                    if (minActs.size() > 0) {
+                        flag = false;
+                        if (!isBounded()) {
+                            if (isEqual(minActs, loopMap[realAct])) {
+                                cout << "true" <<endl;
+                                loopMap.clear();
+                                loopMap[realAct] = minActs;
+                                res = 1;
+                                return 1;
+                            }
+                            loopMap.clear();
+                            loopMap[realAct] = minActs;
+                            cout << "unbounded" << endl;
+                            res = 2;
+                            return 2;
+                        } else {
+                            cout << "fast unbounded" << endl;
+                            cout << "false" << endl;
+                            res = 0;
+                            return 0;
+                        }
+                    }
+                }
+                for (auto& mapPair: outActionsMap[realAct]) {
+                    for (Action* action : mapPair.second) {
+                        Activity* targetAct = action -> getTargetAct();
+                        if (visited.insert(targetAct).second) {
+                            Acts minActs;
+                            Actions& virtualActions = reachActionsMap[realAct];
+                            mkCompGragh(realAct, targetAct, virtualActions);
+                            getPrePostActsMap(virtualActions, realAct, mainActivity, minActs);
+                            if (minActs.size() > 0) {
+                                flag = false;
+                                if (!isBounded()) {
+                                    if (isEqual(minActs, loopMap[realAct])) {
+                                        cout << "true" <<endl;
+                                        loopMap.clear();
+                                        loopMap[realAct] = minActs;
+                                        res = 1;
+                                        return 1;
+                                    }
+                                    loopMap.clear();
+                                    loopMap[realAct] = minActs;
+                                    cout << "unbounded" << endl;
+                                    res = 2;
+                                    return 2;
+                                } else {
+                                    cout << "fast unbounded" << endl;
+                                    cout << "false" << endl;
+                                    res = 0;
+                                    return 0;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        if (flag && isBounded()) {
+            cout << "bounded and true";
+            res = 1;
+            return 1;
+        } else {
+            cout << flag << " " << isBounded() << endl;
+            cout << "false" << endl;
+            res = 0;
+            return 0;
+        }
+    }
+
+    void ATM::mkCompGragh(Activity* masterRealAct, Activity* slaveRealAct, Actions& virtualActions) {
+        Aft slaveAft = slaveRealAct -> getAft();
+        Aft masterAft = masterRealAct -> getAft();
+        Acts& masterReachActs = reachActsMap[masterRealAct];
+        Acts& slaveReachActs = reachActsMap[slaveRealAct];
+        Act2ActionsMap newActionsMap;
+        for (Action* action : outActionsMap[masterRealAct][slaveAft]) {
+            Activity* sourceAct = action -> getSourceAct();
+            Activity* newAct = action -> getTargetAct();
+            bool fin = action -> isFinishStart();
+            if (slaveReachActs.count(newAct) == 0) {
+                newActionsMap[slaveRealAct].insert(action);
+                addVirtualAction(slaveRealAct, masterRealAct, action, newActionsMap, virtualActions, 0);
+            }
+            for (Action* slaveAction : outActionsMap[slaveRealAct][masterAft]) {
+                Activity* act = slaveAction -> getTargetAct();
+                Flags& flags = slaveAction -> getFlags();
+                virtualActions.insert(new Action(sourceAct, act, flags, fin));
+            }
+        }
+        for (Action* action : outActionsMap[slaveRealAct][masterAft]) {
+            Activity* sourceAct = action -> getSourceAct();
+            Activity* newAct = action -> getTargetAct();
+            bool fin = action -> isFinishStart();
+            if (masterReachActs.count(newAct) == 0) {
+                newActionsMap[masterRealAct].insert(action);
+                addVirtualAction(masterRealAct, slaveRealAct, action, newActionsMap, virtualActions, 1);
+            }
+        }
+        for (Action* action : newActionsMap[masterRealAct]) {
+            Activity* newAct = action -> getTargetAct();
+            for (Action* newAction : outActionsMap[newAct][slaveAft]) {
+                Activity* sourceAct = newAction -> getSourceAct();
+                bool fin = action -> isFinishStart();
+                for (Action* slaveAction : outActionsMap[slaveRealAct][masterAft]) {
+                    Activity* act = slaveAction -> getTargetAct();
+                    Flags& flags = slaveAction -> getFlags();
+                    virtualActions.insert(new Action(sourceAct, act, flags, fin));
+                }
+            }
+        }
+    }
+
+    void ATM::addVirtualAction(Activity* masterRealAct, Activity* slaveRealAct, Action* newAction, Act2ActionsMap& newActionsMap, Actions& virtualActions, bool flag) {
+        Aft slaveAft = slaveRealAct -> getAft();
+        Aft masterAft = masterRealAct -> getAft();
+        Acts& masterReachActs = reachActsMap[masterRealAct];
+        Acts& slaveReachActs = reachActsMap[slaveRealAct];
+        Activity* newAct = newAction -> getTargetAct();
+        Activity* sourceAct = newAction -> getSourceAct();
+        bool fin = newAction -> isFinishStart();
+        for (Action* action : outActionsMap[newAct][slaveAft]) {
+            Activity* act = action -> getTargetAct();
+            Flags& flags = action -> getFlags();
+            if (flag) {
+                virtualActions.insert(new Action(sourceAct, act, flags, fin));
+            }
+            if (slaveReachActs.count(act) == 0) {
+                newActionsMap[slaveRealAct].insert(action);
+                addVirtualAction(slaveRealAct, masterRealAct, action, newActionsMap, virtualActions, !flag);
+            }
+        }
+    }
+
+    void ATM::mkOutActionsMap(Act2ActionsMap& reachActionsMap) {
+        for (auto& mapPair : realActMap) {
+            for (Activity* realAct : mapPair.second) {
+                Aft aft = realAct -> getAft();
+                Aft2ActionsMap& actionsMap = outActionsMap[realAct];
+                Acts& acts = reachActsMap[realAct];
+                Actions& actions = reachActionsMap[realAct];
+                Acts visited;
+                visited.insert(realAct);
+                acts.insert(realAct);
+                realAct -> mkOutActionsMap(visited, realAct, actionsMap, acts, actions);
+            }
+        }
     }
 
     void ATM::getMaxLength(bool bounded) {
@@ -384,99 +651,14 @@ namespace atm {
         //}
     }
 
-    bool HasSameAct(const Acts& acts1, const Acts& acts2) {
-        for (Activity* act : acts1) {
-            if (acts2.count(act) > 0) return true;
-        }
-        return false;
-    }
-
-    void getLoopActs(unordered_map<Activity*, pair<Acts, Act2ActionsMap> >& act2PrePostActsMap) {
-        bool flag = true;
-        while (flag && act2PrePostActsMap.size() > 0) {
-            flag = false;
-            for (auto& pair : act2PrePostActsMap) {
-                if (pair.second.first.size() == 0) {
-                    act2PrePostActsMap.erase(pair.first);
-                    for (auto& pair1 : act2PrePostActsMap) {
-                        pair1.second.first.erase(pair.first);
-                    }
-                    flag = true;
-                    break;
-                } else if (pair.second.second.size() == 0) {
-                    act2PrePostActsMap.erase(pair.first);
-                    for (auto& pair1 : act2PrePostActsMap) {
-                        pair1.second.second.erase(pair.first);
-                    }
-                    flag = true;
-                    break;
-                }
-            }
-        }
-    }
-
-    void getLoopByAct(Activity* act, Acts& visited, unordered_map<Activity*, pair<Acts, Act2ActionsMap> >& act2PrePostActsMap, Acts& minActs) {
-        for (auto& pair : act2PrePostActsMap[act].second) {
-            if (visited.count(pair.first) > 0) {
-                minActs.insert(visited.begin(), visited.end());
-                return;
-            }         
-        }
-        for (auto& pair : act2PrePostActsMap[act].second) {
-            Acts newMinActs;
-            Acts newVisited(visited.begin(), visited.end());
-            newVisited.insert(pair.first);
-            getLoopByAct(pair.first, newVisited, act2PrePostActsMap, newMinActs);
-            if (newMinActs.size() == 0) continue;
-            if (minActs.size() == 0 || minActs.size() > newMinActs.size()) {
-                minActs.clear();
-                minActs.insert(newMinActs.begin(), newMinActs.end());
-            }
-        }
-    }
-
-    void getMiniLoopActs(unordered_map<Activity*, pair<Acts, Act2ActionsMap> >& act2PrePostActsMap, Acts& loopActs, Acts& minActs) {
-        for (Activity* act : loopActs) {
-            Acts visited;
-            Acts newMinActs;
-            visited.insert(act);
-            getLoopByAct(act, visited, act2PrePostActsMap, newMinActs);
-            if (newMinActs.size() == 0) continue;
-            if (minActs.size() == 0 || minActs.size() > newMinActs.size()) {
-                minActs.clear();
-                minActs.insert(newMinActs.begin(), newMinActs.end());
-            }
-        }
-    }
-
     void ATM::mkLoopMap() {
         for (Activity* realAct : tasks) {
             Aft aft = realAct -> getAft();
-            unordered_map<Activity*, pair<Acts, Act2ActionsMap> > act2PrePostActsMap;
-            for (Action* action : availableActions[realAct]) {
-                Activity* act = action -> getSourceAct();
-                if (action -> isNormalAction(aft, act)) {
-                    Activity* postActivity = action -> getTargetAct();
-                    act2PrePostActsMap[act].second[postActivity].insert(action);
-                    act2PrePostActsMap[postActivity].first.insert(act);
-                }
-            }
-            getLoopActs(act2PrePostActsMap);
-            if (act2PrePostActsMap.size() > 0) {
-                Acts loopActs, minActs;
-                for (auto& mapPair : act2PrePostActsMap) {
-                    loopActs.insert(mapPair.first);
-                }
-                getMiniLoopActs(act2PrePostActsMap, loopActs, minActs);
+            Acts minActs;
+            getPrePostActsMap(availableActions[realAct], realAct, mainActivity, minActs);
+            if (minActs.size() > 0)
                 loopMap[realAct] = minActs;
-                //cout << realAct -> getName() << " : " << endl;
-                //for (Activity* act : loopActs) {
-                //    cout << act -> getName() << endl;
-                //}
-                //cout << endl;
-            }
         }
-        //if (loopActs.size() > 0) return false;
         if (loopMap.size() > 0) {
             bounded = false;
         } else {

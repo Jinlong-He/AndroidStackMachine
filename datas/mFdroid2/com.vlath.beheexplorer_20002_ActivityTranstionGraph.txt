@@ -1,0 +1,3 @@
+com.vlath.beheexplorer.activity.MainActivity-->com.vlath.beheexplorer.activity.SettingsActivity
+flag:
+

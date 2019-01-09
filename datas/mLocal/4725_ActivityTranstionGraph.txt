@@ -1,0 +1,90 @@
+com.baidu.android.pushservice.richmedia.MediaViewActivity-->com.mob.tools.MobUIShell
+flag:
+
+cn.jianguo.qinzi.activity.MainActivity-->cn.jianguo.qinzi.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.jianguo.qinzi.activity.MainActivity-->cn.jianguo.qinzi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.MainActivity-->com.mob.tools.MobUIShell
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.MainActivity-->com.mob.tools.MobUIShell
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.MainActivity-->cn.jianguo.qinzi.activity.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.MainActivity-->cn.jianguo.qinzi.activity.SplashActivity
+flag:
+
+cn.jianguo.qinzi.discard.NewGuideActivity-->cn.jianguo.qinzi.discard.RegisterActivity
+flag:
+
+cn.jianguo.qinzi.discard.NewGuideActivity-->cn.jianguo.qinzi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.discard.NewGuideActivity-->cn.jianguo.qinzi.activity.FindBackPasswordActivity
+flag:
+
+com.babyrun.pic.PhotoManagerActivity-->com.babyrun.pic.ImageGalleryActivity
+flag:
+
+cn.jianguo.qinzi.activity.FindBackPasswordActivity-->cn.jianguo.qinzi.activity.FindBackPasswordActivity
+flag:
+
+cn.jianguo.qinzi.activity.FindBackPasswordActivity-->cn.jianguo.qinzi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.discard.RegisterActivity-->cn.jianguo.qinzi.discard.RegisterActivity
+flag:
+
+cn.jianguo.qinzi.discard.RegisterActivity-->cn.jianguo.qinzi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.BabyInfoActivity-->cn.jianguo.qinzi.activity.BabyInfoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.LoginActivity-->cn.jianguo.qinzi.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.LoginActivity-->cn.jianguo.qinzi.activity.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+cn.jianguo.qinzi.activity.LoginActivity-->cn.jianguo.qinzi.activity.BabyInfoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.discard.LoginActivity-->cn.jianguo.qinzi.discard.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+cn.jianguo.qinzi.discard.LoginActivity-->cn.jianguo.qinzi.discard.RegisterActivity
+flag:
+
+cn.jianguo.qinzi.discard.LoginActivity-->cn.jianguo.qinzi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.discard.LoginActivity-->cn.jianguo.qinzi.activity.FindBackPasswordActivity
+flag:
+
+cn.jianguo.qinzi.activity.SplashActivity-->cn.jianguo.qinzi.activity.NewGuideActivity2
+flag:finish
+
+cn.jianguo.qinzi.activity.SplashActivity-->cn.jianguo.qinzi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.wxapi.WXEntryActivity-->cn.jianguo.qinzi.activity.SplashActivity
+flag:
+
+cn.jianguo.qinzi.alipay.PayDemoActivity-->cn.jianguo.qinzi.alipay.H5PayDemoActivity
+flag:
+
+com.baidu.android.pushservice.richmedia.MediaListActivity-->com.baidu.android.pushservice.richmedia.MediaListActivity
+flag:
+
+com.baidu.android.pushservice.richmedia.MediaListActivity-->com.baidu.android.pushservice.richmedia.MediaViewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.jianguo.qinzi.activity.NewGuideActivity2-->cn.jianguo.qinzi.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

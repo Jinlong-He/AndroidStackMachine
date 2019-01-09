@@ -1,0 +1,6 @@
+#MAIN
+activity:com.amazon.aws.console.mobile.BFFActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

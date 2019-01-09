@@ -1,0 +1,171 @@
+com.google.android.apps.primer.settings.NewSettingsActivity-->com.google.android.apps.primer.settings.SettingsLanguageActivity
+flag:
+
+com.google.android.apps.primer.settings.NewSettingsActivity-->com.google.android.apps.primer.onboard.NewOnboardSignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.apps.primer.settings.NewSettingsActivity-->com.google.android.apps.primer.settings.TermsActivity
+flag:
+
+com.google.android.apps.primer.settings.NewSettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->com.google.android.apps.primer.settings.SettingsActivity
+flag:
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->com.google.android.apps.primer.lesson.LessonActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->com.google.android.apps.primer.settings.SettingsLanguageActivity
+flag:
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->com.google.android.apps.primer.SearchActivity
+flag:
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->com.google.android.apps.primer.recap.RecapActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->com.google.android.apps.primer.recap.RecapActivity
+flag:
+
+com.google.android.apps.primer.dashboard.DashboardActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.introlanguage.IntroLanguageActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.apps.primer.introlanguage.IntroLanguageActivity-->unknown
+flag:finish
+
+com.google.android.apps.primer.lesson.NewLessonActivity-->com.google.android.apps.primer.recap.NewRecapActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.lesson.NewLessonActivity-->com.google.android.apps.primer.ix.IxActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.lesson.NewLessonActivity-->com.google.android.apps.primer.dashboard.BundleDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.google.android.apps.primer.lesson.NewLessonActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.lesson.NewLessonActivity-->com.google.android.apps.primer.lesson.NewLessonActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.DeepLinkActivity-->com.google.android.apps.primer.LauncherActivity
+flag:finish
+
+com.google.android.apps.primer.DeepLinkActivity-->com.google.android.apps.primer.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.onboard.OnboardActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.onboard.OnboardActivity-->unknown
+flag:finish
+
+com.google.android.apps.primer.lesson.LessonActivity-->com.google.android.apps.primer.ix.IxActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.lesson.LessonActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.onboard.NewOnboardQuestionsActivity-->unknown
+flag:finish
+
+com.google.android.apps.primer.settings.NewProfileActivity-->com.google.android.apps.primer.dashboard.BundleDetailActivity
+flag:
+
+com.google.android.apps.primer.settings.NewProfileActivity-->com.google.android.apps.primer.settings.NewSettingsActivity
+flag:
+
+com.google.android.apps.primer.settings.NewProfileActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.settings.SettingsActivity-->com.google.android.apps.primer.onboard.OnboardActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.apps.primer.settings.SettingsActivity-->com.google.android.apps.primer.settings.SettingsLanguageActivity
+flag:
+
+com.google.android.apps.primer.settings.SettingsActivity-->com.google.android.apps.primer.settings.TermsActivity
+flag:
+
+com.google.android.apps.primer.settings.SettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.InternalPickerActivity-->unknown
+flag:finish
+
+com.google.android.apps.primer.SearchActivity-->com.google.android.apps.primer.recap.RecapActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.SearchActivity-->com.google.android.apps.primer.lesson.LessonActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.SearchActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.recap.RecapActivity-->com.google.android.apps.primer.lesson.LessonActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.recap.RecapActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.recap.RecapActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.LauncherActivity-->com.google.android.apps.primer.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.LauncherActivity-->unknown
+flag:finish
+
+com.google.android.apps.primer.settings.SettingsLanguageActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.apps.primer.settings.TermsActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.settings.TermsActivity-->com.google.android.apps.primer.settings.WebViewActivity
+flag:
+
+com.google.android.apps.primer.settings.TermsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.dashboard.NewDashboardActivity-->com.google.android.apps.primer.dashboard.BundleDetailActivity
+flag:
+
+com.google.android.apps.primer.dashboard.NewDashboardActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.dashboard.NewDashboardActivity-->com.google.android.apps.primer.settings.NewProfileActivity
+flag:
+
+com.google.android.apps.primer.dashboard.NewDashboardActivity-->com.google.android.apps.primer.lesson.NewLessonActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.primer.dashboard.NewDashboardActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.recap.NewRecapActivity-->com.google.android.apps.primer.lesson.NewLessonActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.google.android.apps.primer.recap.NewRecapActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.recap.NewRecapActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.primer.onboard.NewOnboardSignInActivity-->com.google.android.apps.primer.DeepLinkActivity
+flag:
+
+com.google.android.apps.primer.onboard.NewOnboardSignInActivity-->unknown
+flag:finish
+

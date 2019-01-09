@@ -1,0 +1,12 @@
+com.clmobile.MenuActivity-->com.clmobile.HelpActivity
+flag:
+
+com.clmobile.FavouriteList-->com.clmobile.MainActivity
+flag:finish
+
+com.clmobile.MainActivity-->com.clmobile.FavouriteList
+flag:
+
+com.clmobile.MainActivity-->com.clmobile.MenuActivity
+flag:
+

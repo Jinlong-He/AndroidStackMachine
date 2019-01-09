@@ -1,0 +1,12 @@
+de.elfsoft.bestbrokers.activities.SplashScreenActivity-->de.elfsoft.bestbrokers.activities.SplashScreenActivity
+flag:
+
+de.elfsoft.bestbrokers.activities.SplashScreenActivity-->de.elfsoft.bestbrokers.MainActivity
+flag:finish
+
+com.applovin.adview.AppLovinInterstitialActivity-->de.elfsoft.bestbrokers.activities.SplashScreenActivity
+flag:
+
+de.elfsoft.bestbrokers.MainActivity-->de.elfsoft.bestbrokers.activities.SplashScreenActivity
+flag:
+

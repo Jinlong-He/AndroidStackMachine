@@ -1,0 +1,6 @@
+com.gezginsoft.realorfakephotos.Main-->com.google.ads.AdActivity
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

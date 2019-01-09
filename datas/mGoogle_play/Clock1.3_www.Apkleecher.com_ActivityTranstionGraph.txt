@@ -1,0 +1,3 @@
+com.egert.clock.WallpaperSettingsActivity-->com.egert.clock.MainActivity
+flag:finish
+

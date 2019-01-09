@@ -1,0 +1,15 @@
+com.doodlejoy.studio.preface.SketchGuruPreface-->com.doodlejoy.studio.paintor.SketchPaintor
+flag:
+
+com.doodlejoy.studio.preface.SketchGuruPreface-->com.doodlejoy.studio.gallery.SketchThumbnailActivity
+flag:
+
+com.doodlejoy.studio.gallery.SketchGalleryActivity-->com.doodlejoy.studio.paintor.SketchPaintor
+flag:finish
+
+com.doodlejoy.studio.gallery.SketchThumbnailActivity-->com.doodlejoy.studio.gallery.SketchGalleryActivity
+flag:
+
+com.doodlejoy.studio.paintor.SketchPaintor-->com.doodlejoy.studio.advancecolorpicker.ColorPickerActivity
+flag:
+

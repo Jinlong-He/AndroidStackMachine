@@ -1,0 +1,12 @@
+com.ticktalk.spanishenglish.MainActivity-->com.ticktalk.spanishenglish.SearchActivity
+flag:
+
+com.ticktalk.spanishenglish.MainActivity-->com.ticktalk.spanishenglish.SettingActivity
+flag:
+
+com.ticktalk.spanishenglish.SearchActivity-->com.ticktalk.spanishenglish.SearchActivity
+flag:
+
+com.ticktalk.spanishenglish.SettingActivity-->com.ticktalk.spanishenglish.SettingActivity
+flag:
+

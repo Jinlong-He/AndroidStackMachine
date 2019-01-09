@@ -1,0 +1,15 @@
+org.ametro.ui.activities.Map-->org.ametro.ui.activities.About
+flag:
+
+org.ametro.ui.activities.Map-->org.ametro.ui.activities.MapList
+flag:
+
+org.ametro.ui.activities.Map-->org.ametro.ui.activities.SettingsList
+flag:
+
+org.ametro.ui.activities.Map-->org.ametro.ui.activities.StationDetails
+flag:
+
+org.ametro.ui.activities.MapList-->org.ametro.ui.activities.CityList
+flag:
+

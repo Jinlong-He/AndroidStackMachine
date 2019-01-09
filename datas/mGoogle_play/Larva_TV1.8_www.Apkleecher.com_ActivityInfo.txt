@@ -1,0 +1,14 @@
+#MAIN
+activity:bluepin_app.cont.lava_tv.ContainerActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:bluepin_app.cont.lava_tv.bma
+LaunchMode:std
+TaskAffinity:null
+
+activity:bluepin_app.cont.lava_tv.BMA_II
+LaunchMode:std
+TaskAffinity:null
+

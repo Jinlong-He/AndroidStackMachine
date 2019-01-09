@@ -1,0 +1,6 @@
+.app.MainActivity-->ru.gelin.android.weather.notification.app.MainActivity4
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.app.MainActivity-->ru.gelin.android.weather.notification.app.MainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

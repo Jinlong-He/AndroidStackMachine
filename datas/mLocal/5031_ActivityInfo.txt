@@ -1,0 +1,10 @@
+#MAIN
+activity:com.chinalife.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.chinalife.WebViewActivity
+LaunchMode:std
+TaskAffinity:null
+

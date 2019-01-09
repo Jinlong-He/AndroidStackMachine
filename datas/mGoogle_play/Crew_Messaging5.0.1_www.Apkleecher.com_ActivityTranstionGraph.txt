@@ -1,0 +1,477 @@
+com.crewapp.android.crew.ui.tasks.TaskRecurrenceActivity-->com.crewapp.android.crew.ui.tasks.TaskRecurrenceActivity
+flag:
+
+com.crewapp.android.crew.ui.tasks.TaskRecurrenceActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.tasks.TaskRecurrenceActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.ShiftTemplateActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.ShiftTemplateActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.admin.EditOrganizationActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.admin.EditOrganizationActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.routing.newgroup.NewGroupRoutingActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.routing.newgroup.NewGroupRoutingActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.tasks.TaskDetailActivity-->com.crewapp.android.crew.ui.tasks.TaskDetailActivity
+flag:
+
+com.crewapp.android.crew.ui.tasks.TaskDetailActivity-->com.crewapp.android.crew.ui.tasks.TaskRecurrenceActivity
+flag:
+
+com.crewapp.android.crew.ui.tasks.TaskDetailActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.tasks.TaskDetailActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.ScheduleUnpaidBreaksActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.ScheduleUnpaidBreaksActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.profile.EditProfileActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.profile.EditProfileActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.addon.AddOnSettingsActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.addon.AddOnSettingsActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.addon.AddOnSettingsActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.groupdetails.ConversationDetailActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.groupdetails.ConversationDetailActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.addon.AddOnListListActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.addon.AddOnListListActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.addon.AddOnListListActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.routing.addon.AddOnSettingsRoutingActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.routing.addon.AddOnSettingsRoutingActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.location.LocationActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.location.LocationActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.location.LocationActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.pro.trial.CrewProTrialThankActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.pro.trial.CrewProTrialThankActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.pro.trial.CrewProTrialThankActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.common.photoviewer.schedule.SchedulePhotoViewerActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.common.photoviewer.schedule.SchedulePhotoViewerActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.ShiftCreateOrEditActivity-->com.crewapp.android.crew.ui.schedule.SchedulePositionActivity
+flag:
+
+com.crewapp.android.crew.ui.schedule.ShiftCreateOrEditActivity-->com.crewapp.android.crew.ui.schedule.ScheduleUnpaidBreaksActivity
+flag:
+
+com.crewapp.android.crew.ui.schedule.ShiftCreateOrEditActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.schedule.ShiftCreateOrEditActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.ShiftCreateOrEditActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.CreateOrganizationActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.onboard.CreateOrganizationActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.CreateOrganizationActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.common.photoviewer.group.GroupPhotoViewerActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.common.photoviewer.group.GroupPhotoViewerActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.groupdetails.LocationDetailActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.groupdetails.LocationDetailActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.useractivity.NotificationListActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.useractivity.NotificationListActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.common.WebPageActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.common.WebPageActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.common.WebPageActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.profile.PublicProfileActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.profile.PublicProfileActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.copyshift.CopyShiftSelectActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.copyshift.CopyShiftSelectActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.addcoworker.AddToGroupActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.addcoworker.AddToGroupActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.organization.NewOrgActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.organization.NewOrgActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.organization.NewOrgActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.crewapp.android.crew.ui.onboard.InviteByContactsActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.InviteByContactsActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.pro.adminreports.AdminReportsEmailAddressesActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.pro.adminreports.AdminReportsEmailAddressesActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.routing.groupdetails.GroupDetailsRoutingActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.routing.groupdetails.GroupDetailsRoutingActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.GroupManagementActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.GroupManagementActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.GroupManagementActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.TimeOffCreateActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.TimeOffCreateActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.pro.walkthrough.CrewProIapWalkthoughActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.pro.walkthrough.CrewProIapWalkthoughActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.message.MessageListActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.message.MessageListActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.ShiftDetailActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.schedule.ShiftDetailActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.schedule.ShiftDetailActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.ShiftDetailActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.InviteByPhoneNumberActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.InviteByPhoneNumberActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.AssignShiftActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.AssignShiftActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.routing.calendaritem.CalendarItemRoutingActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.routing.calendaritem.CalendarItemRoutingActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.groupdetails.ConversationDetailAddToEveryoneActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.groupdetails.ConversationDetailAddToEveryoneActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.groupdetails.ConversationDetailAddToEveryoneActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.profile.PersonalSettingsActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.profile.PersonalSettingsActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.EnterCodeActivity-->com.crewapp.android.crew.ui.onboard.EnterPhoneActivity
+flag:finish
+
+com.crewapp.android.crew.ui.onboard.EnterCodeActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.onboard.EnterCodeActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.onboard.EnterCodeActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.EnterCodeActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.profile.TitleListActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.profile.TitleListActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.jakewharton.processphoenix.ProcessPhoenix-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.SchedulePositionActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.SchedulePositionActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.TimeOffDetailActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.schedule.TimeOffDetailActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.TimeOffDetailActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.tasks.OrgTaskListActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.tasks.OrgTaskListActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.EnterNameAndPositionActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.onboard.EnterNameAndPositionActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.EnterNameAndPositionActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.onboard.EnterNameAndPositionActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.pro.CrewProSettingsActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.pro.CrewProSettingsActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.creategroup.CreateGroupActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.creategroup.CreateGroupActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.video.PlayerBelowKitKatActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.video.PlayerBelowKitKatActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.profile.NotificationSettingsActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.profile.NotificationSettingsActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.EnterPhoneActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.onboard.EnterPhoneActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.onboard.EnterPhoneActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.EnterPhoneActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.multidaytimeoff.TimeOffDayListActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.multidaytimeoff.TimeOffDayListActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.user.LocationTrackActivity-->com.crewapp.android.crew.ui.home.HomeActivity
+flag:finish
+
+com.crewapp.android.crew.ui.user.LocationTrackActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.user.LocationTrackActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.copyshift.CopyShiftConfirmActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.copyshift.CopyShiftConfirmActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.home.HomeActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.home.HomeActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.home.HomeActivity-->com.crewapp.android.crew.ui.tasks.TaskDetailActivity
+flag:
+
+com.crewapp.android.crew.ui.home.HomeActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.home.HomeActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.IntroduceActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.onboard.IntroduceActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.onboard.IntroduceActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.IntroduceActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.home.CropImageActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.home.CropImageActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.assigntask.AssignTaskActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.assigntask.AssignTaskActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.share.ShareActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.share.ShareActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.share.ShareActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.schedule.ScheduleAddActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.schedule.ScheduleAddActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.AuthenticateActivity-->com.crewapp.android.crew.ui.home.HomeActivity
+flag:finish
+
+com.crewapp.android.crew.ui.onboard.AuthenticateActivity-->unknown
+flag:
+
+com.crewapp.android.crew.ui.onboard.AuthenticateActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:
+
+com.crewapp.android.crew.ui.onboard.AuthenticateActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.AuthenticateActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.video.PlayerAboveKitKatActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.video.PlayerAboveKitKatActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.recording.CustomCameraActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.recording.CustomCameraActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crewapp.android.crew.ui.onboard.InviteYouActivity-->com.crewapp.android.crew.ui.onboard.AuthenticateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.crewapp.android.crew.ui.onboard.InviteYouActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

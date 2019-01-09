@@ -1,0 +1,15 @@
+com.appnext.ads.interstitial.InterstitialActivity-->.AppEntry
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.appnext.ads.interstitial.InterstitialActivity-->.AppEntry
+flag:
+
+com.doitflash.webView.Pick-->.AppEntry
+flag:
+
+com.appnext.ads.fullscreen.FullscreenActivity-->.AppEntry
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.appnext.ads.fullscreen.FullscreenActivity-->.AppEntry
+flag:
+

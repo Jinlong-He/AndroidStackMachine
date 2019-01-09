@@ -1,0 +1,6 @@
+com.javiersantos.whatsappbetaupdater.activity.SettingsActivity-->com.javiersantos.whatsappbetaupdater.activity.LicenseActivity
+flag:
+
+com.javiersantos.whatsappbetaupdater.activity.MainActivity-->com.javiersantos.whatsappbetaupdater.activity.SettingsActivity
+flag:
+

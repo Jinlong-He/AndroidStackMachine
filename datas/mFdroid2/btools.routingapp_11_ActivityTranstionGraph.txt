@@ -1,0 +1,3 @@
+.BRouterActivity-->btools.routingapp.BInstallerActivity
+flag:finish
+

@@ -1,0 +1,6 @@
+com.helpshift.campaigns.activities.NotificationActivity-->com.helpshift.campaigns.activities.ParentActivity
+flag:finish
+
+io.card.payment.CardIOActivity-->io.card.payment.DataEntryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NO_HISTORY  
+

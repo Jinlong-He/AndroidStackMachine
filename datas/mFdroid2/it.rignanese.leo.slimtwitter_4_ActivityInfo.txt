@@ -1,0 +1,6 @@
+#MAIN
+activity:it.rignanese.leo.slimtwitter.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

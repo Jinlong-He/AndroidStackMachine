@@ -1,0 +1,6 @@
+com.duckduckgo.mobile.android.activity.DuckDuckGo-->com.duckduckgo.mobile.android.activity.DuckDuckGo
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.duckduckgo.mobile.android.activity.DuckDuckGo-->com.duckduckgo.mobile.android.activity.DuckDuckGo
+flag:
+

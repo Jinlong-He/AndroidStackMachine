@@ -1,0 +1,10 @@
+#MAIN
+activity:com.blackemoji.blackemoji.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.blackemoji.blackemoji.MoreEmojis
+LaunchMode:std
+TaskAffinity:null
+

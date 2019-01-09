@@ -1,0 +1,10 @@
+#MAIN
+activity:org.cocos2dx.javascript.AppActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.qq.e.ads.ADActivity
+LaunchMode:std
+TaskAffinity:null
+

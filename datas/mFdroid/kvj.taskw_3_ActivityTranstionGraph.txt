@@ -1,0 +1,12 @@
+kvj.taskw.ui.MainActivity-->kvj.taskw.ui.AnnotationDialog
+flag:
+
+kvj.taskw.ui.MainActivity-->kvj.taskw.ui.EditorActivity
+flag:
+
+kvj.taskw.ui.MainActivity-->kvj.taskw.ui.TextEditor
+flag:
+
+kvj.taskw.ui.MainActivity-->kvj.taskw.ui.MainActivity
+flag:
+

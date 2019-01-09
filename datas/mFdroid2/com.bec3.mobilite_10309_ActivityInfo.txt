@@ -1,0 +1,6 @@
+#MAIN
+activity:com.bec3.mobilite.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

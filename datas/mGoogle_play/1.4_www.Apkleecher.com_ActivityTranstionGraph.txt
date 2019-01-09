@@ -1,0 +1,3 @@
+texi.paresh.kaledate.SplashActivity-->texi.paresh.kaledate.MainActivity
+flag:finish
+

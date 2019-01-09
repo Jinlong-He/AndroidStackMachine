@@ -1,0 +1,3 @@
+com.sm.SlingGuide.Dish.SGHomeActivity-->com.sm.SlingGuide.Dish.DishLogin
+flag:finish
+

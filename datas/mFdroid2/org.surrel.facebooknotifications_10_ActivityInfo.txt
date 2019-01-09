@@ -1,0 +1,10 @@
+#MAIN
+activity:org.surrel.facebooknotifications.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:org.surrel.facebooknotifications.PrefsActivity
+LaunchMode:std
+TaskAffinity:null
+

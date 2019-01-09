@@ -1,0 +1,10 @@
+#MAIN
+activity:net.fabiszewski.ulogger.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.fabiszewski.ulogger.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

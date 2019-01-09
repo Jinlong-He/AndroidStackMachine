@@ -1,0 +1,6 @@
+com.mobgum.android.MainActivity-->com.mobgum.android.MainActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.mobgum.android.MainActivity-->com.mobgum.android.MainActivity
+flag:
+

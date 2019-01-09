@@ -1,0 +1,3 @@
+moe.minori.pgpclipper.activities.PGPClipperResultShowActivity-->moe.minori.pgpclipper.activities.PGPClipperQuickReplyActivity
+flag:finish
+

@@ -1,0 +1,12 @@
+.MainActivity-->com.java.translator.About
+flag:
+
+.MainActivity-->com.java.translator.Learn
+flag:
+
+.MainActivity-->com.java.translator.History
+flag:
+
+com.java.translator.Start-->com.java.translator.MainActivity
+flag:finish
+

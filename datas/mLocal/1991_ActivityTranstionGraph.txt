@@ -1,0 +1,6 @@
+com.ft.activitys.FullAdActivity-->com.ft.cordovaFT
+flag:finish
+
+com.ft.cordovaFT-->com.ft.activitys.FullAdActivity
+flag:finish
+

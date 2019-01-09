@@ -1,0 +1,14 @@
+#MAIN
+activity:de.tobiasbielefeld.brickgames.ui.Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.tobiasbielefeld.brickgames.ui.Settings
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.tobiasbielefeld.brickgames.ui.about.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

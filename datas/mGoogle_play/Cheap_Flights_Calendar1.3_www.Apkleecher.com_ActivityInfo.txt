@@ -1,0 +1,10 @@
+#MAIN
+activity:com.cheaptravelnetwork.cheapflights.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.cheaptravelnetwork.cheapflights.ResultActivity
+LaunchMode:std
+TaskAffinity:null
+

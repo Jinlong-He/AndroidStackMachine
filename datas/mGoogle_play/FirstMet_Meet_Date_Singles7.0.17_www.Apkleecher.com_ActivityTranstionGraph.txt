@@ -1,0 +1,3 @@
+com.adobe.phonegap.push.PushHandlerActivity-->com.areyouinterested.android.MainActivity
+flag:
+

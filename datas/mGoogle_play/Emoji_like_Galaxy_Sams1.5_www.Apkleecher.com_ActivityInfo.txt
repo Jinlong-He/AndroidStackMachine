@@ -1,0 +1,14 @@
+activity:com.emojistyle.EMOJI_PLUGIN
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.MainActivity2
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

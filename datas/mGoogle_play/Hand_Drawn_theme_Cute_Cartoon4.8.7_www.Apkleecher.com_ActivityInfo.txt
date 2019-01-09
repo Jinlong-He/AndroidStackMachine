@@ -1,0 +1,10 @@
+#MAIN
+activity:com.cyou.cma.clauncher.theme.ThemePreviewActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.cyou.cma.clauncher.theme.UlauncherPrivacy
+LaunchMode:std
+TaskAffinity:null
+

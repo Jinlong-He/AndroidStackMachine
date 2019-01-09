@@ -1,0 +1,75 @@
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.getyourguide.android.activities.AppIntroActivity
+flag:
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.getyourguide.android.activities.AppIntroActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.getyourguide.android.activities.AppIntroActivity
+flag:
+
+com.getyourguide.android.activities.DeepLinkDispatcherActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.getyourguide.android.activities.DeepLinkDispatcherActivity-->com.getyourguide.android.activities.WebviewActivity
+flag:
+
+com.getyourguide.android.activities.DeepLinkDispatcherActivity-->com.getyourguide.android.activities.HomeActivity
+flag:
+
+com.getyourguide.android.activities.HomeActivity-->com.getyourguide.android.activities.SearchActivity
+flag:
+
+com.getyourguide.android.activities.HomeActivity-->com.getyourguide.android.activities.SearchResultActivity
+flag:
+
+com.getyourguide.android.activities.HomeActivity-->com.getyourguide.android.activities.SignInSignUpActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.getyourguide.android.activities.AppIntroActivity-->com.getyourguide.android.activities.HomeActivity
+flag:finish
+
+com.getyourguide.android.activities.BookTourActivity-->com.getyourguide.android.activities.BookTourActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.getyourguide.android.activities.BookTourActivity-->com.getyourguide.android.activities.SignInSignUpActivity
+flag:
+
+com.pushwoosh.richpages.RichPageActivity-->com.getyourguide.android.activities.DeepLinkDispatcherActivity
+flag:finish
+
+com.mixpanel.android.surveys.SurveyActivity-->com.getyourguide.android.activities.DeepLinkDispatcherActivity
+flag:finish
+
+com.pushwoosh.inapp.WebActivity-->com.getyourguide.android.activities.DeepLinkDispatcherActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.inapp.WebActivity-->com.getyourguide.android.activities.AppIntroActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.pushwoosh.internal.utils.PermissionActivity-->com.pushwoosh.internal.utils.PermissionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

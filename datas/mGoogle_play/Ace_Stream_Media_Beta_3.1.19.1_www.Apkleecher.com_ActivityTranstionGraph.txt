@@ -1,0 +1,42 @@
+org.acestream.engine.MainActivity-->org.acestream.engine.ContentStartActivity
+flag:
+
+org.acestream.engine.MainActivity-->org.acestream.engine.RemoteControlActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.acestream.engine.MainActivity-->org.acestream.engine.RemoteControlActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+org.acestream.engine.MainActivity-->org.acestream.engine.ContentIdDialogActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+org.acestream.engine.ContentStartActivity-->org.acestream.engine.ContentStartActivity
+flag:finish
+
+org.acestream.engine.ResolverActivity-->org.acestream.engine.ContentStartActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+org.acestream.engine.ResolverActivity-->org.acestream.engine.ContentStartActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+org.acestream.engine.TestCastActivity-->org.acestream.engine.ContentStartActivity
+flag:
+
+org.acestream.engine.RemoteControlActivity-->org.acestream.engine.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+org.acestream.engine.RemoteControlActivity-->org.acestream.engine.ResolverActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.acestream.engine.RemoteControlActivity-->org.acestream.engine.ResolverActivity
+flag:
+
+org.acestream.engine.ContentIdDialogActivity-->org.acestream.engine.ContentStartActivity
+flag:finish
+
+org.acestream.engine.NotificationActivity-->org.acestream.engine.ContentStartActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->org.acestream.engine.ContentStartActivity
+flag:
+

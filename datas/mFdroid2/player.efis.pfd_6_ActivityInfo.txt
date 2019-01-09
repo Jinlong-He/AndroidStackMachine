@@ -1,0 +1,14 @@
+#MAIN
+activity:player.efis.pfd.EFISMainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:player.efis.pfd.EFISPrefSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:player.efis.pfd.EFISPrefManage
+LaunchMode:std
+TaskAffinity:null
+

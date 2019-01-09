@@ -1,0 +1,14 @@
+#MAIN
+activity:com.hk.Talkcallername.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.hk.Talkcallername.CallerNameTalker
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

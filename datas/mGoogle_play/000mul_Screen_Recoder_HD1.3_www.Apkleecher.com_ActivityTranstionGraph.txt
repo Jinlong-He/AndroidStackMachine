@@ -1,0 +1,12 @@
+creativephotovideo.screenrecorder.TelecineShortcutLaunchActivity-->creativephotovideo.screenrecorder.MainActivity
+flag:
+
+creativephotovideo.screenrecorder.MainActivity-->creativephotovideo.screenrecorder.ExitActivity
+flag:
+
+creativephotovideo.screenrecorder.MainActivity-->creativephotovideo.screenrecorder.WebActivity
+flag:
+
+creativephotovideo.screenrecorder.MainActivity-->creativephotovideo.screenrecorder.MainActivity
+flag:
+

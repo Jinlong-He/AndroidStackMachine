@@ -1,0 +1,14 @@
+#MAIN
+activity:DebianKitActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.ReadmeActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.DownloadActivity
+LaunchMode:std
+TaskAffinity:null
+

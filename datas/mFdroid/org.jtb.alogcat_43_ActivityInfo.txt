@@ -1,0 +1,10 @@
+#MAIN
+activity:org.jtb.alogcat.LogActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:org.jtb.alogcat.PrefsActivity
+LaunchMode:std
+TaskAffinity:null
+

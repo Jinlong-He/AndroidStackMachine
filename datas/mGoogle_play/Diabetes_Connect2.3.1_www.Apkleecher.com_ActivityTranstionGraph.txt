@@ -1,0 +1,15 @@
+com.squaremed.diabetesconnect.android.activities.IntroActivity-->com.squaremed.diabetesconnect.android.activities.MainActivity
+flag:finish
+
+com.squaremed.diabetesconnect.android.activities.IntroActivity-->com.squaremed.diabetesconnect.android.activities.WizardActivity
+flag:finish
+
+com.squaremed.diabetesconnect.android.activities.MainActivity-->com.squaremed.diabetesconnect.android.activities.NeueingabeZugangsdatenActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.squaremed.diabetesconnect.android.activities.MainActivity-->unknown
+flag:
+
+com.squaremed.diabetesconnect.android.activities.NeueingabeZugangsdatenActivity-->com.squaremed.diabetesconnect.android.activities.NeueingabeZugangsdatenActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

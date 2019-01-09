@@ -1,0 +1,10 @@
+#MAIN
+activity:de.shandschuh.slightbackup.BackupActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.ApplicationPreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

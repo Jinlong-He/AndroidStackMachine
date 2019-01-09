@@ -1,0 +1,6 @@
+kal.FlightInfo.activities.MainActivity-->kal.FlightInfo.activities.MainActivity
+flag:finish
+
+kal.FlightInfo.activities.PopupActivity-->kal.FlightInfo.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+

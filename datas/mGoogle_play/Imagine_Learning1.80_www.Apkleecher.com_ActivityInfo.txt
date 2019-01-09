@@ -1,0 +1,10 @@
+#MAIN
+activity:com.unity3d.player.UnityPlayerNativeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.ImagineLearning.IL.LaunchFromURL
+LaunchMode:stk
+TaskAffinity:null
+

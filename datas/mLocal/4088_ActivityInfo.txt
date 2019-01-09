@@ -1,0 +1,10 @@
+#MAIN
+activity:com.lol.anni.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.lol.anni.mySettings
+LaunchMode:std
+TaskAffinity:null
+

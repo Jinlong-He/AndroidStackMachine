@@ -1,0 +1,6 @@
+org.asnelt.derandom.MainActivity-->org.asnelt.derandom.DisplayParametersActivity
+flag:
+
+org.asnelt.derandom.MainActivity-->org.asnelt.derandom.SettingsActivity
+flag:
+

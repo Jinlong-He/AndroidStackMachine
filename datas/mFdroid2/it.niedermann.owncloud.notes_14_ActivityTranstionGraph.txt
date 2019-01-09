@@ -1,0 +1,15 @@
+it.niedermann.owncloud.notes.android.activity.NotesListViewActivity-->it.niedermann.owncloud.notes.android.activity.CreateNoteActivity
+flag:
+
+it.niedermann.owncloud.notes.android.activity.NotesListViewActivity-->it.niedermann.owncloud.notes.android.activity.SettingsActivity
+flag:
+
+it.niedermann.owncloud.notes.android.activity.NotesListViewActivity-->it.niedermann.owncloud.notes.android.activity.AboutActivity
+flag:
+
+it.niedermann.owncloud.notes.android.activity.NotesListViewActivity-->it.niedermann.owncloud.notes.android.activity.NoteActivity
+flag:
+
+it.niedermann.owncloud.notes.android.activity.NoteActivity-->it.niedermann.owncloud.notes.android.activity.EditNoteActivity
+flag:
+

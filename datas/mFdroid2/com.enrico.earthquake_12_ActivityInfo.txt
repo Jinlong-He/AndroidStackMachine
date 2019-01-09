@@ -1,0 +1,10 @@
+#MAIN
+activity:com.enrico.earthquake.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.enrico.earthquake.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+ca.farrelltonsolar.classic.MonitorActivity-->ca.farrelltonsolar.classic.Settings
+flag:
+
+ca.farrelltonsolar.classic.Splash-->ca.farrelltonsolar.classic.MonitorActivity
+flag:finish
+

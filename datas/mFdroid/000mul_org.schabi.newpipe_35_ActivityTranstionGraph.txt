@@ -1,0 +1,21 @@
+org.schabi.newpipe.ExitActivity-->org.schabi.newpipe.ExitActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+org.schabi.newpipe.report.ErrorActivity-->org.schabi.newpipe.report.ErrorActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.schabi.newpipe.PanicResponderActivity-->org.schabi.newpipe.ExitActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+org.schabi.newpipe.RouterActivity-->org.schabi.newpipe.PanicResponderActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+org.schabi.newpipe.MainActivity-->org.schabi.newpipe.settings.SettingsActivity
+flag:
+
+org.schabi.newpipe.MainActivity-->org.schabi.newpipe.download.DownloadActivity
+flag:
+
+org.schabi.newpipe.download.DownloadActivity-->org.schabi.newpipe.settings.SettingsActivity
+flag:
+

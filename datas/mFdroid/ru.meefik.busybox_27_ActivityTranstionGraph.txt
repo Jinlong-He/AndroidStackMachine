@@ -1,0 +1,6 @@
+ru.meefik.busybox.MainActivity-->ru.meefik.busybox.SettingsActivity
+flag:
+
+ru.meefik.busybox.MainActivity-->ru.meefik.busybox.AboutActivity
+flag:
+

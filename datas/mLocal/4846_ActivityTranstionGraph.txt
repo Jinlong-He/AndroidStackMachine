@@ -1,0 +1,9 @@
+com.iym.youngleyuan.DownloadActivity-->com.iym.youngleyuan.DownloadActivity
+flag:
+
+com.iym.youngleyuan.MainUI-->com.iym.youngleyuan.DownloadActivity
+flag:
+
+com.iym.youngleyuan.PlayerActivity-->com.iym.youngleyuan.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

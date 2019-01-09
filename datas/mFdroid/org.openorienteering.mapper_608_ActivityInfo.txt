@@ -1,0 +1,6 @@
+#MAIN
+activity:org.openorienteering.mapper.MapperActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

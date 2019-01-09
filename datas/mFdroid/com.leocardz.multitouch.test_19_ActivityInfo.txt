@@ -1,0 +1,6 @@
+#MAIN
+activity:com.leocardz.multitouch.test.MultitouchTest
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

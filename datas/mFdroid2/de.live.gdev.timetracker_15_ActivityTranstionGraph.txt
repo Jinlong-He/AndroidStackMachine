@@ -1,0 +1,6 @@
+de.live.gdev.timetracker.activity.MainActivity-->de.live.gdev.timetracker.activity.SettingsActivity
+flag:
+
+de.live.gdev.timetracker.activity.MainActivity-->de.live.gdev.timetracker.activity.InfoActivity
+flag:
+

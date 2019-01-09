@@ -1,0 +1,10 @@
+#MAIN
+activity:free.narutowallpapers.neosck.NarutoWallpapersActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.mobclix.android.sdk.MobclixBrowserActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:me.tsukanov.counter.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:me.tsukanov.counter.ui.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+net.crazymedia.iad.AdPushActivity-->com.adsk.sketchbook.SketchBookHelp
+flag:finish
+
+com.adsk.sketchbook.SketchBook-->com.adsk.sketchbook.SketchGallery
+flag:
+
+com.adsk.sketchbook.SketchBook-->com.adsk.sketchbook.SketchBookHelp
+flag:
+

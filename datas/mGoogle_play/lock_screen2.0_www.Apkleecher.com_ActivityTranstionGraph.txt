@@ -1,0 +1,15 @@
+com.example.lockscreen.WallpaperActivity-->com.bsoft.secure.app.lockscreenpassword.SetWallpaperActivity
+flag:
+
+bsoft.com.MainActivity-->com.example.lockscreen.SetPasswordActivity
+flag:
+
+bsoft.com.MainActivity-->com.example.lockscreen.SetMyNameActivity
+flag:
+
+bsoft.com.MainActivity-->com.example.lockscreen.WallpaperActivity
+flag:
+
+bsoft.com.PromotionActivity-->bsoft.com.MainActivity
+flag:
+

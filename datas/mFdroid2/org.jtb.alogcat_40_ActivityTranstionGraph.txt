@@ -1,0 +1,3 @@
+org.jtb.alogcat.LogActivity-->org.jtb.alogcat.PrefsActivity
+flag:
+

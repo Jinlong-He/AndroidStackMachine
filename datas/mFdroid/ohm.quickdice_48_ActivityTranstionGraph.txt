@@ -1,0 +1,12 @@
+ohm.quickdice.activity.QuickDiceMainActivity-->ohm.quickdice.activity.QuickDiceMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+ohm.quickdice.activity.QuickDiceMainActivity-->ohm.quickdice.activity.PrefDiceActivity
+flag:
+
+ohm.quickdice.activity.QuickDiceMainActivity-->ohm.quickdice.activity.ImportExportActivity
+flag:
+
+ohm.quickdice.activity.QuickDiceActivity-->ohm.quickdice.activity.QuickDiceMainActivity
+flag:finish
+

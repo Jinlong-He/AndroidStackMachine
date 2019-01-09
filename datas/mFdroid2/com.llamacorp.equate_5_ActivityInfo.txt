@@ -1,0 +1,6 @@
+#MAIN
+activity:com.llamacorp.equate.view.CalcActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

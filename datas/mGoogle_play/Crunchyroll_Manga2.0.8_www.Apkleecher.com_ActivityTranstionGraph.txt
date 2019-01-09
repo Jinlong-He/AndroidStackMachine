@@ -1,0 +1,27 @@
+com.crmanga.viewmanga.ViewMangaActivity-->com.crmanga.upsell.FreeTrialActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.crmanga.viewmanga.ViewMangaActivity-->com.crmanga.upsell.FreeTrialActivity
+flag:finish
+
+com.crmanga.viewmanga.ViewMangaActivity-->com.crmanga.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crmanga.viewmanga.ViewMangaActivity-->com.crmanga.seriesdetail.SeriesDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crmanga.main.LoginActivity-->com.crmanga.main.LoginActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.jakewharton.processphoenix.ProcessPhoenix-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crmanga.seriesdetail.SeriesDetailActivity-->com.crmanga.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.crmanga.misc.SplashActivity-->com.crmanga.misc.SplashActivity
+flag:finish
+
+com.crmanga.upsell.FreeTrialActivity-->com.crmanga.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+

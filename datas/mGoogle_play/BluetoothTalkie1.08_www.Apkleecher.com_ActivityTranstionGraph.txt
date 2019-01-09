@@ -1,0 +1,9 @@
+com.shashavs.bltalkie.MainActivityTabbed-->com.shashavs.bltalkie.MainActivityTabbed
+flag:finish
+
+com.shashavs.bltalkie.MainActivityTabbed-->com.shashavs.bltalkie.mSettings
+flag:
+
+com.shashavs.bltalkie.SplashActivity-->com.shashavs.bltalkie.MainActivityTabbed
+flag:finish
+

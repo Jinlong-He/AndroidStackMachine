@@ -1,0 +1,12 @@
+.gui.SettingsActivity-->com.onexuan.coolify.gui.StatusBarXposedSettingsActivity
+flag:
+
+com.onexuan.coolify.CoolifyActivity-->com.onexuan.coolify.gui.SettingsActivity
+flag:
+
+com.onexuan.coolify.CoolifyActivity-->com.onexuan.coolify.gui.HistoryActivity
+flag:
+
+com.onexuan.coolify.CoolifyActivity-->com.onexuan.coolify.CoolifyActivity
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:Metronome
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.MenuSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:.MenuStructures
+LaunchMode:std
+TaskAffinity:null
+

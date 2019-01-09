@@ -1,0 +1,6 @@
+com.fastclean.app.CleanActivity-->com.fastclean.v_2_2.MultiCleanActivity
+flag:
+
+com.wandoujia.accessibility.hibernation.activity.BoosterHomeActivity-->unknown
+flag:finish
+

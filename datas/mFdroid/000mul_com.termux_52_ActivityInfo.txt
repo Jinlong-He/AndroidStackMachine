@@ -1,0 +1,14 @@
+#MAIN
+activity:com.termux.app.TermuxActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.termux.app.TermuxHelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.termux.filepicker.TermuxFileReceiverActivity
+LaunchMode:std
+TaskAffinity:com.termux.filereceiver
+

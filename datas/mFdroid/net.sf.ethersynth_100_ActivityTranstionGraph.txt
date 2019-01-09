@@ -1,0 +1,24 @@
+AboutActivity-->net.sf.ethersynth.LicenseActivity
+flag:
+
+EtherSynthActivity-->net.sf.ethersynth.OptionsActivity
+flag:
+
+OptionsActivity-->net.sf.ethersynth.AboutActivity
+flag:
+
+OptionsActivity-->net.sf.ethersynth.EtherSynthActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+OptionsActivity-->net.sf.ethersynth.RecordingOptionsActivity
+flag:
+
+OptionsActivity-->net.sf.ethersynth.HelpActivity
+flag:
+
+OptionsActivity-->net.sf.ethersynth.OutputOptionsActivity
+flag:
+
+OptionsActivity-->net.sf.ethersynth.ControlOptionsActivity
+flag:
+

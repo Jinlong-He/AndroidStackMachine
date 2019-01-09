@@ -1,0 +1,9 @@
+jrlapo.metal.slug.RecipesList-->jrlapo.metal.slug.AboutApp
+flag:
+
+jrlapo.metal.slug.RecipesList-->jrlapo.metal.slug.RecipeDetail
+flag:
+
+jrlapo.metal.slug.SplashScreen-->jrlapo.metal.slug.RecipesList
+flag:
+

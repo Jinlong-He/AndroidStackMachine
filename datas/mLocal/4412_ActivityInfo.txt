@@ -1,0 +1,10 @@
+#MAIN
+activity:com.hhsgb.car.UnityPlayerNativeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.tencent.mtaunity3d.demo.LoginActivity
+LaunchMode:std
+TaskAffinity:null
+

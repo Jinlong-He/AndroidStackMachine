@@ -1,0 +1,6 @@
+#MAIN
+activity:com.justgetflux.flux.FluxActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,12 @@
+.activities.DetailActivity-->com.codehaha.football.activities.BrowserView
+flag:
+
+SplashScreen-->com.codehaha.football.activities.MainActivity
+flag:finish
+
+.activities.MainActivity-->com.codehaha.football.activities.DetailActivity
+flag:
+
+.activities.BrowserView-->com.codehaha.football.activities.WatchActivity
+flag:
+

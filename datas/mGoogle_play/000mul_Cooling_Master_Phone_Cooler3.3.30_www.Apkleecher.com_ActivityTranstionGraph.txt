@@ -1,0 +1,18 @@
+com.easyx.coolermaster.screenlock.LockScreenActivity-->com.easyx.coolermaster.screenlock.LockScreenActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.easyx.coolermaster.ui.MoreActivity-->com.easyx.coolermaster.ui.SettingActivity
+flag:
+
+com.easyx.coolermaster.ui.MoreActivity-->com.easyx.coolermaster.ui.DailyActivity
+flag:
+
+com.easyx.coolermaster.ui.MainActivity-->com.easyx.coolermaster.ui.MainActivity
+flag:finish
+
+com.easyx.coolermaster.ui.MainActivity-->com.easyx.coolermaster.ui.AnalyseActivity
+flag:
+
+com.easyx.coolermaster.ui.LonglastCoolingActivity-->com.easyx.coolermaster.ui.CoolingActivity
+flag:
+

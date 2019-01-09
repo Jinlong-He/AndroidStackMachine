@@ -1,0 +1,6 @@
+#MAIN
+activity:com.android.vhs.camera.RecordingActivity_
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

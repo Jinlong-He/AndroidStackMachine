@@ -1,0 +1,10 @@
+#MAIN
+activity:.PpssppActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.ShortcutActivity
+LaunchMode:std
+TaskAffinity:null
+

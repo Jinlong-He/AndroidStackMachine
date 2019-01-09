@@ -1,0 +1,6 @@
+#MAIN
+activity:com.endless.manga.EndlessManga
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:trikita.talalarmo.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:trikita.talalarmo.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:trikita.talalarmo.alarm.AlarmActivity
+LaunchMode:std
+TaskAffinity:null
+

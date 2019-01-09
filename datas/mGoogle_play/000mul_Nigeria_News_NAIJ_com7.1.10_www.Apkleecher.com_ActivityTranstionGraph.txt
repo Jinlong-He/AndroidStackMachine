@@ -1,0 +1,33 @@
+com.core_news.android.ui.activities.SubscriptionsActivity-->com.core_news.android.ui.activities.SubscriptionsActivity
+flag:
+
+com.core_news.android.ui.activities.OnBoardingActivity-->com.core_news.android.ui.activities.OnBoardingActivity
+flag:
+
+com.core_news.android.ui.activities.AdditionalActivity-->com.core_news.android.ui.activities.AdditionalActivity
+flag:
+
+com.core_news.android.ui.activities.AdditionalActivity-->com.core_news.android.ui.activities.HomeActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.core_news.android.ui.activities.LinkedPostActivity-->com.core_news.android.ui.activities.WebViewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.core_news.android.ui.activities.ProfileActivity-->com.core_news.android.ui.activities.ProfileActivity
+flag:
+
+com.core_news.android.ui.activities.HomeActivity-->com.core_news.android.ui.activities.OnBoardingActivity
+flag:
+
+com.core_news.android.ui.activities.HomeActivity-->com.core_news.android.ui.activities.HomeActivity
+flag:
+
+com.facebook.notifications.internal.activity.CardActivity-->com.core_news.android.ui.activities.HomeActivity
+flag:finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

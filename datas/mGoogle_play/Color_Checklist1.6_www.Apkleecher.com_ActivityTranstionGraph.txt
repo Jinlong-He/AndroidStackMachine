@@ -1,0 +1,18 @@
+com.kenzap.notes.MainActivity-->com.kenzap.store.StoreActivity
+flag:
+
+com.kenzap.notes.MainActivity-->com.kenzap.notes.NoteActivity
+flag:
+
+com.kenzap.notes.MainActivity-->com.kenzap.notes.Settings
+flag:
+
+com.kenzap.notes.ImportActivity-->com.kenzap.store.StoreActivity
+flag:finish
+
+com.kenzap.notes.ImportActivity-->com.kenzap.notes.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.kenzap.notes.NoteActivity-->com.kenzap.notes.Settings
+flag:
+

@@ -1,0 +1,15 @@
+com.yassirh.digitalocean.ui.SettingsActivity-->com.yassirh.digitalocean.ui.MainActivity
+flag:finish
+
+com.yassirh.digitalocean.ui.AddAccountActivity-->com.yassirh.digitalocean.ui.MainActivity
+flag:finish
+
+com.yassirh.digitalocean.ui.MainActivity-->com.yassirh.digitalocean.ui.NewDropletActivity
+flag:
+
+com.yassirh.digitalocean.ui.MainActivity-->com.yassirh.digitalocean.ui.SettingsActivity
+flag:finish
+
+com.yassirh.digitalocean.ui.MainActivity-->com.yassirh.digitalocean.ui.AddAccountActivity
+flag:
+

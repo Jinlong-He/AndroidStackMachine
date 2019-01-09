@@ -1,0 +1,6 @@
+com.langrengame.tt.activity.PrepareActivity-->com.langrengame.tt.activity.GameActivity
+flag:
+
+com.langrengame.tt.activity.LoadingActivity-->com.langrengame.tt.activity.PrepareActivity
+flag:finish
+

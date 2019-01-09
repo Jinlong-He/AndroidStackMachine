@@ -1,0 +1,141 @@
+com.greyhound.mobile.consumer.BaseActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.BaseActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.BaseActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.BaseActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.BaseActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.PlainDrawerActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.PlainDrawerActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.PlainDrawerActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.PlainDrawerActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.PlainDrawerActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.mytrips.TripDetailActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.mytrips.TripDetailActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.mytrips.TripDetailActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.mytrips.TripDetailActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.mytrips.TripDetailActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.PlainActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.PlainActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.PlainActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.PlainActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.PlainActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.MainActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.MainActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.MainActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.MainActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.MainActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.rewards.MyRewardsActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.rewards.MyRewardsActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.rewards.MyRewardsActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.rewards.MyRewardsActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.rewards.MyRewardsActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.DrawerActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.DrawerActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.DrawerActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.DrawerActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.DrawerActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.SplashActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:finish
+
+com.greyhound.mobile.consumer.purchase.ConfirmationActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.purchase.ConfirmationActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.purchase.ConfirmationActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.purchase.ConfirmationActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.purchase.ConfirmationActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.apptentive.android.sdk.ViewActivity-->com.apptentive.android.sdk.ViewActivity
+flag:
+
+com.greyhound.mobile.consumer.mycart.ScheduleActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.greyhound.mobile.consumer.mycart.ScheduleActivity-->com.greyhound.mobile.consumer.mycart.ScheduleActivity
+flag:
+
+com.greyhound.mobile.consumer.mycart.ScheduleActivity-->com.greyhound.mobile.consumer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.greyhound.mobile.consumer.mycart.ScheduleActivity-->com.greyhound.mobile.consumer.purchase.ConfirmationActivity
+flag:
+
+com.greyhound.mobile.consumer.mycart.ScheduleActivity-->com.greyhound.mobile.consumer.rewards.MyRewardsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

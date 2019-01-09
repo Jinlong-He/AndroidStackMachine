@@ -1,0 +1,18 @@
+o.bs-->cn.jianyu.taskmaster.activities.MainActivity
+flag:finish
+
+o.bs-->o.bs
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+o.bB-->cn.jianyu.taskmaster.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.umeng.fb.ConversationActivity-->com.umeng.fb.ContactActivity
+flag:
+
+o.bl-->.activities.KillAppActivity
+flag:
+
+o.bK-->cn.jianyu.taskmaster.activities.MainActivity
+flag:finish
+

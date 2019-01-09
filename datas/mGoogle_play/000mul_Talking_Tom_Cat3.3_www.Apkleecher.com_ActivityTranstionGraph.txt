@@ -1,0 +1,15 @@
+com.apptracker.android.module.AppModuleActivity-->com.apptracker.android.module.AppModuleActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.millennialmedia.internal.MMIntentWrapperActivity
+flag:
+
+com.outfit7.talkingtom.Main-->com.outfit7.talkingtom.activity.Preferences
+flag:
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:
+

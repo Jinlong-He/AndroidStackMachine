@@ -1,0 +1,10 @@
+#MAIN
+activity:com.wcare.android.smoke.WelcomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.wcare.android.smoke.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

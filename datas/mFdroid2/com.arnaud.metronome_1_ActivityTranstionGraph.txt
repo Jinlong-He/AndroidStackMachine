@@ -1,0 +1,6 @@
+Metronome-->com.arnaud.metronome.MenuSettings
+flag:
+
+Metronome-->com.arnaud.metronome.MenuStructures
+flag:
+

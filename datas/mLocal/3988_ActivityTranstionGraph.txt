@@ -1,0 +1,18 @@
+com.esmobi.runtime.SmartProxyActivity-->.VSLauncher
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.smartshow.launcher.framework.activity.wallpaper.picker.WallpaperPickerActivity-->.VSLauncher
+flag:
+
+.VSLauncher-->.VSLauncher
+flag:
+
+.settings.VSSettingsActivity-->.VSLauncher
+flag:
+
+.settings.VSSettingsActivity-->.VSLauncher
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.smartshow.sdk.dialog.CommDialog-->com.smartshow.sdk.dialog.CommDialog
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+

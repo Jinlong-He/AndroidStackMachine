@@ -1,0 +1,6 @@
+com.zamoragoat.DJSongsMixer.Splass_screenActivity-->com.zamoragoat.DJSongsMixer.PlayActivity
+flag:finish
+
+com.startapp.android.publish.ads.list3d.List3DActivity-->com.startapp.android.publish.adsCommon.activities.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

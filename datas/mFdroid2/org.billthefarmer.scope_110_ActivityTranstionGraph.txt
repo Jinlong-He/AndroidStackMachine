@@ -1,0 +1,12 @@
+.SpectrumActivity-->org.billthefarmer.scope.SettingsActivity
+flag:
+
+.SpectrumActivity-->org.billthefarmer.scope.HelpActivity
+flag:
+
+.MainActivity-->org.billthefarmer.scope.SpectrumActivity
+flag:
+
+.MainActivity-->org.billthefarmer.scope.SettingsActivity
+flag:
+

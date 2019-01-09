@@ -1,0 +1,3 @@
+org.ntpsync.ui.BaseActivity-->org.ntpsync.ui.HelpActivity
+flag:
+

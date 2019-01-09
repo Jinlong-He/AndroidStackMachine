@@ -1,0 +1,3 @@
+com.termux.app.TermuxActivity-->com.termux.app.TermuxHelpActivity
+flag:
+

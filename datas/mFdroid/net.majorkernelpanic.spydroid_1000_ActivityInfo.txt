@@ -1,0 +1,14 @@
+#MAIN
+activity:net.majorkernelpanic.spydroid.ui.SpydroidActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:net.majorkernelpanic.spydroid.ui.OptionsActivity
+LaunchMode:std
+TaskAffinity:null
+

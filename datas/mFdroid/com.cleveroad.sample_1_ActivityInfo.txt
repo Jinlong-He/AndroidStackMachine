@@ -1,0 +1,10 @@
+#MAIN
+activity:com.cleveroad.sample.MusicListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.cleveroad.sample.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

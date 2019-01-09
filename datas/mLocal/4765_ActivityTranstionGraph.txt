@@ -1,0 +1,6 @@
+.SplashScreen-->com.temobi.book.c000000428974.activity.HomepageActivity
+flag:finish
+
+.activity.HomepageActivity-->com.temobi.book.c000000428974.activity.TMBPlayer
+flag:
+

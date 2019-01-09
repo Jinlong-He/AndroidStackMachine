@@ -1,0 +1,4 @@
+activity:com.termux.tasker.EditConfigurationActivity
+LaunchMode:std
+TaskAffinity:null
+

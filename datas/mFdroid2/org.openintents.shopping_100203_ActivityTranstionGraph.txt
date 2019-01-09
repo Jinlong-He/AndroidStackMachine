@@ -1,0 +1,9 @@
+org.openintents.distribution.EulaActivity-->org.openintents.shopping.ShoppingActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+org.openintents.distribution.NewVersionActivity-->org.openintents.shopping.ShoppingActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+org.openintents.shopping.ui.ShoppingListsActivity-->org.openintents.shopping.ShoppingActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+

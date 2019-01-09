@@ -1,0 +1,14 @@
+#MAIN
+activity:org.fastergps.ui.BaseActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:org.fastergps.ui.AdvancedSettingsActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:org.fastergps.ui.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

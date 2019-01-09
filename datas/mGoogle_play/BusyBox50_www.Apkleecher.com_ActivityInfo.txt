@@ -1,0 +1,6 @@
+#MAIN
+activity:stericson.busybox.Activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

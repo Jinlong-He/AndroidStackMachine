@@ -1,0 +1,9 @@
+com.lgy.myword.ui.RSplashActivity-->com.lgy.myword.ui.MainActivity
+flag:finish
+
+com.lgy.myword.ui.MainActivity-->com.lgy.myword.ui.AboutActivity
+flag:
+
+com.lgy.myword.ui.SelectPictureActivity-->com.lgy.myword.ui.CropperImageActivity
+flag:
+

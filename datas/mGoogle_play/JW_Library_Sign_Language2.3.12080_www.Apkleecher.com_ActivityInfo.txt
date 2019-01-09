@@ -1,0 +1,10 @@
+activity:md5e5d35df50e51cd8af4b47950245a3aaa.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:md5e5d35df50e51cd8af4b47950245a3aaa.LaunchActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

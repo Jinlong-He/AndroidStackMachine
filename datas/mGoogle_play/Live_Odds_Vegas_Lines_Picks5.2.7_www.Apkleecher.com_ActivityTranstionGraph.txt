@@ -1,0 +1,15 @@
+com.sportsinsights.ui.activity.LineWatcherEditActivity-->com.sportsinsights.ui.activity.SettingsActivity
+flag:finish
+
+com.sportsinsights.ui.activity.LoginActivity-->com.sportsinsights.ui.activity.MainActivity
+flag:finish
+
+com.sportsinsights.ui.activity.MainActivity-->com.sportsinsights.ui.activity.SettingsActivity
+flag:
+
+com.sportsinsights.ui.activity.MainActivity-->com.sportsinsights.ui.activity.FaqActivity
+flag:
+
+com.sportsinsights.ui.activity.MainActivity-->com.sportsinsights.ui.activity.ContactActivity
+flag:
+

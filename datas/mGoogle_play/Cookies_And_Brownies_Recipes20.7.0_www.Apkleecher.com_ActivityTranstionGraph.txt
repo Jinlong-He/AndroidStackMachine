@@ -1,0 +1,9 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.endless.cookierecipes.MainActivity
+flag:
+
+com.endless.cookierecipes.SplashActivity-->com.endless.cookierecipes.MainActivity
+flag:finish
+
+com.endless.cookierecipes.MainActivity-->com.endless.cookierecipes.MainActivity
+flag:
+

@@ -1,0 +1,9 @@
+com.alipay.sdk.auth.AuthActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.knowbox.rc.student.pk.wxapi.WXEntryActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.knowbox.rc.MainActivity-->com.mob.tools.MobUIShell
+flag:
+

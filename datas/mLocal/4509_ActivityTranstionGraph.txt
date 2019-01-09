@@ -1,0 +1,12 @@
+com.iasku.wk.search.nycamear.crop.ReOpenCameraActivity-->com.iasku.wk.search.nycamear.crop.CropperActivity
+flag:
+
+com.iasku.wk.search.activity.WelcomeActivity-->com.iasku.wk.search.activity.MainActivity
+flag:finish
+
+com.iasku.wk.search.nycamear.crop.CropperActivity-->com.iasku.wk.search.nycamear.crop.ReOpenCameraActivity
+flag:
+
+com.iasku.wk.search.nycamear.crop.CropperActivity-->com.iasku.wk.search.activity.PicSearchActivity
+flag:finish
+

@@ -1,0 +1,51 @@
+.WebContentActivity-->co.xingtuan.tingkeling.MainActivity
+flag:finish
+
+.SearchActivity-->co.xingtuan.tingkeling.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_PREVIOUS_IS_TOP FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.tencent.android.tpush.XGPushActivity-->.SplashActivity
+flag:finish
+
+.SplashActivity-->co.xingtuan.tingkeling.MainActivity
+flag:finish
+
+.SplashActivity-->co.xingtuan.tingkeling.WebContentActivity
+flag:finish
+
+.SplashActivity-->.SplashActivity
+flag:
+
+.MainActivity-->co.xingtuan.tingkeling.WarnActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_PREVIOUS_IS_TOP  
+
+.MainActivity-->co.xingtuan.tingkeling.CloseSchoolActivity
+flag:
+
+.MainActivity-->co.xingtuan.tingkeling.WebContentActivity
+flag:
+
+.MainActivity-->co.xingtuan.tingkeling.SearchActivity
+flag:
+
+.MainActivity-->co.xingtuan.tingkeling.NotificationSettingActivity
+flag:
+
+.MainActivity-->co.xingtuan.tingkeling.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_PREVIOUS_IS_TOP FLAG_ACTIVITY_CLEAR_TOP  
+
+.MainActivity-->co.xingtuan.tingkeling.OtherServiceActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_PREVIOUS_IS_TOP  
+
+.MainActivity-->.SplashActivity
+flag:
+
+.MainActivity-->co.xingtuan.tingkeling.AboutActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_PREVIOUS_IS_TOP  
+
+.MainActivity-->co.xingtuan.tingkeling.FeedbackActivity
+flag:
+
+.MainActivity-->co.xingtuan.tingkeling.PopupActivity
+flag:
+

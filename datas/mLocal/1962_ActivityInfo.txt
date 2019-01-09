@@ -1,0 +1,14 @@
+#MAIN
+activity:.MainNavigationActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.MessageViewer
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

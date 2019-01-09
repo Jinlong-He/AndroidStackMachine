@@ -1,0 +1,9 @@
+fr.masciulli.drinks.ui.activity.LiquorActivity-->fr.masciulli.drinks.ui.activity.DrinkActivity
+flag:
+
+fr.masciulli.drinks.ui.activity.MainActivity-->fr.masciulli.drinks.ui.activity.AboutActivity
+flag:
+
+fr.masciulli.drinks.ui.activity.MainActivity-->fr.masciulli.drinks.ui.activity.LicensesActivity
+flag:
+

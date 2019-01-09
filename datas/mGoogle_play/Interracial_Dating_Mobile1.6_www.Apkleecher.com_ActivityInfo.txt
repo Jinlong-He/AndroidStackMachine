@@ -1,0 +1,10 @@
+#MAIN
+activity:com.black4whitedating.app.Black4WhiteDatingApp
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.black4whitedating.app.SecondScreenActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.photo.cartoon.SelectActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.photo.cartoon.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

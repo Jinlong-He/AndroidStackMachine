@@ -1,0 +1,6 @@
+com.easytarget.micopi.ui.WelcomeActivity-->com.easytarget.micopi.ui.ContactActivity
+flag:
+
+com.easytarget.micopi.ui.WelcomeActivity-->com.easytarget.micopi.ui.BatchActivity
+flag:
+

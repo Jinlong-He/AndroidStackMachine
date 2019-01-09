@@ -1,0 +1,10 @@
+#MAIN
+activity:info.guardianproject.checkey.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.WebViewActivity
+LaunchMode:std
+TaskAffinity:null
+

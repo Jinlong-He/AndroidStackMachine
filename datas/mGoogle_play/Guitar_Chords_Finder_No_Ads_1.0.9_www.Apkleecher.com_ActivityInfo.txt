@@ -1,0 +1,10 @@
+activity:com.musictrainer.guitarchords.ui.ChordsActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.musictrainer.guitarchords.ui.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

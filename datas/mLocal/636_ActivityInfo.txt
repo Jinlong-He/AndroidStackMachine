@@ -1,0 +1,14 @@
+#MAIN
+activity:.IntroActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.DefaultActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.admob.android.ads.AdMobActivity
+LaunchMode:std
+TaskAffinity:null
+

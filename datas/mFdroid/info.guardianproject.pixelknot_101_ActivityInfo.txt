@@ -1,0 +1,14 @@
+#MAIN
+activity:info.guardianproject.pixelknot.SendActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:info.guardianproject.pixelknot.AlbumsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:info.guardianproject.pixelknot.ReceiveActivity
+launchMode:stp
+TaskAffinity:null
+

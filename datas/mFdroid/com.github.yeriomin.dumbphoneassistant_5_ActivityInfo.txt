@@ -1,0 +1,10 @@
+activity:com.github.yeriomin.dumbphoneassistant.DumbphoneAssistantPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.github.yeriomin.dumbphoneassistant.ManageContactsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,3 @@
+com.github.timnew.smartremotecontrol.MainActivity_-->com.github.timnew.smartremotecontrol.DialogHostActivity
+flag:finish
+

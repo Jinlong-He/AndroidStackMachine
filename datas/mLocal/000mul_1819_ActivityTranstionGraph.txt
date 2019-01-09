@@ -1,0 +1,18 @@
+com.igexin.getuiext.activity.GetuiExtActivity-->com.m4399.biule.module.app.main.MainActivity
+flag:
+
+com.umeng.qq.tencent.AuthActivity-->com.m4399.biule.module.app.main.MainActivity
+flag:finish
+
+com.umeng.qq.tencent.AuthActivity-->com.umeng.qq.tencent.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.umeng.qq.tencent.AssistActivity-->com.m4399.biule.module.app.main.MainActivity
+flag:finish
+
+com.alibaba.mobileim.ui.multi.lightservice.MultiPickGalleryActivity-->com.alibaba.mobileim.ui.chat.MultiImageActivity
+flag:finish
+
+com.alibaba.mobileim.ui.FeedbackActvity-->com.m4399.biule.module.app.main.MainActivity
+flag:
+

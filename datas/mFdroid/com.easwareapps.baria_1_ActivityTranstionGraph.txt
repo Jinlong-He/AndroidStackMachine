@@ -1,0 +1,9 @@
+com.easwareapps.baria.SettingsActivity-->com.easwareapps.baria.DirectoryChooserActivity
+flag:
+
+com.easwareapps.baria.MainActivity-->com.easwareapps.baria.SettingsActivity
+flag:
+
+com.easwareapps.baria.MainActivity-->com.easwareapps.baria.InstallAppActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

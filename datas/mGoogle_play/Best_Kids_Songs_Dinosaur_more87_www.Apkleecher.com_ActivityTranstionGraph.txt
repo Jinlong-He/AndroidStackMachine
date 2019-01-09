@@ -1,0 +1,27 @@
+kr.co.smartstudy.bodlebookiap.MovieActivity-->kr.co.smartstudy.bodlebookiap.IntroView
+flag:
+
+kr.co.smartstudy.ssiap.GoogleStoreV3-->unknown
+flag:
+
+kr.co.smartstudy.bodlebookiap.IntroView-->kr.co.smartstudy.bodlebookiap.CoverActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+kr.co.smartstudy.bodlebookiap.MainActivity-->kr.co.smartstudy.bodlebookiap.IntroView
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+kr.co.smartstudy.bodlebookiap.MainActivity-->kr.co.smartstudy.bodlebookiap.PackagePreviewActivity
+flag:
+
+kr.co.smartstudy.bodlebookiap.MainActivity-->unknown
+flag:
+
+kr.co.smartstudy.bodlebookiap.CoverActivity-->kr.co.smartstudy.sspagree.SSSimpleAgree
+flag:finish
+
+kr.co.smartstudy.bodlebookiap.CoverActivity-->kr.co.smartstudy.bodlebookiap.MainActivity
+flag:finish
+
+kr.co.smartstudy.bodlebookiap.PackagePreviewActivity-->kr.co.smartstudy.bodlebookiap.PackagePreviewActivity
+flag:
+

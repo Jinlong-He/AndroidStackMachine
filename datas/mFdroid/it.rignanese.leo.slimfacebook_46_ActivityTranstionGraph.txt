@@ -1,0 +1,15 @@
+it.rignanese.leo.slimfacebook.settings.SettingsActivity-->it.rignanese.leo.slimfacebook.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+it.rignanese.leo.slimfacebook.MessagesActivity-->it.rignanese.leo.slimfacebook.MainActivity
+flag:
+
+it.rignanese.leo.slimfacebook.MainActivity-->it.rignanese.leo.slimfacebook.MainActivity
+flag:
+
+it.rignanese.leo.slimfacebook.MainActivity-->it.rignanese.leo.slimfacebook.MessagesActivity
+flag:
+
+it.rignanese.leo.slimfacebook.MainActivity-->it.rignanese.leo.slimfacebook.settings.SettingsActivity
+flag:
+

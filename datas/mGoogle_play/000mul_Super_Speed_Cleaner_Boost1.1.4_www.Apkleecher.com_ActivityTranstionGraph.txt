@@ -1,0 +1,126 @@
+com.optimizer.test.module.notificationorganizer.activity.OrganizerSettingActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerGuideActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.optimizer.test.module.batterymonitor.chargingscreen.ChargingScreenActivity-->com.optimizer.test.module.batterymonitor.chargingscreen.DismissKeyguardActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ihs.device.clean.accessibility.task.SettingLaunchpad-->com.ihs.device.clean.accessibility.task.SettingLaunchpad
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+com.ihs.device.clean.accessibility.task.SettingLaunchpad-->com.cloudtech.ads.view.InnerWebLandingActivity
+flag:finish
+
+com.optimizer.test.module.promote.promotefeature.PromoteAutoBoosterActivity-->com.optimizer.test.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.module.batterysaver.BatterySaverScanActivity-->com.optimizer.test.module.batterysaver.BatterySaverCleanFinishActivity
+flag:finish
+
+com.optimizer.test.module.batterysaver.BatterySaverScanActivity-->com.optimizer.test.module.batterysaver.BatterySaverCleanActivity
+flag:finish
+
+com.optimizer.test.main.SplashActivity-->com.optimizer.test.main.MainActivity
+flag:finish
+
+com.optimizer.test.main.SplashActivity-->com.optimizer.test.main.PolicyActivity
+flag:
+
+com.optimizer.test.module.batterysaver.BatterySaverCleanActivity-->com.optimizer.test.module.batterysaver.BatterySaverCleanFinishActivity
+flag:finish
+
+com.optimizer.test.module.notificationorganizer.activity.OrganizerBlockedActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerSettingActivity
+flag:
+
+com.optimizer.test.module.notificationorganizer.activity.OrganizerBlockedActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerGuideActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.optimizer.test.module.notificationorganizer.activity.OrganizerBlockedActivity-->com.cloudtech.ads.view.InnerWebLandingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.cpucooler.CpuCoolerThermometerActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.cpucooler.CpuCoolerScanAndCleanActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.appmanagement.AppManagerActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerBlockedActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerGuideActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.batterysaver.BatterySaverScanActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.deviceinfo.DeviceInfoActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.setting.SettingActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.ignorelist.IgnoreListActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.junkclean.CleanResultActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.junkclean.JunkCleanActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.main.BoostResultActivity
+flag:
+
+com.optimizer.test.main.MainActivity-->com.optimizer.test.module.phoneboost.PhoneBoostScanActivity
+flag:
+
+com.optimizer.test.module.promote.promotelist.PromoteListActivity-->com.optimizer.test.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.module.junkclean.JunkCleanActivity-->com.optimizer.test.module.junkclean.CleanResultActivity
+flag:finish
+
+com.optimizer.test.module.setting.SettingActivity-->com.optimizer.test.module.setting.SettingLanguageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.optimizer.test.module.setting.SettingActivity-->com.optimizer.test.module.setting.SettingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.module.promote.promotealert.PromoteAlertActivity-->com.optimizer.test.module.promote.promotealert.PromoteAlertActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.module.notificationorganizer.activity.OrganizerGuideActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerBlockedActivity
+flag:finish
+
+com.optimizer.test.module.notificationorganizer.activity.OrganizerGuideActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerBlockedActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.optimizer.test.module.notificationorganizer.activity.OrganizerGuideActivity-->com.optimizer.test.module.notificationorganizer.activity.OrganizerGuideActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.module.phoneboost.PhoneBoostScanActivity-->com.optimizer.test.main.BoostResultActivity
+flag:finish
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.cloudtech.ads.view.InnerWebLandingActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.optimizer.test.module.ignorelist.IgnoreListActivity-->com.optimizer.test.module.ignorelist.IgnoreListAddActivity
+flag:
+
+com.cloudtech.ads.view.InnerWebLandingActivity-->com.cloudtech.ads.view.InnerWebLandingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.optimizer.test.module.batterymonitor.chargingscreen.DismissKeyguardActivity-->com.optimizer.test.module.batterymonitor.chargingscreen.DismissKeyguardActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.optimizer.test.module.cpucooler.CpuCoolerScanAndCleanActivity-->com.optimizer.test.module.cpucooler.CpuCoolerThermometerActivity
+flag:finish
+
+com.optimizer.test.module.promote.promotefeature.PromoteChargingActivity-->com.optimizer.test.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+

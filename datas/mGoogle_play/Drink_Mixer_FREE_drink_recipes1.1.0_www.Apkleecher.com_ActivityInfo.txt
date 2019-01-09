@@ -1,0 +1,6 @@
+#MAIN
+activity:DrinkMixer
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

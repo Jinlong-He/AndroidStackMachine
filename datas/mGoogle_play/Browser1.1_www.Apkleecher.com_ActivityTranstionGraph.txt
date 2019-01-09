@@ -1,0 +1,15 @@
+com.zxing.barcode.util.IsHttpDialog-->com.seal.ui.activities.SealBrowserActivity
+flag:
+
+com.seal.ui.activities.H5View-->com.seal.ui.activities.SealBrowserActivity
+flag:finish
+
+com.seal.ui.activities.H5View-->com.mobcells.HView
+flag:
+
+com.seal.ui.activities.BookmarksActivity-->com.seal.ui.activities.EditBookmarkActivity
+flag:
+
+com.zxing.barcode.util.CaptureActivity-->com.zxing.barcode.util.IsHttpDialog
+flag:
+

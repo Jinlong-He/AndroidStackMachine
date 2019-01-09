@@ -1,0 +1,14 @@
+#MAIN
+activity:com.vsmartcard.acardemulator.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.vsmartcard.acardemulator.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.journeyapps.barcodescanner.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:uk.org.blurt.businessplanbuilder.tabsMainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

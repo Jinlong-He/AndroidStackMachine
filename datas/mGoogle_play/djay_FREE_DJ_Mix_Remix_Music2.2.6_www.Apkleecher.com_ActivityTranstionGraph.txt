@@ -1,0 +1,15 @@
+com.algoriddim.djay.web.WebNotificationActivity-->com.algoriddim.djay.browser.controllers.LoginActivity
+flag:
+
+com.algoriddim.djay.browser.controllers.LoginActivity-->com.algoriddim.djay.browser.controllers.LoginActivity
+flag:finish
+
+com.algoriddim.djay.browser.controllers.LoginActivity-->com.algoriddim.djay.browser.controllers.MusicLibraryActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.algoriddim.djay.info.InfoPanelActivity-->com.algoriddim.djay.info.WebViewActivity
+flag:
+
+com.algoriddim.djay.info.InfoPanelActivity-->com.algoriddim.djay.browser.controllers.LoginActivity
+flag:
+

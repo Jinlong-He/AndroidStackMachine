@@ -1,0 +1,3 @@
+.SelectVoiceActivity-->com.fakecallgame.RecordVoice
+flag:
+

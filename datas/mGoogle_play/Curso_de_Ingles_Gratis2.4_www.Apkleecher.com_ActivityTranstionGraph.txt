@@ -1,0 +1,12 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.facebook.notifications.internal.activity.CardActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

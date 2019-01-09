@@ -1,0 +1,87 @@
+com.everycircuit.SignIn-->com.everycircuit.UrlLauncher
+flag:
+
+com.everycircuit.ExternalLauncher-->com.everycircuit.ChapterMenu
+flag:
+
+com.everycircuit.ExternalLauncher-->com.everycircuit.Explorer
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.everycircuit.ExternalLauncher-->com.everycircuit.Empty
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.everycircuit.Explorer-->com.everycircuit.Preferences
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.everycircuit.Explorer-->com.everycircuit.Profile
+flag:
+
+com.everycircuit.Explorer-->com.everycircuit.Details
+flag:
+
+com.everycircuit.Explorer-->com.everycircuit.UrlLauncher
+flag:
+
+com.everycircuit.Explorer-->com.everycircuit.Splash
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.everycircuit.Splash-->com.everycircuit.Explorer
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.everycircuit.Splash-->com.everycircuit.Editor
+flag:
+
+com.everycircuit.Splash-->com.everycircuit.Saver
+flag:
+
+com.everycircuit.Splash-->com.everycircuit.ChapterMenu
+flag:
+
+com.everycircuit.HomeLauncher-->com.everycircuit.ChapterMenu
+flag:
+
+com.everycircuit.HomeLauncher-->com.everycircuit.Explorer
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.everycircuit.HomeLauncher-->com.everycircuit.Empty
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.everycircuit.UrlLauncher-->com.everycircuit.ChapterMenu
+flag:
+
+com.everycircuit.UrlLauncher-->com.everycircuit.Explorer
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.everycircuit.UrlLauncher-->com.everycircuit.Empty
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.everycircuit.ChapterMenu-->com.everycircuit.UrlLauncher
+flag:
+
+com.everycircuit.ChapterMenu-->com.everycircuit.Splash
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.everycircuit.Editor-->com.everycircuit.Saver
+flag:
+
+com.everycircuit.Editor-->com.everycircuit.Preferences
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.everycircuit.Editor-->com.everycircuit.Appreciation
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.everycircuit.Editor-->com.everycircuit.Splash
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.everycircuit.Appreciation-->com.everycircuit.UrlLauncher
+flag:
+
+com.everycircuit.Saver-->com.everycircuit.Splash
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.everycircuit.Register-->com.everycircuit.UrlLauncher
+flag:
+
+com.everycircuit.Register-->com.everycircuit.SignIn
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.voltage.g.fkshu.en.AppKoiGame
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.voltage.view.ViewWebSite
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.voltage.api.billing.BillingMain
+LaunchMode:std
+TaskAffinity:null
+

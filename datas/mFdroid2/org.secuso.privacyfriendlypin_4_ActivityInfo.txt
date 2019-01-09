@@ -1,0 +1,6 @@
+#MAIN
+activity:org.secuso.privacyfriendlypinmnemonic.RootActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

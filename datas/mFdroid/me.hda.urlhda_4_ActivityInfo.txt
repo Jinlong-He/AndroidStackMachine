@@ -1,0 +1,10 @@
+#MAIN
+activity:me.hda.urlhda.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:me.hda.urlhda.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+com.flavionet.android.camera.review.GalleryDialog-->com.flavionet.android.camera.review.GalleryDialog
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.flavionet.android.camera.preferences.NewCameraPreferences-->com.lamerman.FileDialog
+flag:
+
+com.flavionet.android.camera.review.ReviewDialog-->com.flavionet.android.camera.review.ReviewDialog
+flag:FLAG_ACTIVITY_NEW_TASK  
+

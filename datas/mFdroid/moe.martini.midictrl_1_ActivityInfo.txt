@@ -1,0 +1,6 @@
+#MAIN
+activity:moe.martini.midictrl.ControlActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

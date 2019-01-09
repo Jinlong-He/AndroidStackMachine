@@ -1,0 +1,12 @@
+com.brookop.graffiticharacterideas.activities.ActivitySlideImage-->com.brookop.graffiticharacterideas.activities.ActivityPinchZoom
+flag:
+
+com.brookop.graffiticharacterideas.activities.ActivitySlideImage-->com.brookop.graffiticharacterideas.activities.ActivitySetAsWallpaper
+flag:
+
+com.brookop.graffiticharacterideas.activities.ActivityWallpaperByCategory-->com.brookop.graffiticharacterideas.activities.ActivitySlideImage
+flag:
+
+com.brookop.graffiticharacterideas.activities.ActivitySplash-->com.brookop.graffiticharacterideas.activities.MainActivity
+flag:finish
+

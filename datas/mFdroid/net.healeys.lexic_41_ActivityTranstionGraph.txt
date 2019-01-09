@@ -1,0 +1,15 @@
+Lexic-->OnePlayerScore
+flag:finish
+
+Lexic-->LexicLogin
+flag:
+
+Lexic-->PlayLexic
+flag:
+
+Lexic-->LexicConfig
+flag:
+
+LexicLogin-->PlayLexicOnline
+flag:
+

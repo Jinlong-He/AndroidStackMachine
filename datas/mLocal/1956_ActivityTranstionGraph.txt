@@ -1,0 +1,6 @@
+com.zmapp.zmebook.activity.StartAppActivity-->com.zmapp.zmebook.activity.webview.WebviewToShowActivity
+flag:finish
+
+com.zmapp.zmebook.activity.webview.WebviewToShowActivity-->com.zmapp.zmebook.activity.VersionUpdateDialogActivity
+flag:
+

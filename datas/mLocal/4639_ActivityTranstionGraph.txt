@@ -1,0 +1,3 @@
+com.th.v.erge.Splash-->com.th.v.erge.MainActivity
+flag:finish
+

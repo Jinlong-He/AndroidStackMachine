@@ -1,0 +1,9 @@
+com.huichao.notepad.MainActivity-->com.huichao.notepad.AccountActivity
+flag:
+
+com.huichao.notepad.MainActivity-->com.huichao.notepad.CreateActivity
+flag:
+
+com.huichao.notepad.AccountActivity-->com.huichao.notepad.EditAccountActivity
+flag:
+

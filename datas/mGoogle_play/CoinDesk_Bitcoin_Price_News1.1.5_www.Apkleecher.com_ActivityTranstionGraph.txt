@@ -1,0 +1,6 @@
+com.coindesk.android.activities.PostSearchActivity-->com.coindesk.android.activities.PostViewActivity
+flag:
+
+com.coindesk.android.MainActivity-->com.coindesk.android.activities.AboutActivity
+flag:
+

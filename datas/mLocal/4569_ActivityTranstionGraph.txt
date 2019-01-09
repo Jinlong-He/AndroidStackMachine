@@ -1,0 +1,15 @@
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:finish
+
+com.cetset.ksbm.wxapi.WXPayEntryActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.justep.x5.support.chooser.FileUploadChooserActivity-->com.justep.x5.support.video.record.CameraActivity
+flag:
+
+com.cetset.ksbm.wxapi.WXEntryActivity-->com.cetset.ksbm.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.jpush.android.ui.PushActivity-->com.cetset.ksbm.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:.PrBoomActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,3 @@
+com.NaimDev.AnimalFaceApp.SplashActivity-->com.NaimDev.AnimalFaceApp.MainActivity
+flag:
+

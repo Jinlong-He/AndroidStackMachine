@@ -1,0 +1,3 @@
+com.qisi.plugin.activities.SplashActivity-->com.qisi.plugin.activities.MainActivity
+flag:finish
+

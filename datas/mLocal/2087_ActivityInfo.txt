@@ -1,0 +1,14 @@
+#MAIN
+activity:com.lizitorch.activity.LTMainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.lizitorch.activity.base.LTBaseWebFragmentActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.lizitorch.activity.LTDefaultFragmentActivity
+LaunchMode:std
+TaskAffinity:null
+

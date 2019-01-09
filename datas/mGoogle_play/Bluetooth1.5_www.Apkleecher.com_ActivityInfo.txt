@@ -1,0 +1,6 @@
+#MAIN
+activity:com.appventions.bluetoothtoggle.bluetooth
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

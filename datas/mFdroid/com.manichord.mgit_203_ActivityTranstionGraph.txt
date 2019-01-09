@@ -1,0 +1,15 @@
+me.sheimi.sgit.activities.explorer.PrivateKeyManageActivity-->me.sheimi.sgit.activities.ViewFileActivity
+flag:finish
+
+me.sheimi.sgit.activities.explorer.PrivateKeyManageActivity-->me.sheimi.sgit.activities.explorer.ExploreFileActivity
+flag:
+
+me.sheimi.sgit.activities.RepoDetailActivity-->me.sheimi.sgit.activities.BranchChooserActivity
+flag:
+
+me.sheimi.sgit.RepoListActivity-->me.sheimi.sgit.activities.explorer.ImportRepositoryActivity
+flag:
+
+me.sheimi.sgit.RepoListActivity-->me.sheimi.sgit.activities.UserSettingsActivity
+flag:
+

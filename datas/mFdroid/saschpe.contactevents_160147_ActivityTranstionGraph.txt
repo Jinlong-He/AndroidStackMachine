@@ -1,0 +1,6 @@
+saschpe.birthdays.activity.MainActivity-->saschpe.birthdays.activity.SettingsActivity
+flag:
+
+saschpe.birthdays.activity.MainActivity-->saschpe.birthdays.activity.HelpActivity
+flag:
+

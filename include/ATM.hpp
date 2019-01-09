@@ -23,6 +23,7 @@ namespace atm {
     typedef unordered_map<ID, ID> ID2Map;
     typedef unordered_map<Activity*, vector<char> > Act2CharsMap;
     typedef unordered_map<Activity*, ActActsPairs> Act2ActActsPairsMap;
+    typedef unordered_map<Activity*, Aft2ActionsMap> OutActionsMap;
     typedef unordered_map<Aft, ID> Aft2IDMap;
     class ATM
     {
@@ -53,6 +54,10 @@ namespace atm {
         DFAMap dfaMap;                          ///< the NFA of each task.
         Act2ActsMap loopMap;                    ///< the loopActs of each task.
         bool bounded;                           ///< records this ATM is bounded or not.
+
+        ID res;
+        Act2ActsMap reachActsMap;
+        OutActionsMap outActionsMap;
     public:
         ATM() : mainActivity(nullptr) {} 
         ATM(Parse& parse);
@@ -71,6 +76,7 @@ namespace atm {
         ID getStackLength() {return maxLength + 1;}
         ID getStackNum() {return afts.size();}
         bool isBounded() {return bounded;}
+        ID getRes() {return res;}
 
         void mkConfig(const Aft& tAft, ID w);
         void mkLoopMap();
@@ -83,6 +89,11 @@ namespace atm {
         void getCTPActs(Act2ActsMap& cActsMap);
         void getCharMap(Activity* realAct, Actions& actions, ActActsPairs& chars, ActActsPairMap& charMap, ID2Map& char2Map, Act2ActActsPairsMap& act2PairsMap, Acts& cActs, vector<Acts>& powerSet);
         void mkNFAs();
+
+        ID mkCompGragh();
+        void mkCompGragh(Activity* masterRealAct, Activity* slaveRealAct, Actions& virtualActions);
+        void addVirtualAction(Activity* masterRealAct, Activity* slaveRealAct, Action* newAction, Act2ActionsMap& newActionsMap, Actions& virtualActions, bool flag);
+        void mkOutActionsMap(Act2ActionsMap& reachActionsMap);
     };
 }
 #endif /* ATM_hpp */

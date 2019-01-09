@@ -1,0 +1,6 @@
+.pmTextEdit-->org.paulmach.textedit.FileBrowser
+flag:
+
+.pmTextEdit-->org.paulmach.textedit.EditPreferences
+flag:
+

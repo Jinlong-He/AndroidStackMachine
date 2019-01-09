@@ -1,0 +1,14 @@
+#MAIN
+activity:ryey.easer.core.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ryey.easer.core.ui.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ryey.easer.core.ui.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

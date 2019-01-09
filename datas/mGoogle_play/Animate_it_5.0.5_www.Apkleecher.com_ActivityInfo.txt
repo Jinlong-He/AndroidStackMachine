@@ -1,0 +1,6 @@
+#MAIN
+activity:com.stenson.myplugin.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

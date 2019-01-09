@@ -1,0 +1,10 @@
+#MAIN
+activity:com.github.yeriomin.workoutlog.Activity.ExerciseListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.github.yeriomin.workoutlog.Activity.AddExerciseActivity
+LaunchMode:std
+TaskAffinity:null
+

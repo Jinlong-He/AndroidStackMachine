@@ -1,0 +1,6 @@
+#MAIN
+activity:WebRadio
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

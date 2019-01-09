@@ -1,0 +1,3 @@
+com.mdhelper.cardiojournal.view.splash.SplashScreenActivity-->com.mdhelper.cardiojournal.view.main.MainActivity
+flag:finish
+

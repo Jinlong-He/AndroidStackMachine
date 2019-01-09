@@ -1,0 +1,6 @@
+#MAIN
+activity:com.sensirion.smartgadget.view.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

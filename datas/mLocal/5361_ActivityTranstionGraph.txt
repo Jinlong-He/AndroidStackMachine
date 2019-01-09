@@ -1,0 +1,66 @@
+.gui.WelcomeActivity-->com.xfplay.play.gui.CompatErrorActivity
+flag:finish
+
+.gui.WelcomeActivity-->com.xfplay.play.gui.WelcomeActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.WelcomeActivity-->com.xfplay.play.gui.MainActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.xfplay.browser.XfmainActivity-->com.xfplay.browser.XfmainActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.xfplay.browser.XfmainActivity-->com.xfplay.play.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.xfplay.browser.XfmainActivity-->com.xfplay.play.gui.video.VideoPlayerActivity
+flag:
+
+com.baidu.mobads.AppActivity-->.gui.MainActivity
+flag:
+
+.gui.PreferencesActivity-->com.xfplay.play.gui.SaveActivity
+flag:
+
+.gui.PreferencesActivity-->com.xfplay.play.gui.BrowserActivity
+flag:
+
+com.xfplay.browser.IncognitoActivity-->com.xfplay.play.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.xfplay.browser.IncognitoActivity-->com.xfplay.play.gui.video.VideoPlayerActivity
+flag:
+
+.gui.MainActivity-->com.xfplay.play.gui.CompatErrorActivity
+flag:finish
+
+.gui.MainActivity-->com.xfplay.play.gui.PreferencesActivity
+flag:
+
+.gui.MainActivity-->.gui.MainActivity
+flag:finish
+
+.gui.MainActivity-->com.xfplay.browser.XfmainActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.MainActivity-->com.xfplay.play.gui.WelcomeActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.video.VideoPlayerActivity-->com.xfplay.play.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.video.VideoPlayerActivity-->com.xfplay.play.gui.video.VideoPlayerActivity
+flag:
+
+.gui.video.VideoPlayerActivity-->com.xfplay.play.gui.MainActivity
+flag:finish
+
+.gui.CompatErrorActivity-->.gui.MainActivity
+flag:
+
+com.xfplay.browser.SettingsActivity-->com.xfplay.browser.BookmarkActivity
+flag:
+
+com.xfplay.browser.SettingsActivity-->com.xfplay.browser.AdvancedSettingsActivity
+flag:
+

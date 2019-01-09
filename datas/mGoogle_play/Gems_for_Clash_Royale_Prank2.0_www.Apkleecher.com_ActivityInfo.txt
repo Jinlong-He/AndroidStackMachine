@@ -1,0 +1,14 @@
+#MAIN
+activity:.PTPlayer
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.vungle.publisher.FullScreenAdActivity
+LaunchMode:std
+TaskAffinity:null
+

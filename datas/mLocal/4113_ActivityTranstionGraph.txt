@@ -1,0 +1,12 @@
+com.dancingpixelstudios.sixaxiscontroller.ProfileSettings-->com.dancingpixelstudios.sixaxiscontroller.AppPickerActivity
+flag:
+
+com.dancingpixelstudios.sixaxiscontroller.SixaxisActivity-->com.dancingpixelstudios.sixaxiscontroller.SixaxisIMESettings
+flag:
+
+com.dancingpixelstudios.sixaxiscontroller.SixaxisActivity-->com.dancingpixelstudios.sixaxiscontroller.SixaxisHelpActivity
+flag:
+
+com.dancingpixelstudios.sixaxiscontroller.SixaxisLayoutActivity-->com.dancingpixelstudios.sixaxiscontroller.SixaxisEditBackgroundActivity
+flag:
+

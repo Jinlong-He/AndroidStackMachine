@@ -1,0 +1,9 @@
+org.scoutant.blokish.UI-->org.scoutant.blokish.Settings
+flag:
+
+org.scoutant.blokish.UI-->org.scoutant.blokish.Help
+flag:
+
+org.scoutant.blokish.UI-->org.scoutant.blokish.UI
+flag:
+

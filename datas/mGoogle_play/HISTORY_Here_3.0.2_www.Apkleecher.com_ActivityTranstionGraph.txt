@@ -1,0 +1,12 @@
+com.aetn.history.android.historyhere.MainNavigationActivity-->com.aetn.history.android.historyhere.view.MoreActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.aetn.history.android.historyhere.view.MoreActivity-->com.aetn.history.android.historyhere.view.AboutActivity
+flag:
+
+com.aetn.history.android.historyhere.view.MoreActivity-->com.aetn.history.android.historyhere.view.SuggestActivity
+flag:
+
+com.aetn.history.android.historyhere.view.MoreActivity-->com.aetn.history.android.historyhere.MainNavigationActivity
+flag:
+

@@ -1,0 +1,297 @@
+com.amazon.kindle.RestartActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.amazon.kcp.reader.StandAloneMopReaderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.StandAloneMopReaderActivity-->unknown
+flag:finish
+
+com.amazon.klo.KindleLearningObjectDetailActivity-->com.amazon.kindle.UpgradePage
+flag:
+
+com.amazon.klo.KindleLearningObjectDetailActivity-->com.amazon.klo.KindleLearningObjectActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.amazon.kcp.reader.NotesActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kedu.flashcards.FlashcardsActivity-->com.amazon.kcp.search.SearchActivity
+flag:finish
+
+com.amazon.kedu.flashcards.FlashcardsActivity-->com.amazon.kedu.flashcards.QuizModeActivity
+flag:finish
+
+com.amazon.kcp.ui.brochure.BrochureActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.amazon.kedu.flashcards.QuizModeActivity-->com.amazon.kedu.flashcards.SeeMoreTextActivity
+flag:
+
+com.amazon.kedu.flashcards.QuizModeActivity-->com.amazon.kcp.search.SearchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.amazon.kedu.flashcards.QuizModeActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kedu.flashcards.QuizModeActivity-->com.amazon.kedu.flashcards.SeeMoreGhlActivity
+flag:
+
+com.amazon.kedu.flashcards.QuizModeActivity-->com.amazon.kedu.flashcards.DeckOverviewActivity
+flag:
+
+com.amazon.kcp.notifications.ChannelSignupDialog-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.NoteCardActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.notebook.exporting.NotebookClearClippingLimitActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.StandAloneBookReaderActivity-->com.amazon.kcp.reader.BookTOCActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.amazon.kcp.reader.StandAloneBookReaderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.StandAloneBookReaderActivity-->unknown
+flag:finish
+
+com.amazon.kcp.reader.notebook.exporting.NotebookExportActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.EditDeviceNameActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.ImageZoomActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kedu.flashcards.DeckOverviewActivity-->com.amazon.kedu.flashcards.SeeMoreTextActivity
+flag:
+
+com.amazon.kedu.flashcards.DeckOverviewActivity-->com.amazon.kedu.flashcards.SeeMoreGhlActivity
+flag:
+
+com.amazon.kedu.flashcards.DeckOverviewActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kcp.debug.DebugActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kcp.debug.DebugActivity-->com.amazon.kcp.debug.AnnotationsDBActivity
+flag:
+
+com.amazon.kcp.debug.DebugActivity-->com.amazon.kindle.UpgradePage
+flag:
+
+com.amazon.kcp.debug.DebugActivity-->com.amazon.kcp.debug.DebugImageOverlayActivity
+flag:finish
+
+com.amazon.kcp.debug.DebugActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.MopReaderActivity-->com.amazon.kcp.reader.BookTOCActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.amazon.kcp.reader.MopReaderActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kcp.reader.MopReaderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.MopReaderActivity-->unknown
+flag:finish
+
+com.amazon.kcp.library.NotificationsSettingsDescriptionActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kindle.s2k.SendToKindleActivity-->com.amazon.kcp.application.FatalErrorActivity
+flag:finish
+
+com.amazon.kindle.s2k.SendToKindleActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.redding.AlertActivity-->com.amazon.kcp.search.SearchActivity
+flag:finish
+
+com.amazon.kcp.redding.AlertActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.store.StoreActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kcp.store.StoreActivity-->com.amazon.kcp.store.StoreActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.amazon.kcp.store.StoreActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.SendToKindleDetailsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.LibrarySettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.search.SearchActivity-->com.amazon.kcp.debug.DebugActivity
+flag:
+
+com.amazon.kcp.search.SearchActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kindle.PdfBookOpenHelperActivity-->com.amazon.kcp.redding.AlertActivity
+flag:
+
+com.amazon.kindle.PdfBookOpenHelperActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.download.error.DownloadErrorActivity-->com.amazon.kcp.search.SearchActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.amazon.kcp.library.download.error.DownloadErrorActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.welcome.WelcomeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kindle.kindleunlimited.KindleUnlimitedSplashScreen-->com.amazon.kcp.search.SearchActivity
+flag:finish
+
+com.amazon.kindle.kindleunlimited.KindleUnlimitedSplashScreen-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.redding.WebViewActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.klo.KindleLearningObjectActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.klo.KindleLearningObjectActivity-->com.amazon.kedu.flashcards.FlashcardsActivity
+flag:
+
+com.amazon.klo.KindleLearningObjectActivity-->com.amazon.klo.KindleLearningObjectDetailActivity
+flag:
+
+com.amazon.kcp.reader.StandAlonePdfReaderActivity-->com.amazon.kcp.reader.NotesActivity
+flag:
+
+com.amazon.kcp.reader.StandAlonePdfReaderActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kindle.mangaviewer.StandaloneMangaPagerActivity-->unknown
+flag:finish
+
+com.amazon.kindle.mangaviewer.StandaloneMangaPagerActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.info.AboutActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.StandaloneFullDefinitionActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.StandaloneFullDefinitionActivity-->unknown
+flag:finish
+
+com.amazon.kcp.search.BookReaderSearchActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kcp.search.BookReaderSearchActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.notebook.exporting.NotebookExportSelectionActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kindle.StandaloneFTUELoadingActivity-->com.amazon.kcp.search.SearchActivity
+flag:finish
+
+com.amazon.kindle.StandaloneFTUELoadingActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.reader.BookTOCActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.SamsungClubLearnMoreActivity-->com.amazon.kcp.search.SearchActivity
+flag:finish
+
+com.amazon.kcp.library.SamsungClubLearnMoreActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.StandaloneLibraryActivity-->com.amazon.kcp.library.SamsungClubLearnMoreActivity
+flag:
+
+com.amazon.kcp.library.StandaloneLibraryActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kcp.library.StandaloneLibraryActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.EditCollectionActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.mlpassistlibrary.StarterActivity-->com.amazon.kindle.UpgradePage
+flag:finish
+
+com.amazon.kcp.reader.notebook.NotebookActivity-->com.amazon.kcp.search.SearchActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.amazon.kcp.reader.notebook.NotebookActivity-->com.amazon.kcp.reader.notebook.exporting.NotebookExportActivity
+flag:
+
+com.amazon.kcp.reader.notebook.NotebookActivity-->com.amazon.kcp.redding.AlertActivity
+flag:
+
+com.amazon.kcp.reader.notebook.NotebookActivity-->com.amazon.kcp.reader.notebook.exporting.NotebookExportSelectionActivity
+flag:
+
+com.amazon.kcp.reader.notebook.NotebookActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.TransientActivity-->com.amazon.kcp.search.SearchActivity
+flag:finish
+
+com.amazon.kcp.library.TransientActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kedu.flashcards.DeckListActivity-->com.amazon.kedu.flashcards.FlashcardsActivity
+flag:
+
+com.amazon.kcp.library.AddToCollectionActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.CollectionItemsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kcp.library.CollectionItemsActivity-->com.amazon.kcp.library.AddToCollectionActivity
+flag:
+
+com.amazon.kcp.reader.PopularHighlightsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.startactions.ui.OverlayDummyActivity-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.startactions.ui.OverlayDummyActivity-->com.amazon.startactions.ui.OverlayDummyActivity
+flag:
+
+com.amazon.kcp.accounts.AccountConfirmationActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.amazon.kindle.UpgradePage-->com.amazon.kcp.application.FatalErrorActivity
+flag:
+
+com.amazon.kindle.UpgradePage-->com.amazon.kcp.search.SearchActivity
+flag:
+
+com.amazon.kindle.UpgradePage-->com.amazon.kcp.redding.AlertActivity
+flag:finish
+
+com.amazon.kindle.UpgradePage-->com.amazon.kindle.PdfBookOpenHelperActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.amazon.kcp.library.NotificationsActivity-->com.amazon.kcp.library.NotificationsSettingsDescriptionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.amazon.kcp.library.NotificationsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+

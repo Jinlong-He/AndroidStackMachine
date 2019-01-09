@@ -1,0 +1,9 @@
+com.yalei8.zwb.BrowserActivity-->com.yalei8.zwb.BookmarkActivity
+flag:
+
+com.yalei8.zwb.SplashScreenActivity-->com.yalei8.zwb.BrowserActivity
+flag:finish
+
+com.yalei8.zwb.BookmarkActivity-->com.yalei8.zwb.BrowserActivity
+flag:
+

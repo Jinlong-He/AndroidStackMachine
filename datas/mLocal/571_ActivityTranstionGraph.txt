@@ -1,0 +1,12 @@
+jp.gmo_media.decoproject.activity.BaseActivity-->jp.gmom.opencameraandroid.photocollage.PhotoEditActivity
+flag:
+
+jp.gmo_media.decoproject.activity.BaseActivity-->jp.gmo_media.decoproject.activity.CoordiSnapScreenActivity
+flag:
+
+jp.gmo_media.decoproject.activity.BaseActivity-->jp.gmo_media.decoproject.activity.FinishActivity
+flag:
+
+jp.gmo_media.decoproject.activity.FinishActivity-->jp.gmo_media.decoproject.activity.CoordiSnapScreenActivity
+flag:
+

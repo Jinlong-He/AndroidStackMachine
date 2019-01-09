@@ -1,0 +1,12 @@
+com.android.talkback.TalkBackPreferencesActivity-->com.android.talkback.tutorial.AccessibilityTutorialActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.talkback.labeling.LabelManagerSummaryActivity-->com.android.talkback.labeling.LabelImportActivity
+flag:
+
+com.android.talkback.labeling.LabelManagerSummaryActivity-->com.android.talkback.ShortcutProxyActivity
+flag:
+
+com.android.talkback.GestureChangeNotificationActivity-->com.android.talkback.TalkBackShortcutPreferencesActivity
+flag:finish
+

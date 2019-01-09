@@ -1,0 +1,15 @@
+bbc.mobile.news.v3.ui.preference.SettingsActivity-->bbc.mobile.news.v3.ui.deeplinking.DeepLinkingActivity
+flag:
+
+bbc.mobile.news.v3.ui.preference.SettingsActivity-->istats.apps.mobile.bbc.istats.StatsTracker$a
+flag:
+
+bbc.mobile.news.v3.ui.stream.VideoStreamActivity-->bbc.mobile.news.v3.ui.deeplinking.DeepLinkingActivity
+flag:
+
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

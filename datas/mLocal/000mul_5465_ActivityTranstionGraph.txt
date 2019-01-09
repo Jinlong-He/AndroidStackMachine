@@ -1,0 +1,36 @@
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.tauth.AuthActivity
+flag:finish
+
+cn.kuwo.kwmusichd.MainActivity-->cn.kuwo.ui.skin.CropImageActivity
+flag:
+
+cn.kuwo.kwmusichd.MainActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+cn.kuwo.kwmusichd.NoSDCardActivity-->cn.kuwo.kwmusichd.MainActivity
+flag:
+
+cn.kuwo.kwmusichd.GuideActivity-->cn.kuwo.kwmusichd.MainActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+cn.kuwo.kwmusichd.WelcomeActivity-->cn.kuwo.kwmusichd.GuideActivity
+flag:finish
+
+cn.kuwo.kwmusichd.WelcomeActivity-->cn.kuwo.kwmusichd.MainActivity
+flag:finish
+
+cn.kuwo.kwmusichd.WelcomeActivity-->cn.kuwo.kwmusichd.NoSDCardActivity
+flag:finish
+
+cn.kuwo.ui.skin.CropImageActivity-->cn.kuwo.ui.skin.CropImageActivity
+flag:
+
+com.umeng.fb.ConversationActivity-->com.umeng.fb.ContactActivity
+flag:
+

@@ -1,0 +1,3 @@
+io.github.engsergiu.react.MainActivity-->io.github.engsergiu.react.AboutActivity
+flag:
+

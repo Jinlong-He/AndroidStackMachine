@@ -1,0 +1,9 @@
+com.paullipnyagov.activity.PadsActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.applovin.adview.AppLovinInterstitialActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+

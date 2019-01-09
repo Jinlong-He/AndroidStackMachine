@@ -1,0 +1,6 @@
+#MAIN
+activity:com.buoy76.fishpredictor.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

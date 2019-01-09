@@ -1,0 +1,660 @@
+cn.dxy.sso.v2.activity.SSOUplinkSMSActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.dxy.sso.v2.activity.SSOUplinkSMSActivity-->cn.dxy.sso.v2.activity.SSOUplinkSMSActivity
+flag:
+
+com.tencent.connect.common.AssistActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionOrderActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionActivity-->cn.dxy.android.aspirin.ui.v6.activity.doctor.QuestionFindDoctorActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.HelpAndFeedbackActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.HelpAndFeedbackActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.message.DoseReminderActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.DoseReminderActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.LactationSafeLvActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.ContraindicationActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.ContraindicationActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchHospitalActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchHospitalActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectCommon1Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectCommon1Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.doctor.DoctorEvaluateActivity-->cn.dxy.android.aspirin.ui.v6.activity.doctor.DoctorEvaluateActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.vaccine.VaccineListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.vaccine.VaccineListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchVaccineActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSOPwdEmailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSOPwdEmailActivity-->cn.dxy.sso.v2.activity.SSOPwdEmailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.SectionGroupActivity-->cn.dxy.android.aspirin.ui.v6.activity.index.SectionGroupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDisease1Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDisease1Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.doctor.DoctorFreeMedicalActivity-->cn.dxy.android.aspirin.ui.v6.activity.doctor.DoctorFreeMedicalActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.doctor.DoctorFreeMedicalActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AppendAskQuestionActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.AppendAskQuestionActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.MainActivity-->cn.dxy.android.aspirin.ui.activity.other.SettingActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.MainActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:finish
+
+cn.dxy.android.aspirin.ui.activity.MainActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.MainActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.MainActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.MainActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.MainActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.DoseReminderDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.DoseReminderDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.HospitalDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.HospitalDetailActivity-->cn.dxy.android.aspirin.ui.activity.other.SectionListActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.HospitalDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleIndexActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.TestActivity-->cn.dxy.android.aspirin.ui.activity.other.TestActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.TestActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.TestActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.TestActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.TestActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.TestActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDrug1Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDrug1Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.FaqDetail2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqDetail2Activity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqDetail2Activity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqDetail2Activity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqDetail2Activity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSOPhoneS1Activity-->cn.dxy.sso.v2.activity.SSOPhoneS1Activity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.GuideActivity-->cn.dxy.android.aspirin.ui.activity.MainActivity
+flag:finish
+
+cn.dxy.android.aspirin.ui.activity.other.DrugMultipleActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.DrugMultipleActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.sina.weibo.sdk.component.WeiboSdkBrowser
+flag:
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->cn.dxy.library.share.api.sina.SinaActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FeedSectionDoctorsActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FeedSectionDoctorsActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.question.FreeQuestionActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.FreeQuestionActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.me.FollowDoctorActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.me.FollowDoctorActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.doctor.QuestionFindDoctorActivity-->cn.dxy.android.aspirin.ui.v6.activity.doctor.QuestionFindDoctorActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.doctor.QuestionFindDoctorActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.doctor.QuestionFindDoctorActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionOrderActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.vaccine.VaccineDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FindDoctorActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FindDoctorActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FindDoctorActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FindDoctorActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FindDoctorActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.FindDoctorActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectMedicalRecommendActivity-->cn.dxy.android.aspirin.ui.activity.search.SelectMedicalRecommendActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectMedicalRecommendActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.me.FamilyMemberListActivity-->cn.dxy.android.aspirin.ui.v6.activity.me.FamilyMemberListActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.me.FamilyMemberListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.me.FamilyMemberListActivity-->cn.dxy.android.aspirin.ui.v6.activity.me.FamilyMemberAddActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.DoseReminderAddActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqList2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqList2Activity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqList2Activity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqList2Activity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.FaqList2Activity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchFaqActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchFaqActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.ShareAppActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.message.MyInterestActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MyInterestActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.article.CommonCommentActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.article.CommonCommentActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.CommonCommentActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.CommonCommentActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.CommonCommentActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.CommonCommentActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MyCollectionActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MyCollectionActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.doctor.DoctorDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.me.FamilyMemberAddActivity-->cn.dxy.android.aspirin.ui.v6.activity.me.FamilyMemberAddActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchDiseaseActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchDiseaseActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.wxapi.WXEntryActivity-->cn.dxy.android.aspirin.ui.activity.MainActivity
+flag:finish
+
+cn.dxy.android.aspirin.ui.activity.other.ScanCodeActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:finish
+
+cn.dxy.android.aspirin.ui.v6.activity.index.SectionDoctorListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.SectionDoctorListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.article.AuthorDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.AuthorDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:finish
+
+cn.dxy.android.aspirin.ui.activity.message.MyMessageActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MyMessageActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDrug2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDrug2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchHistoryAndHotActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchHistoryAndHotActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MyDrugBoxActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MyDrugBoxActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.sso.v2.activity.SSODoctorActivity-->cn.dxy.sso.v2.activity.SSOLoginActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSOLoginActivity-->cn.dxy.sso.v2.activity.SSOLoginActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSOLoginActivity-->cn.dxy.sso.v2.activity.SSOPhoneS1Activity
+flag:
+
+cn.dxy.sso.v2.activity.SSOLoginActivity-->cn.dxy.sso.v2.activity.SSOWechatActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionOrderActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionOrderActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionOrderActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionOrderActivity-->cn.dxy.android.aspirin.ui.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+cn.dxy.android.aspirin.ui.v6.activity.question.AskQuestionOrderActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleTopicActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleTopicActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.DiseaseDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.DiseaseDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.AboutActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.AboutActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.AboutActivity-->cn.dxy.android.aspirin.ui.activity.other.TestActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.AboutActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSOPhoneS2Activity-->cn.dxy.sso.v2.activity.SSOPhoneS2Activity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.DoseReminderEditActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.FakeDrugDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SelectVaccineActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SelectVaccineActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.SpecialArticleActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.SpecialArticleActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.SettingActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.SettingActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.SettingActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchDrugActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchDrugActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.ScanCodeHistoryActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.ScanCodeHistoryActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchArticleActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchArticleActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.message.MessageDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MessageDetailActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MessageDetailActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MessageDetailActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.MessageDetailActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.StartupActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:finish
+
+cn.dxy.android.aspirin.ui.activity.message.FakeDrugActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.message.FakeDrugActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.sso.v2.activity.SSOWechatActivity-->cn.dxy.sso.v2.activity.SSOWechatActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectVaccineListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectVaccineListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.index.SpecialTopicActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.index.SpecialTopicActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.FreeQuestionActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.coupon.CouponListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.coupon.CouponListActivity-->cn.dxy.android.aspirin.ui.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+cn.dxy.android.aspirin.ui.v6.activity.coupon.CouponListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.SectionListActivity-->cn.dxy.android.aspirin.ui.activity.other.SectionListActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.SectionListActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSORegS3Activity-->cn.dxy.sso.v2.activity.SSORegS3Activity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectCommon2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SelectCommon2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchDoctorActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchDoctorActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.OtcInfoActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.article.RecommendArticleActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.PregnancySafeLvActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.MapActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.MapActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.me.ReadQuestionActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.me.ReadQuestionActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.other.FeedBackActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.index.ToolBoxActivity-->cn.dxy.android.aspirin.ui.v6.activity.index.ToolBoxActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.ToolBoxActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.index.ToolBoxActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.v6.activity.index.ToolBoxActivity-->cn.dxy.android.aspirin.ui.activity.search.SelectMedicalRecommendActivity
+flag:
+
+cn.dxy.sso.v2.activity.SSOPwdResetActivity-->cn.dxy.sso.v2.activity.SSOPwdResetActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity-->cn.dxy.android.aspirin.ui.activity.other.PictureViewsActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.AppendAskQuestionActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity-->cn.dxy.android.aspirin.ui.v6.activity.doctor.DoctorEvaluateActivity
+flag:
+
+cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDisease2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SelectDisease2Activity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.search.SearchFakeDrugActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.search.SearchFakeDrugActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleDetailActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleDetailActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleDetailActivity-->cn.dxy.android.aspirin.ui.v6.activity.question.QuestionDetailActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleDetailActivity-->cn.dxy.android.aspirin.ui.v6.activity.coupon.GetCouponActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.article.ArticleDetailActivity-->cn.dxy.android.aspirin.ui.activity.other.CommonWebViewActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.DiseaseMoreActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity-->cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:
+
+cn.dxy.android.aspirin.ui.activity.other.ShareInviteActivity-->cn.dxy.android.aspirin.ui.activity.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+

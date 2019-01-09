@@ -1,0 +1,9 @@
+.SettingsActivity-->.BatteryInfoActivity
+flag:
+
+.AlarmsActivity-->.BatteryInfoActivity
+flag:
+
+.AlarmEditActivity-->.BatteryInfoActivity
+flag:
+

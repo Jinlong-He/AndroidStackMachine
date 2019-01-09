@@ -1,0 +1,15 @@
+com.opera.android.SearchActivity-->com.opera.android.OperaMainActivity
+flag:finish
+
+com.opera.android.OperaStartActivity-->com.opera.android.OperaMainActivity
+flag:finish
+
+com.opera.android.OperaMainActivity-->com.opera.android.OperaStartActivity
+flag:finish
+
+com.opera.android.lockscreen.ScreenLockActivity-->com.opera.android.lockscreen.ScreenLockActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.opera.android.lockscreen.ScreenLockActivity-->com.opera.android.OperaStartActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

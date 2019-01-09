@@ -1,0 +1,21 @@
+com.xfinity.cloudtvr.view.authentication.WebAuthCallbackHelperActivity-->com.xfinity.cloudtvr.view.authentication.EligibilityCheckActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.xfinity.common.view.LaunchActivity-->com.xfinity.cloudtvr.view.authentication.WebAuthCallbackHelperActivity
+flag:
+
+com.xfinity.common.view.LaunchActivity-->unknown
+flag:
+
+com.xfinity.cloudtvr.view.BrowseActivity-->com.xfinity.cloudtvr.view.settings.XtvSettingsActivity
+flag:
+
+com.xfinity.cloudtvr.view.settings.XtvSettingsActivity-->com.xfinity.common.view.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.comcast.cim.android.view.launch.IntentForwardingActivity-->com.xfinity.common.view.LaunchActivity
+flag:
+
+com.comcast.cim.android.view.settings.SignoutActivity-->com.xfinity.common.view.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+

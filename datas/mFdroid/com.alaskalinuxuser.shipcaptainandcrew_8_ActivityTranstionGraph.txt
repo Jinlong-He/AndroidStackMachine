@@ -1,0 +1,3 @@
+com.alaskalinuxuser.shipcaptainandcrew.MainActivity-->com.alaskalinuxuser.shipcaptainandcrew.AboutApp
+flag:
+

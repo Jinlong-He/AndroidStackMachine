@@ -1,0 +1,15 @@
+ChoosePDFActivity-->com.artifex.mupdfdemo.MuPDFActivity
+flag:
+
+MuPDFActivity-->com.artifex.mupdfdemo.ChoosePDFActivity
+flag:
+
+MuPDFActivity-->com.artifex.mupdfdemo.PrintDialogActivity
+flag:
+
+MuPDFActivity-->com.artifex.mupdfdemo.MuPDFActivity
+flag:
+
+MuPDFActivity-->com.artifex.mupdfdemo.OutlineActivity
+flag:
+

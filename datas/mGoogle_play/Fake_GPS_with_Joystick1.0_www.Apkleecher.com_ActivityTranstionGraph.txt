@@ -1,0 +1,15 @@
+rah.fakegps.withjoystick.ui.BookmarkActivity-->rah.fakegps.withjoystick.ui.BookmarkActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+rah.fakegps.withjoystick.ui.FlyToActivity-->rah.fakegps.withjoystick.ui.FlyToActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+rah.fakegps.withjoystick.ui.SplashActivity-->rah.fakegps.withjoystick.ui.MainActivity
+flag:finish
+
+rah.fakegps.withjoystick.ui.MainActivity-->rah.fakegps.withjoystick.ui.MainActivity
+flag:finish
+
+rah.fakegps.withjoystick.ui.MainActivity-->rah.fakegps.withjoystick.ui.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+

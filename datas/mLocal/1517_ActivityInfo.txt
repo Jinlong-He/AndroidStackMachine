@@ -1,0 +1,14 @@
+#MAIN
+activity:com.onscripter.pluspro.LauncherActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.onscripter.pluspro.ONScripter
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.onscripter.pluspro.Settings
+LaunchMode:std
+TaskAffinity:null
+

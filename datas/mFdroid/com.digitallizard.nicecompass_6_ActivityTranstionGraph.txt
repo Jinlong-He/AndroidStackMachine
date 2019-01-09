@@ -1,0 +1,3 @@
+CompassActivity-->com.digitallizard.nicecompass.HelpActivity
+flag:
+

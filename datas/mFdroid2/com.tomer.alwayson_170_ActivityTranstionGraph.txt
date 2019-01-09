@@ -1,0 +1,12 @@
+com.tomer.alwayson.activities.Intro-->com.tomer.alwayson.activities.PreferencesActivity
+flag:finish
+
+com.tomer.alwayson.activities.PreferencesActivity-->com.tomer.alwayson.activities.Intro
+flag:finish
+
+com.tomer.alwayson.activities.PreferencesActivity-->com.tomer.alwayson.activities.ReporterActivity
+flag:
+
+com.tomer.alwayson.activities.PreferencesActivity-->com.tomer.alwayson.activities.PreferencesActivity
+flag:finish
+

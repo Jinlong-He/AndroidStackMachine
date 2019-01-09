@@ -1,0 +1,6 @@
+com.ovte.hdwallpaper.SplashScreen-->com.ovte.hdwallpaper.HomeActivity
+flag:finish
+
+com.ovte.hdwallpaper.HomeActivity-->com.ovte.hdwallpaper.HomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

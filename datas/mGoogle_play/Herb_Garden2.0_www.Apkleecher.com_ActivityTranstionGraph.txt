@@ -1,0 +1,6 @@
+com.villeapps.herbgarden.MainActivity-->com.villeapps.herbgarden.MainActivity
+flag:
+
+com.villeapps.herbgarden.SplashActivity-->com.villeapps.herbgarden.MainActivity
+flag:finish
+

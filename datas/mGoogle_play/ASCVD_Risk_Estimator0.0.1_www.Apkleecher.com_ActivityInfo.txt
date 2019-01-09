@@ -1,0 +1,6 @@
+#MAIN
+activity:CVRiskEstimator
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

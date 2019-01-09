@@ -1,0 +1,3 @@
+com.easwareapps.transparentwidget.ConfigureActivity-->com.easwareapps.transparentwidget.AppSelector
+flag:
+

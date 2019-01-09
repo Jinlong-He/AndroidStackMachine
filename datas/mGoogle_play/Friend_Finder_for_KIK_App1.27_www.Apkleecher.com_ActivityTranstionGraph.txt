@@ -1,0 +1,6 @@
+com.kusernames.SplashScreen-->com.kusernames.KActivity
+flag:finish
+
+com.kusernames.KActivity-->com.kusernames.Report
+flag:
+

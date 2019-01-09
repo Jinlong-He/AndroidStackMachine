@@ -1,0 +1,27 @@
+com.playground.cbeebies.ui.activity.player.PlayEpisodeSdk15Activity-->com.playground.cbeebies.ui.activity.player.PlayEpisodeSdk15Activity
+flag:
+
+com.playground.cbeebies.ui.activity.PlayGameActivity-->com.playground.cbeebies.ui.activity.PlayGameActivity
+flag:
+
+com.localytics.android.PushTrackingActivity-->com.playground.cbeebies.ui.activity.SplashActivity
+flag:finish
+
+com.playground.cbeebies.ui.activity.ReadBookActivity-->com.playground.cbeebies.ui.activity.ReadBookActivity
+flag:
+
+com.playground.cbeebies.ui.activity.TimerActivity-->com.playground.cbeebies.ui.activity.TimerActivity
+flag:
+
+com.playground.cbeebies.ui.activity.HomeActivity-->com.playground.cbeebies.ui.activity.SettingsActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.playground.cbeebies.ui.activity.player.PlayEpisodeActivity-->com.playground.cbeebies.ui.activity.player.PlayEpisodeActivity
+flag:
+
+com.playground.cbeebies.ui.activity.player.PlayEpisodeActivity-->com.playground.cbeebies.ui.activity.player.PlayEpisodeSdk15Activity
+flag:
+

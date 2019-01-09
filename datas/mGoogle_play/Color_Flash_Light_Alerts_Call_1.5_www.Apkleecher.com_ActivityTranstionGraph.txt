@@ -1,0 +1,9 @@
+com.flashalerts.flashalertforallapps.MainActivity-->com.flashalerts.flashalertforallapps.SettingActivity
+flag:
+
+com.flashalerts.flashalertforallapps.SplashScreen-->com.flashalerts.flashalertforallapps.MainActivity
+flag:finish
+
+com.startapp.android.publish.ads.list3d.List3DActivity-->com.startapp.android.publish.adsCommon.activities.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

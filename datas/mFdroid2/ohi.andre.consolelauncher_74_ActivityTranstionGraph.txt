@@ -1,0 +1,9 @@
+ohi.andre.consolelauncher.tuils.tutorial.TutorialIndexActivity-->ohi.andre.consolelauncher.tuils.tutorial.TutorialActivity
+flag:
+
+ohi.andre.consolelauncher.LauncherActivity-->ohi.andre.consolelauncher.LauncherActivity
+flag:finish
+
+ohi.andre.consolelauncher.LauncherActivity-->ohi.andre.consolelauncher.tuils.tutorial.TutorialIndexActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.mvm.updatefor.gps.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.purplebrain.adbuddiz.sdk.AdBuddizActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+.SplashActivity-->com.ganmingzhu.transscreen1.MainActivity
+flag:finish
+
+.MainActivity-->com.ganmingzhu.transscreen1.SplashActivity
+flag:
+

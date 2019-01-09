@@ -1,0 +1,3 @@
+com.mild.princessgames.SplashActivity-->com.mild.princessgames.MainActivity
+flag:finish
+

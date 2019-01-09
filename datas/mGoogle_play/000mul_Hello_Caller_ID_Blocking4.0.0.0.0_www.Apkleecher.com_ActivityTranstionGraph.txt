@@ -1,0 +1,3 @@
+com.facebook.nodex.startup.splashscreen.NodexSplashActivity-->com.facebook.common.shortcuts.CreateShortcutActivity
+flag:finish
+

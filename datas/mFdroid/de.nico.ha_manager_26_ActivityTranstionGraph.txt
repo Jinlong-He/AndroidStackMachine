@@ -1,0 +1,9 @@
+de.nico.ha_manager.activities.Main-->de.nico.ha_manager.activities.Preferences
+flag:finish
+
+de.nico.ha_manager.activities.Main-->de.nico.ha_manager.activities.AddHomework
+flag:
+
+de.nico.ha_manager.activities.Preferences-->de.nico.ha_manager.activities.Main
+flag:finish
+

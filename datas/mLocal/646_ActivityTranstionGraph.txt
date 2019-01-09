@@ -1,0 +1,6 @@
+com.psd2filters.analogfilmphotofilters.MainActivity-->com.psd2filters.analogfilmphotofilters.SalesActivity
+flag:
+
+com.psd2filters.analogfilmphotofilters.MainActivity-->com.psd2filters.analogfilmphotofilters.ShareActivity
+flag:
+

@@ -96,8 +96,8 @@ void Parse::readTransitionGragh(const string& fileName)
     for(ID i = 0; i < strs.size(); i++)
     {
         vector<string> strVec = Utility::split(strs[i++], "-->");
-	if(str2ActMap.count(strVec[0]) == 0 || str2ActMap.count(strVec[1]) == 0)
-	    continue;
+        if(str2ActMap.count(strVec[0]) == 0 || str2ActMap.count(strVec[1]) == 0)
+            continue;
         Activity* sAct = str2ActMap[strVec[0]];
         Activity* tAct = str2ActMap[strVec[1]];
         strVec.clear();
@@ -126,7 +126,7 @@ void Parse::readTransitionGragh(const string& fileName)
             else continue;
         }
         tAct -> addDegree();
-        Action* action = new Action(sAct, tAct, flags, id++, finish);
+        Action* action = new Action(sAct, tAct, flags, finish, id++);
         actions.insert(action);
         sAct -> addAction(action);
     }

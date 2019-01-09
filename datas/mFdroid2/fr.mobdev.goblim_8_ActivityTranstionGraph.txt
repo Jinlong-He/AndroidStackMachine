@@ -1,0 +1,15 @@
+fr.mobdev.goblim.activity.HistoryActivity-->fr.mobdev.goblim.activity.LinkActivity
+flag:
+
+fr.mobdev.goblim.activity.HistoryActivity-->fr.mobdev.goblim.activity.UploadActivity
+flag:
+
+fr.mobdev.goblim.activity.UploadActivity-->fr.mobdev.goblim.activity.ServersActivity
+flag:
+
+fr.mobdev.goblim.activity.UploadActivity-->fr.mobdev.goblim.activity.LinkActivity
+flag:
+
+fr.mobdev.goblim.activity.UploadActivity-->fr.mobdev.goblim.activity.MultiLinkActivity
+flag:
+

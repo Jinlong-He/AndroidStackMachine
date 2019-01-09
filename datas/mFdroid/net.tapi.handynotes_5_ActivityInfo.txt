@@ -1,0 +1,8 @@
+activity:.NewNote
+LaunchMode:std
+TaskAffinity:null
+
+activity:.EditNote
+LaunchMode:std
+TaskAffinity:null
+

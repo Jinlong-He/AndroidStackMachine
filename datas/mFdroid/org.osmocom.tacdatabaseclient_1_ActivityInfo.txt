@@ -1,0 +1,6 @@
+#MAIN
+activity:org.osmocom.tacdatabaseclient.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

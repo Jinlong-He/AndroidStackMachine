@@ -1,0 +1,12 @@
+com.simplemobiletools.flashlight.activities.AboutActivity-->com.simplemobiletools.flashlight.activities.LicenseActivity
+flag:
+
+com.simplemobiletools.flashlight.activities.MainActivity-->com.simplemobiletools.flashlight.activities.BrightDisplayActivity
+flag:
+
+com.simplemobiletools.flashlight.activities.MainActivity-->com.simplemobiletools.flashlight.activities.SettingsActivity
+flag:
+
+com.simplemobiletools.flashlight.activities.MainActivity-->com.simplemobiletools.flashlight.activities.AboutActivity
+flag:
+

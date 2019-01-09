@@ -1,0 +1,8 @@
+activity:com.google.android.apps.viewer.action.print.PrintDialogActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.apps.viewer.afw.PdfViewerAfwActivity
+LaunchMode:std
+TaskAffinity:null
+

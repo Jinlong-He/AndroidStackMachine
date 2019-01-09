@@ -1,0 +1,6 @@
+com.riotgames.mobile.leagueconnect.ui.MainActivity-->com.riotgames.mobile.leagueconnect.ui.SplashActivity
+flag:
+
+com.riotgames.mobile.leagueconnect.ui.SplashActivity-->com.riotgames.mobile.leagueconnect.ui.MainActivity
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.facebook.adsmanager.AdsManagerLoginActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.facebook.adsmanager.AdsManagerActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

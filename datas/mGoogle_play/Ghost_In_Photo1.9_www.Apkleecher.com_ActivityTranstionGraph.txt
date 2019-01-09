@@ -1,0 +1,12 @@
+com.lillc.ghostinphoto.MainActivity-->eu.janmuller.android.simplecropimage.CropImage
+flag:
+
+com.lillc.ghostinphoto.MainActivity-->com.lillc.ghostinphoto.Ghost_image_Activity2
+flag:
+
+com.lillc.ghostinphoto.Ghost_photo_maker-->com.lillc.ghostinphoto.MainActivity
+flag:
+
+com.lillc.ghostinphoto.Splash_Activity-->com.lillc.ghostinphoto.MainActivity
+flag:finish
+

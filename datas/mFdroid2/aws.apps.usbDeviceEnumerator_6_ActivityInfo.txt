@@ -1,0 +1,10 @@
+activity:aws.apps.usbDeviceEnumerator.ui.usbinfo.UsbInfoActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:aws.apps.usbDeviceEnumerator.ui.main.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,36 @@
+com.vagaro.widget.RedirectionActivity-->com.vagaro.fragments.MasterFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.vagaro.activities.ActSplashScreen-->com.vagaro.fragments.MasterFragmentActivity
+flag:finish
+
+com.vagaro.fragments.ActSharing-->com.vagaro.fragments.MasterFragmentActivity
+flag:finish
+
+com.vagaro.activities.WebViewerActivity-->com.vagaro.fragments.MasterFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.vagaro.activities.WebViewerActivity-->com.vagaro.fragments.MasterFragmentActivity
+flag:
+
+com.vagaro.activities.ActLocationDefault-->com.vagaro.fragments.MasterFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.vagaro.activities.ActLocationDefault-->com.vagaro.activities.ActSearchCityState
+flag:
+
+com.vagaro.fragments.MasterFragmentActivity-->com.vagaro.activities.ActSearchCityState
+flag:
+
+com.vagaro.fragments.MasterFragmentActivity-->com.vagaro.activities.ActLocationDefault
+flag:
+
+com.vagaro.fragments.MasterFragmentActivity-->com.vagaro.fragments.MasterFragmentActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.vagaro.fragments.MasterFragmentActivity-->com.vagaro.activities.WebViewerActivity
+flag:
+
+com.vagaro.fragments.MasterFragmentActivity-->com.vagaro.fragments.MasterFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

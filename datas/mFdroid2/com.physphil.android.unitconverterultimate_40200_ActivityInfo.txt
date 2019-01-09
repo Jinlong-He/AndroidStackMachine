@@ -1,0 +1,14 @@
+#MAIN
+activity:com.physphil.android.unitconverterultimate.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.physphil.android.unitconverterultimate.DonateActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.physphil.android.unitconverterultimate.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

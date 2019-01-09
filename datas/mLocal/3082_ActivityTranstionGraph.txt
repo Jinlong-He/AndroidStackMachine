@@ -1,0 +1,3 @@
+com.appchina.photoalbum.MainActivity-->com.appchina.photoalbum.ThumbnailActivity
+flag:
+

@@ -1,0 +1,12 @@
+com.c25k.ShareActivity-->com.c25k.AwardActivity
+flag:finish
+
+com.c25k.ShareActivity-->com.c25k.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.c25k.SplashActivity-->com.c25k.MainActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.c25k.MainActivity
+flag:
+

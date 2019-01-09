@@ -1,0 +1,3 @@
+.ui.activity.OpenOfficeActivity-->at.tomtasche.reader.ui.activity.DocumentActivity
+flag:
+

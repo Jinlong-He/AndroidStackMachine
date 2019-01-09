@@ -1,0 +1,12 @@
+com.wifiaudio.app.Splash2Activity-->com.wifiaudio.view.pagesmsccontent.MusicContentPagersActivity
+flag:finish
+
+com.wifiaudio.view.pagesmsccontent.directeasylink.InputPwdActivity-->com.wifiaudio.view.pagesmsccontent.directeasylink.ChooseWiFiActivity
+flag:
+
+com.wifiaudio.view.pagesmsccontent.MusicContentPagersActivity-->com.wifiaudio.view.pagesdevconfig.DeviceForceUpgradeActivity
+flag:
+
+com.wifiaudio.app.SplashActivity-->com.wifiaudio.app.Splash2Activity
+flag:finish
+

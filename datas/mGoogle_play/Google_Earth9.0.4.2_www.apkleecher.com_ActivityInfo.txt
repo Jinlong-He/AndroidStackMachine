@@ -1,0 +1,14 @@
+#MAIN
+activity:com.google.android.apps.earth.EarthActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.libraries.social.licenses.LicenseMenuActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.libraries.social.licenses.LicenseActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:net.glsk.wpgen.ColorsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

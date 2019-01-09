@@ -1,0 +1,14 @@
+#MAIN
+activity:org.xposeddownloader.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.xposeddownloader.DirectoryPicker
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.xposeddownloader.SetPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+com.exfileexplorer.filemanager.activities.MainActivity-->com.exfileexplorer.filemanager.activities.Preferences
+flag:finish
+
+com.exfileexplorer.filemanager.activities.MainActivity-->com.exfileexplorer.filemanager.activities.DbViewer
+flag:
+
+com.exfileexplorer.filemanager.activities.Preferences-->com.exfileexplorer.filemanager.activities.MainActivity
+flag:finish
+

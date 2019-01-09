@@ -1,0 +1,6 @@
+#MAIN
+activity:com.rascarlo.aurdroid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

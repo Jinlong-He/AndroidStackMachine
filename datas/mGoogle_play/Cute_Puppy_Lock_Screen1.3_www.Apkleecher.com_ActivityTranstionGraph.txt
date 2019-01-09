@@ -1,0 +1,24 @@
+momdad.cute.puppy.lock.screen1.A11-->com.ads.made.MainE
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+momdad.cute.puppy.lock.screen1.A9-->momdad.cute.puppy.lock.screen1.A5
+flag:
+
+momdad.cute.puppy.lock.screen1.A9-->momdad.cute.puppy.lock.screen1.A6
+flag:
+
+momdad.cute.puppy.lock.screen1.A9-->momdad.cute.puppy.lock.screen1.A10
+flag:
+
+momdad.cute.puppy.lock.screen1.A9-->momdad.cute.puppy.lock.screen1.A13
+flag:
+
+momdad.cute.puppy.lock.screen1.A9-->momdad.cute.puppy.lock.screen1.A12
+flag:
+
+momdad.cute.puppy.lock.screen1.A9-->momdad.cute.puppy.lock.screen1.P
+flag:
+
+momdad.cute.puppy.lock.screen1.A9-->momdad.cute.puppy.lock.screen1.A8
+flag:
+

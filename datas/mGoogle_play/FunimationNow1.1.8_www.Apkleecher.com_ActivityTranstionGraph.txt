@@ -1,0 +1,18 @@
+com.funimation.ui.videoplayer.VideoPlayerActivity_-->com.funimation.ui.videoplayer.VideoPlayerActivity_
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.funimation.ui.MainActivity-->com.funimation.ui.welcome.WelcomeActivity_
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.funimation.ui.MainActivity-->com.funimation.ui.videoplayer.VideoPlayerActivity_
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.funimation.ui.welcome.WelcomeActivity_-->com.funimation.ui.MainActivity
+flag:
+
+com.funimation.ui.welcome.WelcomeActivity_-->com.funimation.ui.login.LoginActivity_
+flag:
+

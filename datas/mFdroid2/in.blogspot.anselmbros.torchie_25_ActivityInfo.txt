@@ -1,0 +1,14 @@
+#MAIN
+activity:in.blogspot.anselmbros.torchie.ui.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:in.blogspot.anselmbros.torchie.ui.activity.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:in.blogspot.anselmbros.torchie.ui.activity.ScreenflashActivity
+LaunchMode:sit
+TaskAffinity:null
+

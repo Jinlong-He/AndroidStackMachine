@@ -1,0 +1,14 @@
+#MAIN
+activity:net.bluetoothviewer.BluetoothViewer
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.bluetoothviewer.DeviceListActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:net.bluetoothviewer.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

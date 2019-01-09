@@ -1,0 +1,6 @@
+#MAIN
+activity:ru.zxalexis.ugaday.activity_main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

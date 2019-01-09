@@ -1,0 +1,24 @@
+com.lcstudio.mm.ui.ActMain-->com.lcstudio.mm.ui.ActTabhost
+flag:finish
+
+com.umeng.fb.ui.FeedbackConversations-->com.umeng.fb.ui.FeedbackConversation
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversations-->com.umeng.fb.ui.SendFeedback
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.lcstudio.mm.ui.ActCategory-->com.lcstudio.mm.ui.ActCategoryDetail
+flag:
+
+com.lcstudio.mm.ui.ActMMSetting-->com.uisupport.widget.uniformDialog.UniformDialogActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.umeng.fb.ui.FeedbackConversation-->com.umeng.fb.ui.SendFeedback
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversation-->com.umeng.fb.ui.FeedbackConversations
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.SendFeedback-->com.umeng.fb.ui.FeedbackConversations
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:it.mobimentum.dualsimwidget.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:.Level
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.LevelPreferences
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.passcard.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

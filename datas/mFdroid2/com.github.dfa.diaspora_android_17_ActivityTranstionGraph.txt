@@ -1,0 +1,12 @@
+com.github.dfa.diaspora_android.activity.AboutActivity-->com.github.dfa.diaspora_android.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.github.dfa.diaspora_android.activity.SettingsActivity-->com.github.dfa.diaspora_android.activity.MainActivity
+flag:finish
+
+com.github.dfa.diaspora_android.activity.MainActivity-->com.github.dfa.diaspora_android.activity.SettingsActivity
+flag:
+
+com.github.dfa.diaspora_android.activity.MainActivity-->com.github.dfa.diaspora_android.activity.AboutActivity
+flag:
+

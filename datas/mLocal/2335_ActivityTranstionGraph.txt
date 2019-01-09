@@ -1,0 +1,15 @@
+fi.rojekti.typemachine.activity.SettingsActivity-->fi.rojekti.typemachine.activity.PinPickerActivity
+flag:
+
+fi.rojekti.typemachine.activity.UnlockerActivity-->fi.rojekti.typemachine.activity.EventListActivity
+flag:finish
+
+fi.rojekti.typemachine.activity.EventListActivity-->fi.rojekti.typemachine.activity.LockerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+fi.rojekti.typemachine.activity.EventListActivity-->fi.rojekti.typemachine.activity.EventViewActivity
+flag:
+
+fi.rojekti.typemachine.activity.EventListActivity-->fi.rojekti.typemachine.activity.TutorialActivity
+flag:
+

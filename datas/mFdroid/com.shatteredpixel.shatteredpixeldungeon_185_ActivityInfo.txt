@@ -1,0 +1,6 @@
+#MAIN
+activity:com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.toekni.mats2017.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

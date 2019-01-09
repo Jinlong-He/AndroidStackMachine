@@ -1,0 +1,10 @@
+#MAIN
+activity:comwlinguacurso
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.plugin.gcm.PushHandlerActivity
+LaunchMode:std
+TaskAffinity:null
+

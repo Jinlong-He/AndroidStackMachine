@@ -1,0 +1,12 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cartoonnetwork.anything.MainController-->com.cartoonnetwork.anything.MainController
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.playhaven.android.view.FullScreen-->com.cartoonnetwork.anything.MainController
+flag:
+

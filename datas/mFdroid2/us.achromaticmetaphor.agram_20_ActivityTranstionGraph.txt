@@ -1,0 +1,12 @@
+us.achromaticmetaphor.agram.About-->us.achromaticmetaphor.agram.AboutText
+flag:
+
+us.achromaticmetaphor.agram.MainActivity-->us.achromaticmetaphor.agram.FileBrowser
+flag:
+
+us.achromaticmetaphor.agram.MainActivity-->us.achromaticmetaphor.agram.AnagramActivity
+flag:
+
+us.achromaticmetaphor.agram.MainActivity-->us.achromaticmetaphor.agram.About
+flag:
+

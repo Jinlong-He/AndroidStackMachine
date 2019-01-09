@@ -1,0 +1,15 @@
+com.ijoysoft.music.activity.ActivityMusicPlay-->com.ijoysoft.music.activity.ActivityMain
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ijoysoft.music.activity.ScanMusicActivity-->com.ijoysoft.music.activity.ScanSettingActivity
+flag:
+
+com.ijoysoft.music.activity.ActivityMain-->com.ijoysoft.appwall.GiftActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ijoysoft.music.activity.ActivityMain-->com.ijoysoft.appwall.GiftActivity
+flag:
+
+com.ijoysoft.music.activity.ActivityMain-->com.ijoysoft.appwall.GiftShowActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+

@@ -1,0 +1,24 @@
+com.ting.ui.main.AboutActivity-->com.umeng.update.UpdateDialogActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.ting.ui.main.LoadingActivity-->com.ting.ui.main.MainActivity
+flag:finish
+
+com.ting.ui.main.SupportActivity-->com.ting.ui.main.HelpActivity
+flag:
+
+com.ting.ui.main.SupportActivity-->com.umeng.fb.ConversationActivity
+flag:
+
+com.ting.ui.main.SettingsActivity-->com.ting.ui.main.SupportActivity
+flag:
+
+com.ting.ui.main.SettingsActivity-->com.ting.ui.main.AboutActivity
+flag:
+
+com.ting.ui.main.MainActivity-->com.ting.ui.main.ForumActivity
+flag:
+
+com.ting.ui.main.MainActivity-->com.ting.ui.main.SettingsActivity
+flag:
+

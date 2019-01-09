@@ -1,0 +1,21 @@
+tk.jordynsmediagroup.simpleirc.activity.ConversationActivity-->tk.jordynsmediagroup.simpleirc.activity.JoinActivity
+flag:
+
+tk.jordynsmediagroup.simpleirc.activity.ConversationActivity-->tk.jordynsmediagroup.simpleirc.activity.AddServerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+tk.jordynsmediagroup.simpleirc.FirstRunActivity-->tk.jordynsmediagroup.simpleirc.activity.ServersActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+tk.jordynsmediagroup.simpleirc.activity.ServersActivity-->tk.jordynsmediagroup.simpleirc.activity.AddServerActivity
+flag:
+
+tk.jordynsmediagroup.simpleirc.activity.ServersActivity-->tk.jordynsmediagroup.simpleirc.activity.SettingsActivity
+flag:
+
+tk.jordynsmediagroup.simpleirc.activity.ServersActivity-->tk.jordynsmediagroup.simpleirc.activity.AboutActivity
+flag:
+
+tk.jordynsmediagroup.simpleirc.activity.ServersActivity-->tk.jordynsmediagroup.simpleirc.activity.ConversationActivity
+flag:
+

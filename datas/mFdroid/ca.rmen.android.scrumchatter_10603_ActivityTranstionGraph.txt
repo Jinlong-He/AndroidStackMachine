@@ -1,0 +1,15 @@
+ca.rmen.android.scrumchatter.chart.MeetingChartActivity-->ca.rmen.android.scrumchatter.chart.MeetingChartActivity
+flag:
+
+ca.rmen.android.scrumchatter.main.MainActivity-->ca.rmen.android.scrumchatter.chart.ChartsActivity
+flag:
+
+ca.rmen.android.scrumchatter.main.MainActivity-->ca.rmen.android.scrumchatter.settings.SettingsActivity
+flag:
+
+ca.rmen.android.scrumchatter.main.MainActivity-->ca.rmen.android.scrumchatter.about.AboutActivity
+flag:
+
+ca.rmen.android.scrumchatter.meeting.detail.MeetingActivity-->ca.rmen.android.scrumchatter.meeting.detail.MeetingActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+

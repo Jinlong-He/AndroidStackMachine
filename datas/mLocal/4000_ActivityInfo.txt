@@ -1,0 +1,10 @@
+activity:WallpaperSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.android.app.common.CommonInfoActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

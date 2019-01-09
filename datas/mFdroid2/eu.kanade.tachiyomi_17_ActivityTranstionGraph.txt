@@ -1,0 +1,3 @@
+eu.kanade.tachiyomi.ui.main.MainActivity-->eu.kanade.tachiyomi.ui.setting.SettingsActivity
+flag:
+

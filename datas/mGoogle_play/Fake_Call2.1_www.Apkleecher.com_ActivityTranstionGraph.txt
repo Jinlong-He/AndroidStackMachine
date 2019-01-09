@@ -1,0 +1,15 @@
+leaddevs.abs.com.fakecall.Splash-->leaddevs.abs.com.fakecall.MainActivity
+flag:finish
+
+leaddevs.abs.com.fakecall.ScheduleActivity-->leaddevs.abs.com.fakecall.MainActivity
+flag:finish
+
+leaddevs.abs.com.fakecall.MainActivity-->leaddevs.abs.com.fakecall.CharacterActivity
+flag:
+
+leaddevs.abs.com.fakecall.MainActivity-->leaddevs.abs.com.fakecall.ScheduleActivity
+flag:finish
+
+leaddevs.abs.com.fakecall.CallActivity-->leaddevs.abs.com.fakecall.MainActivity
+flag:finish
+

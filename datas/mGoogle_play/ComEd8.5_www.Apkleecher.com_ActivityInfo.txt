@@ -1,0 +1,14 @@
+#MAIN
+activity:.exel
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.konylabs.android.KonyMapsActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:com.konylabs.android.KonyMapsV2Activity
+LaunchMode:std
+TaskAffinity:null
+

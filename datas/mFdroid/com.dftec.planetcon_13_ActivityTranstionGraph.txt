@@ -1,0 +1,27 @@
+.activities.MainActivity-->com.dftec.planetcon.activities.GameActivity
+flag:
+
+.activities.MainActivity-->com.dftec.planetcon.activities.HelpActivity
+flag:
+
+.activities.MainActivity-->com.dftec.planetcon.activities.StartActivity
+flag:
+
+.activities.MainActivity-->com.dftec.planetcon.activities.SettingsActivity
+flag:
+
+.activities.StartActivity-->com.dftec.planetcon.activities.GameActivity
+flag:
+
+.activities.GameActivity-->com.dftec.planetcon.activities.GameActivity
+flag:finish
+
+.activities.GameActivity-->com.dftec.planetcon.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.activities.GameActivity-->com.dftec.planetcon.activities.SettingsActivity
+flag:
+
+.activities.GameActivity-->com.dftec.planetcon.activities.HelpActivity
+flag:
+

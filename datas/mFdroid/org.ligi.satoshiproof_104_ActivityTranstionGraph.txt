@@ -1,0 +1,3 @@
+org.ligi.satoshiproof.MainActivity-->org.ligi.satoshiproof.LastHashActivity
+flag:
+

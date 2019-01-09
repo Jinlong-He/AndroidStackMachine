@@ -1,0 +1,15 @@
+com.bloomfield.mupdfdemo.MuPDFActivity-->com.bloomfield.mupdfdemo.OutlineActivity
+flag:
+
+com.bloomfield.mupdfdemo.MuPDFActivity-->com.bloomfield.mupdfdemo.ChoosePDFActivity
+flag:
+
+com.pdfviewer.pdfreader.edit.activity.SplashActivity-->com.pdfviewer.pdfreader.edit.MainActivity
+flag:finish
+
+com.pdfviewer.pdfreader.edit.activity.SplashActivity-->com.pdfviewer.pdfreader.edit.activity.PrivacyPolicyActivity
+flag:
+
+com.pdfviewer.pdfreader.edit.activity.BrowseFileActivity-->com.bloomfield.mupdfdemo.MuPDFActivity
+flag:
+

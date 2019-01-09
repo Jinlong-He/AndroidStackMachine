@@ -1,0 +1,9 @@
+com.catchingnow.icebox.activity.SettingsActivity-->com.catchingnow.icebox.activity.AboutActivity
+flag:
+
+com.catchingnow.icebox.activity.ShortcutActionActivity-->com.catchingnow.icebox.activity.mainActivity.MainActivityForAssist
+flag:
+
+com.catchingnow.icebox.activity.splashScreenActivity.SplashScreenActivity-->com.catchingnow.icebox.activity.mainActivity.MainActivityForAssist
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+

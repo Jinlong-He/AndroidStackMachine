@@ -1,0 +1,9 @@
+com.goethe.f50languages.ShowPlacesOnMapActivity-->com.goethe.f50languages.ShowRouteOnMapActivity
+flag:
+
+com.goethe.f50languages.FiftyLanguagesActivity-->com.goethe.f50languages.DeleteZipFiles
+flag:
+
+com.goethe.f50languages.FiftyLanguagesActivity-->com.goethe.f50languages.VolumePreferencesActivity2
+flag:
+

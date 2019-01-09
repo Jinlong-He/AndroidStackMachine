@@ -1,0 +1,6 @@
+com.upf.elaboussi.testhowtodraw.Splash-->com.upf.elaboussi.testhowtodraw.MainActivity
+flag:
+
+com.upf.elaboussi.testhowtodraw.MainActivity-->com.upf.elaboussi.testhowtodraw.Display
+flag:
+

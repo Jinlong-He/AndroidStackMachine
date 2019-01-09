@@ -1,0 +1,6 @@
+link.standen.michael.fatesheets.activity.CharacterListActivity-->link.standen.michael.fatesheets.activity.CoreCharacterEditActivity
+flag:
+
+link.standen.michael.fatesheets.activity.CharacterListActivity-->link.standen.michael.fatesheets.activity.FAECharacterEditActivity
+flag:
+

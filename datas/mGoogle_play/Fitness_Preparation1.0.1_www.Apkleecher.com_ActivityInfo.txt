@@ -1,0 +1,10 @@
+#MAIN
+activity:MARSOCApp
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:de.appplant.cordova.plugin.localnotification.ReceiverActivity
+LaunchMode:sit
+TaskAffinity:null
+

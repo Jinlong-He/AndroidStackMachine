@@ -1,0 +1,30 @@
+com.ipocketapps.indian.girls.calling.Rpinfosoft_market-->com.ipocketapps.indian.girls.calling.MainActivity
+flag:finish
+
+com.ipocketapps.indian.girls.calling.FakeRingerNoughtActivity-->unknown
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ipocketapps.indian.girls.calling.FakeRingerActivity-->unknown
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ipocketapps.indian.girls.calling.SettingsActivity-->com.ipocketapps.indian.girls.calling.Howto_use_activity
+flag:
+
+com.ipocketapps.indian.girls.calling.SettingsActivity-->com.ipocketapps.indian.girls.calling.Privacy_policy_activity
+flag:
+
+com.ipocketapps.indian.girls.calling.MainActivity-->com.ipocketapps.indian.girls.calling.SettingsActivity
+flag:
+
+com.ipocketapps.indian.girls.calling.Start_Activity-->com.ipocketapps.indian.girls.calling.MainActivity
+flag:
+
+com.ipocketapps.indian.girls.calling.FakeRingerMarshmellowActivity-->unknown
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ipocketapps.indian.girls.calling.Splashactivity-->com.ipocketapps.indian.girls.calling.Start_Activity
+flag:finish
+
+com.ipocketapps.indian.girls.calling.Splash_Activity-->com.ipocketapps.indian.girls.calling.Splashactivity
+flag:finish
+

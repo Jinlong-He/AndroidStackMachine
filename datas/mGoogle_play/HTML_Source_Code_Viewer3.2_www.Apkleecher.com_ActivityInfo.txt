@@ -1,0 +1,14 @@
+#MAIN
+activity:com.zupilupi.sourcecodeviewer.TypeUrlActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.zupilupi.sourcecodeviewer.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.zupilupi.sourcecodeviewer.Test
+LaunchMode:std
+TaskAffinity:null
+

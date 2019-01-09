@@ -1,0 +1,9 @@
+com.ydtx.camera.WaterMarkNewActivity-->com.ydtx.camera.FontSettingActivity
+flag:
+
+com.ydtx.camera.WaterMarkNewActivity-->com.ydtx.camera.WatermarkSettingActivity
+flag:
+
+com.ydtx.camera.WaterMarkActivity-->com.ydtx.camera.MainActivity
+flag:
+

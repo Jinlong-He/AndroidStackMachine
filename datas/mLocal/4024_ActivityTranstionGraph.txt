@@ -1,0 +1,24 @@
+com.androidwasabi.livewallpaper.waterdrop.AppLauncher-->com.androidwasabi.livewallpaper.waterdrop.Settings
+flag:
+
+com.androidwasabi.livewallpaper.waterdrop.AppLauncher-->com.androidwasabi.ads.AdHandler
+flag:
+
+com.androidwasabi.livewallpaper.waterdrop.AppLauncher-->com.androidwasabi.ads.AdActivity
+flag:
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:
+
+com.androidwasabi.livewallpaper.waterdrop.Settings-->com.androidwasabi.ads.AdActivity
+flag:
+
+com.androidwasabi.livewallpaper.waterdrop.Settings-->com.androidwasabi.ads.AdHandler
+flag:
+
+com.androidwasabi.ads.AdActivity-->com.androidwasabi.ads.AdHandler
+flag:
+

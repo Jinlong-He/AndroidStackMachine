@@ -1,0 +1,10 @@
+#MAIN
+activity:com.local.singles.dating.chat.app.mobile.Main2Activity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.local.singles.dating.chat.app.mobile.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

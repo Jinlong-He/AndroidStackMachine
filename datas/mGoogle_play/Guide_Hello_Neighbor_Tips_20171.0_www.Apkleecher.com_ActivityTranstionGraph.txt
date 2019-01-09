@@ -1,0 +1,3 @@
+hello.guidehelloneighbortips.SplashActivity-->hello.guidehelloneighbortips.MainActivity
+flag:
+

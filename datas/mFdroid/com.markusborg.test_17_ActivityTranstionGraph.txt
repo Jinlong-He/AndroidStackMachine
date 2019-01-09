@@ -1,0 +1,6 @@
+com.markusborg.ui.MainActivity-->com.markusborg.ui.GhostingActivity
+flag:
+
+com.markusborg.ui.GhostingActivity-->com.markusborg.ui.ResultsActivity
+flag:
+

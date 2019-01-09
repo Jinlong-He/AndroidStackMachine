@@ -1,0 +1,84 @@
+com.quecontactos.pjc.view.main.FavActivity-->com.quecontactos.pjc.view.list.ListActivity
+flag:
+
+com.quecontactos.pjc.view.main.FavActivity-->com.quecontactos.pjc.view.list.ListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.FavActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.ConfigProfileActivity-->com.quecontactos.pjc.view.main.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.ConfigProfileActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.BlockActivity-->com.quecontactos.pjc.view.list.ListActivity
+flag:
+
+com.quecontactos.pjc.view.main.BlockActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.DummyActivity-->com.quecontactos.pjc.view.main.MainMenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.quecontactos.pjc.DummyActivity-->com.quecontactos.pjc.view.main.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.DummyActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.SearchMenuActivity-->com.quecontactos.pjc.view.list.ListActivity2
+flag:
+
+com.quecontactos.pjc.view.main.SearchMenuActivity-->com.quecontactos.pjc.view.list.ListActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.SearchMenuActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.list.ListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.main.FavActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.main.ConfigProfileActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.main.SearchMenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.main.StewardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.intro.QCIntroActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.main.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.list.ListActivity
+flag:
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.billing.BillingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.view.main.BlockActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.MainMenuActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.StewardActivity-->com.quecontactos.pjc.view.list.ListActivity
+flag:
+
+com.quecontactos.pjc.view.main.StewardActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.billing.BillingActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.quecontactos.pjc.view.main.LoginActivity-->com.quecontactos.pjc.DummyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

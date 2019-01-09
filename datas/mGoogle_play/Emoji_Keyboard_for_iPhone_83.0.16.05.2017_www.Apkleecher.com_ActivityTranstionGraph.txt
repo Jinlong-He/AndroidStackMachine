@@ -1,0 +1,12 @@
+com.emoji.keyboard.free.EnableActivity-->com.emoji.keyboard.free.SettingAcitvity
+flag:
+
+com.emoji.keyboard.free.SettingAcitvity-->com.emoji.keyboard.free.ActivityTheme
+flag:
+
+com.emoji.keyboard.free.SettingAcitvity-->com.emoji.keyboard.free.MakeEmojiForKeyboardActivity
+flag:
+
+com.emoji.keyboard.free.MakeEmojiForKeyboardActivity-->com.emoji.keyboard.free.DisplayActivity
+flag:
+

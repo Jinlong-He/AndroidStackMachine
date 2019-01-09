@@ -1,0 +1,10 @@
+#MAIN
+activity:com.redirectapps.tvkill.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.redirectapps.tvkill.Preferences
+LaunchMode:std
+TaskAffinity:null
+

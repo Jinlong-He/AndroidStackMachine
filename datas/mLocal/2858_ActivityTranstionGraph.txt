@@ -1,0 +1,12 @@
+.activitylist-->com.ss91.game.KangRiXueZhanShangHai.txtactivity
+flag:
+
+.menuactivity-->com.ss91.game.KangRiXueZhanShangHai.txtactivity
+flag:
+
+.menuactivity-->com.ss91.game.KangRiXueZhanShangHai.activitylist
+flag:
+
+.activity-->com.ss91.game.KangRiXueZhanShangHai.menuactivity
+flag:finish
+

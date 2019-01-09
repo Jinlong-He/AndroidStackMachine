@@ -1,0 +1,14 @@
+#MAIN
+activity:com.travel.calculator.Calculator
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.travel.calculator.HistoryRecordsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,21 @@
+com.what.drive.SplashActivity-->com.what.drive.IntroActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.what.drive.SplashActivity-->com.what.drive.MainScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.what.drive.preferences.MainPreferencesActivity-->com.what.drive.MoreAppsActivity
+flag:
+
+com.what.drive.preferences.MainPreferencesActivity-->com.what.drive.preferences.MainPreferencesActivity
+flag:finish
+
+com.what.drive.IntroActivity-->com.what.drive.MainScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.what.drive.MainScreenActivity-->com.what.drive.IntroActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.what.drive.MainScreenActivity-->com.what.drive.UserConversationActivity
+flag:
+

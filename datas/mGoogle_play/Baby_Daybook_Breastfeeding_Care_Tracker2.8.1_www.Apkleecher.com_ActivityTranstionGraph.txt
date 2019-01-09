@@ -1,0 +1,12 @@
+com.drillyapps.babydaybook.SplashActivity-->com.drillyapps.babydaybook.AppMainActivity
+flag:finish
+
+com.drillyapps.babydaybook.AppMainActivity-->com.drillyapps.babydaybook.intro.IntroActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

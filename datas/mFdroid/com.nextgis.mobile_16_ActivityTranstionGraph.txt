@@ -1,0 +1,3 @@
+com.nextgis.mobile.activity.MainActivity-->com.nextgis.mobile.activity.AboutActivity
+flag:
+

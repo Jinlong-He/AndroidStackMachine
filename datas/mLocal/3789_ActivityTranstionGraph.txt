@@ -1,0 +1,6 @@
+com.qqlove.MenuX-->com.qqlove.GameActivity
+flag:finish
+
+com.qqlove.MenuX-->com.nd.dianjin.activity.OfferAppActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

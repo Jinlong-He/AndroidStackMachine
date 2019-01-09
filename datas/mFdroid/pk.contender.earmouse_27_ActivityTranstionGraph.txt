@@ -1,0 +1,12 @@
+pk.contender.earmouse.Main-->pk.contender.earmouse.ExerciseActivity
+flag:
+
+pk.contender.earmouse.Main-->pk.contender.earmouse.ModuleManagerActivity
+flag:
+
+pk.contender.earmouse.Main-->pk.contender.earmouse.SettingsActivity
+flag:
+
+pk.contender.earmouse.ModuleManagerActivity-->pk.contender.earmouse.ManagerDetailActivity
+flag:
+

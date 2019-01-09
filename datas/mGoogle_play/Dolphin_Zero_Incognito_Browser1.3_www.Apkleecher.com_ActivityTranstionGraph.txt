@@ -1,0 +1,6 @@
+com.dolphin.browser.zero.main.MainActivity-->com.dolphin.browser.zero.main.MainActivity
+flag:
+
+com.dolphin.browser.zero.main.MainActivity-->com.dolphin.browser.zero.main.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

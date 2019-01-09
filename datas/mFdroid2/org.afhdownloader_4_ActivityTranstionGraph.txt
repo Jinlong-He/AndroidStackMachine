@@ -1,0 +1,6 @@
+org.afhdownloader.DirectoryPicker-->org.afhdownloader.DirectoryPicker
+flag:
+
+org.afhdownloader.MainActivity-->org.afhdownloader.SetPreferenceActivity
+flag:
+

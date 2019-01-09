@@ -1,0 +1,10 @@
+#MAIN
+activity:com.qualcomm.QCARUnityPlayer.QCARPlayerNativeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.unity3d.player.VideoPlayer
+LaunchMode:std
+TaskAffinity:null
+

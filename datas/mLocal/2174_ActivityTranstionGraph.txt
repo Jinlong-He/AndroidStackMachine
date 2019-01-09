@@ -1,0 +1,15 @@
+.HelpActivity-->mobi.thinkchange.android.solarcharge.SolarpowerActivity
+flag:finish
+
+.SplashActivity-->mobi.thinkchange.android.solarcharge.HelpActivity
+flag:finish
+
+mobi.thinkchange.android.solarcharge.SettingActivity-->mobi.thinkchange.android.solarcharge.About
+flag:
+
+.LicenseActivity-->mobi.thinkchange.android.solarcharge.HelpActivity
+flag:finish
+
+.LicenseActivity-->mobi.thinkchange.android.solarcharge.SolarpowerActivity
+flag:finish
+

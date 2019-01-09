@@ -1,0 +1,60 @@
+tv.kaipai.kaipai.activity.UploadActivity-->tv.kaipai.kaipai.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.tauth.AuthActivity
+flag:finish
+
+tv.kaipai.kaipai.activity.SplashActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+tv.kaipai.kaipai.activity.FXDescActivity-->tv.kaipai.kaipai.activity.CameraActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+tv.kaipai.kaipai.activity.MergeActivity-->tv.kaipai.kaipai.activity.SoundActivity
+flag:finish
+
+tv.kaipai.kaipai.activity.MergeActivity-->tv.kaipai.kaipai.activity.EditActivity
+flag:finish
+
+tv.kaipai.kaipai.activity.SoundActivity-->tv.kaipai.kaipai.activity.UploadActivity
+flag:
+
+tv.kaipai.kaipai.activity.SoundActivity-->tv.kaipai.kaipai.activity.EditActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+tv.kaipai.kaipai.activity.MainActivity-->tv.kaipai.kaipai.activity.FXDescActivity
+flag:
+
+tv.kaipai.kaipai.activity.MainActivity-->tv.kaipai.kaipai.activity.CameraActivity
+flag:
+
+tv.kaipai.kaipai.activity.CameraActivity-->tv.kaipai.kaipai.activity.TrimActivity
+flag:
+
+tv.kaipai.kaipai.activity.CameraActivity-->tv.kaipai.kaipai.activity.EditActivity
+flag:
+
+tv.kaipai.kaipai.activity.CameraActivity-->tv.kaipai.kaipai.activity.FxManHolderActivity
+flag:
+
+tv.kaipai.kaipai.activity.CameraActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+tv.kaipai.kaipai.activity.WelcomeActivity-->tv.kaipai.kaipai.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+tv.kaipai.kaipai.activity.TrimActivity-->tv.kaipai.kaipai.activity.EditActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+tv.kaipai.kaipai.activity.EditActivity-->tv.kaipai.kaipai.activity.MergeActivity
+flag:finish
+
+tv.kaipai.kaipai.activity.EditActivity-->tv.kaipai.kaipai.activity.CameraActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

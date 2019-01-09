@@ -1,0 +1,60 @@
+com.mesinwaktu.carsfastaslightning.TutorialLimo-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.TutorialLimo-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mesinwaktu.carsfastaslightning.TutorialLoro-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.TutorialLoro-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mesinwaktu.carsfastaslightning.MainMesinWaktu-->com.mesinwaktu.carsfastaslightning.TutorialTelu
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.MainMesinWaktu-->com.mesinwaktu.carsfastaslightning.TutorialSiji
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.MainMesinWaktu-->com.mesinwaktu.carsfastaslightning.TutorialLimo
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.MainMesinWaktu-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.mesinwaktu.carsfastaslightning.MainMesinWaktu-->com.mesinwaktu.carsfastaslightning.TutorialLoro
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.MainMesinWaktu-->com.mesinwaktu.carsfastaslightning.TutorialPapat
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.TutorialTelu-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mesinwaktu.carsfastaslightning.TutorialTelu-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.TutorialSiji-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mesinwaktu.carsfastaslightning.TutorialSiji-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.mesinwaktu.carsfastaslightning.SplashMesinWaktu-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:finish
+
+com.startapp.android.publish.list3d.List3DActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.mesinwaktu.carsfastaslightning.TutorialPapat-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:finish
+
+com.mesinwaktu.carsfastaslightning.TutorialPapat-->com.mesinwaktu.carsfastaslightning.MainMesinWaktu
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

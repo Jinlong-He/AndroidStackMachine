@@ -1,0 +1,27 @@
+com.euronews.express.activity.SplashActivity-->com.euronews.express.activity.SettingsWearableActivity
+flag:
+
+com.euronews.express.activity.SplashActivity-->com.euronews.express.activity.ProgramListTabletActivity
+flag:
+
+com.euronews.express.activity.SplashActivity-->com.euronews.express.activity.ProgramListPhoneActivity
+flag:
+
+com.euronews.express.activity.SplashActivity-->com.euronews.express.activity.TutorialActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP  
+
+com.euronews.express.activity.SplashActivity-->com.euronews.express.activity.OverviewActivity
+flag:
+
+com.euronews.express.activity.SplashActivity-->com.euronews.express.activity.ProgramActivity
+flag:
+
+com.euronews.express.activity.SplashActivity-->com.euronews.express.activity.ArticleActivity
+flag:
+
+com.euronews.express.activity.OverviewActivity-->com.euronews.express.activity.OverviewActivity
+flag:
+
+com.euronews.express.activity.ArticleActivity-->com.euronews.express.activity.SplashActivity
+flag:
+

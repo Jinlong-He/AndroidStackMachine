@@ -1,0 +1,6 @@
+#MAIN
+activity:com.juliansparber.captiveportallogin.CaptivePortalLoginActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

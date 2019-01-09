@@ -1,0 +1,12 @@
+com.maxlab.fallingmoneywallpaper.LiveWallpaperSettings-->com.maxlab.fallingmoneywallpaper.ChooseBackgroundActivity
+flag:
+
+com.maxlab.fallingmoneywallpaper.LiveWallpaperSettings-->com.maxlab.fallingmoneywallpaper.PacksSelectionActivity
+flag:
+
+com.maxlab.fallingmoneywallpaper.LiveWallpaperSettings-->io.presage.activities.PresageActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->io.presage.activities.PresageActivity
+flag:
+

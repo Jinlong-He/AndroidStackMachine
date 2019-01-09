@@ -1,0 +1,9 @@
+uk.co.keepawayfromfire.screens.ShortcutActivity-->uk.co.keepawayfromfire.screens.MainActivity
+flag:finish
+
+uk.co.keepawayfromfire.screens.MainActivity-->uk.co.keepawayfromfire.screens.PackagePickerActivity
+flag:
+
+uk.co.keepawayfromfire.screens.MainActivity-->uk.co.keepawayfromfire.screens.AboutActivity
+flag:
+

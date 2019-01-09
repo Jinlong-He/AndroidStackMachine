@@ -1,0 +1,6 @@
+de.dirkfarin.imagemeter.lib.ActivityImageSelect-->de.dirkfarin.imagemeter.lib.PrefsActivity
+flag:
+
+de.dirkfarin.imagemeter.lib.ActivityImageSelect-->de.dirkfarin.imagemeter.lib.editor.EditorActivity
+flag:
+

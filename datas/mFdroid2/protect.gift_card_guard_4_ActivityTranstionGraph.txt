@@ -1,0 +1,9 @@
+protect.gift_card_guard.GiftCardViewActivity-->protect.gift_card_guard.ReceiptViewActivity
+flag:
+
+protect.gift_card_guard.MainActivity-->protect.gift_card_guard.GiftCardViewActivity
+flag:
+
+protect.gift_card_guard.MainActivity-->protect.gift_card_guard.SettingsActivity
+flag:
+

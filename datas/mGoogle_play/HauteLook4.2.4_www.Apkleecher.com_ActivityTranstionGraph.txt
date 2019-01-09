@@ -1,0 +1,12 @@
+com.hautelook.mcom.ui.MainActivity-->com.hautelook.mcom.ui.home.HomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.hautelook.mcom.ui.home.HomeActivity-->com.hautelook.mcom.ui.MainActivity
+flag:
+
+com.hautelook.mcom.ui.home.HomeActivity-->unknown
+flag:
+
+com.hautelook.mcom.ui.home.HomeActivity-->com.hautelook.mcom.ui.account.login.SignInActivity
+flag:
+

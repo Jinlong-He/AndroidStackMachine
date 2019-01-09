@@ -1,0 +1,6 @@
+com.mopub.mobileads.MraidVideoPlayerActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->unknown
+flag:
+

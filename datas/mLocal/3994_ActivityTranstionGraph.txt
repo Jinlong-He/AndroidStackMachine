@@ -1,0 +1,6 @@
+com.example.android.navigationdrawerexample.MainActivity-->com.example.android.navigationdrawerexample.Ad
+flag:
+
+com.example.android.navigationdrawerexample.Ad-->com.example.android.navigationdrawerexample.MainActivity
+flag:finish
+

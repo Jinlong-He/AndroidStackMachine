@@ -1,0 +1,21 @@
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.tauth.AuthActivity
+flag:finish
+
+.FirstActivity-->com.samsung.themestore.activity.ProtocolActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.samsung.themestore.activity.ProtocolActivity-->com.samsung.themestore.activity.CoverActivity
+flag:finish
+
+com.samsung.themestore.activity.MainActivity-->com.samsung.themestore.activity.SearchActivity
+flag:
+
+com.samsung.themestore.activity.MainActivity-->com.samsung.themestore.activity.MyActivity
+flag:
+

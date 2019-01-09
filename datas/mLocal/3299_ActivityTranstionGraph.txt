@@ -1,0 +1,12 @@
+com.shys.ysb.WelcomeActivity-->com.shys.ysb.MainActivity
+flag:finish
+
+com.shys.ysb.wxapi.WXEntryActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.shys.ysb.IntroductionActivity-->com.shys.ysb.MainActivity
+flag:finish
+
+com.shys.ysb.IntroductionActivity-->com.shys.ysb.WelcomeActivity
+flag:finish
+

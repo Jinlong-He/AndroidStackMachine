@@ -1,0 +1,14 @@
+#MAIN
+activity:com.WaterfallLiveWallpaper.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.WaterfallLiveWallpaper.WallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.ironsource.mobilcore.InterstitialVideoActivity
+LaunchMode:std
+TaskAffinity:null
+

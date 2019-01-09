@@ -1,0 +1,6 @@
+#MAIN
+activity:de.naturalnet.zahnarztgeraeusche.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

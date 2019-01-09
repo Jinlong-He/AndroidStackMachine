@@ -1,0 +1,14 @@
+#MAIN
+activity:it.reyboz.bustorino.ActivityMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:it.reyboz.bustorino.ActivityAbout
+LaunchMode:std
+TaskAffinity:null
+
+activity:it.reyboz.bustorino.ActivityFavorites
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+com.ershouhuowang.activity.WelcomeActivity-->com.ershouhuowang.activity.HomeActivity
+flag:finish
+
+com.ershouhuowang.activity.ListActivity-->com.ershouhuowang.activity.SearchActivity
+flag:
+

@@ -1,0 +1,15 @@
+com.tencent.connect.common.AssistActivity-->io.dcloud.PandoraEntryActivity
+flag:
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->io.dcloud.PandoraEntryActivity
+flag:finish
+
+io.dcloud.PandoraEntry-->io.dcloud.WebAppActivity
+flag:
+
+io.dcloud.PandoraEntry-->io.dcloud.PandoraEntryActivity
+flag:
+

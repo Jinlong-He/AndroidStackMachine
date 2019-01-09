@@ -1,0 +1,9 @@
+com.bigos.androdumpper.Main.MainActivity-->com.bigos.androdumpper.SavedNetworks.saved_passwords
+flag:
+
+com.bigos.androdumpper.Main.MainActivity-->com.bigos.androdumpper.Settings.SettingsActivity
+flag:
+
+com.bigos.androdumpper.Main.MainActivity-->com.bigos.androdumpper.About.AboutActivity
+flag:
+

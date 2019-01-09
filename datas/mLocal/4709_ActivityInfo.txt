@@ -1,0 +1,10 @@
+#MAIN
+activity:com.mizhongtech.bbshuiguo.ShuiGuoActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+

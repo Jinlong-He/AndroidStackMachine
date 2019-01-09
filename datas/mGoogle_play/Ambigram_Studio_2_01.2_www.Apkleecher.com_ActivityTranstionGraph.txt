@@ -1,0 +1,3 @@
+com.digitalenergy.ambigramstudio.MainActivity-->com.digitalenergy.ambigramstudio.ResultsActivity
+flag:
+

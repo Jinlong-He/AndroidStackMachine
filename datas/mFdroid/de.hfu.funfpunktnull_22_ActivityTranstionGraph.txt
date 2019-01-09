@@ -1,0 +1,15 @@
+de.hfu.studiportal.view.LoginActivity-->de.hfu.studiportal.view.MainActivity
+flag:finish
+
+de.hfu.studiportal.view.MainActivity-->de.hfu.studiportal.view.LoginActivity
+flag:finish
+
+de.hfu.studiportal.view.MainActivity-->de.hfu.studiportal.view.PreferencesActivity
+flag:
+
+de.hfu.studiportal.view.MainActivity-->de.hfu.studiportal.view.ExamSearchActivity
+flag:
+
+de.hfu.studiportal.view.MainActivity-->de.hfu.studiportal.view.LoginActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

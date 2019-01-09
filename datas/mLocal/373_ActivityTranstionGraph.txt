@@ -1,0 +1,21 @@
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:finish
+
+com.guanba.android.activity.SchemeActivity-->com.guanba.android.activity.SplashActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  finish
+
+com.guanba.android.activity.SplashActivity-->com.guanba.android.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_BROUGHT_TO_FRONT  finish
+
+cn.jpush.android.ui.PushActivity-->com.guanba.android.activity.SchemeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.guanba.android.activity.MainActivity-->com.guanba.android.activity.SplashActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.guanba.android.activity.MainActivity-->com.guanba.android.activity.SchemeActivity
+flag:
+
+com.guanba.android.wxapi.WXEntryActivity-->com.guanba.android.activity.SchemeActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.androidesk.livewallpaper.activity.SplashActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.androidesk.livewallpaper.activity.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.mediav.ads.sdk.adcore.MvActivity
+LaunchMode:std
+TaskAffinity:null
+

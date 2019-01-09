@@ -1,0 +1,6 @@
+com.dnielfe.manager.settings.SettingsActivity-->com.dnielfe.manager.BrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dnielfe.manager.settings.SettingsActivity-->unknown
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:SmartKitchenCabinetDesigns
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.SmartKitchenCabinetDesigns.laurentapp.AdsActivity
+LaunchMode:std
+TaskAffinity:null
+

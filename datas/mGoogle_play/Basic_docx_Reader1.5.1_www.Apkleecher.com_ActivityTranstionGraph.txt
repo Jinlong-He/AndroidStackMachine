@@ -1,0 +1,12 @@
+.DocxParserActivity-->couchDev.tools.DocxParser.Preferences
+flag:
+
+.DocxParserActivity-->couchDev.tools.DocxParser.ShowFile
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.DocxParserActivity-->couchDev.tools.DocxParser.ShowFile
+flag:
+
+.ShowFile-->couchDev.tools.DocxParser.Preferences
+flag:
+

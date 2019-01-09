@@ -1,0 +1,15 @@
+com.anime.wallpaperhd.activities.ActivitySlideImage-->com.anime.wallpaperhd.activities.ActivityPinchZoom
+flag:
+
+com.anime.wallpaperhd.activities.ActivitySlideImage-->com.anime.wallpaperhd.activities.ActivitySetAsWallpaper
+flag:
+
+com.anime.wallpaperhd.activities.ActivitySplash-->com.anime.wallpaperhd.activities.MainActivity
+flag:finish
+
+com.anime.wallpaperhd.activities.ActivityWallpaperByCategory-->com.anime.wallpaperhd.activities.ActivitySlideImage
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

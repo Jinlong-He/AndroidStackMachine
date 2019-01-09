@@ -1,0 +1,6 @@
+org.gateshipone.odyssey.activities.OdysseySplashActivity-->org.gateshipone.odyssey.activities.OdysseyMainActivity
+flag:finish
+
+org.gateshipone.odyssey.activities.OdysseyAboutActivity-->org.gateshipone.odyssey.activities.OdysseyContributorsActivity
+flag:
+

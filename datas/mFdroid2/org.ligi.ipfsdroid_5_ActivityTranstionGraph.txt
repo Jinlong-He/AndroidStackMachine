@@ -1,0 +1,6 @@
+org.ligi.ipfsdroid.MainActivity-->org.ligi.ipfsdroid.IPFSBrowseActivity
+flag:
+
+org.ligi.ipfsdroid.DetailsActivity-->org.ligi.ipfsdroid.AddIPFSContent
+flag:
+

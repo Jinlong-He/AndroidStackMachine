@@ -1,0 +1,9 @@
+com.vysionapps.faceswap.ActivityLocateFaces-->com.vysionapps.faceswap.ActivityLocatePoints
+flag:
+
+com.vysionapps.faceswap.ActivityHome-->com.vysionapps.faceswap.ActivityLocateFaces
+flag:
+
+com.vysionapps.faceswap.ActivityHome-->com.vysionapps.faceswap.ActivityEditor
+flag:
+

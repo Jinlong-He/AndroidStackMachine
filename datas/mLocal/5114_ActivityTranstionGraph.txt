@@ -1,0 +1,15 @@
+TakeCamera-->com.hairchange.tagfree.TakePhoto
+flag:
+
+.HairChange-->com.hairchange.tagfree.ManOrWoman
+flag:
+
+.HairChange-->com.hairchange.tagfree.RaBeauty_Web
+flag:
+
+.HairChange-->com.hairchange.tagfree.RaBeauty_Info
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+ManOrWoman-->com.hairchange.tagfree.TakeCamera
+flag:FLAG_ACTIVITY_NO_HISTORY  
+

@@ -1,0 +1,12 @@
+com.dkanada.icecons.activities.MainActivity-->com.dkanada.icecons.activities.LicenseActivity
+flag:
+
+com.dkanada.icecons.activities.MainActivity-->com.dkanada.icecons.activities.IconActivity
+flag:
+
+com.dkanada.icecons.activities.MainActivity-->com.dkanada.icecons.activities.WallpaperActivity
+flag:
+
+com.dkanada.icecons.activities.WallpaperActivity-->com.dkanada.icecons.activities.WallpaperSetActivity
+flag:
+

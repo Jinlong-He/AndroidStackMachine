@@ -1,0 +1,9 @@
+de.hoffmannsgimmickstaupunkt.TaupunktActivity-->de.hoffmannsgimmickstaupunkt.AboutActivity
+flag:
+
+de.hoffmannsgimmickstaupunkt.TaupunktActivity-->de.hoffmannsgimmickstaupunkt.PreferencesActivity
+flag:
+
+de.hoffmannsgimmickstaupunkt.PreferencesActivity-->de.hoffmannsgimmickstaupunkt.AboutActivity
+flag:finish
+

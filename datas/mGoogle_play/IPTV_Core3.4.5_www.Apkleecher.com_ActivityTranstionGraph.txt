@@ -1,0 +1,15 @@
+.SettingsActivity-->ru.iptvremote.android.iptv.core.SettingsActivity
+flag:
+
+.SettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  
+
+.ScheduleActivity-->ru.iptvremote.android.iptv.core.ScheduleActivity
+flag:
+
+.ChannelsActivity-->ru.iptvremote.android.iptv.core.ScheduleActivity
+flag:
+
+.ChannelsActivity-->ru.iptvremote.android.iptv.core.SettingsActivity
+flag:
+

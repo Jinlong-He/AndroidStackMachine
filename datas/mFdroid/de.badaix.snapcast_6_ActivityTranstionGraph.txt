@@ -1,0 +1,6 @@
+de.badaix.snapcast.MainActivity-->de.badaix.snapcast.AboutActivity
+flag:
+
+de.badaix.snapcast.MainActivity-->de.badaix.snapcast.ClientSettingsActivity
+flag: 
+

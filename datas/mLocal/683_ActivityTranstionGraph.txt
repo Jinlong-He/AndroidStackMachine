@@ -1,0 +1,12 @@
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.IdanS.binocularsfree.MainActivity-->com.IdanS.binocularsfree.NagScreenActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.IdanS.binocularsfree.MainActivity-->com.IdanS.binocularsfree.NagScreenActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

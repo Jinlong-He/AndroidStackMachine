@@ -1,0 +1,9 @@
+org.wikimedia.commons.wikimedia.Activities.SplashScreenActivity-->org.wikimedia.commons.wikimedia.Activities.MainActivity
+flag:finish
+
+org.wikimedia.commons.wikimedia.Activities.SplashScreenActivity-->org.wikimedia.commons.wikimedia.Activities.LoginActivity
+flag:finish
+
+org.wikimedia.commons.wikimedia.Activities.MainActivity-->org.wikimedia.commons.wikimedia.Activities.LoginActivity
+flag:
+

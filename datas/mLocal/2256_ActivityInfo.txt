@@ -1,0 +1,6 @@
+#MAIN
+activity:com.jt5.xposed.wechatpie.settings.PieSettings
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

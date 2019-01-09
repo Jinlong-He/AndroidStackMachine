@@ -1,0 +1,9 @@
+cz.martykan.forecastie.activities.MainActivity-->cz.martykan.forecastie.activities.GraphActivity
+flag:
+
+cz.martykan.forecastie.activities.MainActivity-->cz.martykan.forecastie.activities.SettingsActivity
+flag:
+
+cz.martykan.forecastie.activities.MainActivity-->cz.martykan.forecastie.activities.MapActivity
+flag:
+

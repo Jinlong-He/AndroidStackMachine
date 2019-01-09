@@ -1,0 +1,6 @@
+net.minetest.minetest.MtNativeActivity-->net.minetest.minetest.MinetestAssetCopy
+flag:
+
+net.minetest.minetest.MtNativeActivity-->net.minetest.minetest.MinetestTextEntry
+flag:
+

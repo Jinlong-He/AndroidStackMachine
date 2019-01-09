@@ -1,0 +1,12 @@
+com.workingagenda.fissure.MainActivity-->com.workingagenda.fissure.PrefHelper.SettingsActivity
+flag:
+
+com.workingagenda.fissure.MainActivity-->com.workingagenda.fissure.ViewActivity
+flag:
+
+com.workingagenda.fissure.MainActivity-->com.workingagenda.fissure.InstructionsActivity
+flag:
+
+com.workingagenda.fissure.ViewActivity-->com.workingagenda.fissure.FilesActivity
+flag:
+

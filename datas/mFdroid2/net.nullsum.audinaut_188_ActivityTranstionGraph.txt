@@ -1,0 +1,15 @@
+net.nullsum.audinaut.activity.QueryReceiverActivity-->net.nullsum.audinaut.activity.VoiceQueryReceiverActivity
+flag:
+
+net.nullsum.audinaut.activity.SubsonicFragmentActivity-->net.nullsum.audinaut.activity.SubsonicFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+net.nullsum.audinaut.activity.SubsonicFragmentActivity-->unknown
+flag:finish
+
+net.nullsum.audinaut.activity.SubsonicFragmentActivity-->net.nullsum.audinaut.activity.VoiceQueryReceiverActivity
+flag:
+
+net.nullsum.audinaut.activity.VoiceQueryReceiverActivity-->net.nullsum.audinaut.activity.VoiceQueryReceiverActivity
+flag:
+

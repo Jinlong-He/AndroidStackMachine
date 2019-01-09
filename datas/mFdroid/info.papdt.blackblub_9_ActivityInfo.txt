@@ -1,0 +1,10 @@
+#MAIN
+activity:info.papdt.blackblub.ui.LaunchActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:info.papdt.blackblub.ui.shortcut.ToggleActivity
+LaunchMode:sit
+TaskAffinity:null
+

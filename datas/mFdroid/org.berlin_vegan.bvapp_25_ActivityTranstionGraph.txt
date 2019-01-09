@@ -1,0 +1,3 @@
+org.berlin_vegan.bvapp.activities.LocationsOverviewActivity-->org.berlin_vegan.bvapp.activities.SettingsActivity
+flag:
+

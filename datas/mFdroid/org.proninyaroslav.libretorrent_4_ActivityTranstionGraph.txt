@@ -1,0 +1,18 @@
+org.proninyaroslav.libretorrent.DetailTorrentActivity-->org.proninyaroslav.libretorrent.AddTorrentActivity
+flag:
+
+org.proninyaroslav.libretorrent.MainActivity-->org.proninyaroslav.libretorrent.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.proninyaroslav.libretorrent.MainActivity-->org.proninyaroslav.libretorrent.AddTorrentActivity
+flag:
+
+org.proninyaroslav.libretorrent.dialogs.filemanager.FileManagerDialog-->org.proninyaroslav.libretorrent.AddTorrentActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+org.proninyaroslav.libretorrent.AddTorrentActivity-->org.proninyaroslav.libretorrent.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+org.proninyaroslav.libretorrent.AddTorrentActivity-->org.proninyaroslav.libretorrent.AddTorrentActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

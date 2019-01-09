@@ -1,0 +1,12 @@
+com.olivephone.kuaiyueai.activity.BuyServiceActivity-->com.olivephone.kuaiyueai.wxapi.WXPayEntryActivity
+flag:
+
+com.olivephone.kuaiyueai.activity.BuyServiceActivity-->com.olivephone.kuaiyueai.payment.alipay.AliPayActivity
+flag:
+
+com.olivephone.kuaiyueai.payment.alipay.AliPayActivity-->com.olivephone.kuaiyueai.activity.BuyServiceActivity
+flag:
+
+com.olivephone.kuaiyueai.activity.WelcomeActivity-->com.olivephone.kuaiyueai.activity.BuyServiceActivity
+flag:finish
+

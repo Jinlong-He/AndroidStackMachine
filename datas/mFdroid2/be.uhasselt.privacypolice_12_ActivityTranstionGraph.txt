@@ -1,0 +1,6 @@
+be.uhasselt.privacypolice.PreferencesActivity-->be.uhasselt.privacypolice.LocationNoticeActivity
+flag:
+
+be.uhasselt.privacypolice.SSIDManagerActivity-->be.uhasselt.privacypolice.MACManagerActivity
+flag:
+

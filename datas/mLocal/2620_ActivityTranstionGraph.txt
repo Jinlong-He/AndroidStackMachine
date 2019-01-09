@@ -1,0 +1,9 @@
+.HelpActivity-->mobi.thinkchange.android.ios7compass.IOS7CompassActivity
+flag:finish
+
+.SplashActivity-->mobi.thinkchange.android.ios7compass.HelpActivity
+flag:finish
+
+.LicenseActivity-->mobi.thinkchange.android.ios7compass.IOS7CompassActivity
+flag:finish
+

@@ -1,0 +1,6 @@
+com.me.events.near.ui.bottombar.BottomBarActivity-->com.me.events.near.ui.search.SearchActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

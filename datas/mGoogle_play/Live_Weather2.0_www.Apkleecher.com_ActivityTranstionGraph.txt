@@ -1,0 +1,15 @@
+com.secretapplock.weather.FirstActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.secretapplock.weather.FirstActivity-->com.secretapplock.weather.LocationActivity
+flag:
+
+com.secretapplock.weather.FirstActivity-->com.secretapplock.weather.AboutUsActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.fairphone.mycontacts.CentralActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.fairphone.mycontacts.ContactDetailView
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:net.khertan.forrunners.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

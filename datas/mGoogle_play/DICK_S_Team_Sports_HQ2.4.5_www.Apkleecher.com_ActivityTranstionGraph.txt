@@ -1,0 +1,3 @@
+com.bsb.TeamSportsHQ.StartupActivity-->com.bsb.TeamSportsHQ.MainActivity
+flag:
+

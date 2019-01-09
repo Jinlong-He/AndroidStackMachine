@@ -1,0 +1,6 @@
+#MAIN
+activity:.LibreDroid
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

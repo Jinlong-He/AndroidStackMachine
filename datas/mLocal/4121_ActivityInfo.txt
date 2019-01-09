@@ -1,0 +1,10 @@
+#MAIN
+activity:.ui.ActSetting
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:.ui.ActMorePaper
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.onevcat.uniwebview.AndroidPlugin
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.onevcat.uniwebview.UniWebViewCustomViewActivity
+LaunchMode:std
+TaskAffinity:null
+

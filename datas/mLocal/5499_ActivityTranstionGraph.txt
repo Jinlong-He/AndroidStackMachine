@@ -1,0 +1,465 @@
+com.yxcorp.gifshow.photoad.PhotoAdvertisementWebActivity-->com.yxcorp.gifshow.photoad.PhotoAdvertisementWebActivity
+flag:
+
+com.yxcorp.gifshow.photoad.PhotoAdvertisementWebActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:finish
+
+com.yxcorp.gifshow.photoad.PhotoAdvertisementWebActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.tencent.connect.common.AssistActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:finish
+
+com.yxcorp.plugin.payment.activity.WithdrawActivity-->com.yxcorp.plugin.payment.activity.WithdrawActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.WithdrawActivity-->com.yxcorp.plugin.payment.activity.WithdrawActivity
+flag:
+
+com.yxcorp.plugin.payment.activity.WithdrawActivity-->com.yxcorp.gifshow.activity.webview.WebViewActivity
+flag:
+
+com.yxcorp.gifshow.activity.PlatformFriendsActivity-->com.yxcorp.gifshow.activity.PlatformFriendsActivity
+flag:
+
+com.yxcorp.gifshow.activity.PlatformFriendsActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.record.MediaSelectorActivity-->com.yxcorp.gifshow.activity.preview.e
+flag:
+
+com.yxcorp.gifshow.activity.record.MediaSelectorActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.record.MediaSelectorActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.RechargeKwaiCoinListActivity-->com.yxcorp.plugin.payment.activity.RechargeKwaiCoinListActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.RechargeKwaiCoinListActivity-->com.yxcorp.plugin.payment.activity.RechargeKwaiCoinListActivity
+flag:
+
+com.yxcorp.gifshow.advertisement.AdWebViewActivity-->com.yxcorp.gifshow.c
+flag:finish
+
+com.yxcorp.gifshow.advertisement.AdWebViewActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.advertisement.AdWebViewActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.UriRouterActivity-->com.yxcorp.gifshow.activity.share.ShareActivity
+flag:finish
+
+com.yxcorp.gifshow.activity.UriRouterActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:finish
+
+com.yxcorp.gifshow.activity.UriRouterActivity-->com.yxcorp.plugin.activity.a.a
+flag:finish
+
+com.yxcorp.gifshow.activity.UriRouterActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagDescriptionActivity-->com.yxcorp.gifshow.tag.activity.TagDescriptionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagDescriptionActivity-->com.yxcorp.gifshow.tag.activity.TagDescriptionActivity
+flag:
+
+com.yxcorp.plugin.payment.activity.MyWalletActivity-->com.yxcorp.plugin.payment.activity.MyWalletActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.MyWalletActivity-->com.yxcorp.plugin.payment.activity.MyWalletActivity
+flag:
+
+com.yxcorp.plugin.payment.activity.MyWalletActivity-->com.yxcorp.gifshow.activity.webview.WebViewActivity
+flag:
+
+com.yxcorp.gifshow.activity.LocationAggregationActivity-->com.yxcorp.gifshow.activity.LocationAggregationActivity
+flag:
+
+com.yxcorp.gifshow.activity.LocationAggregationActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.LocationAggregationActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.MyBillActivity-->com.yxcorp.plugin.payment.activity.MyBillActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.MyBillActivity-->com.yxcorp.plugin.payment.activity.MyBillActivity
+flag:
+
+jp.line.android.sdk.activity.LineAuthCompleteActivity-->unknown
+flag:finish
+
+com.kwai.livepartner.HomeActivity-->com.yxcorp.gifshow.activity.AboutUsActivity
+flag:
+
+com.kwai.livepartner.HomeActivity-->com.kwai.livepartner.activity.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.kwai.livepartner.HomeActivity-->com.kwai.livepartner.activity.PrepareLiveAcitivty
+flag:
+
+com.kwai.livepartner.HomeActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.kwai.livepartner.HomeActivity-->com.yxcorp.gifshow.activity.webview.WebViewActivity
+flag:
+
+com.kwai.livepartner.HomeActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.MoreRecommendUserActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.GoogleSSOActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.GoogleSSOActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.WebAuthActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.ReportActivity-->com.yxcorp.gifshow.activity.ReportActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.FacebookSSOActivity-->com.yxcorp.gifshow.activity.login.FacebookSSOActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.FacebookSSOActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.FacebookSSOActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.kwai.livepartner.activity.LiveStreamActivity-->com.kwai.livepartner.activity.LiveStreamActivity
+flag:
+
+com.kwai.livepartner.activity.LiveStreamActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.LoginCaptchaActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.LoginCaptchaActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.UserInfoEditActivity-->android.camera.ImageCropActivity
+flag:
+
+com.yxcorp.gifshow.activity.UserInfoEditActivity-->com.yxcorp.gifshow.activity.record.MediaSelectorActivity
+flag:
+
+com.yxcorp.gifshow.activity.UserInfoEditActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.UserInfoEditActivity-->com.yxcorp.gifshow.activity.FeedbackActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.UserInfoEditActivity-->com.yxcorp.gifshow.activity.FeedbackActivity
+flag:
+
+com.yxcorp.gifshow.activity.UserInfoEditActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.activity.FansTopActivity-->com.yxcorp.plugin.activity.FansTopActivity
+flag:
+
+com.yxcorp.plugin.activity.FansTopActivity-->com.yxcorp.gifshow.activity.FeedbackActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.activity.FansTopActivity-->com.yxcorp.gifshow.activity.FeedbackActivity
+flag:
+
+com.yxcorp.plugin.activity.FansTopActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.ChangePhoneVerifyActivity-->com.yxcorp.gifshow.activity.login.ChangePhoneVerifyActivity
+flag:
+
+com.yxcorp.plugin.payment.activity.WithdrawVerifyPhoneActivity-->com.yxcorp.plugin.payment.activity.WithdrawVerifyPhoneActivity
+flag:
+
+com.yxcorp.gifshow.music.MusicActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.smile.gifmaker.wxapi.WXPayEntryActivity-->com.smile.gifmaker.wxapi.WXPayEntryActivity
+flag:
+
+com.smile.gifmaker.wxapi.WXPayEntryActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.ProfitAnalysisActivity-->com.yxcorp.plugin.payment.activity.ProfitAnalysisActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.ProfitAnalysisActivity-->com.yxcorp.plugin.payment.activity.ProfitAnalysisActivity
+flag:
+
+com.kwai.livepartner.activity.LoginActivity-->com.kwai.livepartner.HomeActivity
+flag:
+
+com.kwai.livepartner.activity.LoginActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.kwai.livepartner.activity.LoginActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.share.UploadToPlatformActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.activity.login.TwitterSSOActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.advertisement.SplashActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.music.singer.ArtistActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.ExchangeKwaiCoinActivity-->com.yxcorp.plugin.payment.activity.ExchangeKwaiCoinActivity
+flag:
+
+com.yxcorp.plugin.activity.login.WeChatSSOActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.SelectFriendsActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.SignupActivity-->android.camera.ImageCropActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.SignupActivity-->com.yxcorp.gifshow.activity.record.MediaSelectorActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.SignupActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.SignupActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.VerifyPhoneActivity-->com.yxcorp.gifshow.activity.login.VerifyPhoneActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yxcorp.gifshow.activity.login.VerifyPhoneActivity-->com.yxcorp.gifshow.activity.login.VerifyPhoneActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yxcorp.gifshow.activity.login.VerifyPhoneActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.plugin.activity.login.LineSSOActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.activity.login.QQSSOActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.plugin.activity.login.QQSSOActivity-->com.yxcorp.gifshow.activity.login.WebAuthActivity
+flag:
+
+com.yxcorp.plugin.activity.login.QQSSOActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.webview.WebViewActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.webview.WebViewActivity-->com.yxcorp.gifshow.activity.webview.WebViewActivity
+flag:
+
+com.yxcorp.gifshow.activity.webview.WebViewActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagDetailActivity-->com.yxcorp.gifshow.tag.activity.TagDetailActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagDetailActivity-->com.yxcorp.gifshow.tag.activity.TagDetailActivity
+flag:
+
+com.yxcorp.gifshow.tag.activity.TagDetailActivity-->com.yxcorp.gifshow.activity.record.CameraActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yxcorp.gifshow.tag.activity.TagDetailActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.ChangePhoneActivity-->com.yxcorp.gifshow.activity.login.ChangePhoneActivity
+flag:
+
+com.yxcorp.plugin.activity.login.WeiboSSOActivity-->com.sina.weibo.sdk.component.WeiboSdkBrowser
+flag:
+
+com.yxcorp.plugin.activity.login.WeiboSSOActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.yxcorp.plugin.share.WeiboShareProxyActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.yxcorp.gifshow.activity.AccountAppealActivity-->com.yxcorp.gifshow.activity.AccountAppealActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yxcorp.gifshow.activity.AccountAppealActivity-->com.yxcorp.gifshow.activity.AccountAppealActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yxcorp.gifshow.activity.AccountAppealActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.AccountAppealActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.music.MusicClipActivity-->com.yxcorp.gifshow.music.singer.ArtistActivity
+flag:
+
+com.yxcorp.gifshow.music.MusicClipActivity-->com.yxcorp.gifshow.music.MusicPreviewActivity
+flag:
+
+com.yxcorp.gifshow.music.MusicClipActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.music.MusicClipActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.SelectCountryActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagMusicActivity-->com.yxcorp.gifshow.tag.activity.TagMusicActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagMusicActivity-->com.yxcorp.gifshow.tag.activity.TagMusicActivity
+flag:
+
+com.yxcorp.gifshow.tag.activity.TagMusicActivity-->com.yxcorp.gifshow.activity.record.CameraActivity
+flag:
+
+com.yxcorp.gifshow.tag.activity.TagMusicActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.FloatEditorActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.FloatEditorActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.ModifyTrustDeviceNameActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.ContactsListActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.ContactsListActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.roamcity.RoamCityActivity-->com.yxcorp.plugin.roamcity.RoamCityActivity
+flag:
+
+com.yxcorp.plugin.roamcity.RoamCityActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.FeedbackActivity-->com.yxcorp.gifshow.activity.FeedbackActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.FeedbackActivity-->com.yxcorp.gifshow.activity.FeedbackActivity
+flag:
+
+com.yxcorp.gifshow.activity.FeedbackActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.AccountSecurityActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.AccountSecurityActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.GiftHistoryActivity-->com.yxcorp.plugin.payment.activity.GiftHistoryActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.GiftHistoryActivity-->com.yxcorp.plugin.payment.activity.GiftHistoryActivity
+flag:
+
+com.yxcorp.plugin.share.WeiboShareProxyActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.kwai.livepartner.activity.LocalVideosActivity-->com.kwai.livepartner.activity.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.kwai.livepartner.activity.LocalVideosActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.kwai.livepartner.activity.LocalVideosActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.activity.login.BindPhoneActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yxcorp.gifshow.activity.login.BindPhoneActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yxcorp.gifshow.activity.login.BindPhoneActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.plugin.tag.activity.TagMagicFaceActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.plugin.tag.activity.TagMagicFaceActivity-->com.yxcorp.plugin.tag.activity.TagMagicFaceActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.tag.activity.TagMagicFaceActivity-->com.yxcorp.plugin.tag.activity.TagMagicFaceActivity
+flag:
+
+com.yxcorp.plugin.tag.activity.TagMagicFaceActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.GiftsGivenActivity-->com.yxcorp.plugin.payment.activity.GiftsGivenActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.plugin.payment.activity.GiftsGivenActivity-->com.yxcorp.plugin.payment.activity.GiftsGivenActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.LoginActivity-->com.yxcorp.gifshow.activity.login.RetrievePsdActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.LoginActivity-->com.yxcorp.gifshow.activity.login.SignupActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.LoginActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.activity.login.LoginActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagEditActivity-->android.camera.ImageCropActivity
+flag:
+
+com.yxcorp.gifshow.tag.activity.TagEditActivity-->com.yxcorp.gifshow.activity.record.MediaSelectorActivity
+flag:
+
+com.yxcorp.gifshow.tag.activity.TagEditActivity-->com.yxcorp.gifshow.tag.activity.TagEditActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.tag.activity.TagEditActivity-->com.yxcorp.gifshow.tag.activity.TagEditActivity
+flag:
+
+com.yxcorp.gifshow.tag.activity.TagEditActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.tag.activity.TagEditActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.yxcorp.gifshow.music.MusicPreviewActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:
+
+com.yxcorp.gifshow.music.MusicPreviewActivity-->com.yxcorp.gifshow.c
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+jp.line.android.sdk.activity.WebLoginActivity-->unknown
+flag:
+
+jp.line.android.sdk.activity.WebLoginActivity-->com.yxcorp.gifshow.activity.login.BindPhoneActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

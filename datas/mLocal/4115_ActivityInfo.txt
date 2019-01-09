@@ -1,0 +1,6 @@
+#MAIN
+activity:.Main$Locker
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,9 @@
+com.netease.urs.android.accountmanager.activity.StartupActivity-->com.netease.urs.android.accountmanager.activity.PatternVerifyActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.netease.urs.android.accountmanager.activity.StartupActivity-->com.netease.urs.android.accountmanager.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.netease.urs.android.accountmanager.activity.MainActivity-->com.netease.urs.android.accountmanager.activity.PatternVerifyActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_BROUGHT_TO_FRONT  FLAG_ACTIVITY_LAUNCHED_FROM_HISTORY  FLAG_ACTIVITY_NEW_TASK  
+

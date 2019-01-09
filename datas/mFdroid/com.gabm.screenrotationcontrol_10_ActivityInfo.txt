@@ -1,0 +1,6 @@
+#MAIN
+activity:com.gabm.tapandturn.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

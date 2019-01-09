@@ -1,0 +1,4 @@
+activity:org.gege.caldavsyncadapter.authenticator.AuthenticatorActivity
+LaunchMode:std
+TaskAffinity:null
+

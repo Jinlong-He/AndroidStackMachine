@@ -1,0 +1,9 @@
+com.CartoonImage.DIY.MainActivity-->com.CartoonImage.DIY.CartoonDIY
+flag:
+
+com.CartoonImage.DIY.MainActivity-->com.CartoonImage.DIY.NoUse
+flag:
+
+com.CartoonImage.DIY.MainActivity-->com.CartoonImage.DIY.AppInfo
+flag:
+

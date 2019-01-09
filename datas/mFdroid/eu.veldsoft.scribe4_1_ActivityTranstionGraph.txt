@@ -1,0 +1,15 @@
+.RulesActivity-->eu.veldsoft.scribe4.GlyphActivity
+flag:
+
+.SplashActivity-->unknown
+flag:
+
+.Main-->eu.veldsoft.scribe4.GlyphActivity
+flag:
+
+.Main-->eu.veldsoft.scribe4.RulesActivity
+flag:
+
+.Main-->eu.veldsoft.scribe4.ScribePreferences
+flag:
+

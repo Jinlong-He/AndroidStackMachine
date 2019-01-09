@@ -1,0 +1,10 @@
+#MAIN
+activity:org.billthefarmer.accordion.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.billthefarmer.accordion.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

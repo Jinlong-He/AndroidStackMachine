@@ -1,0 +1,6 @@
+mixedbit.speechtrainer.view.TrainingActivity-->mixedbit.speechtrainer.view.FileViewerActivity
+flag:
+
+mixedbit.speechtrainer.view.TrainingActivity-->mixedbit.speechtrainer.view.TrainingPreferenceActivity
+flag:
+

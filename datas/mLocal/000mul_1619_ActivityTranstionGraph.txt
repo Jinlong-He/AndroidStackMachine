@@ -1,0 +1,51 @@
+com.bhu.wifioverlook.ui.cases.InternetRestrictionAct-->com.bhu.wifioverlook.ui.HomeAct
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.bhu.wifioverlook.ui.cases.SecretKeyAct-->com.bhu.wifioverlook.ui.HomeAct
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.umeng.fb.ConversationActivity-->com.umeng.fb.ContactActivity
+flag:
+
+com.bhu.wifioverlook.ui.cases.StationDetailAct-->com.bhu.wifioverlook.ui.InitAct
+flag:finish
+
+com.bhu.wifioverlook.ui.cases.StationDetailAct-->com.bhu.wifioverlook.ui.HomeAct
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.bhu.wifioverlook.ui.cases.RouterMgrAct-->com.bhu.wifioverlook.ui.cases.WiFiEnvironmentAct
+flag:
+
+com.bhu.wifioverlook.ui.cases.RouterMgrAct-->com.bhu.wifioverlook.ui.HomeAct
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.bhu.wifioverlook.ui.SettingAct-->com.bhu.wifioverlook.ui.NinePointGestureAct
+flag:
+
+com.bhu.wifioverlook.ui.SettingAct-->com.bhu.wifioverlook.ui.ContactUsAct
+flag:
+
+com.bhu.wifioverlook.ui.InitAct-->com.bhu.wifioverlook.ui.GuideActivity
+flag:finish
+
+com.bhu.wifioverlook.ui.InitAct-->com.bhu.wifioverlook.ui.HomeAct
+flag:finish
+
+com.bhu.wifioverlook.ui.GuideActivity-->com.bhu.wifioverlook.ui.HomeAct
+flag:finish
+
+com.bhu.wifioverlook.ui.HomeAct-->com.bhu.wifioverlook.ui.cases.RouterMgrAct
+flag:
+
+com.bhu.wifioverlook.ui.HomeAct-->com.bhu.wifioverlook.ui.RecordAct
+flag:
+
+com.bhu.wifioverlook.ui.HomeAct-->com.bhu.wifioverlook.ui.WifiAct
+flag:
+
+com.bhu.wifioverlook.ui.HomeAct-->com.bhu.wifioverlook.ui.SettingAct
+flag:
+
+com.bhu.wifioverlook.ui.HomeAct-->com.bhu.wifioverlook.ui.cases.NetworkErrorAct
+flag:
+

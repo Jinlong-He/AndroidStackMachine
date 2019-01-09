@@ -1,0 +1,48 @@
+com.tingyisou.datingapp.activity.UploadBodyShowActivity-->com.tingyisou.datingapp.activity.EditBodyShowActivity
+flag:
+
+com.tingyisou.datingapp.activity.ChatActivity-->com.tingyisou.datingapp.activity.c.BuyVipActivity
+flag:
+
+com.tingyisou.datingapp.activity.ChatActivity-->com.tingyisou.datingapp.activity.ChatPhotoSelectorActivity
+flag:
+
+com.tingyisou.datingapp.activity.c.LoginActivity-->com.tingyisou.datingapp.activity.c.RegisterActivity
+flag:
+
+com.tingyisou.datingapp.activity.c.LoginActivity-->com.tingyisou.datingapp.activity.c.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tingyisou.datingapp.activity.c.LaucherActivity-->com.tingyisou.datingapp.activity.c.RegisterActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tingyisou.datingapp.activity.c.LaucherActivity-->com.tingyisou.datingapp.activity.c.MainActivity
+flag:finish
+
+com.tingyisou.datingapp.activity.c.LaucherActivity-->com.tingyisou.datingapp.activity.c.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tingyisou.datingapp.activity.c.MainActivity-->com.tingyisou.datingapp.activity.UploadBodyShowActivity
+flag:
+
+com.tingyisou.datingapp.activity.c.RegisterActivity-->com.tingyisou.datingapp.activity.c.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tingyisou.datingapp.activity.c.RegisterActivity-->com.tingyisou.datingapp.activity.c.LoginActivity
+flag:
+
+com.tingyisou.datingapp.activity.c.MyPrivatePhotosActivity-->com.tingyisou.datingapp.activity.UploadPrivatePhotoActivity
+flag:
+
+com.tingyisou.datingapp.activity.c.MyBodyShowsActivity-->com.tingyisou.datingapp.activity.UploadBodyShowActivity
+flag:
+
+com.tingyisou.datingapp.activity.SettingActivity-->com.tingyisou.datingapp.activity.ModifyPasswordActivity
+flag:
+
+com.tingyisou.datingapp.activity.SettingActivity-->com.tingyisou.datingapp.activity.c.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tingyisou.datingapp.activity.SettingActivity-->com.tingyisou.datingapp.activity.TermActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.gatoapps.dogtraining.MainActivity-->com.gatoapps.dogtraining.ReviewActivity
+flag:finish
+

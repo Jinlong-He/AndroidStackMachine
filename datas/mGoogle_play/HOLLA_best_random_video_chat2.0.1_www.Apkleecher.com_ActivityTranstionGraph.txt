@@ -1,0 +1,78 @@
+com.exutech.chacha.app.mvp.about.AboutInfoActivity-->com.exutech.chacha.app.mvp.webview.WebViewActivity
+flag:
+
+com.exutech.chacha.app.mvp.friends.FriendsActivity-->unknown
+flag:
+
+com.exutech.chacha.app.mvp.store.StoreActivity-->com.exutech.chacha.app.mvp.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.exutech.chacha.app.mvp.invitebytext.InviteByTextActivity-->com.exutech.chacha.app.mvp.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.videocall.VideoCallActivity-->com.exutech.chacha.app.mvp.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.videocall.VideoCallActivity-->com.exutech.chacha.app.mvp.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.welcome.WelcomeActivity-->com.exutech.chacha.app.mvp.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.welcome.WelcomeActivity-->com.exutech.chacha.app.mvp.videoanswer.VideoAnswerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.welcome.WelcomeActivity-->unknown
+flag:
+
+com.facebook.accountkit.ui.AccountKitActivity-->com.facebook.CustomTabActivity
+flag:finish
+
+com.exutech.chacha.app.mvp.chatmessage.ChatMessageActivity-->com.facebook.CustomTabActivity
+flag:
+
+com.exutech.chacha.app.mvp.chatmessage.ChatMessageActivity-->com.exutech.chacha.app.mvp.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.chatmessage.ChatMessageActivity-->com.exutech.chacha.app.mvp.videocall.VideoCallActivity
+flag:
+
+com.exutech.chacha.app.mvp.login.LoginActivity-->unknown
+flag:
+
+com.exutech.chacha.app.mvp.login.LoginActivity-->com.exutech.chacha.app.mvp.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.login.LoginActivity-->com.facebook.accountkit.ui.AccountKitActivity
+flag:
+
+com.exutech.chacha.app.mvp.editprofile.EditProfileActivity-->com.facebook.CustomTabActivity
+flag:
+
+com.exutech.chacha.app.mvp.register.RegisterActivity-->unknown
+flag:
+
+com.exutech.chacha.app.mvp.register.RegisterActivity-->com.facebook.CustomTabActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.exutech.chacha.app.mvp.invitefriend.InviteFriendActivity-->unknown
+flag:
+
+com.exutech.chacha.app.mvp.common.MainActivity-->com.exutech.chacha.app.mvp.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.redeem.RedeemInfoActivity-->unknown
+flag:
+
+com.exutech.chacha.app.mvp.videoanswer.VideoAnswerActivity-->com.exutech.chacha.app.mvp.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.exutech.chacha.app.mvp.videoanswer.VideoAnswerActivity-->com.exutech.chacha.app.mvp.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

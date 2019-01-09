@@ -1,0 +1,3 @@
+BomberActivity-->org.beide.bomber.BomberPreferences
+flag:
+

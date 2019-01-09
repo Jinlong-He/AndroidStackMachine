@@ -1,0 +1,12 @@
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+.MainActivity-->com.ID52.TrainSimulators.FlappyBird.DetailActivity
+flag:
+
+.StartActivity-->com.ID52.TrainSimulators.FlappyBird.MainActivity
+flag:
+
+.StartActivity-->com.google.ads.AdActivity
+flag:
+

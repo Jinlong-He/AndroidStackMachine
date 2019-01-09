@@ -1,0 +1,14 @@
+#MAIN
+activity:LieDetectorAndroid
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.appbrain.AppBrainActivity
+LaunchMode:std
+TaskAffinity:null
+

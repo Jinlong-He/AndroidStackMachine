@@ -1,0 +1,3 @@
+com.jmolsmobile.landscapevideocapture.VideoCaptureActivity-->com.jmolsmobile.landscapevideocapture.VideoCaptureActivity
+flag:
+

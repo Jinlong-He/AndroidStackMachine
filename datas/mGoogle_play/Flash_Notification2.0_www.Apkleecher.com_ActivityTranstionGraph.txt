@@ -1,0 +1,12 @@
+com.istudio.flashalert.activites.LockChargeActivity-->com.istudio.flashalert.activites.SettingLockscreenActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.istudio.flashalert.activites.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:finish
+
+com.istudio.flashalert.activites.MainActivity-->com.istudio.flashalert.activites.ManageAppActivity
+flag:
+

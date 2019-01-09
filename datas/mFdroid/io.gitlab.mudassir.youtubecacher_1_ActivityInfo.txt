@@ -1,0 +1,10 @@
+#MAIN
+activity:io.gitlab.mudassir.youtubecacher.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:io.gitlab.mudassir.youtubecacher.PlayerActivity
+LaunchMode:std
+TaskAffinity:null
+

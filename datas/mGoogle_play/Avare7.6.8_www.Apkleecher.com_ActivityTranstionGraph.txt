@@ -1,0 +1,15 @@
+com.ds.avare.PlatesActivity-->com.ds.avare.PlatesTagActivity
+flag:
+
+com.ds.avare.LocationActivity-->com.ds.avare.WebActivity
+flag:
+
+com.ds.avare.LocationActivity-->com.ds.avare.RegisterActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.ds.avare.LocationActivity-->com.ds.avare.PrefActivity
+flag:
+
+com.ds.avare.LocationActivity-->com.ds.avare.ChartsDownloadActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+

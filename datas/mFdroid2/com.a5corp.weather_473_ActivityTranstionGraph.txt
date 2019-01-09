@@ -1,0 +1,9 @@
+com.a5corp.weather.activity.WeatherActivity-->com.a5corp.weather.activity.AboutActivity
+flag:
+
+com.a5corp.weather.activity.GlobalActivity-->com.a5corp.weather.activity.WeatherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.a5corp.weather.activity.GlobalActivity-->com.a5corp.weather.activity.FirstLaunch
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

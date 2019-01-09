@@ -1,0 +1,222 @@
+com.citrix.work.activities.AppManagementActivity-->com.citrix.work.activities.AppManagementWorkerActivity
+flag:finish
+
+com.citrix.work.activities.AppManagementActivity-->com.citrix.work.activities.AllInOneActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.work.activities.IDPWebViewActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.zenprise.ewrs.webmodule.rs.FileInstallActivity-->com.zenprise.ewrs.webmodule.rs.FileInstallActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.zenprise.AppBlockView-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.zenprise.AppBlockView-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.zenprise.AppBlockView-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.authmanager.MDMEnrollActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.authmanager.MDMEnrollActivity-->com.citrix.work.common.activities.FTUActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.zenprise.ewrs.webmodule.rs.MessageActivity-->com.zenprise.ewrs.webmodule.rs.MessageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.citrix.work.support.GTA.GTAChatActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.zenprise.configuration.AdminFunction$Controller-->com.citrix.work.common.activities.FTUActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.zenprise.configuration.AdminFunction$Controller-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+com.zenprise.configuration.AdminFunction$Controller-->com.citrix.work.authmanager.MDMEnrollActivity
+flag:finish
+
+com.citrix.work.EMM.AndroidWork.AfwAppProvisioningActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  
+
+com.citrix.work.EMM.AndroidWork.AfwAppProvisioningActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.EMM.AndroidWork.AfwAppProvisioningActivity-->com.citrix.work.common.activities.FTUActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.activities.SignInActivity
+flag:finish
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.activities.OfflineAuthActivity
+flag:finish
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.common.activities.FTUActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.authmanager.MDMEnrollActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.shareddevice.SharedDeviceCheckInActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.activities.AuthControllerUIActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+com.citrix.work.activities.AppManagementWorkerActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.zenprise.enroll.Dialogue-->com.citrix.work.activities.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.citrix.work.activities.SignInActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.work.activities.SignInActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.activities.SignInActivity-->com.citrix.work.activities.OfflineAuthActivity
+flag:
+
+com.citrix.work.activities.SignInActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.activities.SignInActivity-->com.citrix.work.activities.SignInActivity
+flag:finish
+
+com.citrix.work.activities.SignInActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.work.activities.SignInActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.shareddevice.SharedDeviceCheckInActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.shareddevice.SharedDeviceCheckInActivity-->com.citrix.work.activities.SignInActivity
+flag:finish
+
+com.citrix.work.shareddevice.SharedDeviceCheckInActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.work.shareddevice.SharedDeviceCheckInActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.shareddevice.SharedDeviceCheckInActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+com.citrix.work.activities.PreferenceHolderActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.EMM.IntermediateActivity-->com.citrix.work.authmanager.MDMEnrollActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.zenprise.certificate.InstallCertificate-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.zenprise.CredentialInstall-->com.zenprise.enroll.Dialogue
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.zenprise.CredentialInstall-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.activities.PreferencesActivity-->com.citrix.work.activities.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.citrix.work.rsa.softtoken.RSATokenImportSuccessActivity-->com.citrix.work.rsa.softtoken.RSAShowPinPasscodeActivity
+flag:finish
+
+net.openid.appauth.RedirectUriReceiverActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+com.citrix.work.common.activities.LauncherActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+com.citrix.work.log.activities.CreateLogActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.citrix.work.log.activities.CreateLogActivity-->com.citrix.work.log.activities.LogSettingsActivity
+flag:
+
+com.citrix.work.log.activities.CreateLogActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.rsa.softtoken.RSATokenFileHandler-->com.citrix.work.rsa.softtoken.RSATokenImportSuccessActivity
+flag:finish
+
+com.citrix.work.activities.OfflineAuthActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.activities.OfflineAuthActivity-->com.citrix.work.activities.SignInActivity
+flag:finish
+
+com.citrix.work.activities.OfflineAuthActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.work.activities.OfflineAuthActivity-->com.citrix.work.activities.SignInActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.activities.OfflineAuthActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+net.openid.appauth.AuthorizationManagementActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.zenprise.configuration.Uninstaller-->com.zenprise.configuration.Uninstaller
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.webview.WebViewActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.activities.OfflinePasswordCreationActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+com.citrix.work.activities.OfflinePasswordCreationActivity-->com.citrix.work.activities.OfflinePasswordCreationActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.citrix.work.log.activities.SendLogsActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.common.activities.FTUAddAccountActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.work.common.activities.FTUAddAccountActivity-->com.citrix.work.activities.OfflinePasswordCreationActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.zenprise.enroll.TermsAndConditionsWebView-->com.citrix.work.common.activities.FTUActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.zenprise.configuration.Installer-->com.citrix.work.activities.CheckForUnknownSourcesActivity
+flag:
+
+com.citrix.work.activities.AllInOneActivity-->com.citrix.work.common.activities.FTUActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.citrix.work.activities.AllInOneActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:
+
+com.citrix.work.EMM.AndroidWork.SilentEnrollmentActivity-->com.citrix.work.authmanager.MDMEnrollActivity
+flag:finish
+
+com.citrix.work.log.activities.LogSettingsActivity-->com.citrix.work.log.activities.SelectLogLevelActivity
+flag:
+
+com.citrix.work.common.activities.FTUActivity-->com.citrix.work.common.activities.LauncherActivity
+flag:finish
+
+com.zenprise.ewrs.webmodule.rs.SyncAnnotationActivity-->com.zenprise.ewrs.webmodule.rs.SyncAnnotationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

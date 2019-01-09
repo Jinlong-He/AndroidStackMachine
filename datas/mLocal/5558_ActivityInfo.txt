@@ -1,0 +1,6 @@
+#MAIN
+activity:com.iqiyi.ivrcinema.unityqvractivity.QvrUnityActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

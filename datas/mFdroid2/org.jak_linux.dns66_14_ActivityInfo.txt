@@ -1,0 +1,14 @@
+#MAIN
+activity:org.jak_linux.dns66.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:org.jak_linux.dns66.InfoActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.jak_linux.dns66.ItemActivity
+LaunchMode:std
+TaskAffinity:null
+

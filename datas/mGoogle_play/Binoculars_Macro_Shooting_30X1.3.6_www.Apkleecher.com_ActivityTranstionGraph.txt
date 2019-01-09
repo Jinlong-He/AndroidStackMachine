@@ -1,0 +1,27 @@
+mesi.macroshooting.activity.GalleryActivity-->mesi.macroshooting.activity.CaptureActivity
+flag:finish
+
+com.startapp.android.publish.list3d.List3DActivity-->mesi.macroshooting.activity.CaptureActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.mopub.mobileads.MoPubActivity-->mesi.macroshooting.activity.CaptureActivity
+flag:
+
+mesi.macroshooting.activity.CaptureActivity-->mesi.macroshooting.activity.GalleryActivity
+flag:
+
+com.vungle.publisher.FullScreenAdActivity-->mesi.macroshooting.activity.CaptureActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.tapjoy.TJContentActivity-->com.tapjoy.TJContentActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->mesi.macroshooting.activity.CaptureActivity
+flag:
+
+com.mopub.mobileads.MraidActivity-->mesi.macroshooting.activity.CaptureActivity
+flag:
+

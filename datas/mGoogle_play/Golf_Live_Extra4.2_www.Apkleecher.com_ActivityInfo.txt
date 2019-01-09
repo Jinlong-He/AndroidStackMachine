@@ -1,0 +1,6 @@
+#MAIN
+activity:air.com.golfchannel.gcliveextra.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

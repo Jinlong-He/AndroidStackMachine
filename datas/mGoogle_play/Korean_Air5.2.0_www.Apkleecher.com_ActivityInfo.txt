@@ -1,0 +1,14 @@
+#MAIN
+activity:kal.FlightInfo.activities.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:kal.FlightInfo.activities.PopupActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,15 @@
+website.julianrosser.birthdays.activities.BirthdayListActivity-->website.julianrosser.birthdays.activities.SettingsActivity
+flag:
+
+website.julianrosser.birthdays.activities.BirthdayListActivity-->website.julianrosser.birthdays.activities.HelpActivity
+flag:
+
+website.julianrosser.birthdays.activities.BirthdayListActivity-->website.julianrosser.birthdays.activities.PrivacyPolicyActivity
+flag:
+
+website.julianrosser.birthdays.activities.BirthdayListActivity-->website.julianrosser.birthdays.activities.ImportContactsActivity
+flag:
+
+website.julianrosser.birthdays.activities.SettingsActivity-->website.julianrosser.birthdays.activities.BirthdayListActivity
+flag:
+

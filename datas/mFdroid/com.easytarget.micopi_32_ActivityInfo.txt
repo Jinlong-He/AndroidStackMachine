@@ -1,0 +1,14 @@
+#MAIN
+activity:org.eztarget.micopi.ui.WelcomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.eztarget.micopi.ui.ContactActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.eztarget.micopi.ui.BatchActivity
+LaunchMode:std
+TaskAffinity:null
+

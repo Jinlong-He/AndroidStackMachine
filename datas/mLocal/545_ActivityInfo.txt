@@ -1,0 +1,10 @@
+activity:com.baidu.appx.ui.BDInnerBrowser
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:md5de0d5b56a78e2c3783ba715fb19cafc3.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

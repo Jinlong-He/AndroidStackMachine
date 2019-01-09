@@ -1,0 +1,9 @@
+com.genonbeta.TrebleShot.activity.TrebleShotActivity-->com.genonbeta.TrebleShot.activity.PreferencesActivity
+flag:
+
+com.genonbeta.TrebleShot.activity.PendingTransferListActivity-->com.genonbeta.TrebleShot.activity.PendingTransferListActivity
+flag:
+
+com.genonbeta.TrebleShot.activity.ShareActivity-->com.genonbeta.TrebleShot.activity.TextEditorActivity
+flag:
+

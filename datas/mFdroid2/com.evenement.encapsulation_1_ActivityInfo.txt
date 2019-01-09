@@ -1,0 +1,6 @@
+#MAIN
+activity:com.evenement.eveControl.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,3 @@
+org.gittner.osmbugs.activities.BugMapActivity_-->org.gittner.osmbugs.activities.SettingsActivity_
+flag:
+

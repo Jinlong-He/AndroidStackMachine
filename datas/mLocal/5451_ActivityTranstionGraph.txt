@@ -1,0 +1,33 @@
+tv.danmaku.ijk.media.xgger.SearchActivity-->tv.danmaku.ijk.media.xgger.SearchResultActivity
+flag:finish
+
+tv.danmaku.ijk.media.xgger.VideoPlayerActivity-->tv.danmaku.ijk.media.xgger.MainActivity
+flag:
+
+tv.danmaku.ijk.media.xgger.VideoPlayerActivity-->tv.danmaku.ijk.media.xgger.IEActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  finish
+
+tv.danmaku.ijk.media.xgger.VideoPlayerActivity-->tv.danmaku.ijk.media.xgger.VideoPlayerActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  finish
+
+tv.danmaku.ijk.media.xgger.VideoPlayerActivity-->tv.danmaku.ijk.media.xgger.MainActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  finish
+
+com.baidu.mobads.AppActivity-->tv.danmaku.ijk.media.xgger.MainActivity
+flag:finish
+
+tv.danmaku.ijk.media.xgger.SearchResultActivity-->tv.danmaku.ijk.media.xgger.VideoPlayerActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+tv.danmaku.ijk.media.xgger.IEActivity-->tv.danmaku.ijk.media.xgger.VideoPlayerActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+tv.danmaku.ijk.media.xgger.SearchContentActivity-->tv.danmaku.ijk.media.xgger.MainActivity
+flag:
+
+tv.danmaku.ijk.media.xgger.MainActivity-->tv.danmaku.ijk.media.xgger.VideoPlayerActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+tv.danmaku.ijk.media.xgger.SplashActivity-->tv.danmaku.ijk.media.xgger.MainActivity
+flag:finish
+

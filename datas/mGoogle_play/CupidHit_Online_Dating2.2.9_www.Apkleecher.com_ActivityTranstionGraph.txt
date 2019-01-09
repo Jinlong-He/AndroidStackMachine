@@ -1,0 +1,3 @@
+com.cupidhit3.cupidhit.SplashActivity-->com.cupidhit3.cupidhit.MainActivity
+flag:finish
+

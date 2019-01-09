@@ -1,0 +1,6 @@
+#MAIN
+activity:gr.ratmole.android.Mach3Pendant.Mach3PendantActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

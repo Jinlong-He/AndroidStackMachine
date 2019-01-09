@@ -1,0 +1,10 @@
+activity:br.usp.ime.retrobreaker.GameActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:br.usp.ime.retrobreaker.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

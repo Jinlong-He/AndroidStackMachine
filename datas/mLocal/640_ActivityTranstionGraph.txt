@@ -1,0 +1,27 @@
+com.mfvideo.frame.activity.FollowedUserActivity-->com.mfvideo.frame.activity.LoginActivity
+flag:
+
+com.mfvideo.frame.activity.FollowedUserActivity-->com.mfvideo.frame.activity.VideoDetailActivity
+flag:
+
+com.tencent.connect.common.AssistActivity-->com.mfvideo.frame.activity.LoginActivity
+flag:
+
+com.mfvideo.frame.activity.NewMainActivity-->com.mfvideo.frame.activity.NewMyVideosActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+com.mfvideo.frame.activity.NewMainActivity-->com.mfvideo.frame.activity.NewMyVideosActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+.wxapi.WXEntryActivity-->com.mfvideo.frame.activity.LoginActivity
+flag:
+
+com.mfvideo.frame.activity.VideoDetailActivity-->com.mfvideo.frame.PlayerActivity
+flag:
+
+com.mfvideo.frame.activity.VideoDetailActivity-->com.mfvideo.frame.activity.FollowedUserActivity
+flag:
+
+com.mfvideo.frame.activity.VideoDetailActivity-->com.mfvideo.frame.activity.LoginActivity
+flag:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:CertToolsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:DisplayCertActivity
+LaunchMode:std
+TaskAffinity:null
+

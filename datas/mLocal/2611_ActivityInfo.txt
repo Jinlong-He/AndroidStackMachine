@@ -1,0 +1,14 @@
+#MAIN
+activity:org.easelife.android.pisces.compass.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.easelife.common.CommAboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.qq.e.ads.ADActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+com.popularapp.abdominalexercise.SettingActivity-->com.popularapp.abdominalexercise.setting.SettingReminder
+flag:
+
+com.popularapp.abdominalexercise.SettingActivity-->com.popularapp.abdominalexercise.ForumActivity
+flag:
+
+com.popularapp.abdominalexercise.SettingActivity-->com.popularapp.abdominalexercise.LocalizationActivity
+flag:
+
+com.popularapp.abdominalexercise.SettingActivity-->com.popularapp.abdominalexercise.MainActivity
+flag:finish
+

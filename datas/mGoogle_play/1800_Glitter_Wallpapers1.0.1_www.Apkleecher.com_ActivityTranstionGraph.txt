@@ -1,0 +1,15 @@
+com.allmyelegance.GlitterWallpapers.MainActivity-->com.allmyelegance.GlitterWallpapers.AboutActivity
+flag:
+
+com.allmyelegance.GlitterWallpapers.SplashActivity-->com.allmyelegance.GlitterWallpapers.MainActivity
+flag:finish
+
+com.allmyelegance.GlitterWallpapers.SlideImageActivity-->com.allmyelegance.GlitterWallpapers.SetAsWallpaperActivity
+flag:
+
+com.allmyelegance.GlitterWallpapers.SlideImageActivity-->com.allmyelegance.GlitterWallpapers.PinchZoom
+flag:
+
+com.allmyelegance.GlitterWallpapers.CategoryItem-->com.allmyelegance.GlitterWallpapers.SlideImageActivity
+flag:
+

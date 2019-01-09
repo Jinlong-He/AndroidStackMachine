@@ -1,0 +1,14 @@
+activity:app.varlorg.unote.NoteEdition
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:app.varlorg.unote.NoteMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:app.varlorg.unote.Preference
+LaunchMode:std
+TaskAffinity:null
+

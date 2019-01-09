@@ -1,0 +1,9 @@
+com.mareksebera.simpledilbert.preferences.DilbertPreferencesActivity-->com.mareksebera.simpledilbert.core.DilbertFragmentActivity
+flag:finish
+
+com.mareksebera.simpledilbert.core.DilbertFragmentActivity-->com.mareksebera.simpledilbert.favorites.DilbertFavoritedActivity
+flag:
+
+com.mareksebera.simpledilbert.core.DilbertFragmentActivity-->com.mareksebera.simpledilbert.preferences.DilbertPreferencesActivity
+flag:finish
+

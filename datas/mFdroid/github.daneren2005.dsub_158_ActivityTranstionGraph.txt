@@ -1,0 +1,15 @@
+github.daneren2005.dsub.activity.VoiceQueryReceiverActivity-->github.daneren2005.dsub.activity.VoiceQueryReceiverActivity
+flag:
+
+github.daneren2005.dsub.activity.SubsonicFragmentActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+github.daneren2005.dsub.activity.SubsonicFragmentActivity-->github.daneren2005.dsub.activity.VoiceQueryReceiverActivity
+flag:
+
+github.daneren2005.dsub.activity.SubsonicFragmentActivity-->github.daneren2005.dsub.activity.SubsonicFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+github.daneren2005.dsub.activity.QueryReceiverActivity-->github.daneren2005.dsub.activity.VoiceQueryReceiverActivity
+flag:
+

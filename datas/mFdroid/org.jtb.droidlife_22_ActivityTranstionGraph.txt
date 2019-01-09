@@ -1,0 +1,9 @@
+.SeedersActivity-->org.jtb.droidlife.GameActivity
+flag:
+
+.SeedersActivity-->org.jtb.droidlife.PrefsActivity
+flag:
+
+.DesignActivity-->org.jtb.droidlife.GameActivity
+flag:
+

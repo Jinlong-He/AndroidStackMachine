@@ -1,0 +1,66 @@
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientBatchAccountsUpdateActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:finish
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountInvitationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountInvitationActivity
+flag:
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountPrefsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountPrefsActivity
+flag:
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingSessionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.freeconferencecall.meetingclient.common.ui.activities.DialpadActivity-->com.freeconferencecall.meetingclient.common.ui.activities.DialpadActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.DialpadActivity-->com.freeconferencecall.meetingclient.common.ui.activities.DialpadActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:finish
+
+com.freeconferencecall.meetingclient.common.ui.activities.TelephonyActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.TelephonyActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.freeconferencecall.meetingclient.common.ui.activities.AccountInvitationActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountInvitationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.AccountInvitationActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountInvitationActivity
+flag:
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingSessionActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingSessionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.freeconferencecall.meetingclient.common.ui.activities.MeetingSessionActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:finish
+
+com.freeconferencecall.meetingclient.common.ui.activities.RecordingActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.RecordingActivity-->com.freeconferencecall.meetingclient.common.ui.activities.MeetingClientLaunchConfigurationActivity
+flag:
+
+com.freeconferencecall.meetingclient.common.ui.activities.AccountPrefsActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountPrefsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.freeconferencecall.meetingclient.common.ui.activities.AccountPrefsActivity-->com.freeconferencecall.meetingclient.common.ui.activities.AccountPrefsActivity
+flag:
+

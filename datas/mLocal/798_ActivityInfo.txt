@@ -1,0 +1,14 @@
+#MAIN
+activity:com.taklasoft.org.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.startapp.android.publish.list3d.List3DActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.startapp.android.publish.AppWallActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.jjoe64.graphview_demos.ItemListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.jjoe64.graphview_demos.ItemDetailActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.jjoe64.graphview_demos.FullscreenActivity
+LaunchMode:std
+TaskAffinity:null
+

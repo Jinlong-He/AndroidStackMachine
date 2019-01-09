@@ -1,0 +1,6 @@
+#MAIN
+activity:.NotificationPlusPreferences
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

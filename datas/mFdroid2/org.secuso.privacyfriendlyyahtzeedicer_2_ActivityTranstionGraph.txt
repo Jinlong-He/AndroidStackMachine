@@ -1,0 +1,9 @@
+org.secuso.privacyfriendlyyahtzeedicer.SplashActivity-->org.secuso.privacyfriendlyyahtzeedicer.MainActivity
+flag:finish
+
+org.secuso.privacyfriendlyyahtzeedicer.MainActivity-->org.secuso.privacyfriendlyyahtzeedicer.HelpActivity
+flag:
+
+org.secuso.privacyfriendlyyahtzeedicer.MainActivity-->org.secuso.privacyfriendlyyahtzeedicer.AboutActivity
+flag:
+

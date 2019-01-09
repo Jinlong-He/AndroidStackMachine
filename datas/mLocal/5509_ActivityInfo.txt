@@ -1,0 +1,10 @@
+#MAIN
+activity:com.tools.stopttpod.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.smaato.soma.interstitial.InterstitialActivity
+LaunchMode:std
+TaskAffinity:null
+

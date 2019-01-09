@@ -1,0 +1,9 @@
+.SplashActivity-->unknown
+flag:
+
+.GameActivity-->eu.veldsoft.ithaka.board.game.HelpActivity
+flag:
+
+.GameActivity-->eu.veldsoft.ithaka.board.game.AboutActivity
+flag:
+

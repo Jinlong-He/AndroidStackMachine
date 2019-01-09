@@ -1,0 +1,6 @@
+#MAIN
+activity:com.ksmobile.launcher.theme.ThemeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:PhotoViva
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

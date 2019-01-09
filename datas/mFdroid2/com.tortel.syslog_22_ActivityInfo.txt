@@ -1,0 +1,10 @@
+#MAIN
+activity:com.tortel.syslog.FragmentMainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.tortel.syslog.LiveLogActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+com.vonglasow.michael.satstat.ui.MainActivity-->com.vonglasow.michael.satstat.ui.SettingsActivity
+flag:
+
+com.vonglasow.michael.satstat.ui.MainActivity-->com.vonglasow.michael.satstat.ui.LegendActivity
+flag:
+
+com.vonglasow.michael.satstat.ui.MainActivity-->com.vonglasow.michael.satstat.ui.AboutActivity
+flag:
+
+com.vonglasow.michael.satstat.ui.SettingsActivity-->com.vonglasow.michael.satstat.ui.MapDownloadActivity
+flag:
+

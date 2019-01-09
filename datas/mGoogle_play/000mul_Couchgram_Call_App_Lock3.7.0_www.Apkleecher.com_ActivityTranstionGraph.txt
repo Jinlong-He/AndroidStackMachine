@@ -1,0 +1,204 @@
+com.couchgram.privacycall.ui.calllogdel.list.CallLogDelMemListActivity-->com.couchgram.privacycall.ui.calllogdel.add.AddCallLogDelMemListActivity
+flag:
+
+com.couchgram.privacycall.ui.calllogdel.list.CallLogDelMemListActivity-->com.couchgram.privacycall.ui.activity.VIPGuideActivity
+flag:
+
+com.couchgram.privacycall.ui.applock.protectlist.AppLockProtectListActivity-->com.couchgram.privacycall.ui.applocksetting.settings.SettingAppLockActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.applock.protectlist.AppLockProtectListActivity-->com.couchgram.privacycall.ui.applock.screen.CouchLockScreenActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.BlackListActivity-->com.couchgram.privacycall.ui.activity.AddBlackListActivity
+flag:
+
+com.couchgram.privacycall.ui.applocksetting.settings.SettingAppLockActivity-->com.couchgram.privacycall.ui.applock.screen.CouchLockScreenActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.HelpUpdateCallButtonActivity-->com.couchgram.privacycall.ui.activity.SettingLockBaseActivity
+flag:finish
+
+com.couchgram.privacycall.ui.aftercall.AfterCallActivity-->com.couchgram.privacycall.ui.aftercall.AfterCallActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_NEW_TASK  
+
+com.couchgram.privacycall.ui.activity.VIPGuideActivity-->com.couchgram.privacycall.ui.activity.PremiumItemResultActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.VIPGuideActivity-->com.couchgram.privacycall.ui.activity.RewardAdFreeActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.callscreen.SettingCallScreenActivity-->com.couchgram.privacycall.ui.activity.MainActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.GalleryListlActivity-->com.couchgram.privacycall.ui.activity.SettingThemeDetailActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.RenameContactsActivity-->com.couchgram.privacycall.ui.activity.VIPGuideActivity
+flag:
+
+com.mobvista.msdk.interstitial.view.MVInterstitialActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.mobvista.msdk.interstitial.view.MVInterstitialActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.couchgram.privacycall.ui.applock.recommendlist.AppLockRecommendListActivity-->com.couchgram.privacycall.ui.applock.protectlist.AppLockProtectListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.couchgram.privacycall.ui.activity.PopupAlertActivity-->com.couchgram.privacycall.ui.callscreen.SettingCallScreenActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.PopupAlertActivity-->com.couchgram.privacycall.ui.activity.SelectCallLockActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.PopupAlertActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.PopupAlertActivity-->com.couchgram.privacycall.ui.activity.PhonebookActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.PopupAlertActivity-->com.couchgram.privacycall.ui.activity.TheaterModeActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.PopupAlertActivity-->com.couchgram.privacycall.ui.activity.SettingActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.PopupAlertActivity-->com.couchgram.privacycall.ui.activity.WebViewActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.FakeCallActivity-->com.couchgram.privacycall.ui.activity.PermissionGuideActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.FakeCallActivity-->com.couchgram.privacycall.ui.activity.PhonebookActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.FakeCallActivity-->com.couchgram.privacycall.ui.activity.MainActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.FakeCallActivity-->com.couchgram.privacycall.ui.activity.SettingLockBaseActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.FakeCallActivity-->com.couchgram.privacycall.ui.activity.WebViewActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.SettingActivity-->com.couchgram.privacycall.ui.activity.SettingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.couchgram.privacycall.ui.lottery.LotteryActivity-->com.couchgram.privacycall.ui.activity.RewardRegisterTransParentActivity
+flag:
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.GuideCallScreenLiteActivity-->com.couchgram.privacycall.ui.activity.FakeCallActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.couchgram.privacycall.ui.applocksetting.screensetting.SettingAppLockScreenActivity-->com.couchgram.privacycall.ui.applock.screen.CouchLockScreenActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.WebViewActivity-->com.couchgram.privacycall.ui.activity.WebViewActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.ResetAppLockPasswordActivity-->com.couchgram.privacycall.ui.applocksetting.password.SettingAppLockPasswordActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.couchgram.privacycall.ui.activity.TheaterModeActivity-->com.couchgram.privacycall.ui.activity.VIPGuideActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.TheaterModeActivity-->com.couchgram.privacycall.ui.activity.GuideActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.AsusAutoRunGuideActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.RewardMainActivity-->com.couchgram.privacycall.ui.luckywheel.LuckyWheelActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.RewardMainActivity-->com.couchgram.privacycall.ui.activity.RewardRegisterTransParentActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.RewardMainActivity-->com.couchgram.privacycall.ui.lottery.LotteryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.RewardMainActivity-->com.couchgram.privacycall.ui.activity.SettingRewardManageAccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.RewardMainActivity-->com.couchgram.privacycall.ui.activity.RewardRegisterInputActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.RewardMainActivity-->com.couchgram.privacycall.ui.activity.RewardShopProductActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.HideContactsActivity-->com.couchgram.privacycall.ui.activity.VIPGuideActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.couchgram.privacycall.ui.luckywheel.LuckyWheelActivity-->com.couchgram.privacycall.ui.activity.RewardRegisterTransParentActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.SplashActivity-->com.couchgram.privacycall.ui.activity.MainActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.SplashActivity-->com.couchgram.privacycall.ui.activity.KoreanPermissionAgreeActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.SplashActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.PhonebookActivity-->com.couchgram.privacycall.ui.activity.VIPGuideActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.HelpPermissionGuideActivity-->com.couchgram.privacycall.ui.activity.PermissionGuideActivity
+flag:finish
+
+com.couchgram.privacycall.ui.activity.HelpPermissionGuideActivity-->com.couchgram.privacycall.ui.activity.WebViewActivity
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.RewardRegisterActivity-->com.couchgram.privacycall.ui.activity.RewardRegisterInputActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.RewardAdFreeActivity-->com.couchgram.privacycall.ui.activity.RewardRegisterTransParentActivity
+flag:
+
+com.couchgram.privacycall.ui.activity.RewardAdFreeActivity-->com.couchgram.privacycall.ui.activity.RewardMainActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.couchgram.privacycall.ui.activity.PopupNotificationActivity-->com.couchgram.privacycall.ui.activity.SettingQnaActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.couchgram.privacycall.ui.activity.PopupNotificationActivity-->com.couchgram.privacycall.ui.activity.WebViewActivity
+flag:
+
+com.couchgram.privacycall.ui.applocksetting.password.ChangeAppLockSecurityTypeActivity-->com.couchgram.privacycall.ui.applocksetting.password.SettingAppLockPasswordActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.couchgram.privacycall.ui.applock.screen.CouchLockScreenActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mobvista.msdk.reward.player.MVRewardVideoActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.mobvista.msdk.reward.player.MVRewardVideoActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.couchgram.privacycall.ui.activity.MainActivity-->com.couchgram.privacycall.ui.activity.PopupNotificationActivity
+flag:FLAG_FROM_BACKGROUND FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_NO_USER_ACTION FLAG_ACTIVITY_NEW_TASK  
+
+com.couchgram.privacycall.ui.activity.MainActivity-->com.couchgram.privacycall.ui.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.couchgram.privacycall.ui.activity.MainActivity-->com.couchgram.privacycall.ui.applock.screen.CouchLockScreenActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.mopub.mobileads.MraidActivity-->com.couchgram.privacycall.ui.taskclean.boost.CleanShortcutActivity
+flag:
+

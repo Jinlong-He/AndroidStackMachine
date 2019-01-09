@@ -1,0 +1,14 @@
+#MAIN
+activity:anupam.acrylic.Splash
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:anupam.acrylic.EasyPaint
+launchMode:stp
+TaskAffinity:null
+
+activity:anupam.acrylic.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,27 @@
+com.google.zxing.client.android.encode.EncodeActivity-->com.telogis.workplan.deeplink.DeepLinkActivity
+flag:finish
+
+com.google.zxing.client.android.share.ShareActivity-->com.google.zxing.client.android.encode.EncodeActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.google.zxing.client.android.share.ShareActivity-->com.google.zxing.client.android.share.BookmarkPickerActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.telogis.workplan.deeplink.DeepLinkActivity-->com.telogis.workplan.deeplink.DeepLinkActivity
+flag:finish
+
+com.google.zxing.client.android.CaptureActivity-->com.telogis.workplan.deeplink.DeepLinkActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.google.zxing.client.android.CaptureActivity-->com.telogis.workplan.deeplink.DeepLinkActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.HelpActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+br.com.arlsoft.pushclient.PendingNotificationActivity-->com.telogis.workplan.deeplink.DeepLinkActivity
+flag:finish
+
+com.google.zxing.client.android.HelpActivity-->com.telogis.workplan.deeplink.DeepLinkActivity
+flag:
+

@@ -1,0 +1,12 @@
+be.brunoparmentier.openbikesharing.app.activities.StationsListActivity-->be.brunoparmentier.openbikesharing.app.activities.BikeNetworksListActivity
+flag:
+
+be.brunoparmentier.openbikesharing.app.activities.StationsListActivity-->be.brunoparmentier.openbikesharing.app.activities.MapActivity
+flag:
+
+be.brunoparmentier.openbikesharing.app.activities.StationsListActivity-->be.brunoparmentier.openbikesharing.app.activities.SettingsActivity
+flag:
+
+be.brunoparmentier.openbikesharing.app.activities.MapActivity-->be.brunoparmentier.openbikesharing.app.activities.StationActivity
+flag:
+

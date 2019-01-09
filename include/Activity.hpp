@@ -120,7 +120,7 @@ namespace atm {
         bool finish;            ///< represent start or finishstart.
     public:
         Action() : sourceAct(nullptr), targetAct(nullptr) {};
-        Action(Activity* sAct, Activity* tAct, const Flags& fs, ID i, bool f = false) : sourceAct(sAct), targetAct(tAct), flags(fs.begin(), fs.end()), id(i), finish(f) {}
+        Action(Activity* sAct, Activity* tAct, const Flags& fs, bool f, ID i = 0) : sourceAct(sAct), targetAct(tAct), flags(fs.begin(), fs.end()), id(i), finish(f) {}
 
         Activity* getSourceAct() {return sourceAct;}
         Activity* getSourceAct() const {return sourceAct;}
@@ -157,6 +157,7 @@ namespace atm {
     typedef unordered_set<Action*, ActionHash, ActionCmp> Actions;
     typedef unordered_map<Activity*, Actions> Act2ActionsMap;
     typedef unordered_map<Activity*, Act2ActionsMap> VirtualActionsMap;
+    typedef unordered_map<Aft, Actions> Aft2ActionsMap;
 
 
     /// \breif Activity in the Android system.
@@ -244,6 +245,9 @@ namespace atm {
         /// \param aft The affinity to be focuced.
         /// \param targetAft The target affinity to be compared with by determining switching task.
         void mkExitAndEntranceMap(const Acts& visited, PortMap& exitMap, PortMap& entranceMap, Activity* realAct, Acts& tasks, Act2ActsMap& taskMap, Activity* mainAct, Aft& ignoreAft, VirtualActionsMap& virtualActionsMap, Act2ActionsMap& visitedActions, Act2ActionsMap& availableActions);
+
+
+    void mkOutActionsMap(Acts& visited, Activity* realAct, Aft2ActionsMap& actionsMap, Acts& reachActs, Actions& reachActions);
         
         void outputAvailablePos()
         {

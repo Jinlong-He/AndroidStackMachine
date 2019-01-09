@@ -1,0 +1,6 @@
+#MAIN
+activity:io.github.sanbeg.flashlight.FlashLightActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

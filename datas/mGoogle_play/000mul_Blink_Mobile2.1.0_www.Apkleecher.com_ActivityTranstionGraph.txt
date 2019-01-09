@@ -1,0 +1,63 @@
+com.blinknetwork.blink.views.activities.HomeActivity-->com.blinknetwork.blink.views.activities.FavoriteAddLocationActivity
+flag:
+
+com.blinknetwork.blink.views.activities.SignupActivity-->io.card.payment.CardIOActivity
+flag:
+
+com.blinknetwork.blink.views.activities.SignupActivity-->com.blinknetwork.blink.views.activities.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.blinknetwork.blink.views.activities.SignupActivity-->com.blinknetwork.blink.views.activities.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.blinknetwork.blink.views.activities.SignupActivity-->com.blinknetwork.blink.views.activities.BlinkCodeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.blinknetwork.blink.views.activities.SignupActivity-->com.blinknetwork.blink.views.activities.HomeActivity
+flag:finish
+
+com.blinknetwork.blink.views.activities.SignupActivity-->com.blinknetwork.blink.views.activities.TOSActivity
+flag:
+
+com.blinknetwork.blink.views.activities.SignupActivity-->com.blinknetwork.blink.views.activities.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.blinknetwork.blink.views.activities.BlinkLocationPickerActivity-->com.blinknetwork.blink.views.activities.MapLegendActivity
+flag:
+
+com.blinknetwork.blink.views.activities.SplashActivity-->com.blinknetwork.blink.views.activities.HomeActivity
+flag:finish
+
+com.blinknetwork.blink.views.activities.SplashActivity-->com.blinknetwork.blink.views.activities.TOSActivity
+flag:finish
+
+com.blinknetwork.blink.views.activities.BlinkCodeActivity-->io.card.payment.CardIOActivity
+flag:
+
+com.blinknetwork.blink.views.activities.BlinkCodeActivity-->com.blinknetwork.blink.views.activities.TOSActivity
+flag:
+
+io.card.payment.CardIOActivity-->io.card.payment.DataEntryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NO_HISTORY  
+
+com.blinknetwork.blink.views.activities.MyScanActivity-->io.card.payment.CardIOActivity
+flag:
+
+com.blinknetwork.blink.views.activities.StartChargeGuestActivity-->com.blinknetwork.blink.views.activities.TOSActivity
+flag:
+
+com.blinknetwork.blink.views.activities.StartChargeGuestActivity-->io.card.payment.CardIOActivity
+flag:
+
+com.blinknetwork.blink.views.activities.LoginActivity-->com.blinknetwork.blink.views.activities.SignupActivity
+flag:finish
+
+com.blinknetwork.blink.views.activities.LoginActivity-->com.blinknetwork.blink.views.activities.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.blinknetwork.blink.views.activities.FavoriteAddLocationActivity-->com.blinknetwork.blink.views.activities.BlinkLocationPickerActivity
+flag:
+
+com.blinknetwork.blink.views.activities.TOSActivity-->com.blinknetwork.blink.views.activities.HomeActivity
+flag:finish
+

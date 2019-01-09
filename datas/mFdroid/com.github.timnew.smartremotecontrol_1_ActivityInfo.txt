@@ -1,0 +1,10 @@
+#MAIN
+activity:com.github.timnew.smartremotecontrol.MainActivity_
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.github.timnew.smartremotecontrol.DialogHostActivity
+LaunchMode:std
+TaskAffinity:null
+

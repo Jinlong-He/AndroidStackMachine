@@ -1,0 +1,12 @@
+com.kitchenpearl.ktimer.ui.ActInfo-->com.kitchenpearl.ktimer.ui.ActTimer
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.kitchenpearl.ktimer.ui.ActTimer-->com.kitchenpearl.ktimer.ui.ActPrefs
+flag:
+
+com.kitchenpearl.ktimer.ui.ActTimesList-->com.kitchenpearl.ktimer.ui.ActTimesDetail
+flag:
+
+com.kitchenpearl.ktimer.ui.ActPrefs-->com.kitchenpearl.ktimer.ui.ActTimer
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

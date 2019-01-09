@@ -1,0 +1,15 @@
+org.billthefarmer.shorty.LookupActivity-->org.billthefarmer.shorty.PathActivity
+flag:
+
+org.billthefarmer.shorty.LookupActivity-->org.billthefarmer.shorty.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.billthefarmer.shorty.MainActivity-->org.billthefarmer.shorty.HelpActivity
+flag:
+
+org.billthefarmer.shorty.MainActivity-->org.billthefarmer.shorty.LookupActivity
+flag:
+
+org.billthefarmer.shorty.MainActivity-->org.billthefarmer.shorty.AboutActivity
+flag:
+

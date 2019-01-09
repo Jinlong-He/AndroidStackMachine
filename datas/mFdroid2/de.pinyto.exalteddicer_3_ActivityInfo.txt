@@ -1,0 +1,10 @@
+#MAIN
+activity:de.pinyto.exalteddicer.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:de.pinyto.exalteddicer.SetPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+com.dimonvideo.luckypatcher.patchActivity-->com.dimonvideo.luckypatcher.patchActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.dimonvideo.luckypatcher.SetPrefs-->com.dimonvideo.luckypatcher.HelpActivity
+flag:
+

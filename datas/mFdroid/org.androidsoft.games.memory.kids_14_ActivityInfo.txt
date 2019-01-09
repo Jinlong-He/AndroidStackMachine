@@ -1,0 +1,14 @@
+#MAIN
+activity:.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.ui.CreditsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.ui.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

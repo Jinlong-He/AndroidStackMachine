@@ -1,0 +1,6 @@
+de.live.gdev.cherrymusic.MainActivity-->de.live.gdev.cherrymusic.SettingsActivity
+flag:
+
+de.live.gdev.cherrymusic.MainActivity-->de.live.gdev.cherrymusic.InfoActivity
+flag:
+

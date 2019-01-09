@@ -1,0 +1,3 @@
+com.hooktv.hook.StartScreenPagerActivity-->com.hooktv.hook.LokiActivity
+flag:
+

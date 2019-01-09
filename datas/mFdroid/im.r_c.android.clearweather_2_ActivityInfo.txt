@@ -1,0 +1,10 @@
+#MAIN
+activity:im.r_c.android.clearweather.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:im.r_c.android.clearweather.activity.AddActivity
+LaunchMode:std
+TaskAffinity:null
+

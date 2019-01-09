@@ -1,0 +1,9 @@
+org.anothermonitor.ActivityMain-->org.anothermonitor.ActivityProcesses
+flag:
+
+org.anothermonitor.ActivityMain-->org.anothermonitor.ActivityHelp
+flag:
+
+org.anothermonitor.ActivityMain-->org.anothermonitor.ActivityAbout
+flag:
+

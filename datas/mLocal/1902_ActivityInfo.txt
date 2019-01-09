@@ -1,0 +1,10 @@
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:TerrariaWiki
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

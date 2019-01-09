@@ -1,0 +1,9 @@
+org.fedorahosted.freeotp.MainActivity-->org.fedorahosted.freeotp.add.ScanActivity
+flag:
+
+org.fedorahosted.freeotp.MainActivity-->org.fedorahosted.freeotp.add.AddActivity
+flag:
+
+org.fedorahosted.freeotp.MainActivity-->org.fedorahosted.freeotp.AboutActivity
+flag:
+

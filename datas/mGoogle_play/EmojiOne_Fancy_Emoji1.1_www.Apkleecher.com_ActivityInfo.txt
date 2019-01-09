@@ -1,0 +1,10 @@
+#MAIN
+activity:com.jb.gokeyboard.plugin.emoji.EmojiActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.jb.gokeyboard.plugin.emoji.crashreport.CrashReportDialog
+LaunchMode:sit
+TaskAffinity:null
+

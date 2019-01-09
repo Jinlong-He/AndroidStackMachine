@@ -1,0 +1,12 @@
+activity:com.termux.api.DialogActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.termux.api.util.TermuxApiPermissionActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.termux.api.StorageGetAPI$StorageActivity
+LaunchMode:std
+TaskAffinity:null
+

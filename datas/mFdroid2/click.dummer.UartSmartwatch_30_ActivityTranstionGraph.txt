@@ -1,0 +1,6 @@
+click.dummer.UartSmartwatch.MainActivity-->click.dummer.UartSmartwatch.PreferencesActivity
+flag:
+
+click.dummer.UartSmartwatch.MainActivity-->click.dummer.UartSmartwatch.DeviceListActivity
+flag:
+

@@ -1,0 +1,15 @@
+tranquvis.simplesmsremote.Activities.MainActivity-->unknown
+flag:
+
+tranquvis.simplesmsremote.Activities.MainActivity-->tranquvis.simplesmsremote.Activities.HelpHowToControlActivity
+flag:
+
+tranquvis.simplesmsremote.Activities.MainActivity-->tranquvis.simplesmsremote.Activities.SettingsActivity
+flag:
+
+tranquvis.simplesmsremote.Activities.MainActivity-->tranquvis.simplesmsremote.Activities.LogActivity
+flag:
+
+tranquvis.simplesmsremote.Activities.ModuleActivity-->tranquvis.simplesmsremote.Activities.HelpHowToControlActivity
+flag:
+

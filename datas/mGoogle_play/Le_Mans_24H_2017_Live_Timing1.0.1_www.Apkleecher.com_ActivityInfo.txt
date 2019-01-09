@@ -1,0 +1,10 @@
+#MAIN
+activity:com.minimalapps.lemans2014live.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

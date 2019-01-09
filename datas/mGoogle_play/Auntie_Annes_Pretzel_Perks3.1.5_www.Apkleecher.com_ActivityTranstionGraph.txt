@@ -1,0 +1,3 @@
+com.auntieannes.pretzelperks.TriframeActivity-->com.auntieannes.pretzelperks.DetailsActivity
+flag:
+

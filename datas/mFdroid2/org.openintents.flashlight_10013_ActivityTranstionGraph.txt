@@ -1,0 +1,9 @@
+org.openintents.distribution.EulaActivity-->org.openintents.flashlight.Flashlight
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+org.openintents.distribution.NewVersionActivity-->org.openintents.flashlight.Flashlight
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+org.openintents.flashlight.Flashlight-->org.openintents.flashlight.FlashlightPrefs
+flag:
+

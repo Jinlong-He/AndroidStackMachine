@@ -1,0 +1,12 @@
+ovh.ice.icecons.WallpaperActivity-->ovh.ice.icecons.WallpaperSetActivity
+flag:
+
+ovh.ice.icecons.MainActivity-->ovh.ice.icecons.IconActivity
+flag:
+
+ovh.ice.icecons.MainActivity-->ovh.ice.icecons.WallpaperActivity
+flag:
+
+ovh.ice.icecons.MainActivity-->ovh.ice.icecons.LicenseActivity
+flag:
+

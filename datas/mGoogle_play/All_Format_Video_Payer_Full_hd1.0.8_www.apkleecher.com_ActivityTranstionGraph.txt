@@ -1,0 +1,39 @@
+.gui.video.VideoPlayerActivity-->unknown
+flag:finish
+
+.gui.video.VideoPlayerActivity-->audio.video.player.hd.cutter.gui.MainActivity
+flag:finish
+
+.gui.video.VideoPlayerActivity-->audio.video.player.hd.cutter.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.video.VideoPlayerActivity-->audio.video.player.hd.cutter.gui.video.VideoPlayerActivity
+flag:
+
+.gui.NativeCrashActivity-->audio.video.player.hd.cutter.gui.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+.gui.PreferencesActivity-->audio.video.player.hd.cutter.gui.BrowserActivity
+flag:
+
+audio.video.player.hd.cutter.gui.audio.cutter.AudioEditor-->audio.video.player.hd.cutter.gui.audio.cutter.Activity_trimmed
+flag:
+
+.gui.MainActivity-->audio.video.player.hd.cutter.gui.SecondaryActivity
+flag:
+
+.gui.MainActivity-->.gui.video.VideoPlayerActivity
+flag:
+
+.gui.MainActivity-->audio.video.player.hd.cutter.gui.PreferencesActivity
+flag:
+
+.gui.MainActivity-->audio.video.player.hd.cutter.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.MainActivity-->audio.video.player.hd.cutter.gui.video.VideoPlayerActivity
+flag:
+
+audio.video.player.hd.cutter.gui.audio.cutter.Activity_trimmed-->.gui.video.VideoPlayerActivity
+flag:
+

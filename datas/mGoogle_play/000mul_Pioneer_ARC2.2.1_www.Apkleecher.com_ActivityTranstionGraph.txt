@@ -1,0 +1,6 @@
+com.pioneer.alternativeremote.activity.MainActivity-->com.pioneer.alternativeremote.activity.MainActivity
+flag:
+
+com.pioneer.alternativeremote.activity.OpeningActivity-->com.pioneer.alternativeremote.activity.MainActivity
+flag:
+

@@ -1,0 +1,12 @@
+com.sdfy.qianghongbao.wxapi.Loading-->com.sdfy.qianghongbao.wxapi.WXEntryActivity
+flag:finish
+
+com.sdfy.qianghongbao.wxapi.WXEntryActivity-->com.sdfy.qianghongbao.wxapi.detailActivity
+flag:
+
+com.sdfy.qianghongbao.wxapi.WXEntryActivity-->com.sdfy.qianghongbao.wxapi.detailView
+flag:
+
+com.sdfy.qianghongbao.wxapi.WXEntryActivity-->com.sdfy.qianghongbao.wxapi.WXEntryActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

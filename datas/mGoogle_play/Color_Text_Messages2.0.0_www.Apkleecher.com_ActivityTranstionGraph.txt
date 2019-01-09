@@ -1,0 +1,6 @@
+com.leyiapps.colortexting.MainActivity-->com.leyinetwork.promotion.WallActivity
+flag:
+
+com.leyiapps.colortexting.MainActivity-->com.leyinetwork.promotion.BigAdActivity
+flag:
+

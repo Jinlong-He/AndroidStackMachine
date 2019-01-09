@@ -1,0 +1,10 @@
+#MAIN
+activity:es.esy.CosyDVR.CosyDVR
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:es.esy.CosyDVR.CosyDVRPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

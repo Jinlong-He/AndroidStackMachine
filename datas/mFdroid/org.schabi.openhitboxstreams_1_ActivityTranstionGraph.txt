@@ -1,0 +1,3 @@
+org.schabi.openhitboxstreams.MenuActivity-->org.schabi.openhitboxstreams.MenuActivity
+flag:finish
+

@@ -1,0 +1,4 @@
+activity:com.termux.styling.TermuxStyleActivity
+LaunchMode:std
+TaskAffinity:null
+

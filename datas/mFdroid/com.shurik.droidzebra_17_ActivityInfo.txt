@@ -1,0 +1,10 @@
+#MAIN
+activity:.DroidZebra
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.SettingsPreferences
+LaunchMode:std
+TaskAffinity:null
+

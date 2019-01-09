@@ -1,0 +1,18 @@
+com.lfantasia.android.outworld.activity.LocationEditActivity-->com.lfantasia.android.outworld.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.lfantasia.android.outworld.activity.StoryEditActivity-->com.lfantasia.android.outworld.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.lfantasia.android.outworld.activity.SceneEditActivity-->com.lfantasia.android.outworld.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.lfantasia.android.outworld.activity.StoryEditActivity1-->com.lfantasia.android.outworld.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.lfantasia.android.outworld.activity.CharacterEditActivity-->com.lfantasia.android.outworld.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.lfantasia.android.outworld.activity.WorldEditActivity-->com.lfantasia.android.outworld.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

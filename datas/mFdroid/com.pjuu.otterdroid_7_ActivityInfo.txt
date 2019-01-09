@@ -1,0 +1,6 @@
+#MAIN
+activity:com.pjuu.otterdroid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

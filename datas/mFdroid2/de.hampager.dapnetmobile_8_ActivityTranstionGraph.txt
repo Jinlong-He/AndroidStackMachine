@@ -1,0 +1,9 @@
+de.hampager.dapnetmobile.MainActivity-->de.hampager.dapnetmobile.LoginActivity
+flag:
+
+de.hampager.dapnetmobile.MainActivity-->de.hampager.dapnetmobile.PostCallActivity
+flag:
+
+de.hampager.dapnetmobile.LoginActivity-->de.hampager.dapnetmobile.MainActivity
+flag:finish
+

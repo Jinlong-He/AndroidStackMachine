@@ -1,0 +1,15 @@
+org.contentarcade.apps.healthyrecipesforweightloss.AddMeal-->org.contentarcade.apps.healthyrecipesforweightloss.FilterresultActivity
+flag:
+
+org.contentarcade.apps.healthyrecipesforweightloss.AddMeal-->org.contentarcade.apps.healthyrecipesforweightloss.FavouriteActivity
+flag:
+
+org.contentarcade.apps.healthyrecipesforweightloss.AddMeal-->org.contentarcade.apps.healthyrecipesforweightloss.ShoppingListActivity
+flag:
+
+org.contentarcade.apps.healthyrecipesforweightloss.Splash-->org.contentarcade.apps.healthyrecipesforweightloss.AddMeal
+flag:finish
+
+org.contentarcade.apps.healthyrecipesforweightloss.Main2Activity-->org.contentarcade.apps.healthyrecipesforweightloss.ShoppingListActivity
+flag:
+

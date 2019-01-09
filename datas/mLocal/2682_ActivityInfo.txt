@@ -1,0 +1,6 @@
+#MAIN
+activity:com.chartcross.gpstestplus.GPSTestPlus
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

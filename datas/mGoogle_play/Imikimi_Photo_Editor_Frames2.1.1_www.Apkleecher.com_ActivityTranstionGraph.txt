@@ -1,0 +1,18 @@
+com.ImikimiPhotoEditor.MultiTouch-->com.ImikimiPhotoEditor.GridViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ImikimiPhotoEditor.GridViewActivity-->com.ImikimiPhotoEditor.MultiTouch
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ImikimiPhotoEditor.GridViewActivity-->com.ImikimiPhotoEditor.TakeImageActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ImikimiPhotoEditor.TakeImageActivity-->com.ImikimiPhotoEditor.GridViewActivity
+flag:
+
+com.ImikimiPhotoEditor.TakeImageActivity-->com.ImikimiPhotoEditor.CapturePhotoActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+com.ImikimiPhotoEditor.FlashScreenActivity-->com.ImikimiPhotoEditor.TakeImageActivity
+flag:finish
+

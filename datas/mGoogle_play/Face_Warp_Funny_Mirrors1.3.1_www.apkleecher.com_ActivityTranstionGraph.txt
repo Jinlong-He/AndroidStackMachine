@@ -1,0 +1,6 @@
+com.r22software.mirrors.CamActivity-->com.r22software.mirrors.SavedActivity
+flag:
+
+com.r22software.mirrors.StartActivity-->com.r22software.mirrors.CamActivity
+flag:finish
+

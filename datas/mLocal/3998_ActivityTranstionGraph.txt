@@ -1,0 +1,12 @@
+com.linyier.livewallpaper.naruto.Settings-->com.linyier.livewallpaper.naruto.GalleryActivity
+flag:
+
+com.linyier.livewallpaper.naruto.GalleryActivity-->com.linyier.livewallpaper.naruto.PreviewActivity
+flag:
+
+com.linyier.livewallpaper.naruto.MainActivity-->com.linyier.livewallpaper.naruto.GalleryActivity
+flag:
+
+com.linyier.livewallpaper.naruto.MainActivity-->com.linyier.livewallpaper.naruto.Settings
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

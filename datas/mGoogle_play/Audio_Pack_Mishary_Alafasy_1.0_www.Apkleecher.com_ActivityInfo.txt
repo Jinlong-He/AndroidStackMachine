@@ -1,0 +1,4 @@
+activity:com.chaks.juzamma.audioplugin.alafasy.Main
+LaunchMode:std
+TaskAffinity:null
+

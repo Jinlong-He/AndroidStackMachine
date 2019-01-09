@@ -1,0 +1,6 @@
+.MainActivity-->com.zulixsoft.android.bluetoothdetector.MainPreferencesActivity
+flag:
+
+.MainActivity-->com.zulixsoft.android.bluetoothdetector.MainAboutActivity
+flag:
+

@@ -1,0 +1,6 @@
+com.workingagenda.devinettes.MainActivity-->com.workingagenda.devinettes.AboutActivity
+flag:
+
+com.workingagenda.devinettes.MainActivity-->com.workingagenda.devinettes.RiddlePanel
+flag:
+

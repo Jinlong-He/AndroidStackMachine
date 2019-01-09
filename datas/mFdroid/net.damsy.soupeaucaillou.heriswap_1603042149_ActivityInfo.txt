@@ -1,0 +1,6 @@
+#MAIN
+activity:net.damsy.soupeaucaillou.heriswap.HeriswapActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

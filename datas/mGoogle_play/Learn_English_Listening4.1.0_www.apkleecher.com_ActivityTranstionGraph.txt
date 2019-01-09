@@ -1,0 +1,15 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yobimi.bbclearningenglish.activity.SplashActivity-->com.yobimi.bbclearningenglish.appintro.MyIntro
+flag:
+
+com.yobimi.bbclearningenglish.activity.SplashActivity-->com.yobimi.bbclearningenglish.activity.MainActivity
+flag:
+
+com.yobimi.bbclearningenglish.appintro.MyIntro-->com.yobimi.bbclearningenglish.activity.MainActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

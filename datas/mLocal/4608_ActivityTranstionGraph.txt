@@ -1,0 +1,12 @@
+oms.mmc.fortunetelling.airong.shipu.ui.MainActivity-->oms.mmc.fortunetelling.airong.shipu.ui.SpWebActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+oms.mmc.fortunetelling.airong.shipu.ui.MainActivity-->oms.mmc.fortunetelling.airong.shipu.ui.SpWebActivity
+flag:
+
+oms.mmc.fortunetelling.airong.shipu.ui.SpWebActivity-->oms.mmc.fortunetelling.airong.shipu.ui.SpWebActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+oms.mmc.fortunetelling.airong.shipu.ui.SpWebActivity-->oms.mmc.fortunetelling.airong.shipu.ui.SpWebActivity
+flag:
+

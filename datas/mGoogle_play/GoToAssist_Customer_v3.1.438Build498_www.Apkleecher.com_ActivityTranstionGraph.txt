@@ -1,0 +1,48 @@
+com.citrix.g2acommon.presentation.AboutScreenActivity-->com.citrix.g2acustomer.presentation.LaunchFromBrowserActivity
+flag:
+
+com.citrix.g2acustomer.presentation.ScreenSharingInstallActivity-->com.citrix.g2acustomer.presentation.BootStrapActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.g2acustomer.presentation.ScreenSharingInstallActivity-->com.citrix.g2acustomer.presentation.LaunchFromBrowserActivity
+flag:
+
+com.citrix.g2acommon.presentation.NotificationActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.g2acustomer.presentation.LaunchFromBrowserActivity-->com.citrix.gotoassistmdmsettings.presentation.G2AMDMProfileInstallSamsungActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.g2acustomer.presentation.LaunchFromBrowserActivity-->com.citrix.gotoassistmdmsettings.presentation.G2AMDMProfileInstallActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.g2acustomer.presentation.LaunchFromBrowserActivity-->com.citrix.g2acustomer.presentation.BootStrapActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.citrix.g2acaptureinject.screen_capture.MediaProjectionManagerActivity-->com.citrix.g2acustomer.presentation.LaunchFromBrowserActivity
+flag:
+
+com.citrix.g2acustomer.presentation.InSessionActivity-->com.citrix.g2acustomer.presentation.StartSupportSessionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.g2acustomer.presentation.InSessionActivity-->com.citrix.g2acustomer.presentation.InSessionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.citrix.g2acustomer.presentation.InSessionActivity-->com.citrix.g2acustomer.presentation.ScreenSharingDeviceAdminActivity
+flag:
+
+com.citrix.g2acustomer.presentation.BootStrapActivity-->com.citrix.g2acustomer.presentation.InSessionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.citrix.g2acustomer.presentation.BootStrapActivity-->com.citrix.g2acustomer.presentation.StartSupportSessionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.citrix.g2acustomer.presentation.BootStrapActivity-->com.citrix.g2acustomer.presentation.ScreenSharingInstallActivity
+flag:
+
+com.citrix.g2acustomer.presentation.StartSupportSessionActivity-->com.citrix.g2acustomer.presentation.InSessionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.citrix.g2acustomer.presentation.StartSupportSessionActivity-->com.citrix.g2acommon.presentation.DeveloperSettingsActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+

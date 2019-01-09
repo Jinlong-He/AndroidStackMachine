@@ -1,0 +1,3 @@
+com.sosscores.livefootball.SplashScreen-->com.sosscores.livefootball.MainActivity
+flag:finish
+

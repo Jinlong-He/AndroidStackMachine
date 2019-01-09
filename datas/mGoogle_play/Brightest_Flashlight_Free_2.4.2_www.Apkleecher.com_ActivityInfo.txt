@@ -1,0 +1,14 @@
+#MAIN
+activity:.BrightestFlashlightMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.millennialmedia.android.MMActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.millennialmedia.android.VideoPlayer
+LaunchMode:std
+TaskAffinity:null
+

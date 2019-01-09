@@ -1,0 +1,6 @@
+com.skibapps.cellspycatcher.MainActivity-->com.skibapps.cellspycatcher.HelpHtml
+flag:
+
+com.skibapps.cellspycatcher.MainActivity-->com.skibapps.cellspycatcher.Prefs
+flag:
+

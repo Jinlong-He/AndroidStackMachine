@@ -1,0 +1,162 @@
+com.tencent.connect.common.AssistActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:finish
+
+com.mojang.minecraftpetool.MainActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.AddLifeActivity-->com.mojang.minecraftpetool.AllLifeSelectedActivity
+flag:
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:finish
+
+com.mojang.minecraftpetool.JSCardActivity-->com.mojang.minecraftpetool.SearchResource
+flag:
+
+com.mojang.minecraftpetool.JSCardActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.CommentActivity-->com.mojang.minecraftpetool.PopwindowActivity
+flag:
+
+com.mojang.minecraftpetool.SkinActivity-->com.mojang.minecraftpetool.SearchResource
+flag:
+
+com.mojang.minecraftpetool.SkinActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.MemberActivity-->com.mojang.minecraftpetool.MemberPayActivity
+flag:
+
+com.mojang.minecraftpetool.WorkOfficeDetailActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.WorkOfficeDetailActivity-->com.mojang.minecraftpetool.CommentActivity
+flag:
+
+com.mojang.minecraftpetool.MapActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.MapActivity-->com.mojang.minecraftpetool.SearchResource
+flag:
+
+com.mojang.minecraftpetool.LinkShowActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.VideoShowActivity-->com.mojang.minecraftpetool.PopwindowActivity
+flag:
+
+com.mojang.minecraftpetool.VideoShowActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.AboutUsActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.MapDetailActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.MapDetailActivity-->com.mojang.minecraftpetool.CommentActivity
+flag:
+
+com.mojang.minecraftpetool.MapDetailActivity-->com.mojang.minecraftpetool.ScapeImageActivity
+flag:
+
+com.mojang.minecraftpetool.MapDetailActivity-->com.mojang.minecraftpetool.WorkOfficeDetailActivity
+flag:
+
+com.mojang.minecraftpetool.MapDetailActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.WorkOfficeActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.MyCenterActivity-->com.mojang.minecraftpetool.MyResourceActivity
+flag:
+
+com.mojang.minecraftpetool.ContributeActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.ContributeActivity-->com.mojang.minecraftpetool.MyCenterActivity
+flag:
+
+com.mojang.minecraftpetool.ContributeActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.VideoActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.VideoActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.mojang.minecraftpetool.VideoActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.SkinDetailActivity-->com.mojang.minecraftpetool.CommentActivity
+flag:
+
+com.mojang.minecraftpetool.SkinDetailActivity-->com.mojang.minecraftpetool.WorkOfficeDetailActivity
+flag:
+
+com.mojang.minecraftpetool.SkinDetailActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.SkinDetailActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.SearchResouceShowActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.SplashActivity-->com.mojang.minecraftpetool.Activity_yindao
+flag:finish
+
+com.mojang.minecraftpetool.SplashActivity-->com.mojang.minecraftpetool.MainActivity
+flag:finish
+
+com.mojang.minecraftpetool.MyResourceActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.ZiXunDetailActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.ZiXunDetailActivity-->com.mojang.minecraftpetool.PopwindowActivity
+flag:
+
+com.mojang.minecraftpetool.PopwindowActivity-->com.mojang.minecraftpetool.MyCenterActivity
+flag:finish
+
+com.mojang.minecraftpetool.SearchResource-->com.mojang.minecraftpetool.SearchResouceShowActivity
+flag:finish
+
+com.mojang.minecraftpetool.MaterialActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.MaterialActivity-->com.mojang.minecraftpetool.SearchResource
+flag:
+
+com.mojang.minecraftpetool.SeedActivity-->com.mojang.minecraftpetool.SearchResource
+flag:
+
+com.mojang.minecraftpetool.SeedActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.MyMapActivity-->com.mojang.minecraftpetool.SdFileActivity
+flag:
+
+com.mojang.minecraftpetool.MyMapActivity-->com.mojang.minecraftpetool.AddLifeActivity
+flag:
+
+com.mojang.minecraftpetool.MyMapActivity-->com.mojang.minecraftpetool.Reproduct_points
+flag:
+
+com.mojang.minecraftpetool.MCSigninActivity-->com.mojang.minecraftpetool.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mojang.minecraftpetool.GameDownloadActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:
+
+com.mojang.minecraftpetool.GameDownloadActivity-->com.mojang.minecraftpetool.LinkShowActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

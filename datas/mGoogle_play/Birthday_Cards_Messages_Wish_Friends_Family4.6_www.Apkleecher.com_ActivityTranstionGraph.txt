@@ -1,0 +1,15 @@
+com.internetdesignzone.birthdaymessages.Second-->com.internetdesignzone.birthdaymessages.FavoriteActivity
+flag:
+
+com.internetdesignzone.birthdaymessages.HomeScreen-->com.internetdesignzone.birthdaymessages.MainActivity
+flag:finish
+
+com.internetdesignzone.birthdaymessages.MainActivity-->com.internetdesignzone.birthdaymessages.Second
+flag:
+
+com.internetdesignzone.birthdaymessages.MainActivity-->com.internetdesignzone.birthdaymessages.FavoriteActivity
+flag:
+
+com.internetdesignzone.birthdaymessages.MainActivity-->com.internetdesignzone.birthdaymessages.MainActivity
+flag:
+

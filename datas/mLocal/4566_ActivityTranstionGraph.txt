@@ -1,0 +1,9 @@
+com.seleuco.mame4all.prefs.ListKeys-->com.seleuco.mame4all.prefs.KeySelect
+flag:
+
+com.seleuco.mame4all.prefs.UserPreferences-->com.seleuco.mame4all.prefs.DefineKeys
+flag:
+
+com.seleuco.mame4all.prefs.DefineKeys-->com.seleuco.mame4all.prefs.ListKeys
+flag:
+

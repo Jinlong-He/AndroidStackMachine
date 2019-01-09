@@ -1,0 +1,10 @@
+#MAIN
+activity:com.jtmcn.archwiki.viewer.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.jtmcn.archwiki.viewer.WikiPrefsActivity
+LaunchMode:std
+TaskAffinity:null
+

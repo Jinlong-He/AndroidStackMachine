@@ -1,0 +1,48 @@
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.RussianCalendarActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuizResult
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MainActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.TryLuckActivity
+flag:
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MainActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuestionActivity
+flag:
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MainActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.RussianCalendarActivity
+flag:
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MainActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.ChineseCalendarActivity
+flag:
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MainActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MayaCalendarActivity
+flag:
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MainActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.JapaneseCalendarActivity
+flag:
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuestionActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuizResult
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.TryLuckActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuizResult
+flag:finish
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MayaCalendarActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuizResult
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.ChineseCalendarActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuizResult
+flag:finish
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.Splash-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.JapaneseCalendarActivity-->bebekcinsiyettahmini.snstu.com.bebekcinsiyettahmini.QuizResult
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

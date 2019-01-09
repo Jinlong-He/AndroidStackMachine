@@ -1,0 +1,10 @@
+activity:com.android.disney.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.android.disney.view.SplashScreen
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

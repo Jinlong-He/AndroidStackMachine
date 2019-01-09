@@ -1,0 +1,63 @@
+.gcm.DialogActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:finish
+
+.modules.checkin.activity.MainActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:
+
+com.surveymonkey.surveymonkeyandroidsdk.SMFeedbackActivity-->com.surveymonkey.surveymonkeyandroidsdk.SMFeedbackActivity
+flag:
+
+.modules.checkin.activity.BoardingPassesActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+.modules.checkin.activity.ReviewCheckinActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+.modules.checkin.activity.ReviewCheckinActivity-->com.lixar.allegiant.modules.checkin.activity.BoardingPassesActivity
+flag:
+
+.modules.checkin.activity.FindTripActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:
+
+.modules.checkin.activity.FindTripActivity-->com.lixar.allegiant.modules.checkin.activity.MainActivity
+flag:
+
+.WalkthroughActivity-->com.lixar.allegiant.WalkthroughSliderActivity
+flag:finish
+
+.WalkthroughActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:finish
+
+.WalkthroughActivity-->com.lixar.allegiant.modules.checkin.activity.MainActivity
+flag:finish
+
+.modules.new_checkin.CheckinFlowActivity-->com.lixar.allegiant.modules.checkin.activity.ReviewCheckinActivity
+flag:
+
+.modules.new_checkin.CheckinFlowActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:
+
+.modules.bookflight.MdotActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:
+
+.modules.checkin.activity.KtnUpdateActivity-->com.lixar.allegiant.modules.checkin.activity.ReviewCheckinActivity
+flag:
+
+.cards.activity.TimelineActivity-->com.lixar.allegiant.modules.checkin.activity.FindTripActivity
+flag:
+
+.cards.activity.TimelineActivity-->com.lixar.allegiant.modules.checkin.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.EnvironmentPickerActivity-->com.lixar.allegiant.WalkthroughActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+.EnvironmentPickerActivity-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:finish
+
+.EnvironmentPickerActivity-->com.lixar.allegiant.modules.checkin.activity.MainActivity
+flag:finish
+
+.modules.checkin.activity.HazMatFragment-->com.lixar.allegiant.cards.activity.TimelineActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

@@ -1,0 +1,15 @@
+.ui.NoteEditActivity-->com.android.notes.ui.NotesListActivity
+flag:finish
+
+.ui.NoteEditActivity-->com.android.notes.ui.NoteEditActivity
+flag:finish
+
+.ui.NotesListActivity-->com.android.notes.ui.NoteEditActivity
+flag:
+
+.ui.NotesListActivity-->com.android.notes.ui.NotesPreferenceActivity
+flag:
+
+.ui.AlarmAlertActivity-->com.android.notes.ui.NoteEditActivity
+flag:
+

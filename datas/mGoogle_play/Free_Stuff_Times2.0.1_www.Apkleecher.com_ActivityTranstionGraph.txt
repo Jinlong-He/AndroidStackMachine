@@ -1,0 +1,3 @@
+com.mobileapps.freestufftimes.MainActivity-->com.mobileapps.freestufftimes.DetailView
+flag:
+

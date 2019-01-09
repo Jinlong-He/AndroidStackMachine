@@ -1,0 +1,6 @@
+#MAIN
+activity:co.copperhead.pdfviewer.PdfViewer
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

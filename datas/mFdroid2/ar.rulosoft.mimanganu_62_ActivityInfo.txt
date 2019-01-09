@@ -1,0 +1,10 @@
+#MAIN
+activity:ar.rulosoft.mimanganu.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.acra.dialog.CrashReportDialog
+LaunchMode:sit
+TaskAffinity:null
+

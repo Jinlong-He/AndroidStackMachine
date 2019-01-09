@@ -1,0 +1,8 @@
+activity:org.microg.nlp.backend.apple.PregrabActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.microg.nlp.api.MPermissionHelperActivity
+LaunchMode:std
+TaskAffinity:null
+

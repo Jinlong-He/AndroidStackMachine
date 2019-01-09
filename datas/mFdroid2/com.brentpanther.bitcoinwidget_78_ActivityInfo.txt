@@ -1,0 +1,4 @@
+activity:com.brentpanther.bitcoinwidget.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

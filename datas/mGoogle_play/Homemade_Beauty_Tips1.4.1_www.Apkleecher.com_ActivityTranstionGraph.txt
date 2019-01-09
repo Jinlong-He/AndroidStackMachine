@@ -1,0 +1,3 @@
+jewelstore.homemade.beauty.tips.MainActivity-->jewelstore.homemade.beauty.tips.Main2Activity
+flag:
+

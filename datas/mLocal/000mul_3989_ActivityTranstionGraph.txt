@@ -1,0 +1,9 @@
+.ForecastActivity-->com.anddoes.fancywidget.pro.PreferencesActivity
+flag:finish
+
+.PreferencesActivity-->com.anddoes.fancywidget.pro.AppPickerActivity
+flag:
+
+.PreferencesActivity-->com.anddoes.fancywidget.pro.SetLocationActivity
+flag:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:.BaseActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.ShortcutActivity
+LaunchMode:std
+TaskAffinity:null
+

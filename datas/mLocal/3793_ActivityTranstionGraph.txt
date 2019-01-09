@@ -1,0 +1,3 @@
+com.br.livewallpaper.LaunchActivity-->com.br.livewallpaper.LaunchActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_LAUNCHED_FROM_HISTORY  
+

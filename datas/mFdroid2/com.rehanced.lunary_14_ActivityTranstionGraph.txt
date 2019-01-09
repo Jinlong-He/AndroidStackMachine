@@ -1,0 +1,15 @@
+rehanced.com.simpleetherwallet.activities.MainActivity-->rehanced.com.simpleetherwallet.activities.AppIntroActivity
+flag:
+
+rehanced.com.simpleetherwallet.activities.MainActivity-->rehanced.com.simpleetherwallet.activities.AddressDetailActivity
+flag:
+
+rehanced.com.simpleetherwallet.activities.MainActivity-->rehanced.com.simpleetherwallet.activities.SendActivity
+flag:
+
+rehanced.com.simpleetherwallet.activities.MainActivity-->rehanced.com.simpleetherwallet.activities.SettingsActivity
+flag:
+
+rehanced.com.simpleetherwallet.activities.MainActivity-->rehanced.com.simpleetherwallet.activities.WalletGenActivity
+flag:
+

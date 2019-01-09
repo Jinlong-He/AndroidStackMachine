@@ -1,0 +1,12 @@
+org.ligi.fast.ui.SearchActivity-->org.ligi.fast.ui.SearchActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+org.ligi.fast.ui.SearchActivity-->org.ligi.fast.ui.FASTSettingsActivity
+flag:finish
+
+org.ligi.fast.ui.SearchActivity-->org.ligi.fast.ui.LoadingDialog
+flag:
+
+org.ligi.fast.ui.FASTSettingsActivity-->org.ligi.fast.ui.SearchActivity
+flag:finish
+

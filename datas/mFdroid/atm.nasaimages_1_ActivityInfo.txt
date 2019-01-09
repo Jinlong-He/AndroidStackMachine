@@ -1,0 +1,6 @@
+#MAIN
+activity:atm.nasaimages.main.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.mattgmg.miracastwidget.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

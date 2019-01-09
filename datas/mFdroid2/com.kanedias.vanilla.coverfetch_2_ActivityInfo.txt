@@ -1,0 +1,4 @@
+activity:com.kanedias.vanilla.coverfetch.CoverShowActivity
+LaunchMode:std
+TaskAffinity:null
+

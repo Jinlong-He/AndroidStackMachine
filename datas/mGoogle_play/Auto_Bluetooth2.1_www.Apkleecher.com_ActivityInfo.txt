@@ -1,0 +1,10 @@
+#MAIN
+activity:papers.ch.autobluetooth.main.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:papers.ch.autobluetooth.main.PreMainActivity
+launchMode:stp
+TaskAffinity:null
+

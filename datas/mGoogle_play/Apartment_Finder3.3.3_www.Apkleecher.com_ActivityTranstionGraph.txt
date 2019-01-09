@@ -1,0 +1,27 @@
+com.af.screenmanager.activities.ListingProfileActivity-->com.af.screenmanager.activities.ListingProfileActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.af.screenmanager.activities.ListingProfileActivity-->com.af.screenmanager.activities.ListingProfileActivity
+flag:
+
+com.af.screenmanager.activities.ListingProfileActivity-->com.af.screenmanager.activities.MatterportActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.af.screenmanager.activities.SplashActivity-->com.af.screenmanager.activities.HomeActivity
+flag:finish
+
+com.af.screenmanager.activities.HomeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.af.screenmanager.activities.HomeActivity-->com.af.screenmanager.activities.ListingProfileActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.af.screenmanager.activities.HomeActivity-->com.af.screenmanager.activities.ListingProfileActivity
+flag:
+
+com.af.screenmanager.activities.HomeActivity-->com.af.screenmanager.activities.MatterportActivity
+flag:
+

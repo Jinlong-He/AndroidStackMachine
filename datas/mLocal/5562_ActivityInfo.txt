@@ -1,0 +1,14 @@
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.jgame.windowbeauty.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.jgame.windowbeauty.RemoveWindowActivity
+LaunchMode:std
+TaskAffinity:null
+

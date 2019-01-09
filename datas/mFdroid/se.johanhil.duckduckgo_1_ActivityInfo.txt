@@ -1,0 +1,14 @@
+activity:.DuckDuckGo
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.DuckDuckGoSettings
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.Help
+LaunchMode:std
+TaskAffinity:null
+

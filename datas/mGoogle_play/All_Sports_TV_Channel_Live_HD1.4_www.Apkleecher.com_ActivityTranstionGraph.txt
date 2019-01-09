@@ -1,0 +1,18 @@
+com.footballtvlivestream.sportstvchannels.MainActivity-->com.footballtvlivestream.sportstvchannels.ThirdActivity
+flag:
+
+com.footballtvlivestream.sportstvchannels.MainActivity-->com.footballtvlivestream.sportstvchannels.VideoPlayer
+flag:
+
+com.footballtvlivestream.sportstvchannels.MainActivity-->com.footballtvlivestream.sportstvchannels.WebViewwActivity
+flag:
+
+com.footballtvlivestream.sportstvchannels.MainActivity-->com.footballtvlivestream.sportstvchannels.SecondActivity
+flag:
+
+com.footballtvlivestream.sportstvchannels.MainActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

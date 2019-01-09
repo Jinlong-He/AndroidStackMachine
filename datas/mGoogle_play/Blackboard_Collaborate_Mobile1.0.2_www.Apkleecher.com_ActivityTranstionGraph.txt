@@ -1,0 +1,3 @@
+.LoginActivity-->.LoginActivity
+flag:finish
+

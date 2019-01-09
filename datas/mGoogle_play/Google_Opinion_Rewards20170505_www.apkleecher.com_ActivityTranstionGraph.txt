@@ -1,0 +1,12 @@
+com.google.android.apps.paidtasks.LaunchActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.paidtasks.PaidTasksActivity-->com.google.android.apps.paidtasks.SurveyActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.google.android.apps.paidtasks.PaidTasksActivity-->com.google.android.apps.paidtasks.SurveyActivity
+flag:
+
+com.google.android.apps.paidtasks.SurveyActivity-->com.google.android.apps.paidtasks.PaidTasksActivity
+flag:finish
+

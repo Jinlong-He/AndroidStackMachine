@@ -1,0 +1,9 @@
+com.todobom.opennotescanner.GalleryGridActivity-->com.todobom.opennotescanner.FullScreenViewActivity
+flag:
+
+com.todobom.opennotescanner.OpenNoteScannerActivity-->com.todobom.opennotescanner.GalleryGridActivity
+flag:
+
+com.todobom.opennotescanner.OpenNoteScannerActivity-->com.todobom.opennotescanner.SettingsActivity
+flag:
+

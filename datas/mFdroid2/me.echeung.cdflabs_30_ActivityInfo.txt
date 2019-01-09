@@ -1,0 +1,6 @@
+#MAIN
+activity:me.echeung.cdflabs.ui.activities.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

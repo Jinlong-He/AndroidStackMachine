@@ -1,0 +1,3 @@
+com.meidzi.tool.batteryspeed.LogoActivity-->com.meidzi.tool.batteryspeed.MainActivity
+flag:finish
+

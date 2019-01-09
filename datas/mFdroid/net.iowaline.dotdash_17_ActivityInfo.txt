@@ -1,0 +1,4 @@
+activity:.DotDashPrefs
+LaunchMode:std
+TaskAffinity:null
+

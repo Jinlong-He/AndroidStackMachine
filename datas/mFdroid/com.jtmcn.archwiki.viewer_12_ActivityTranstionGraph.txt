@@ -1,0 +1,6 @@
+com.jtmcn.archwiki.viewer.MainActivity-->com.jtmcn.archwiki.viewer.PreferencesActivity
+flag:
+
+com.jtmcn.archwiki.viewer.MainActivity-->com.jtmcn.archwiki.viewer.MainActivity
+flag:
+

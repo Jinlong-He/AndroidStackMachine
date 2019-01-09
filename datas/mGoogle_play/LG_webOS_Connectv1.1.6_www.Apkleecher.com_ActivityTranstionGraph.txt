@@ -1,0 +1,15 @@
+ru.lgerp.ne.webosconnect.ui.activities.MainActivity-->ru.lgerp.ne.webosconnect.ui.activities.UserGuideActivity
+flag:
+
+ru.lgerp.ne.webosconnect.ui.activities.MainActivity-->ru.lgerp.ne.webosconnect.ui.activities.FAQActivity
+flag:
+
+ru.lgerp.ne.webosconnect.ui.activities.MainActivity-->ru.lgerp.ne.webosconnect.ui.activities.EULAActivity
+flag:
+
+ru.lgerp.ne.webosconnect.ui.activities.MainActivity-->ru.lgerp.ne.webosconnect.ui.activities.SlideshowActivity
+flag:
+
+ru.lgerp.ne.webosconnect.ui.activities.BeamFromDefaultGalleryActivity-->ru.lgerp.ne.webosconnect.ui.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

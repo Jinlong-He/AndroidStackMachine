@@ -1,0 +1,10 @@
+#MAIN
+activity:com.contapps.android.shortcut.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.contapps.android.shortcut.InstallActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,15 @@
+com.bettertomorrowapps.spyyourlovefree.MainActivity-->com.bettertomorrowapps.spyyourlovefree.WelcomeActivity
+flag:finish
+
+com.bettertomorrowapps.spyyourlovefree.MainActivity-->com.bettertomorrowapps.spyyourlovefree.TermsOfServiceActivity
+flag:
+
+com.bettertomorrowapps.spyyourlovefree.LegalActivity-->com.bettertomorrowapps.spyyourlovefree.WelcomeActivity
+flag:finish
+
+com.bettertomorrowapps.spyyourlovefree.LegalActivity-->com.bettertomorrowapps.spyyourlovefree.TermsOfServiceActivity
+flag:
+
+com.bettertomorrowapps.spyyourlovefree.WelcomeActivity-->com.bettertomorrowapps.spyyourlovefree.TermsOfServiceActivity
+flag:
+

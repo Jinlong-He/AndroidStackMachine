@@ -1,0 +1,15 @@
+tv.twitch.android.search.GameSearchHandler-->tv.twitch.android.apps.TVLandingActivity
+flag:
+
+tv.twitch.android.apps.TVPlayerActivity-->tv.twitch.android.apps.TVLandingActivity
+flag:
+
+tv.twitch.android.search.PersonSearchHandler-->tv.twitch.android.apps.TVPlayerActivity
+flag:
+
+tv.twitch.android.search.PersonSearchHandler-->tv.twitch.android.apps.TVLandingActivity
+flag:
+
+tv.twitch.android.search.StreamSearchHandler-->tv.twitch.android.apps.TVPlayerActivity
+flag:
+

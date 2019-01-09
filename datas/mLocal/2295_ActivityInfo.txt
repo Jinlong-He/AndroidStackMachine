@@ -1,0 +1,14 @@
+#MAIN
+activity:com.finger.battery.charger.prank.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.finger.battery.charger.prank.BatteryActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

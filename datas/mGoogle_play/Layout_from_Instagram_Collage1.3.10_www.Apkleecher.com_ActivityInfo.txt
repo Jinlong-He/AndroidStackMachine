@@ -1,0 +1,6 @@
+#MAIN
+activity:com.instagram.layout.LayoutActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

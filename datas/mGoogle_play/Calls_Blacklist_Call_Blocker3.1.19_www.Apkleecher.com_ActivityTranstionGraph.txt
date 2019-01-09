@@ -1,0 +1,27 @@
+com.vladlee.easyblacklist.EasyBlacklistActivity-->com.vladlee.easyblacklist.SettingsActivity
+flag:
+
+com.vladlee.easyblacklist.EasyBlacklistActivity-->com.vladlee.easyblacklist.CheckPermissionsActivity
+flag:finish
+
+com.vladlee.easyblacklist.EasyBlacklistActivity-->com.vladlee.easyblacklist.SmsChatActivity
+flag:
+
+com.vladlee.easyblacklist.SmsChatActivity-->com.vladlee.easyblacklist.SmsNewMessageActivity
+flag:finish
+
+com.vladlee.easyblacklist.SettingsActivity-->com.vladlee.easyblacklist.SmsChatActivity
+flag:
+
+com.vladlee.easyblacklist.LogViewActivity-->com.vladlee.easyblacklist.EasyBlacklistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.vladlee.easyblacklist.CheckPermissionsActivity-->com.vladlee.easyblacklist.EasyBlacklistActivity
+flag:finish
+
+com.vladlee.easyblacklist.SmsNewMessageActivity-->com.vladlee.easyblacklist.SmsChatActivity
+flag:finish
+
+com.vladlee.easyblacklist.ShowMessageActivity-->com.vladlee.easyblacklist.EasyBlacklistActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP  finish
+

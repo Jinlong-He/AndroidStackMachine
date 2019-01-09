@@ -1,0 +1,9 @@
+.encode.EncodeActivity-->.CaptureActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.share.ShareActivity-->.encode.EncodeActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+.CaptureActivity-->.CaptureActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+

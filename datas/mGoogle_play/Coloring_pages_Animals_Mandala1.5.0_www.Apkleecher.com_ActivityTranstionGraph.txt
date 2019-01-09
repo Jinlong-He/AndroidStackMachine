@@ -1,0 +1,6 @@
+com.ew.sdk.activity.WebActivity-->com.ew.sdk.activity.WebActivity
+flag:
+
+com.eyewind.colorfit.SplashActivity-->com.eyewind.colorfit.MainActivity
+flag:finish
+

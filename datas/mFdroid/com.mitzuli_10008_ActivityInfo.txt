@@ -1,0 +1,10 @@
+#MAIN
+activity:com.mitzuli.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.mitzuli.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,3 @@
+cc.flyblue.main.AppActivity-->cc.flyblue.main.PlayerActivity
+flag:
+

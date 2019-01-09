@@ -1,0 +1,9 @@
+com.desaxedstudios.bassbooster.SettingsActivity-->com.desaxedstudios.bassbooster.AudioSessionActivity
+flag:
+
+com.desaxedstudios.bassbooster.BassBoosterActivity-->com.desaxedstudios.bassbooster.InterstitialSettingsActivity
+flag:
+
+com.desaxedstudios.bassbooster.BassBoosterActivity-->com.desaxedstudios.bassbooster.BassBoosterActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

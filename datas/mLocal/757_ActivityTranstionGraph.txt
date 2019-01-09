@@ -1,0 +1,9 @@
+com.tsukuba_engineers_lab.primo.Title-->com.tsukuba_engineers_lab.primo.SelectActivity
+flag:
+
+com.tsukuba_engineers_lab.primo.SelectActivity-->com.tsukuba_engineers_lab.primo.SubActivity
+flag:
+
+com.tsukuba_engineers_lab.primo.SelectActivity-->com.tsukuba_engineers_lab.primo.SubActivity_false
+flag:
+

@@ -1,0 +1,12 @@
+com.bitwize10.supersimpleshoppinglist.MainActivity-->com.adadapted.sdk.addit.ui.AdditInterceptActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+com.bitwize10.supersimpleshoppinglist.MainActivity-->com.bitwize10.supersimpleshoppinglist.DriveActivity
+flag:
+
+com.bitwize10.supersimpleshoppinglist.MainActivity-->com.adadapted.sdk.addit.ui.AdditInterceptActivity
+flag:
+
+com.bitwize10.supersimpleshoppinglist.MainActivity-->com.bitwize10.supersimpleshoppinglist.MainActivity
+flag:
+

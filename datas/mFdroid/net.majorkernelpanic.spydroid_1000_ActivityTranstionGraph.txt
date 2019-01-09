@@ -1,0 +1,3 @@
+net.majorkernelpanic.spydroid.ui.SpydroidActivity-->net.majorkernelpanic.spydroid.ui.OptionsActivity
+flag:
+

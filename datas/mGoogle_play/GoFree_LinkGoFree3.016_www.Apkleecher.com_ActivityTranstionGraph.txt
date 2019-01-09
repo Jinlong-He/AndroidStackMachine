@@ -1,0 +1,12 @@
+com.navico.LobbyActivity-->com.navico.LobbyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.navico.LobbyActivity-->com.navico.ViewFinderActivity
+flag:
+
+com.navico.LobbyActivity-->com.navico.LobbyActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.navico.SplashActivity-->com.navico.LobbyActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+

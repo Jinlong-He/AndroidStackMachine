@@ -1,0 +1,3 @@
+net.andwy.lockscreen.SettingActivity-->net.andwy.lockscreen.MainActivity
+flag:
+

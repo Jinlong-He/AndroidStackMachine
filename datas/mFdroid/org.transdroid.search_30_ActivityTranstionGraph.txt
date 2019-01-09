@@ -1,0 +1,6 @@
+org.transdroid.search.gui.SettingsActivity-->org.transdroid.search.gui.SettingsActivityModern
+flag:finish
+
+org.transdroid.search.gui.SettingsActivity-->org.transdroid.search.gui.SettingsActivityCompat
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.jesusdigitalrd.jpcsim.RunnerActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.jesusdigitalrd.jpcsim.RunnerPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+com.andreasrudolph.infospace.DreamPatternsActivity-->com.andreasrudolph.infospace.DreanPatternPremiumDialogActivity
+flag:
+
+com.andreasrudolph.settings.AwokenPagerActivity-->com.andreasrudolph.infospace.AskForRatingDialogActivity
+flag:
+
+com.andreasrudolph.settings.AwokenPagerActivity-->com.andreasrudolph.help.TextDialogActivity
+flag:
+

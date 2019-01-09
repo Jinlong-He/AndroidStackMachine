@@ -1,0 +1,6 @@
+uk.co.yahoo.p1rpp.calendartrigger.activites.MainActivity-->uk.co.yahoo.p1rpp.calendartrigger.activites.SettingsActivity
+flag:
+
+uk.co.yahoo.p1rpp.calendartrigger.activites.MainActivity-->uk.co.yahoo.p1rpp.calendartrigger.activites.EditActivity
+flag:
+

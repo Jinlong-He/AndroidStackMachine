@@ -1,0 +1,14 @@
+#MAIN
+activity:de.live.gdev.timetracker.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.live.gdev.timetracker.activity.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.live.gdev.timetracker.activity.InfoActivity
+LaunchMode:std
+TaskAffinity:null
+

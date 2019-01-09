@@ -1,0 +1,10 @@
+#MAIN
+activity:com.ajscape.pixatoon.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.umeng.update.UpdateDialogActivity
+LaunchMode:std
+TaskAffinity:null
+

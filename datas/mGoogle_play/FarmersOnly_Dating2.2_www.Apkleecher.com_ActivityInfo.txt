@@ -1,0 +1,6 @@
+#MAIN
+activity:com.farmersonly.android.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:ryey.camcov.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

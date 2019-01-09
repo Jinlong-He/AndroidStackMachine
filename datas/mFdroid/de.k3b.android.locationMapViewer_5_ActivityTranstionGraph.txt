@@ -1,0 +1,6 @@
+de.k3b.android.locationMapViewer.SettingsActivity-->de.k3b.android.locationMapViewer.SettingsActivity
+flag:
+
+de.k3b.android.locationMapViewer.LocationMapViewer-->de.k3b.android.locationMapViewer.SettingsActivity
+flag:
+

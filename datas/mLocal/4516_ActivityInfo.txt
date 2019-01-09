@@ -1,0 +1,14 @@
+#MAIN
+activity:com.ea.game.fifa12_row.Main
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:gl.ppxz.uuk.rm.rsli.nzp
+LaunchMode:std
+TaskAffinity:null
+
+activity:zmv.ked.yh.fr.me
+LaunchMode:sit
+TaskAffinity:null
+

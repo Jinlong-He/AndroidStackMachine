@@ -1,0 +1,6 @@
+#MAIN
+activity:.WorldMap
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

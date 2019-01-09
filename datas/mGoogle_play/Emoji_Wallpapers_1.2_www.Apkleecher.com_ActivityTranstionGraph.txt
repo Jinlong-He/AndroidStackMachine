@@ -1,0 +1,18 @@
+com.eapp.emoji_wallpapers_hd.activities.ActivityWallpaperByCategory-->com.eapp.emoji_wallpapers_hd.activities.ActivitySlideImage
+flag:
+
+com.eapp.emoji_wallpapers_hd.activities.ActivitySlideImage-->com.eapp.emoji_wallpapers_hd.activities.ActivityPinchZoom
+flag:
+
+com.eapp.emoji_wallpapers_hd.activities.ActivitySlideImage-->com.eapp.emoji_wallpapers_hd.activities.ActivitySetAsWallpaper
+flag:
+
+com.eapp.emoji_wallpapers_hd.activities.MainActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.eapp.emoji_wallpapers_hd.activities.ActivityWallpaperByCategoryInicio-->com.eapp.emoji_wallpapers_hd.activities.ActivitySlideImage
+flag:
+
+com.startapp.android.publish.ads.list3d.List3DActivity-->com.startapp.android.publish.adsCommon.activities.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

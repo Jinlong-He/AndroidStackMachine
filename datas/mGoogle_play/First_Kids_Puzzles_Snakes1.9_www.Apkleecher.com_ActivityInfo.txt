@@ -1,0 +1,6 @@
+#MAIN
+activity:com.arent.snakespuzzles.MyFirstPuzzles
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

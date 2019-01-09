@@ -1,0 +1,14 @@
+#MAIN
+activity:net.minetest.minetest.MtNativeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:net.minetest.minetest.MinetestTextEntry
+LaunchMode:std
+TaskAffinity:null
+
+activity:net.minetest.minetest.MinetestAssetCopy
+LaunchMode:std
+TaskAffinity:null
+

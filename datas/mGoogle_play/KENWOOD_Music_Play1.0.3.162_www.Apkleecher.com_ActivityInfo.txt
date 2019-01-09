@@ -1,0 +1,14 @@
+activity:com.jvckenwood.ao2.USBAccessoryActivity
+LaunchMode:sit
+TaskAffinity:null
+
+#MAIN
+activity:com.jvckenwood.ao2.kenwood.musicplay.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.jvckenwood.ao2.preference.SettingActivity
+launchMode:stp
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:name.seguri.android.getforegroundactivity.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

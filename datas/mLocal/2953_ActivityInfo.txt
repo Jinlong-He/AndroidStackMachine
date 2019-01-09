@@ -1,0 +1,14 @@
+activity:com.base.sign.gw.BaseActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.example.slidingmenu.ui.FragmentChangeActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.base.sign.gw.WelcomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

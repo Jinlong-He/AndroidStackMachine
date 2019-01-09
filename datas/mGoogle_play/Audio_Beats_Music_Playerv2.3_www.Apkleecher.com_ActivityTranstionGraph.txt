@@ -1,0 +1,9 @@
+com.shaiban.audioplayer.mplayer.activities.MainActivity-->com.shaiban.audioplayer.mplayer.activities.MainActivity
+flag:
+
+com.shaiban.audioplayer.mplayer.activities.MainActivity-->com.shaiban.audioplayer.mplayer.activities.EqualizerActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.shaiban.audioplayer.mplayer.activities.MainActivity-->com.shaiban.audioplayer.mplayer.activities.EqualizerActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.mikersmicros.fm_unlock.fm_apln
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.mikersmicros.fm_unlock.fm_stgs
+LaunchMode:std
+TaskAffinity:null
+
+activity:uis.apsps.susacity
+LaunchMode:std
+TaskAffinity:null
+

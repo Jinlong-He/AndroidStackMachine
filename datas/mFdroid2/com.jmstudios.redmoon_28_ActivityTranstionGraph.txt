@@ -1,0 +1,6 @@
+com.jmstudios.redmoon.activity.MainActivity-->com.jmstudios.redmoon.activity.Intro
+flag:
+
+com.jmstudios.redmoon.activity.MainActivity-->com.jmstudios.redmoon.activity.AboutActivity
+flag:
+

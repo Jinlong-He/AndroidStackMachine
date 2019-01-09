@@ -1,0 +1,6 @@
+com.delusional.instafit.MainActivity-->com.delusional.instafit.VideoActivity
+flag:
+
+com.delusional.instafit.MainActivity-->com.delusional.instafit.ImageActivity
+flag:
+

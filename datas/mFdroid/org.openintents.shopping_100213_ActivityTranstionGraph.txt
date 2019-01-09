@@ -1,0 +1,15 @@
+org.openintents.distribution.EulaActivity-->org.openintents.shopping.ShoppingActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+org.openintents.shopping.ui.ShoppingListsActivity-->org.openintents.shopping.ShoppingActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+org.openintents.shopping.ui.LayoutChoiceActivity-->org.openintents.shopping.ShoppingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.openintents.shopping.ui.LayoutChoiceActivity-->org.openintents.shopping.ui.LayoutChoiceActivity
+flag:
+
+org.openintents.shopping.ui.PreferenceActivity-->org.openintents.shopping.ui.LayoutChoiceActivity
+flag:
+

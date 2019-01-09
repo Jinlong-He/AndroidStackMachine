@@ -1,0 +1,3 @@
+com.app.my.dream.HowToUseADigitalMultimeter.Splash-->com.app.my.dream.HowToUseADigitalMultimeter.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

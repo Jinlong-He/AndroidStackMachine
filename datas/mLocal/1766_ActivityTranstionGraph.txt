@@ -1,0 +1,15 @@
+cn.readbible.holy.fragments.note.NoteCreateActivity-->cn.readbible.holy.fragments.bible.picker.BibleVersePicker
+flag:
+
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+cn.readbible.holy.SplashActivity-->cn.readbible.holy.PanelActivity
+flag:finish
+
+cn.readbible.holy.fragments.plan.create.PlanCreateActivity-->cn.readbible.holy.fragments.plan.create.PlanCreateContentActivity
+flag:
+
+cn.readbible.holy.fragments.plan.create.PlanCreateContentActivity-->cn.readbible.holy.fragments.bible.picker.BibleVersePicker
+flag:
+

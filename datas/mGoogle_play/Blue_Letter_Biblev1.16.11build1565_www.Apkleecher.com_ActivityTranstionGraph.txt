@@ -1,0 +1,9 @@
+org.blueletterbible.blb.MainAppLauncher-->org.blueletterbible.blb.BibleReaderActivity
+flag:finish
+
+org.blueletterbible.blb.YECTA_2016-->org.blueletterbible.blb.URIHandler
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NO_HISTORY  finish
+
+org.blueletterbible.blb.URIHandler-->org.blueletterbible.blb.BibleReaderActivity
+flag:finish
+

@@ -1,0 +1,3 @@
+com.google.android.libraries.social.licenses.LicenseMenuActivity-->com.google.android.libraries.social.licenses.LicenseActivity
+flag:
+

@@ -1,0 +1,60 @@
+editor.free.ephoto.vn.ephoto.ui.activity.SplashScreenActivity-->editor.free.ephoto.vn.ephoto.ui.activity.TimelineActivity
+flag:finish
+
+editor.free.ephoto.vn.ephoto.ui.activity.ImageSaveActivity-->editor.free.ephoto.vn.ephoto.ui.activity.ImageSaveActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.TimelineActivity-->editor.free.ephoto.vn.ephoto.ui.activity.TimelineActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+editor.free.ephoto.vn.ephoto.ui.activity.TimelineActivity-->editor.free.ephoto.vn.ephoto.ui.activity.SearchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.SearchActivity-->editor.free.ephoto.vn.ephoto.ui.activity.SearchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.PrivacyPolicyActivity-->editor.free.ephoto.vn.ephoto.ui.activity.PrivacyPolicyActivity
+flag:
+
+editor.free.ephoto.vn.ephoto.ui.activity.EffectDetailActivity-->editor.free.ephoto.vn.ephoto.ui.activity.EffectDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.ImageUploadingProcessingActivity-->editor.free.ephoto.vn.ephoto.ui.activity.ImageUploadingProcessingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.ImageUploadingProcessingActivity-->editor.free.ephoto.vn.ephoto.ui.activity.ImageSaveActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.FeedbackActivity-->editor.free.ephoto.vn.ephoto.ui.activity.FeedbackActivity
+flag:
+
+editor.free.ephoto.vn.ephoto.ui.activity.FeedbackActivity-->editor.free.ephoto.vn.ephoto.ui.activity.TimelineActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+editor.free.ephoto.vn.ephoto.ui.activity.PhotoEditorChooserActivity-->editor.free.ephoto.vn.ephoto.ui.activity.PhotoEditorChooserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.PhotoEditorChooserActivity-->editor.free.ephoto.vn.ephoto.ui.activity.ImageSaveActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.Ephoto360Activity-->editor.free.ephoto.vn.ephoto.ui.activity.Ephoto360Activity
+flag:
+
+editor.free.ephoto.vn.ephoto.ui.activity.Ephoto360Activity-->editor.free.ephoto.vn.ephoto.ui.activity.PrivacyPolicyActivity
+flag:
+
+editor.free.ephoto.vn.ephoto.ui.activity.Ephoto360Activity-->editor.free.ephoto.vn.ephoto.ui.activity.FeedbackActivity
+flag:
+
+editor.free.ephoto.vn.ephoto.ui.activity.Ephoto360Activity-->editor.free.ephoto.vn.ephoto.ui.activity.AboutActivity
+flag:
+
+editor.free.ephoto.vn.ephoto.ui.activity.EffectListActivity-->editor.free.ephoto.vn.ephoto.ui.activity.EffectListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+editor.free.ephoto.vn.ephoto.ui.activity.AboutActivity-->editor.free.ephoto.vn.ephoto.ui.activity.AboutActivity
+flag:
+

@@ -1,0 +1,42 @@
+com.codium.hydrocoach.ui.StatisticActivity-->com.codium.hydrocoach.ui.ProActivity
+flag:
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.ui.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.ui.MainActivity
+flag:
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.ui.InvitationActivity
+flag:
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.ui.IntakeActivity
+flag:
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.blog.ui.BlogPostDetailActivity
+flag:
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.ui.pref.SettingsActivity
+flag:
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.ui.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.codium.hydrocoach.ui.MainActivity-->com.codium.hydrocoach.ui.registration.RegistrationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.codium.hydrocoach.ui.registration.RegistrationActivity-->com.codium.hydrocoach.ui.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.codium.hydrocoach.ui.AccountActivity-->com.codium.hydrocoach.ui.MainActivity
+flag:
+
+com.codium.hydrocoach.ui.AccountActivity-->com.codium.hydrocoach.ui.registration.RegistrationActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.codium.hydrocoach.blog.ui.BlogPostDetailActivity-->com.codium.hydrocoach.ui.MainActivity
+flag:
+
+com.codium.hydrocoach.ui.CupActivity-->com.codium.hydrocoach.ui.IntakeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

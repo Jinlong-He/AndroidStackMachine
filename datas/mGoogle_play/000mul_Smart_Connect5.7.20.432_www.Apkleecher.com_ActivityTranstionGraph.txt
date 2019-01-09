@@ -1,0 +1,201 @@
+.ui.FirstTimeActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+.ui.WelcomeActivity-->com.sonyericsson.extras.liveware.ui.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.WelcomeActivity-->com.sonyericsson.extras.liveware.ui.HomeScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.InstallActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SCGenericDevicePages-->.aef.registration.ui.PermissionActivity
+flag:
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.SCGenericDevicePages
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.SCGenericDevicePages
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SCGenericDevicePages-->.aef.registration.ui.PermissionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.HomeScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.ExperienceWizardConditionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.ApplicationSelectionActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+.ui.SCGenericDevicePages-->com.sonyericsson.extras.liveware.ui.ApplicationSelectionActivity
+flag:
+
+.ui.ApplicationSelectionActivity-->com.sonyericsson.extras.liveware.ui.ApplicationSelectionActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+.ui.ApplicationSelectionActivity-->com.sonyericsson.extras.liveware.ui.ApplicationSelectionActivity
+flag:
+
+.ui.ApplicationSelectionActivity-->com.sonyericsson.extras.liveware.ui.SCGenericDevicePages
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.ApplicationSelectionActivity-->com.sonyericsson.extras.liveware.ui.SCGenericDevicePages
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+.actions.music.MusicSettings-->com.sonyericsson.extras.liveware.actions.music.TrackSettings
+flag:
+
+.ui.NoGooglePlayActivity-->com.sonyericsson.extras.liveware.ui.NoGooglePlayActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.actions.appshortcut.AppShortcutSelectionHandler-->com.sonyericsson.extras.liveware.actions.appshortcut.AppShortcutSelectionActivity
+flag:
+
+.ui.HomeScreenActivity-->com.sonyericsson.extras.liveware.ui.HomeScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.HomeScreenActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+.ui.HomeScreenActivity-->com.sonyericsson.extras.liveware.ui.HomeScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.HomeScreenActivity-->com.sonyericsson.extras.liveware.ui.ExperienceActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.HomeScreenActivity-->com.sonyericsson.extras.liveware.ui.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.HomeScreenActivity-->com.sonyericsson.extras.liveware.preference.SettingsActivity
+flag:
+
+com.sonyericsson.extras.liveware.actions.launchapp.LaunchAppSelectionHandler-->com.sonyericsson.extras.liveware.actions.launchapp.LaunchAppSelectionActivity
+flag:
+
+.ui.ExperienceIntroductionActivity-->com.sonyericsson.extras.liveware.ui.ExperienceIntroductionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SalvadorErrorActivity-->com.sonyericsson.extras.liveware.ui.SalvadorErrorActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardIntroductionSalvadorActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardIntroductionSalvadorActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardIntroductionSalvadorActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.ExperienceWizardConditionActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardConditionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.ExperienceWizardConditionActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+.ui.ExperienceWizardConditionActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardConditionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardSummaryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+.ui.StartActivity-->com.sonyericsson.extras.liveware.ui.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.StartActivity-->com.sonyericsson.extras.liveware.ui.HomeScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.StartActivity-->com.sonyericsson.extras.liveware.ui.SCGenericDevicePages
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.StartActivity-->com.sonyericsson.extras.liveware.ui.SCGenericDevicePages
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+.ui.SmartWatchHelperActivity-->com.sonyericsson.extras.liveware.ui.SmartWatchHelperActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.ui.LaunchActivity-->com.sonyericsson.extras.liveware.ui.StartActivity
+flag:finish
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardSummaryActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardSummaryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardSummaryActivity-->com.sonyericsson.extras.liveware.ui.HomeScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardSummaryActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardSummaryActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+.ui.ExperienceActivity-->com.sonyericsson.extras.liveware.ui.ExperienceActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ui.ExperienceActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+.ui.UpdateActivity-->com.sonyericsson.extras.liveware.ui.UpdateActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.ui.ChinaTypeApprovalAccessRequestsActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+.ui.PreferenceLaunchActivity-->com.sonyericsson.extras.liveware.ui.StartActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+.ui.SmartBandActivity-->.aef.registration.ui.PermissionActivity
+flag:
+
+com.sonyericsson.extras.liveware.actions.launchapp.LaunchAppSelectionActivity-->.ui.ApplicationSelectionActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+com.sonyericsson.extras.liveware.actions.launchapp.LaunchAppSelectionActivity-->.ui.ApplicationSelectionActivity
+flag:
+
+.ui.InstallActivity-->com.sonyericsson.extras.liveware.ui.ApplicationSelectionActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+.ui.InstallActivity-->com.sonyericsson.extras.liveware.ui.ApplicationSelectionActivity
+flag:
+
+.preference.SettingsActivity-->com.sonyericsson.extras.liveware.preference.SettingsActivity
+flag:
+
+.ui.MillerDeprecatedActivity-->com.sonyericsson.extras.liveware.ui.MillerDeprecatedActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity-->com.sonyericsson.extras.liveware.actions.importcontact.ImportContactSettings
+flag:
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity-->com.sonyericsson.extras.liveware.actions.urllaunch.UrlSettings
+flag:
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity-->com.sonyericsson.extras.liveware.actions.directcall.DirectCallSettings
+flag:
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardSummaryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sonyericsson.extras.liveware.ui.ExperienceWizardTemplateSalvadorActivity-->com.sonyericsson.extras.liveware.ui.ExperienceWizardActionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

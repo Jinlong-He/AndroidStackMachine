@@ -1,0 +1,14 @@
+#MAIN
+activity:ru.meefik.busybox.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ru.meefik.busybox.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ru.meefik.busybox.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

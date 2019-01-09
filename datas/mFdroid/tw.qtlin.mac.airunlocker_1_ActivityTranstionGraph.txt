@@ -1,0 +1,6 @@
+tw.qtlin.mac.airunlocker.MainActivity-->tw.qtlin.mac.airunlocker.SimpleScannerActivity
+flag:finish
+
+tw.qtlin.mac.airunlocker.MainActivity-->tw.qtlin.mac.airunlocker.SettingsActivity
+flag:
+

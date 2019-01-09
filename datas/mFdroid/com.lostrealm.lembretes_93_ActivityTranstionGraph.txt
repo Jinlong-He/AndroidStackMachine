@@ -1,0 +1,9 @@
+com.lostrealm.lembretes.MainActivity-->com.lostrealm.lembretes.SettingsActivity
+flag:
+
+com.lostrealm.lembretes.MainActivity-->com.lostrealm.lembretes.AboutActivity
+flag:
+
+com.lostrealm.lembretes.AboutActivity-->com.lostrealm.lembretes.MainActivity
+flag:
+

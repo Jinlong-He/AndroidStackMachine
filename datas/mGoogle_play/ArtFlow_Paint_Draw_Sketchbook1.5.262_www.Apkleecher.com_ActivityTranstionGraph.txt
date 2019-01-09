@@ -1,0 +1,30 @@
+.ImageSize-->com.bytestorm.artflow.Editor
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.Editor-->com.bytestorm.artflow.Settings
+flag:
+
+.Editor-->com.bytestorm.artflow.FatalError
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+.Editor-->com.bytestorm.artflow.Gallery
+flag:
+
+.Settings-->com.bytestorm.artflow.Editor
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.Gallery-->com.bytestorm.artflow.LabelManager
+flag:
+
+.Gallery-->com.bytestorm.artflow.Settings
+flag:
+
+.Gallery-->com.bytestorm.artflow.Help
+flag:
+
+.Gallery-->com.bytestorm.artflow.ImageSize
+flag:
+
+.Gallery-->com.bytestorm.artflow.SaveToPenup
+flag:
+

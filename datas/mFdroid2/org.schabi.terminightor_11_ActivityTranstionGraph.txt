@@ -1,0 +1,6 @@
+org.schabi.terminightor.AlarmItemListActivity-->org.schabi.terminightor.AlarmItemDetailActivity
+flag:
+
+org.schabi.terminightor.AlarmItemListActivity-->org.schabi.terminightor.SettingsActivity
+flag:
+

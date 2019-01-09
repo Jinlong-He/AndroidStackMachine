@@ -1,0 +1,9 @@
+com.adobe.phonegap.push.PushHandlerActivity-->net.lovepedia.MainActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->net.lovepedia.MainActivity
+flag:
+

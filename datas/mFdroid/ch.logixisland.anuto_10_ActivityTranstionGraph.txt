@@ -1,0 +1,3 @@
+ch.logixisland.anuto.view.menu.MenuActivity-->ch.logixisland.anuto.view.menu.SelectLevelActivity
+flag:finish
+

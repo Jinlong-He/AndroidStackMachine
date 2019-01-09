@@ -1,0 +1,6 @@
+MainActivity-->com.allansimon.verbisteandroid.DeconjugationActivity
+flag:
+
+MainActivity-->com.allansimon.verbisteandroid.DisplayConjugationActivity
+flag:
+

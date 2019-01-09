@@ -1,0 +1,9 @@
+com.app.common.SimpleWebViewAct-->com.app.common.SimpleWebViewAct
+flag:
+
+com.app.ads.AdsAct-->unknown
+flag:
+
+com.app.ads.AdsAct-->com.app.common.SimpleWebViewAct
+flag:
+

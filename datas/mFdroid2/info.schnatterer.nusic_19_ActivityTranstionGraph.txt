@@ -1,0 +1,3 @@
+info.schnatterer.nusic.android.activities.MainActivity-->info.schnatterer.nusic.android.activities.NusicPreferencesActivity
+flag:
+

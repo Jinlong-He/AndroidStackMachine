@@ -1,0 +1,9 @@
+com.ironsource.mobilcore.InterstitialVideoActivity-->com.ironsource.mobilcore.InterstitialVideoActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.tppm.stickers.template.Home-->promotion.PromoWall
+flag:
+
+com.tppm.stickers.template.Home-->com.tppm.stickers.template.Editor
+flag:
+

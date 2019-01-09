@@ -1,0 +1,3 @@
+de.hafas.android.HafasStarter-->de.hafas.main.HafasApp
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+

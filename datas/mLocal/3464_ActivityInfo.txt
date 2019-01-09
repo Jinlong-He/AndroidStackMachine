@@ -1,0 +1,10 @@
+#MAIN
+activity:.ui.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.ui.LoadErrorActivity
+LaunchMode:std
+TaskAffinity:null
+

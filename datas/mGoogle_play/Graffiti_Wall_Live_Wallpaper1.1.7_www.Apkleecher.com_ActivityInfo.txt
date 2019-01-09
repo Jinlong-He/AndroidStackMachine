@@ -1,0 +1,14 @@
+#MAIN
+activity:com.ksmobile.launcher.theme.PreviewActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.facebook.ads.InterstitialAdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

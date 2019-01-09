@@ -1,0 +1,9 @@
+.SplashActivity-->unknown
+flag:
+
+.GameActivity-->eu.veldsoft.politrics.HelpActivity
+flag:
+
+.GameActivity-->eu.veldsoft.politrics.AboutActivity
+flag:
+

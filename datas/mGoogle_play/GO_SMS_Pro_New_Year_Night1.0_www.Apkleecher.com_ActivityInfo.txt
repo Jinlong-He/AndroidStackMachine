@@ -1,0 +1,6 @@
+#MAIN
+activity:.GoSmsInstallDialog
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,15 @@
+com.ghostery.android.ghostery.BrowserActivity-->com.ghostery.privacy.appnoticesdk.app.TrackerListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.ghostery.android.ghostery.BrowserActivity-->com.ghostery.android.ghostery.BrowserActivity
+flag:
+
+com.ghostery.android.ghostery.BrowserActivity-->com.ghostery.android.ghostery.BrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ghostery.privacy.appnoticesdk.app.TrackerListActivity-->com.ghostery.privacy.appnoticesdk.app.TrackerDetailActivity
+flag:
+
+com.ghostery.android.ghostery.ChooseFolderActivity-->com.ghostery.android.ghostery.EditBookmarkActivity
+flag:
+

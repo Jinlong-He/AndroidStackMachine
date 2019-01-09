@@ -1,0 +1,6 @@
+com.emoji.ui.MainActivity-->com.emoji.ui.PrivacyActivity
+flag:
+
+com.emoji.ui.SplashScreen-->com.emoji.ui.MainActivity
+flag:finish
+

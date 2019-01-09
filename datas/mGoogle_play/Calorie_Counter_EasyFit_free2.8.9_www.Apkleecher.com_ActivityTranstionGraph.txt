@@ -1,0 +1,9 @@
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.marioherzberg.easyfit.MainActivity
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.marioherzberg.easyfit.MainActivity
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.marioherzberg.easyfit.MainActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.alaskalinuxuser.criticalvelocity.AndroidLauncher
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:za.co.lukestonehm.logicaldefence.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:za.co.lukestonehm.logicaldefence.About
+LaunchMode:std
+TaskAffinity:null
+

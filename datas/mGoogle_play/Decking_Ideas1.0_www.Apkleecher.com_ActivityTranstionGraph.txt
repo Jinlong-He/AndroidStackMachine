@@ -1,0 +1,15 @@
+.DeckingIdeas-->com.zalebox.decking.ideas.a1.DeckingIdeasGallery1
+flag:
+
+.DeckingIdeas-->com.zalebox.decking.ideas.a1.DeckingIdeasGallery2
+flag:
+
+.DeckingIdeas-->com.zalebox.decking.ideas.a1.DeckingIdeasGallery3
+flag:
+
+.DeckingIdeas-->com.zalebox.decking.ideas.a1.DeckingIdeasGallery4
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

@@ -1,0 +1,75 @@
+com.drivewyze.agatha2.activities.LoginActivity-->com.drivewyze.agatha2.activities.LandingActivity
+flag:finish
+
+com.drivewyze.agatha2.activities.LoginActivity-->com.drivewyze.agatha2.activities.DashboardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivewyze.agatha2.activities.WhatIsNewActivity-->com.drivewyze.agatha2.activities.DashboardActivity
+flag:finish
+
+com.drivewyze.agatha2.activities.UsageInstructionsActivity-->com.drivewyze.agatha2.activities.HowItWorksVideoActivity
+flag:
+
+com.drivewyze.agatha2.activities.CaptureVehicleInfoActivity-->com.drivewyze.agatha2.activities.SelectJurisdictionErrorActivity
+flag:
+
+com.drivewyze.agatha2.activities.CaptureVehicleInfoActivity-->com.drivewyze.agatha2.activities.CaptureTransponderActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivewyze.agatha2.activities.CaptureVehicleInfoActivity-->com.drivewyze.agatha2.activities.CaptureVehicleInfoDotWarning
+flag:
+
+com.drivewyze.agatha2.activities.CaptureTransponderActivity-->com.drivewyze.agatha2.activities.CaptureUserInfoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivewyze.agatha2.activities.CaptureTransponderActivity-->com.drivewyze.agatha2.activities.CaptureVehicleInfoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivewyze.agatha2.activities.VehicleSelectorActivity-->com.drivewyze.agatha2.activities.TripPhotoActivity
+flag:
+
+com.drivewyze.agatha2.activities.LandingActivity-->com.drivewyze.agatha2.activities.StatesListActivity
+flag:
+
+com.drivewyze.agatha2.activities.LandingActivity-->com.drivewyze.agatha2.activities.CaptureUserInfoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.VehicleSelectorActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.UsageInstructionsActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.BypassActivationPendingActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.TripPhotoActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.TransactionDetailsActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.HowItWorksVideoActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.FeedFragmentActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.ConfirmAppCloseActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.LoginActivity
+flag:
+
+com.drivewyze.agatha2.activities.DashboardActivity-->com.drivewyze.agatha2.activities.WhatIsNewActivity
+flag:finish
+
+com.drivewyze.agatha2.activities.ApplicationEntryPointActivity-->com.drivewyze.agatha2.activities.DashboardActivity
+flag:finish
+
+com.drivewyze.agatha2.activities.CaptureUserInfoActivity-->com.drivewyze.agatha2.activities.LandingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.drivewyze.agatha2.activities.CaptureUserInfoActivity-->com.drivewyze.agatha2.activities.CaptureTransponderActivity
+flag:finish
+

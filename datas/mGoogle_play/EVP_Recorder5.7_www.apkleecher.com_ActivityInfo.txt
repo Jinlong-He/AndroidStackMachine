@@ -1,0 +1,10 @@
+#MAIN
+activity:.Screen1
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:appinventor.ai_puggster2007.EVP_Recorder.main
+LaunchMode:std
+TaskAffinity:null
+

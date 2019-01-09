@@ -1,0 +1,15 @@
+com.wodi.who.inbox.InboxActivity-->com.wodi.who.login.SplashActivity
+flag:
+
+com.wodi.who.login.SMSActivity-->com.wodi.who.login.UserNameLoginActivity
+flag:
+
+com.wodi.who.activity.VipRoomActivity-->com.wodi.who.activity.FansActivity
+flag:
+
+com.wodi.who.activity.VipRoomActivity-->com.wodi.who.activity.AccessSettingActivity
+flag:
+
+com.wodi.who.login.UserNameLoginActivity-->com.wodi.who.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

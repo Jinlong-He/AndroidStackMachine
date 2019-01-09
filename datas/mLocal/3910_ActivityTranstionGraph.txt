@@ -1,0 +1,3 @@
+.AppLauncher-->com.pantherbean.setting.Settings
+flag:
+

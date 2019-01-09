@@ -1,0 +1,4 @@
+activity:daniel_32.flexiblewallpaper.FlexibleWallpaperSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

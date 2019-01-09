@@ -1,0 +1,6 @@
+com.charisma.apps.babylaugh.MainActivity-->com.charisma.apps.babylaugh.MainActivity
+flag:
+
+com.charisma.apps.babylaugh.HomeActivity-->com.charisma.apps.babylaugh.MainActivity
+flag:finish
+

@@ -1,0 +1,15 @@
+.MainActivity-->com.codesector.speedview.pro.SettingsActivity
+flag:
+
+.MainActivity-->com.codesector.speedview.pro.HelpActivity
+flag:
+
+.MainActivity-->com.codesector.speedview.pro.AboutActivity
+flag:
+
+.MainActivity-->com.codesector.speedview.pro.ChangelogActivity
+flag:
+
+.MainActivity-->com.codesector.speedview.pro.FeaturedActivity
+flag:
+

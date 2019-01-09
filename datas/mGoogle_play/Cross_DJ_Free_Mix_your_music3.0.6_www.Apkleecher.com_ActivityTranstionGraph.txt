@@ -1,0 +1,15 @@
+com.mixvibes.crossdj.CrossDJActivity-->com.mixvibes.crossdj.CollectionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.mixvibes.crossdj.CrossDJActivity-->com.mixvibes.crossdj.ShareActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  
+
+com.mixvibes.crossdj.CrossDJActivity-->com.mixvibes.crossdj.CrossDJActivity
+flag:finish
+
+com.mixvibes.crossdj.ShareActivity-->com.mixvibes.crossdj.ShareActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.mixvibes.crossdj.SplashScreenActivity-->com.mixvibes.crossdj.CrossDJActivity
+flag:finish
+

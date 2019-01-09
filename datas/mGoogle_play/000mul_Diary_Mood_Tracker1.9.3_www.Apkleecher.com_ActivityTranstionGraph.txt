@@ -1,0 +1,114 @@
+net.daylio.activities.EditRemindersActivity-->net.daylio.activities.RemoveAdsActivity
+flag:
+
+net.daylio.activities.EditRemindersActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.AboutActivity-->net.daylio.activities.TermsOfUseActivity
+flag:
+
+net.daylio.activities.AboutActivity-->net.daylio.activities.ContributorsActivity
+flag:
+
+net.daylio.activities.AboutActivity-->net.daylio.activities.FaqActivity
+flag:
+
+net.daylio.activities.AboutActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.EditMoodsActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.SelectMoodActivity-->net.daylio.activities.SelectTagsActivity
+flag:finish
+
+net.daylio.activities.SelectMoodActivity-->net.daylio.activities.OverviewActivity
+flag:
+
+net.daylio.activities.DebugActivity-->net.daylio.activities.RemoveAdsActivity
+flag:
+
+net.daylio.activities.DebugActivity-->net.daylio.activities.WelcomeActivity
+flag:
+
+net.daylio.activities.YearlyStatsActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.EditDayEntryActivity-->net.daylio.activities.EditTagsActivity
+flag:
+
+net.daylio.activities.EditDayEntryActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.EditTagsActivity-->net.daylio.activities.NewTagActivity
+flag:
+
+net.daylio.activities.EditTagsActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.reminder.ReminderDialog-->net.daylio.activities.SelectTagsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.daylio.activities.SelectTagsActivity-->net.daylio.activities.EditTagsActivity
+flag:
+
+net.daylio.activities.SelectTagsActivity-->net.daylio.activities.OverviewActivity
+flag:finish
+
+net.daylio.activities.SelectTagsActivity-->net.daylio.activities.SelectMoodActivity
+flag:finish
+
+net.daylio.activities.RemoveAdsActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.ContributorsActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.NewTagActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.WelcomeActivity-->net.daylio.activities.SelectMoodActivity
+flag:finish
+
+net.daylio.activities.BackupActivity-->net.daylio.activities.RestoreBackupActivity
+flag:
+
+net.daylio.activities.BackupActivity-->net.daylio.activities.RemoveAdsActivity
+flag:
+
+net.daylio.activities.OverviewActivity-->net.daylio.activities.SettingsActivity
+flag:
+
+net.daylio.activities.OverviewActivity-->net.daylio.activities.WelcomeActivity
+flag:finish
+
+net.daylio.activities.OverviewActivity-->net.daylio.activities.RemoveAdsActivity
+flag:
+
+net.daylio.activities.OverviewActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.EditRemindersActivity
+flag:
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.BackupActivity
+flag:
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.EditMoodsActivity
+flag:
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.AboutActivity
+flag:
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.EditTagsActivity
+flag:
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.DebugActivity
+flag:
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.RemoveAdsActivity
+flag:
+
+net.daylio.activities.SettingsActivity-->net.daylio.activities.PinActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

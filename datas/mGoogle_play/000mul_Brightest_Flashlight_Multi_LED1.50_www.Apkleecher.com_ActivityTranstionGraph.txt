@@ -1,0 +1,36 @@
+com.flashlight.brightestflashlightpro.ad.flashclose.FakeFullScreenActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.flashlight.brightestflashlightpro.ui.StartActivity-->com.flashlight.brightestflashlightpro.ui.guide.WelcomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.flashlight.brightestflashlightpro.ui.setting.PowerManagerDialogActivity-->com.flashlight.brightestflashlightpro.ui.setting.PowerManagerDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.flashlight.brightestflashlightpro.clock.GoClockDownloadDialog-->com.flashlight.brightestflashlightpro.clock.GoClockDownloadDialog
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.commerce.notification.main.core.HandleNotificaionClickActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.flashlight.brightestflashlightpro.ui.setting.NotifyAccessSettingActivity-->com.flashlight.brightestflashlightpro.ui.setting.selectapp.AccessibilityDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.flashlight.brightestflashlightpro.shake.AutoLaunchDialog-->com.flashlight.brightestflashlightpro.shake.AutoLaunchDialog
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.flashlight.brightestflashlightpro.clock.GoClockRecommendDialog-->com.flashlight.brightestflashlightpro.clock.GoClockRecommendDialog
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.flashlight.brightestflashlightpro.ad.appexit.MopubNativeFullScreenActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.flashlight.brightestflashlightpro.lock.LockScreenActivity-->com.flashlight.brightestflashlightpro.memoryclean.MemoryCleanActivity
+flag:
+
+com.flashlight.brightestflashlightpro.ad.appexit.AppsFakeFullScreenActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.jiubang.commerce.ad.h5.H5AdActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

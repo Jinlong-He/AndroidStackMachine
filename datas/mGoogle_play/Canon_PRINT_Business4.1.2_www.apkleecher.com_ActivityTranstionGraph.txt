@@ -1,0 +1,9 @@
+jp.co.canon.oip.android.opal.ui.activity.MainActivity-->jp.co.canon.oip.android.opal.ui.activity.MainActivity
+flag:
+
+com.dropbox.core.android.AuthActivity-->jp.co.canon.oip.android.opal.ui.activity.MainActivity
+flag:
+
+com.dropbox.core.android.AuthActivity-->com.dropbox.core.android.AuthActivity
+flag:
+

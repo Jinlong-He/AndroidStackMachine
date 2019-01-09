@@ -1,0 +1,423 @@
+com.messageloud.home.drive.MLAutoDriveActivity-->com.messageloud.home.drive.MLDriveIdealActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  finish
+
+com.messageloud.home.drive.MLAutoDriveActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.home.drive.MLAutoDriveActivity-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.home.drive.MLAutoDriveActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.usebutton.sdk.internal.InstallCardActivity-->com.messageloud.app.MLSplashScreen
+flag:finish
+
+com.usebutton.sdk.internal.InstallCardActivity-->com.messageloud.app.MLSplashScreen
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.setup.MLPrivacyActivity-->com.messageloud.setup.account.MLAddEmailAccountActivity
+flag:finish
+
+com.messageloud.setup.MLPrivacyActivity-->com.messageloud.setup.account.MLChooseEmailProviderActivity
+flag:
+
+com.messageloud.setup.MLPrivacyActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.MLPrivacyActivity-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.setup.MLPrivacyActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.active.MLSettingsActiveActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.active.MLSettingsActiveActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.usebutton.sdk.internal.GroupedInventoryCardActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.usebutton.sdk.internal.GroupedInventoryCardActivity-->com.messageloud.app.MLSplashScreen
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity-->com.messageloud.home.active.MLActiveIdealActivity
+flag:finish
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity-->com.messageloud.home.drive.MLDriveIdealActivity
+flag:finish
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity-->com.messageloud.settings.floating_buttons.MLFloatingButtonsMusicSettingsActivity
+flag:finish
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.global.SettingsEmailBlackListActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.global.SettingsEmailBlackListActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.purchase.MLSubscriptionActivity-->com.messageloud.settings.MLSettingsActivity
+flag:
+
+com.messageloud.purchase.MLSubscriptionActivity-->com.messageloud.purchase.MLSubscriptionConfirmByPromoCodes
+flag:finish
+
+com.messageloud.purchase.MLSubscriptionActivity-->com.messageloud.purchase.MLSubscriptionConfirmByPurchase
+flag:finish
+
+com.messageloud.purchase.MLSubscriptionActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.purchase.MLSubscriptionActivity-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.purchase.MLSubscriptionActivity-->com.messageloud.etc.MLSupportActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.messageloud.purchase.MLSubscriptionActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.setup.account.MLAddEmailAccountActivity-->com.messageloud.setup.account.MLChooseEmailProviderActivity
+flag:
+
+com.messageloud.setup.account.MLAddEmailAccountActivity-->com.messageloud.setup.MLGoogleTTSActivity
+flag:
+
+com.messageloud.setup.account.MLAddEmailAccountActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.account.MLAddEmailAccountActivity-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.setup.account.MLAddEmailAccountActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.drive.MLSettingsDriveActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.drive.MLSettingsDriveActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.global.SettingsHandleEmailsActivity-->com.messageloud.settings.global.SettingsEmailVIPListActivity
+flag:
+
+com.messageloud.settings.global.SettingsHandleEmailsActivity-->com.messageloud.settings.global.SettingsEmailBlackListActivity
+flag:
+
+com.messageloud.settings.global.SettingsHandleEmailsActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.global.SettingsHandleEmailsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+li.vin.net.SignInActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.purchase.MLSubscriptionConfirmByPurchase-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.purchase.MLSubscriptionConfirmByPurchase-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.purchase.MLSubscriptionConfirmByPurchase-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.global.SettingsChangeDeviceIdActivity_deprecated-->com.messageloud.setup.account.MLChooseEmailProviderActivity
+flag:finish
+
+com.messageloud.settings.global.SettingsChangeDeviceIdActivity_deprecated-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.global.SettingsChangeDeviceIdActivity_deprecated-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.setup.account.MLLoginActivity-->com.messageloud.setup.account.MLAddEmailAccountActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.messageloud.setup.account.MLLoginActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.account.MLLoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.usebutton.sdk.internal.SingleProductCardActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.usebutton.sdk.internal.SingleProductCardActivity-->com.messageloud.app.MLSplashScreen
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.home.drive.MLDriveIdealActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.messageloud.home.drive.MLDriveIdealActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.home.drive.MLDriveIdealActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.settings.global.MLSettingsCarBluetoothActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.home.drive.help.MLDriveHelpFragmentActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.home.drive.MLDriveIdealActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.home.active.help.MLActiveHelpFragmentActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.home.active.MLActiveIdealActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.home.work.help.MLWorkHelpFragmentActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.home.work.MLWorkIdealActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.setup.account.MLChooseEmailProviderActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.settings.MLSettingsActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.purchase.MLSubscriptionActivity
+flag:
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.app.MLSplashScreen
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.home.MLHomeActivity-->com.messageloud.etc.MLSupportActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.messageloud.home.MLHomeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.setup.account.MLLoginMsExchangeActivity-->com.messageloud.setup.account.MLAddEmailAccountActivity
+flag:
+
+com.messageloud.setup.account.MLLoginMsExchangeActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.account.MLLoginMsExchangeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.global.SettingsHandleTextsActivity-->com.messageloud.settings.global.SettingsTextBlackListActivity
+flag:
+
+com.messageloud.settings.global.SettingsHandleTextsActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.global.SettingsHandleTextsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.auto_mode.MLUSBAutoModeDialog-->com.messageloud.home.drive.MLDriveIdealActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.home.drive.MLDriveActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.drive.MLDriveActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.home.active.MLActiveActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.active.MLActiveActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.account.MLChooseEmailProviderActivity-->com.messageloud.setup.account.MLAddEmailAccountActivity
+flag:
+
+com.messageloud.setup.account.MLChooseEmailProviderActivity-->com.messageloud.setup.account.MLLoginActivity
+flag:
+
+com.messageloud.setup.account.MLChooseEmailProviderActivity-->com.messageloud.setup.account.MLLoginMsExchangeActivity
+flag:
+
+com.messageloud.setup.account.MLChooseEmailProviderActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.account.MLChooseEmailProviderActivity-->com.messageloud.etc.MLSupportActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.messageloud.setup.account.MLChooseEmailProviderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.setup.account.MLChooseEmailProviderActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.settings.global.SettingsHandleEmailsActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.settings.global.SettingsHandleTextsActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.settings.drive.MLSettingsDriveActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.settings.active.MLSettingsActiveActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.settings.work.MLSettingsWorkActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.settings.global.MLSettingsCarBluetoothActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.purchase.MLSubscriptionActivity
+flag:
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.settings.MLSettingsActivity-->com.messageloud.etc.MLSupportActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.messageloud.settings.MLSettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.global.SettingsEmailVIPListActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.global.SettingsEmailVIPListActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.MLGoogleTTSActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.MLGoogleTTSActivity-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.setup.MLGoogleTTSActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.global.MLSettingsCarBluetoothActivity-->com.messageloud.settings.floating_buttons.MLFloatingButtonsNavigationSettingsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.messageloud.settings.global.MLSettingsCarBluetoothActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.global.MLSettingsCarBluetoothActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.active.MLActiveIdealActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.active.MLActiveIdealActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.usebutton.sdk.internal.WebViewActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.usebutton.sdk.internal.WebViewActivity-->com.messageloud.app.MLSplashScreen
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.settings.global.SettingsTextBlackListActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.global.SettingsTextBlackListActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.etc.MLSupportActivity-->com.messageloud.setup.MLGoogleTTSActivity
+flag:
+
+com.messageloud.etc.MLSupportActivity-->com.messageloud.settings.MLSettingsActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.messageloud.etc.MLSupportActivity-->com.messageloud.app.MLSplashScreen
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.etc.MLSupportActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.etc.MLSupportActivity-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.etc.MLSupportActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.app.MLSplashScreen-->com.messageloud.setup.account.MLAddEmailAccountActivity
+flag:finish
+
+com.messageloud.app.MLSplashScreen-->com.messageloud.setup.MLWelcomeActivity
+flag:finish
+
+com.messageloud.app.MLSplashScreen-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.app.MLSplashScreen-->com.messageloud.purchase.MLSubscriptionActivity
+flag:finish
+
+com.messageloud.app.MLSplashScreen-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.app.MLSplashScreen-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsMusicSettingsActivity-->com.messageloud.home.active.MLActiveIdealActivity
+flag:finish
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsMusicSettingsActivity-->com.messageloud.home.drive.MLDriveIdealActivity
+flag:finish
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsMusicSettingsActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.settings.floating_buttons.MLFloatingButtonsMusicSettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.work.MLWorkIdealActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.work.MLWorkIdealActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.purchase.MLSubscriptionConfirmByPromoCodes-->com.messageloud.home.MLHomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.messageloud.purchase.MLSubscriptionConfirmByPromoCodes-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.purchase.MLSubscriptionConfirmByPromoCodes-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.MLWelcomeActivity-->com.messageloud.setup.MLPrivacyActivity
+flag:
+
+com.messageloud.setup.MLWelcomeActivity-->com.messageloud.app.MLSplashScreen
+flag:
+
+com.messageloud.setup.MLWelcomeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.work.MLWorkActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.messageloud.home.work.MLWorkActivity-->com.messageloud.app.MLSplashScreen
+flag:
+

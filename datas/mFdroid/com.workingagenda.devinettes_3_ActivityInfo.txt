@@ -1,0 +1,14 @@
+#MAIN
+activity:com.workingagenda.devinettes.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.workingagenda.devinettes.RiddlePanel
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.workingagenda.devinettes.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

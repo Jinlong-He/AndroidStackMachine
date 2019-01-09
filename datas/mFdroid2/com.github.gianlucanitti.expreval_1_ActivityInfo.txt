@@ -1,0 +1,6 @@
+#MAIN
+activity:com.github.gianlucanitti.expreval.ExprEval
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

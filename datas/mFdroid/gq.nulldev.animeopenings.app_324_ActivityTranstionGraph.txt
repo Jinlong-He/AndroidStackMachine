@@ -1,0 +1,3 @@
+gq.nulldev.animeopenings.app.ActivityNewVideo-->gq.nulldev.animeopenings.app.SettingsActivity
+flag:
+

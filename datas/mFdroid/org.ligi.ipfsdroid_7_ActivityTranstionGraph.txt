@@ -1,0 +1,12 @@
+org.ligi.ipfsdroid.IPFSBrowseActivity-->org.ligi.ipfsdroid.PublishIPFSContent
+flag:
+
+org.ligi.ipfsdroid.MainActivity-->org.ligi.ipfsdroid.IPFSBrowseActivity
+flag:
+
+org.ligi.ipfsdroid.MainActivity-->org.ligi.ipfsdroid.IPFSBrowseActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.ligi.ipfsdroid.DetailsActivity-->org.ligi.ipfsdroid.AddIPFSContent
+flag:
+

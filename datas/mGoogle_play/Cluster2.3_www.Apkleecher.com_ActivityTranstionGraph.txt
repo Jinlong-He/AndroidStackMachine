@@ -1,0 +1,39 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.getcluster.android.activities.ClustersActivity
+flag:
+
+com.getcluster.android.activities.LoginActivity-->com.getcluster.android.activities.ClustersActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.getcluster.android.activities.LoginActivity-->com.getcluster.android.activities.WebViewActivity
+flag:
+
+com.getcluster.android.activities.LoginActivity-->com.getcluster.android.activities.ClustersActivity
+flag:
+
+com.getcluster.android.activities.LoginActivity-->com.getcluster.android.activities.ClustersActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NO_HISTORY  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.getcluster.android.activities.IntroActivity-->com.getcluster.android.activities.ClustersActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.getcluster.android.activities.IntroActivity-->com.getcluster.android.activities.ClustersActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NO_HISTORY  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.getcluster.android.activities.IntroActivity-->com.getcluster.android.activities.LoginActivity
+flag:
+
+com.getcluster.android.activities.ClustersActivity-->com.getcluster.android.activities.LoginActivity
+flag:finish
+
+com.getcluster.android.activities.ClustersActivity-->com.getcluster.android.activities.ClustersActivity
+flag:
+
+com.getcluster.android.activities.AutoLoginActivity-->com.getcluster.android.activities.ClustersActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.getcluster.android.activities.AutoLoginActivity-->com.getcluster.android.activities.LoginActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

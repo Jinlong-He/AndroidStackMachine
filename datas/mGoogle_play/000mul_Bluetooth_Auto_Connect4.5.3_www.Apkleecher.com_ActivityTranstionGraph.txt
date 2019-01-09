@@ -1,0 +1,9 @@
+org.myklos.btautoconnect.SettingsActivity-->org.myklos.btautoconnect.AppChooser
+flag:
+
+org.myklos.btautoconnect.SettingsActivity-->org.myklos.btautoconnect.DevicesActivity
+flag:
+
+org.myklos.btautoconnect.SettingsActivity-->org.myklos.btautoconnect.SettingsActivity
+flag:
+

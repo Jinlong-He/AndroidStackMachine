@@ -1,0 +1,9 @@
+com.google.android.tv.remote.RemoteActivity-->com.google.android.tv.remote.FirstRunActivity
+flag:finish
+
+com.google.android.tv.remote.CoreRemoteActivity-->com.google.android.tv.remote.FirstRunActivity
+flag:finish
+
+com.google.android.tv.remote.FirstRunActivity-->com.google.android.tv.remote.CoreRemoteActivity
+flag:finish
+

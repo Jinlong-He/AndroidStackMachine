@@ -1,0 +1,33 @@
+com.wsl.activitymonitor.keepscreenon.KeepScreenOnActivity-->com.noom.walk.invitations.InviteActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP FLAG_ACTIVITY_NO_HISTORY  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.wsl.activitymonitor.keepscreenon.KeepScreenOnActivity-->com.noom.walk.invitations.InviteActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.noom.walk.HomeActivity-->com.noom.walk.login.IntroActivity
+flag:finish
+
+com.noom.walk.HomeActivity-->com.noom.walk.reactnative.ProgramListActivity
+flag:
+
+com.noom.walk.HomeActivity-->com.noom.walk.share.ShareStepRecordActivity
+flag:
+
+com.noom.walk.login.EmailSignInActivity-->com.noom.walk.HomeActivity
+flag:finish
+
+com.noom.walk.invitations.InviteActivity-->com.noom.walk.invitations.InviteActivity
+flag:
+
+com.noom.walk.invitations.FriendsListActivity-->com.noom.walk.HomeActivity
+flag:
+
+com.noom.walk.ParseDeepLinkActivity-->com.noom.walk.invitations.InviteActivity
+flag:finish
+
+com.noom.walk.login.IntroActivity-->com.noom.walk.login.SignInActivity
+flag:
+
+com.noom.walk.login.IntroActivity-->com.noom.walk.HomeActivity
+flag:
+

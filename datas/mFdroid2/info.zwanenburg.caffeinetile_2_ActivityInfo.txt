@@ -1,0 +1,4 @@
+activity:info.zwanenburg.caffeinetile.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

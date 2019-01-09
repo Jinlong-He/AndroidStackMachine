@@ -1,0 +1,9 @@
+com.cookware.dessertrecipes.SplashActivity-->com.cookware.dessertrecipes.MainActivity
+flag:finish
+
+com.cookware.dessertrecipes.MainActivity-->com.cookware.dessertrecipes.MainActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.cookware.dessertrecipes.MainActivity
+flag:
+

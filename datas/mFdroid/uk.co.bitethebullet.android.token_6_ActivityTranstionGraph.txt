@@ -1,0 +1,9 @@
+uk.co.bitethebullet.android.token.TokenList-->uk.co.bitethebullet.android.token.PinChange
+flag:
+
+uk.co.bitethebullet.android.token.TokenList-->uk.co.bitethebullet.android.token.PinRemove
+flag:
+
+uk.co.bitethebullet.android.token.TokenList-->uk.co.bitethebullet.android.token.TokenAdd
+flag:
+

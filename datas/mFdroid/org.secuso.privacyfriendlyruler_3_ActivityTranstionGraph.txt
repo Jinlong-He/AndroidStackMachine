@@ -1,0 +1,15 @@
+org.secuso.privacyfriendlyruler.activities.RulerActivity-->org.secuso.privacyfriendlyruler.activities.CalibrationActivity
+flag:
+
+org.secuso.privacyfriendlyruler.activities.RulerActivity-->org.secuso.privacyfriendlyruler.activities.RulerActivity
+flag:
+
+org.secuso.privacyfriendlyruler.activities.SplashActivity-->org.secuso.privacyfriendlyruler.activities.RulerActivity
+flag:finish
+
+org.secuso.privacyfriendlyruler.activities.CalibrationActivity-->org.secuso.privacyfriendlyruler.activities.RulerActivity
+flag:
+
+org.secuso.privacyfriendlyruler.activities.SettingsActivity-->org.secuso.privacyfriendlyruler.activities.SettingsActivity
+flag:
+

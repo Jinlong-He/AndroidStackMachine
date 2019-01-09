@@ -1,0 +1,6 @@
+#MAIN
+activity:de.cweiske.headphoneindicator.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

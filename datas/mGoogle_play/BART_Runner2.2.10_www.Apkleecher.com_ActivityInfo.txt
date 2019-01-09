@@ -1,0 +1,14 @@
+#MAIN
+activity:com.dougkeen.bart.activities.RoutesListActivity_
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.dougkeen.bart.activities.ViewDeparturesActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.dougkeen.bart.activities.ViewMapActivity
+LaunchMode:std
+TaskAffinity:null
+

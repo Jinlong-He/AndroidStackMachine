@@ -1,0 +1,14 @@
+#MAIN
+activity:.EaseRec
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.konylabs.android.KonyMapsActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:com.softech.videoPlayerFFI.MediaPlaybackFFIActivity
+LaunchMode:std
+TaskAffinity:null
+

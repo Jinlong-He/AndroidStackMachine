@@ -1,0 +1,3 @@
+com.batch.android.BatchActionActivity-->com.paullipnyagov.drumpads24.CustomSplashScreenActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

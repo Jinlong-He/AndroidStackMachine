@@ -1,0 +1,3 @@
+com.tp.emoji.aaa.SplashActivity-->com.tp.emoji.aaa.HomeActivity
+flag:finish
+

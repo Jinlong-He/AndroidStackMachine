@@ -1,0 +1,6 @@
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+com.nineteen.spycamera.SpyCamActivity-->com.google.ads.AdActivity
+flag:
+

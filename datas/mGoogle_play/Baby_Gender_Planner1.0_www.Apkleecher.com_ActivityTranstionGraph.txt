@@ -1,0 +1,9 @@
+com.snstu.babygenderplanner.MainActivity-->com.snstu.babygenderplanner.BilgilerActivity
+flag:
+
+com.snstu.babygenderplanner.BilgilerActivity-->com.snstu.babygenderplanner.ResultActivity
+flag:
+
+com.snstu.babygenderplanner.Splash-->com.snstu.babygenderplanner.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

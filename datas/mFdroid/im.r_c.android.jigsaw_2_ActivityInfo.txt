@@ -1,0 +1,14 @@
+#MAIN
+activity:im.r_c.android.jigsaw.activity.GameActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.theartofdev.edmodo.cropper.CropImageActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:im.r_c.android.jigsaw.activity.ChooseActivity
+LaunchMode:std
+TaskAffinity:null
+

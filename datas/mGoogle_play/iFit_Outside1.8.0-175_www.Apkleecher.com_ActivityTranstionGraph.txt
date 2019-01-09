@@ -1,0 +1,27 @@
+com.ifit.android.app.activity.StartActivity-->com.ifit.android.app.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ifit.android.app.activity.WorkoutDetailsActivity-->com.ifit.android.app.activity.PreferenceActivity
+flag:
+
+com.ifit.android.app.activity.LogActivity-->com.ifit.android.app.activity.PreferenceActivity
+flag:
+
+com.ifit.android.app.activity.MainActivity-->com.ifit.android.app.activity.UploadWorkoutsActivity
+flag:
+
+com.ifit.android.app.activity.MainActivity-->com.ifit.android.app.activity.PreferenceActivity
+flag:
+
+com.ifit.android.app.activity.MainActivity-->com.ifit.android.app.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ifit.android.app.activity.MainActivity-->com.ifit.android.app.activity.StartActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ifit.android.app.activity.WorkoutActivity-->com.ifit.android.app.activity.PreferenceActivity
+flag:
+
+com.ifit.android.app.activity.WorkoutActivity-->com.ifit.android.app.activity.WorkoutDetailsActivity
+flag:
+

@@ -1,0 +1,63 @@
+.HelpActivity-->com.eagle.pic.MainActivity
+flag:
+
+.GridView2Activity-->com.eagle.pic.EditActivity
+flag:finish
+
+.GridViewActivity-->com.eagle.pic.GalleryActivity
+flag:finish
+
+.MainActivity-->TestActivity
+flag:
+
+.MainActivity-->com.eagle.pic.GridViewActivity
+flag:
+
+.MainActivity-->com.eagle.pic.PicActivity
+flag:
+
+.MainActivity-->com.eagle.pic.huanfuActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+.MainActivity-->com.eagle.pic.GridView2Activity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+.MainActivity-->com.eagle.pic.TestActivity
+flag:
+
+TestActivity-->com.weibo.net.ShareActivity
+flag:
+
+.huanfuActivity-->com.eagle.pic.MainActivity
+flag:finish
+
+.huanfuActivity-->com.eagle.pic.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.huanfuActivity-->com.eagle.pic.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.huanfuActivity-->com.eagle.pic.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.huanfuActivity-->com.eagle.pic.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.huanfuActivity-->com.eagle.pic.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.GalleryActivity-->com.eagle.pic.MainActivity
+flag:finish
+
+.default1-->TestActivity
+flag:finish
+
+.EditActivity-->com.eagle.pic.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.EditActivity-->com.eagle.pic.GridView2Activity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.EditActivity-->TestActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

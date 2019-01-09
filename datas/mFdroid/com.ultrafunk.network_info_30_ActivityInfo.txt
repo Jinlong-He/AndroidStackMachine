@@ -1,0 +1,4 @@
+activity:com.ultrafunk.network_info.config.ConfigActivity
+LaunchMode:std
+TaskAffinity:null
+

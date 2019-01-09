@@ -1,0 +1,14 @@
+#MAIN
+activity:com.modsgang.craftingmodsmlp.SplashScreen
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.modsgang.craftingmodsmlp.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.nicue.onetwo.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

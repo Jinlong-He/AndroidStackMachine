@@ -1,0 +1,12 @@
+jonas.tool.saveForOffline.MainActivity-->jonas.tool.saveForOffline.ViewActivity
+flag:
+
+jonas.tool.saveForOffline.MainActivity-->jonas.tool.saveForOffline.AddActivity
+flag:
+
+jonas.tool.saveForOffline.MainActivity-->jonas.tool.saveForOffline.Preferences
+flag:
+
+jonas.tool.saveForOffline.ViewActivity-->jonas.tool.saveForOffline.Preferences
+flag:
+

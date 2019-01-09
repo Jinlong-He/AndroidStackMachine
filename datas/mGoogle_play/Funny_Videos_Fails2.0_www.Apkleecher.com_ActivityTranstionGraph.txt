@@ -1,0 +1,6 @@
+com.funnyvideos.funnyvideosfails.MainActivity-->com.funnyvideos.funnyvideosfails.AppygenActivity
+flag:
+
+com.funnyvideos.funnyvideosfails.SplashActivity-->com.funnyvideos.funnyvideosfails.MainActivity
+flag:finish
+

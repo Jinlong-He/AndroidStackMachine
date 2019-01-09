@@ -1,0 +1,3 @@
+CertToolsActivity-->com.markuspage.android.certtools.DisplayCertActivity
+flag:
+

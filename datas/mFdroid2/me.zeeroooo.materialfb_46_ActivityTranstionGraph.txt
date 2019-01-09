@@ -1,0 +1,21 @@
+me.zeerooo.materialfb.Activities.SettingsActivity-->me.zeerooo.materialfb.Activities.MainActivity
+flag:finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+me.zeerooo.materialfb.Activities.MainActivity-->me.zeerooo.materialfb.Activities.Video
+flag:
+
+me.zeerooo.materialfb.Activities.MainActivity-->me.zeerooo.materialfb.Activities.MainActivity
+flag:
+
+me.zeerooo.materialfb.Activities.MainActivity-->me.zeerooo.materialfb.Activities.Photo
+flag:
+
+me.zeerooo.materialfb.Activities.MainActivity-->me.zeerooo.materialfb.Activities.SettingsActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

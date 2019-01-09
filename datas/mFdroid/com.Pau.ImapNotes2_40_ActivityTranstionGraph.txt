@@ -1,0 +1,6 @@
+com.Pau.ImapNotes2.Listactivity-->com.Pau.ImapNotes2.NewNoteActivity
+flag:
+
+com.Pau.ImapNotes2.Listactivity-->com.Pau.ImapNotes2.NoteDetailActivity
+flag:
+

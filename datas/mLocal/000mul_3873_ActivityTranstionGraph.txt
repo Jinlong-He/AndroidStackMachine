@@ -1,0 +1,9 @@
+net.suckga.iLauncher2.LauncherActivity-->net.suckga.iLauncher2.LauncherActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+net.suckga.iLauncher2.LauncherActivity-->net.suckga.iLauncher2.PreferenceActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+net.suckga.iLauncher2.LauncherActivity-->net.suckga.iLauncher2.LauncherActivity
+flag:
+

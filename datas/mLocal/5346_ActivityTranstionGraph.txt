@@ -1,0 +1,18 @@
+com.mobclix.android.sdk.MobclixBrowserActivity-->com.azumio.instantheartrate.InstantHeartRateFull
+flag:
+
+com.azumio.instantheartrate.social.Registration-->com.azumio.instantheartrate.social.RegistrationWebView
+flag:
+
+com.millennialmedia.android.VideoPlayer-->com.millennialmedia.android.MMAdViewOverlayActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.millennialmedia.android.VideoPlayer-->com.azumio.instantheartrate.InstantHeartRateFull
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.azumio.instantheartrate.view.Share-->com.azumio.instantheartrate.InstantHeartRateFull
+flag:finish
+
+com.azumio.android.common.social.ShareActivity-->com.azumio.instantheartrate.InstantHeartRateFull
+flag:finish
+

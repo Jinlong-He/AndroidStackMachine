@@ -1,0 +1,12 @@
+kx.com.app.equalizer.EQActivity-->kx.com.app.equalizer.SettingsActivity
+flag:
+
+kx.com.app.equalizer.EQActivity-->kx.com.app.equalizer.EQActivity
+flag:
+
+kx.com.app.equalizer.EQActivity-->net.coocent.tool.visualizer.VisualizerActivity
+flag:
+
+kx.com.app.equalizer.SettingsActivity-->net.coocent.android.xmlparser.GiftActivity
+flag:
+

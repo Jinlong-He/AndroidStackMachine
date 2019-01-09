@@ -1,0 +1,14 @@
+#MAIN
+activity:com.polipoid.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.polipoid.ui.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.polipoid.ui.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.ljmzy.instaface.MainFragmentActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:hl.m.vs.z.naf
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.baidu.autoupdatesdk.ConfirmDialoigActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:.Settings
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:.Search
+LaunchMode:std
+TaskAffinity:null
+

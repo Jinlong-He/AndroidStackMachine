@@ -1,0 +1,15 @@
+net.gaast.giggity.SearchActivity-->net.gaast.giggity.ScheduleItemActivity
+flag:
+
+net.gaast.giggity.ScheduleViewActivity-->net.gaast.giggity.SettingsActivity
+flag:
+
+net.gaast.giggity.ScheduleViewActivity-->net.gaast.giggity.ScheduleItemActivity
+flag:
+
+net.gaast.giggity.ChooserActivity-->net.gaast.giggity.ScheduleViewActivity
+flag:
+
+net.gaast.giggity.ChooserActivity-->net.gaast.giggity.SettingsActivity
+flag:
+

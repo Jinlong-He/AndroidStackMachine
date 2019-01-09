@@ -1,0 +1,3 @@
+com.princess.story.Splash-->com.princess.story.MainActivity
+flag:finish
+

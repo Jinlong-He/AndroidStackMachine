@@ -1,0 +1,9 @@
+MainActivity-->com.example.shoujihao.GpsSearchActivity
+flag:
+
+MainActivity-->com.example.shoujihao.SettingActivity
+flag:
+
+MainActivity-->com.example.shoujihao.GuidActivity
+flag:
+

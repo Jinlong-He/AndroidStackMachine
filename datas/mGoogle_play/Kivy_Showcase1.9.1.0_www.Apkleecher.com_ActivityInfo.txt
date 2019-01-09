@@ -1,0 +1,6 @@
+#MAIN
+activity:org.renpy.android.PythonActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

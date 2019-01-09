@@ -1,0 +1,15 @@
+com.fotoable.guitar.activity.ChordsModeActivity-->com.mylhyl.acp.AcpActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.mylhyl.acp.AcpActivity-->com.mylhyl.acp.AcpActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.fotoable.guitar.activity.GuideActivity-->com.fotoable.guitar.activity.TapModeActivity
+flag:finish
+
+com.fotoable.guitar.activity.GuideActivity-->com.fotoable.guitar.activity.ChordsModeActivity
+flag:finish
+
+com.fotoable.guitar.activity.TapModeActivity-->com.mylhyl.acp.AcpActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

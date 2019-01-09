@@ -1,0 +1,6 @@
+#MAIN
+activity:net.loeuillet.wifi_eap_sim_conf.MyActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

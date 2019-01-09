@@ -1,0 +1,10 @@
+#MAIN
+activity:max.music_cyclon.SynchronizeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:max.music_cyclon.preference.MainPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

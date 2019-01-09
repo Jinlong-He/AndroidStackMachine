@@ -1,0 +1,12 @@
+com.liferecipes.healthyrecipes.SubList_Activity-->com.liferecipes.healthyrecipes.Favourite_Activity
+flag:
+
+com.liferecipes.healthyrecipes.SubList_Activity-->com.liferecipes.healthyrecipes.Recipe_Details_Activity
+flag:
+
+com.liferecipes.healthyrecipes.SplashActivity-->com.liferecipes.healthyrecipes.SubList_Activity
+flag:finish
+
+com.liferecipes.healthyrecipes.Favourite_Activity-->com.liferecipes.healthyrecipes.Recipe_Details_Activity
+flag:
+

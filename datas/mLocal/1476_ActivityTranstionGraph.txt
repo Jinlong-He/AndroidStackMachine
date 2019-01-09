@@ -1,0 +1,3 @@
+com.netscanmanager.AppStartActivity-->com.netscanmanager.NetworkActivity_new
+flag:finish
+

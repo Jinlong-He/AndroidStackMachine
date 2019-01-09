@@ -1,0 +1,14 @@
+activity:io.github.froodyapp.activity.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:io.github.froodyapp.activity.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:io.github.froodyapp.activity.SettingActivity
+LaunchMode:sit
+TaskAffinity:null
+

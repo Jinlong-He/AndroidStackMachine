@@ -1,0 +1,6 @@
+fr.simon.marquis.preferencesmanager.ui.PreferencesActivity-->fr.simon.marquis.preferencesmanager.ui.AppListActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+fr.simon.marquis.preferencesmanager.ui.AppListActivity-->fr.simon.marquis.preferencesmanager.ui.PreferencesActivity
+flag:
+

@@ -1,0 +1,117 @@
+com.tencent.connect.common.AssistActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:finish
+
+com.iflytek.inputmethod.FlyImeSettingsActivity-->com.iflytek.inputmethod.ErrorActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.iflytek.inputmethod.FlyImeSettingsActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.setting.view.tab.skin.view.userdefine.crop.CropActivity-->com.iflytek.inputmethod.setting.view.tab.skin.view.userdefine.previewview.UserDefSkinActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.common.lib.permission.PermissionListActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.iflytek.common.lib.permission.PermissionListActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.setting.view.TranSuggestActivity-->com.iflytek.inputmethod.plugin.type.gameassist.SumitSuggestActivity
+flag:finish
+
+com.iflytek.inputmethod.input.view.display.newuserphrase.UserPhraseEditActivity-->com.iflytek.inputmethod.input.view.display.newuserphrase.UserPhraseManagerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:finish
+
+com.iflytek.inputmethod.setting.container.SysPreferenceActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.crashcollect.notifier.CrashDetailActivity-->com.iflytek.crashcollect.notifier.CrashListActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.iflytek.inputmethod.plugin.view.PluginDefaultActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.plugin.view.PluginDefaultActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.setting.container.NormalSettingActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.wxapi.WXEntryActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.wxapi.WXEntryActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.input.view.display.greetings.GreetingsDetailActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.setting.view.tab.skin.view.search.SkinSearchActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.setting.view.tab.skin.view.search.SkinSearchActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.bundleassist.assisthost.impl.AssistActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.crashcollect.notifier.CrashListActivity-->com.iflytek.crashcollect.notifier.CrashDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.iflytek.greenplug.client.RedirectActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.iflytek.greenplug.client.RedirectActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.greenplug.client.ShortcutProxyActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.plugin.type.paymentplugin.PaymentPluginActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.setting.userdefine.skin.UserDefineHelperActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:finish
+
+com.iflytek.inputmethod.bundleassist.settings.InnerAppWindowActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.LauncherSettingsActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.plugin.view.PluginActivity-->com.iflytek.inputmethod.plugin.view.PluginDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.update.UpdateDialogActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.plugin.view.PluginDetailActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.plugin.view.PluginDetailActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.plugin.view.PluginDetailActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.iflytek.inputmethod.share.FriendShareActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+
+com.iflytek.inputmethod.share.FriendShareActivity-->com.tencent.connect.common.AssistActivity
+flag:
+
+com.iflytek.inputmethod.input.view.display.newuserphrase.UserPhraseManagerActivity-->com.iflytek.inputmethod.input.view.display.newuserphrase.UserPhraseEditActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.input.view.display.newuserphrase.UserPhraseManagerActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.iflytek.inputmethod.input.view.display.newuserphrase.UserPhraseManagerActivity-->com.iflytek.inputmethod.LauncherActivity
+flag:
+

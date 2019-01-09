@@ -1,0 +1,10 @@
+#MAIN
+activity:com.miui.themeapk.ThemeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.miui.themeapk.ThemeDetailActivity
+LaunchMode:std
+TaskAffinity:null
+

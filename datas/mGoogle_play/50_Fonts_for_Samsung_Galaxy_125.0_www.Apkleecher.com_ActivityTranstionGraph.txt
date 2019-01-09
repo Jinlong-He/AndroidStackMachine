@@ -1,0 +1,9 @@
+com.monotype.android.font.fiftyfontsforsgtwelve.SplashScreen-->com.monotype.android.font.fiftyfontsforsgtwelve.frontpage
+flag:finish
+
+com.monotype.android.font.fiftyfontsforsgtwelve.MainActivity-->com.monotype.android.font.fiftyfontsforsgtwelve.FontFlipActivity
+flag:
+
+com.monotype.android.font.fiftyfontsforsgtwelve.frontpage-->com.monotype.android.font.fiftyfontsforsgtwelve.MainActivity
+flag:
+

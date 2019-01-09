@@ -1,0 +1,14 @@
+#MAIN
+activity:com.smorgasbork.hotdeath.Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:GameActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.Prefs
+LaunchMode:std
+TaskAffinity:null
+

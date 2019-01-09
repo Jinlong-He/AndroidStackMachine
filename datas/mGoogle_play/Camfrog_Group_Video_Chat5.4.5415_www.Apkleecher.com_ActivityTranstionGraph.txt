@@ -1,0 +1,168 @@
+com.camshare.camfrog.app.im.conversations.ConversationsActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.im.conversations.ConversationsActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.im.conversations.ConversationsActivity-->com.camshare.camfrog.app.im.call.CallFullscreenActivity
+flag:
+
+com.camshare.camfrog.app.im.conversations.ConversationsActivity-->com.camshare.camfrog.app.camfrogstore.sticker.detail.StickerDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.im.conversations.ConversationsActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.im.conversations.ConversationsActivity-->com.camshare.camfrog.app.camfrogstore.subscription.SubscriptionsActivity
+flag:
+
+com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity-->com.camshare.camfrog.app.camfrogstore.purchaseresult.PurchaseResultActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity-->com.camshare.camfrog.app.camfrogstore.coin.CoinsPackListActivity
+flag:
+
+com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity-->com.camshare.camfrog.app.camfrogstore.subscription.SubscriptionsActivity
+flag:
+
+com.camshare.camfrog.app.room.RoomActivity-->com.camshare.camfrog.app.camfrogstore.subscription.SubscriptionsActivity
+flag:
+
+com.camshare.camfrog.app.room.RoomActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.room.RoomActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.room.RoomActivity-->com.camshare.camfrog.app.room.tips.TipsActivity
+flag:
+
+com.camshare.camfrog.app.room.RoomActivity-->com.camshare.camfrog.app.room.RoomFullscreenActivity
+flag:
+
+com.camshare.camfrog.app.room.RoomActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.camfrogstore.sticker.detail.StickerDetailActivity-->com.camshare.camfrog.app.camfrogstore.coin.CoinsPackListActivity
+flag:
+
+com.camshare.camfrog.app.camfrogstore.sticker.detail.StickerDetailActivity-->com.camshare.camfrog.app.camfrogstore.purchaseresult.PurchaseResultActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.room.RoomFullscreenActivity-->com.camshare.camfrog.app.camfrogstore.subscription.SubscriptionsActivity
+flag:
+
+com.camshare.camfrog.app.room.RoomFullscreenActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.room.RoomFullscreenActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.room.RoomFullscreenActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+io.intercom.android.sdk.activities.IntercomPostActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.camfrogstore.subscription.SubscriptionsActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity-->com.camshare.camfrog.app.camfrogstore.promodetail.PromoDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity-->com.camshare.camfrog.app.camfrogstore.gift.category.GiftCategoryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity-->com.camshare.camfrog.app.camfrogstore.sticker.detail.StickerDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.profile.user.UserProfileActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.profile.user.UserProfileActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.camfrogstore.gift.category.GiftCategoryActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.camfrogstore.coin.CoinsPackListActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.authentication.AuthenticationActivity-->com.camshare.camfrog.app.base.ProcessFailureReportActivity
+flag:
+
+com.camshare.camfrog.app.contacts.ContactListActivity-->com.camshare.camfrog.app.contacts.AdditionalContactListActivity
+flag:
+
+com.camshare.camfrog.app.contacts.ContactListActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.contacts.ContactListActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  
+
+com.camshare.camfrog.app.contacts.ContactListActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+io.intercom.android.sdk.activities.IntercomNoteActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.profile.my.MyProfileActivity-->com.camshare.camfrog.app.camfrogstore.subscription.SubscriptionsActivity
+flag:
+
+com.camshare.camfrog.app.profile.my.MyProfileActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.profile.my.MyProfileActivity-->com.camshare.camfrog.app.camfrogstore.coin.CoinsPackListActivity
+flag:
+
+com.camshare.camfrog.app.profile.my.MyProfileActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.profile.my.MyProfileActivity-->com.camshare.camfrog.app.profile.my.edit.EditProfileActivity
+flag:
+
+com.camshare.camfrog.app.profile.my.MyProfileActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.vmax.android.ads.vast.VastBillBoardActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.vmax.android.ads.vast.VastBillBoardActivity-->com.vmax.android.ads.vast.VastBillBoardActivity
+flag:
+
+com.camshare.camfrog.app.im.chat.ChatActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.im.chat.ChatActivity-->com.camshare.camfrog.app.camfrogstore.subscription.SubscriptionsActivity
+flag:
+
+com.camshare.camfrog.app.im.chat.ChatActivity-->com.camshare.camfrog.app.camfrogstore.gift.detail.GiftDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.im.chat.ChatActivity-->com.camshare.camfrog.app.camfrogstore.sticker.detail.StickerDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.camshare.camfrog.app.im.chat.ChatActivity-->com.camshare.camfrog.app.im.call.CallFullscreenActivity
+flag:
+
+com.camshare.camfrog.app.im.chat.ChatActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.camshare.camfrog.app.room.selfie.SelfieHandleActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.camshare.camfrog.app.roombrowser.RoomBrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.camshare.camfrog.app.roombrowser.RoomBrowserActivity-->com.camshare.camfrog.app.camfrogstore.CamfrogStoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

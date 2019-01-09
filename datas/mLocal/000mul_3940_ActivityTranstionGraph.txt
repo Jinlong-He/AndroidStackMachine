@@ -1,0 +1,9 @@
+com.launcher.il.LauncherActivity-->com.launcher.il.PreferenceActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.launcher.il.LauncherActivity-->com.launcher.il.LauncherActivity
+flag:
+
+com.launcher.il.LauncherActivity-->com.launcher.il.LauncherActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:ohi.andre.consolelauncher.LauncherActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:ohi.andre.consolelauncher.tuils.tutorial.TutorialIndexActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ohi.andre.consolelauncher.tuils.tutorial.TutorialActivity
+LaunchMode:std
+TaskAffinity:null
+

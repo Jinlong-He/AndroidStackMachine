@@ -1,0 +1,6 @@
+#MAIN
+activity:com.mridang.speedo.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

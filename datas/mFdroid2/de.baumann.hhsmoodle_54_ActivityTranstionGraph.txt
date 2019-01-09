@@ -1,0 +1,48 @@
+de.baumann.hhsmoodle.popup.Popup_courseList-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.popup.Popup_subjects-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.activities.Activity_EditNote-->de.baumann.hhsmoodle.popup.Popup_files
+flag:
+
+de.baumann.hhsmoodle.activities.Activity_EditNote-->de.baumann.hhsmoodle.activities.Activity_splash
+flag:
+
+de.baumann.hhsmoodle.popup.Popup_files-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.HHS_MainScreen-->de.baumann.hhsmoodle.activities.Activity_EditNote
+flag:
+
+de.baumann.hhsmoodle.HHS_MainScreen-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.activities.Activity_settings-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.popup.Popup_todo-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.activities.Activity_intro-->de.baumann.hhsmoodle.activities.Activity_splash
+flag:finish
+
+de.baumann.hhsmoodle.popup.Popup_note-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.activities.Activity_count-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.popup.Popup_bookmarks-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+de.baumann.hhsmoodle.activities.Activity_splash-->de.baumann.hhsmoodle.activities.Activity_intro
+flag:finish
+
+de.baumann.hhsmoodle.activities.Activity_splash-->de.baumann.hhsmoodle.HHS_MainScreen
+flag:finish
+
+de.baumann.hhsmoodle.activities.Activity_todo-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

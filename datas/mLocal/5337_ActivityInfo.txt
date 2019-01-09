@@ -1,0 +1,14 @@
+#MAIN
+activity:com.adtech.yindaoye.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.adtech.regclientmyl.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.adtech.yindaoye.GuideActivity
+LaunchMode:std
+TaskAffinity:null
+

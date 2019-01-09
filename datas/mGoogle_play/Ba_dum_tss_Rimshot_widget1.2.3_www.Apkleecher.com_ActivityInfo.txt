@@ -1,0 +1,10 @@
+#MAIN
+activity:br.letonai.badadumtss.Badadumtss
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

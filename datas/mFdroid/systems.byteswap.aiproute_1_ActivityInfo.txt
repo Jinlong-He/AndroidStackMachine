@@ -1,0 +1,14 @@
+#MAIN
+activity:systems.byteswap.aiproute.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:systems.byteswap.aiproute.EditRouteActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:systems.byteswap.aiproute.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

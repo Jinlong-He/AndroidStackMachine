@@ -1,0 +1,10 @@
+#MAIN
+activity:io.github.engsergiu.react.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:io.github.engsergiu.react.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

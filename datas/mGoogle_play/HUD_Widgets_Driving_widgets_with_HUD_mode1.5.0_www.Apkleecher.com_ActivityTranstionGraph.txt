@@ -1,0 +1,36 @@
+com.hudway.glass.controllers.settings.LanguageSettingsGlassController-->com.hudway.glass.controllers.menu.MenuGlassActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.hudway.glass.controllers.settings.FuelPricePickerSettingsGlassActivity-->unknown
+flag:
+
+com.hudway.glass.controllers.premium.PromoGlassActivity-->com.hudway.glass.controllers.menu.MenuGlassActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.hudway.glass.controllers.settings.FuelConsumptionPickerSettingsGlassActivity-->unknown
+flag:
+
+com.hudway.glass.controllers.settings.FuelPriceSettingsGlassActivity-->unknown
+flag:
+
+com.hudway.glass.controllers.premium.PremiumGlassActivity-->unknown
+flag:
+
+com.hudway.glass.controllers.menu.MenuGlassActivity-->unknown
+flag:
+
+com.hudway.glass.controllers.settings.FuelConsumptionSettingsGlassActivity-->unknown
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.hudway.glass.controllers.entertainment.EntertainmentCategoryActivity-->unknown
+flag:
+
+com.hudway.glass.controllers.SplashActivity-->com.hudway.glass.controllers.welcome.WelcomeActivity
+flag:finish
+
+com.hudway.glass.controllers.SplashActivity-->com.hudway.glass.controllers.menu.MenuGlassActivity
+flag:finish
+

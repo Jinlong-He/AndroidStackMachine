@@ -1,0 +1,16 @@
+activity:.ChannelsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.ScheduleActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

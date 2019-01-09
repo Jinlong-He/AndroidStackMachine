@@ -1,0 +1,57 @@
+com.rentpath.lib.search.activity.FiltersActivity-->com.rentpath.lib.auth.activity.AuthenticateActivity
+flag:
+
+com.rentpath.lib.search.activity.FiltersActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:
+
+com.rentpath.lib.pdp.activity.ListingDetailsActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:finish
+
+com.rentpath.lib.pdp.activity.ListingDetailsActivity-->com.rentpath.lib.pdp.activity.FullScreenPicturesActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.rentpath.lib.auth.activity.EditAccountActivity-->com.rentpath.lib.auth.activity.CreatePasswordActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.rentpath.lib.auth.activity.EditAccountActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.rentpath.lib.search.activity.OnboardingActivity-->com.rentpath.lib.search.activity.LocationSearchActivity
+flag:
+
+com.rentpath.lib.search.activity.OnboardingActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:
+
+com.rentpath.lib.search.activity.OnboardingActivity-->com.rentpath.lib.auth.activity.AuthenticateActivity
+flag:
+
+com.rentpath.lib.search.activity.MainActivity-->com.rentpath.lib.activity.WhatsNewActivity
+flag:
+
+com.rentpath.lib.search.activity.MainActivity-->com.rentpath.lib.search.activity.OnboardingActivity
+flag:finish
+
+com.rentpath.lib.search.activity.MainActivity-->com.rentpath.lib.search.activity.SettingsActivity
+flag:
+
+com.rentpath.lib.search.activity.MainActivity-->com.rentpath.lib.auth.activity.AuthenticateActivity
+flag:
+
+com.rentpath.lib.search.activity.MainActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:
+
+com.rentpath.lib.pdp.activity.FullScreenPicturesActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:
+
+com.rentpath.lib.activity.UrlRouterActivity-->com.rentpath.lib.search.activity.MainActivity
+flag:
+
+com.rentpath.lib.pdp.activity.ReviewsActivity-->com.rentpath.lib.pdp.activity.ReportAbuseActivity
+flag:
+

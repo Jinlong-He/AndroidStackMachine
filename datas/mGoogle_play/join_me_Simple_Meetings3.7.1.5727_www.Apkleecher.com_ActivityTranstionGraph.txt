@@ -1,0 +1,12 @@
+com.logmein.joinme.startup.ExpiredAppActivity-->com.logmein.joinme.startup.StartupActivity
+flag:
+
+com.logmein.joinme.startup.StartupActivity-->com.logmein.joinme.startup.StartupActivity
+flag:
+
+com.logmein.joinme.JoinMeActivity-->com.logmein.joinme.startup.StartupActivity
+flag:finish
+
+com.logmein.joinme.JoinMeActivity-->com.logmein.joinme.startup.StartupActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

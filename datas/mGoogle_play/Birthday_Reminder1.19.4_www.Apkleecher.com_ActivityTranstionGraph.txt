@@ -1,0 +1,6 @@
+com.extremelogic.android.app.birthdayreminder.MainActivity-->com.extremelogic.android.app.birthdayreminder.SettingActivity
+flag:
+
+com.extremelogic.android.app.birthdayreminder.MainActivity-->com.extremelogic.android.app.birthdayreminder.DisplayInfoActivity
+flag:
+

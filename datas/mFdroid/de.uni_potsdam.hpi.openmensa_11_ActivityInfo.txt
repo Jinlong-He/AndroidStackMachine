@@ -1,0 +1,10 @@
+#MAIN
+activity:de.uni_potsdam.hpi.openmensa.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.uni_potsdam.hpi.openmensa.api.preferences.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

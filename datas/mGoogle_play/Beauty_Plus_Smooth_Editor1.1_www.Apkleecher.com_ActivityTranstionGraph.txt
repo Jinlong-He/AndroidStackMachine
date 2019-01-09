@@ -1,0 +1,3 @@
+com.BeautyTechnology.BeautyPlusSmoothCamera.SplashPage-->com.BeautyTechnology.BeautyPlusSmoothCamera.FragmentActivity
+flag:finish
+

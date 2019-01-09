@@ -1,0 +1,12 @@
+com.ogan.status2017.MainActivity-->com.ogan.status2017.CatagoryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ogan.status2017.CatagoryActivity-->com.ogan.status2017.Catagorymassage
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ogan.status2017.CatagoryActivity-->com.ogan.status2017.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

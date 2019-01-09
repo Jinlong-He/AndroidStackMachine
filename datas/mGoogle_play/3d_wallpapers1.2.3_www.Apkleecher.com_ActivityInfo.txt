@@ -1,0 +1,14 @@
+#MAIN
+activity:com.lalasoft.boyutluduvar.LalaSoft
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.lalasoft.boyutluduvar.ShowImageActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,81 @@
+com.cmcc.migusso.sdk.activity.FindPasswordActivity-->com.wondertek.activity.AppFakeActivity
+flag:
+
+.wxapi.WXPayEntryActivity-->com.wondertek.activity.AppFakeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.cmcc.migusso.sdk.activity.RegisterActivity-->com.cmcc.migusso.sdk.activity.UserProtocolActivity
+flag:
+
+com.cmcc.migupaysdk.activity.ChargeMiguMoneyActivity-->com.cmcc.migupaysdk.activity.MiGuChargePayActivity
+flag:
+
+com.cmcc.migusso.sdk.activity.LoginActivity-->com.cmcc.migusso.sdk.activity.SmsLoginActivity
+flag:
+
+com.cmcc.migusso.sdk.activity.LoginActivity-->com.cmcc.migusso.sdk.activity.FindPasswordActivity
+flag:
+
+com.cmcc.migupaysdk.activity.PayPasswordManageActivity-->com.cmcc.migupaysdk.activity.ModifyPasswordStepOneActivity
+flag:
+
+com.cmcc.migupaysdk.activity.PayPasswordManageActivity-->com.cmcc.migupaysdk.activity.SetNoPasswordPayActivity
+flag:
+
+com.wondertek.video.alipay.ReturnActivity-->com.wondertek.activity.AppFakeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.sina.weibo.sdk.component.WeiboSdkBrowser
+flag:
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.wondertek.activity.AppActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.cmcc.migupaysdk.activity.PasswordManageStepTwoActivity-->com.wondertek.activity.AppFakeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.cmcc.migupaysdk.activity.PayTypeActivity-->com.wondertek.activity.AppFakeActivity
+flag:
+
+com.cmcc.migupaysdk.activity.PayTypeActivity-->com.cmcc.migupaysdk.activity.PhonePayActivity
+flag:
+
+com.cmcc.migupaysdk.activity.ModifyPasswordStepOneActivity-->com.cmcc.migupaysdk.activity.ForgetPasswordStepOneActivity
+flag:
+
+com.cmcc.migupaysdk.activity.ModifyPasswordStepOneActivity-->com.cmcc.migupaysdk.activity.PasswordByUserCenter
+flag:
+
+com.cmcc.migupaysdk.activity.SetPasswordSuccessActivity-->com.cmcc.migupaysdk.activity.NoPasswordPayLimitActivity
+flag:
+
+com.cmcc.migupaysdk.activity.SetPasswordSuccessActivity-->com.cmcc.migupaysdk.activity.PayTypeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.cmcc.migupaysdk.activity.SetPasswordSuccessActivity-->com.cmcc.migupaysdk.activity.MyMiGuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.wondertek.activity.MediaRecorderActivity-->com.wondertek.activity.AppFakeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.migu.voiceads.utils.browser.MIGUBrowser-->com.wondertek.activity.AppFakeActivity
+flag:finish
+
+com.cmcc.migusso.sdk.activity.UserManageActivity-->com.cmcc.migusso.sdk.activity.LoginActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.zxing.client.android.CaptureActivity-->com.wondertek.activity.AppFakeActivity
+flag:
+
+.wxapi.WXEntryActivity-->com.wondertek.activity.AppFakeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.cmcc.migupaysdk.activity.MiGuChargePayResultActivity-->com.cmcc.migupaysdk.activity.MyMiGuActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cmcc.migupaysdk.activity.MiGuChargePayResultActivity-->com.cmcc.migupaysdk.activity.PayTypeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cmcc.migupaysdk.activity.MiGuChargePayResultActivity-->com.cmcc.migupaysdk.activity.ChargeMiguMoneyActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+

@@ -1,0 +1,6 @@
+com.gunshippenguin.openflood.GameActivity-->com.gunshippenguin.openflood.SettingsActivity
+flag:
+
+com.gunshippenguin.openflood.GameActivity-->com.gunshippenguin.openflood.InfoActivity
+flag:
+

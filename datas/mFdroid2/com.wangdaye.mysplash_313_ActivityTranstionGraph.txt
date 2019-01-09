@@ -1,0 +1,66 @@
+com.wangdaye.mysplash.user.view.activity.UserActivity-->com.wangdaye.mysplash.me.view.activity.MeActivity
+flag:finish
+
+com.wangdaye.mysplash.user.view.activity.UserActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.wangdaye.mysplash.user.view.activity.UserActivity-->com.wangdaye.mysplash.common.ui.activity.PreviewActivity
+flag:
+
+com.wangdaye.mysplash.common.ui.activity.LoginActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.wangdaye.mysplash.common.ui.activity.LoginActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:
+
+com.wangdaye.mysplash.photo.view.activity.PhotoActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.wangdaye.mysplash.photo.view.activity.PhotoActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:
+
+com.wangdaye.mysplash.collection.view.activity.CollectionActivity-->com.wangdaye.mysplash.user.view.activity.UserActivity
+flag:
+
+com.wangdaye.mysplash.collection.view.activity.CollectionActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.wangdaye.mysplash.collection.view.activity.CollectionActivity-->com.wangdaye.mysplash.me.view.activity.MeActivity
+flag:
+
+com.wangdaye.mysplash.collection.view.activity.CollectionActivity-->com.wangdaye.mysplash.common.ui.activity.LoginActivity
+flag:
+
+com.wangdaye.mysplash.me.view.activity.MeActivity-->com.wangdaye.mysplash.common.ui.activity.PreviewActivity
+flag:
+
+com.wangdaye.mysplash.me.view.activity.MeActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.wangdaye.mysplash.common.ui.activity.IntroduceActivity-->com.wangdaye.mysplash.common.ui.activity.SettingsActivity
+flag:
+
+com.wangdaye.mysplash.common.ui.activity.IntroduceActivity-->com.wangdaye.mysplash.common.ui.activity.IntroduceActivity
+flag:
+
+com.wangdaye.mysplash.common.ui.activity.DownloadManageActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.wangdaye.mysplash.main.view.activity.MainActivity-->com.wangdaye.mysplash.common.ui.activity.RestartActivity
+flag:finish
+
+com.wangdaye.mysplash.main.view.activity.MainActivity-->com.wangdaye.mysplash.common.ui.activity.DownloadManageActivity
+flag:
+
+com.wangdaye.mysplash.main.view.activity.MainActivity-->com.wangdaye.mysplash.common.ui.activity.SettingsActivity
+flag:
+
+com.wangdaye.mysplash.main.view.activity.MainActivity-->com.wangdaye.mysplash.about.view.activity.AboutActivity
+flag:
+
+com.wangdaye.mysplash.main.view.activity.MainActivity-->com.wangdaye.mysplash.common.ui.activity.IntroduceActivity
+flag:
+
+com.wangdaye.mysplash.common.ui.activity.RestartActivity-->com.wangdaye.mysplash.main.view.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+

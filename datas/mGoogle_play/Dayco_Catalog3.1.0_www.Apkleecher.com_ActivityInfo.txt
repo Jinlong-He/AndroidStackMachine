@@ -1,0 +1,14 @@
+#MAIN
+activity:air.it.A2piuconsulting.dayco3.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.google.zxing.client.android.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.zxing.client.android.encode.EncodeActivity
+LaunchMode:std
+TaskAffinity:null
+

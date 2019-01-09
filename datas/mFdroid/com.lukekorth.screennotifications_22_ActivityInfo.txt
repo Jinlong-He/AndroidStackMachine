@@ -1,0 +1,14 @@
+#MAIN
+activity:com.lukekorth.screennotifications.ScreenNotificationsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.lukekorth.screennotifications.AppsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.lukekorth.screennotifications.RecentAppsActivity
+LaunchMode:std
+TaskAffinity:null
+

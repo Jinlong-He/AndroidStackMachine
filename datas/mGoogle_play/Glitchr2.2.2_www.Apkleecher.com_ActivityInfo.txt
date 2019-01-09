@@ -1,0 +1,14 @@
+#MAIN
+activity:com.apporio.glitchr.EffectActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.apporio.glitchr.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.apporio.glitchr.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

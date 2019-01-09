@@ -1,0 +1,9 @@
+io.github.otakuchiyan.dnsman.MainActivity-->io.github.otakuchiyan.dnsman.DNSConfActivity
+flag:
+
+io.github.otakuchiyan.dnsman.MainActivity-->io.github.otakuchiyan.dnsman.SettingsActivity
+flag:
+
+io.github.otakuchiyan.dnsman.MainActivity-->io.github.otakuchiyan.dnsman.DNSListActivity
+flag:finish
+

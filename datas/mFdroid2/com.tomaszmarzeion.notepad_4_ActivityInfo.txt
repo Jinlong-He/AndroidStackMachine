@@ -1,0 +1,10 @@
+#MAIN
+activity:com.example.tomek.notepad.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.example.tomek.notepad.NoteActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+com.tencent.android.tpush.XGPushActivity-->ehafo.app.wxapi.WXEntryActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tencent.android.tpush.XGPushActivity-->ehafo.app.wxapi.WXEntryActivity
+flag:finish
+
+com.tencent.connect.common.AssistActivity-->ehafo.app.wxapi.WXEntryActivity
+flag:
+
+ehafo.app.WebviewPluginActivity-->ehafo.app.wxapi.WXEntryActivity
+flag:
+

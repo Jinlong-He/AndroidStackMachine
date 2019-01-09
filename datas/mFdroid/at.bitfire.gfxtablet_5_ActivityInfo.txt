@@ -1,0 +1,10 @@
+#MAIN
+activity:at.bitfire.gfxtablet.CanvasActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:at.bitfire.gfxtablet.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

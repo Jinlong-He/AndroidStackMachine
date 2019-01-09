@@ -1,0 +1,14 @@
+#MAIN
+activity:com.devuni.flashlight.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.devuni.flashlight.ADActivity
+LaunchMode:std
+TaskAffinity:null
+

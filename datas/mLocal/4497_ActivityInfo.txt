@@ -1,0 +1,6 @@
+#MAIN
+activity:com.nanchangmoni.jiakao.UnityPlayerNativeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

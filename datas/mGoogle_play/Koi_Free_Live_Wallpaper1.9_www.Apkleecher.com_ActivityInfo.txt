@@ -1,0 +1,14 @@
+#MAIN
+activity:HowToActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:PondActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:UpsellActivity
+LaunchMode:std
+TaskAffinity:null
+

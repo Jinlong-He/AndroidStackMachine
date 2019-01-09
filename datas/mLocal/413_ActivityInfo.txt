@@ -1,0 +1,6 @@
+#MAIN
+activity:com.weixinqun.xm.weixinqun.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

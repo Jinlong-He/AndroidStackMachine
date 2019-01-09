@@ -1,0 +1,6 @@
+io.github.scola.qart.MainActivity-->io.github.scola.qart.QRCodeResultActivity
+flag:
+
+io.github.scola.qart.MainActivity-->io.github.scola.qart.IntroActivity
+flag:
+

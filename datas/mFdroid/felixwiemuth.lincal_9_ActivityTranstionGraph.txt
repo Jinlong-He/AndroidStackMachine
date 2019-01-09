@@ -1,0 +1,6 @@
+felixwiemuth.lincal.ui.CalendarListActivity-->felixwiemuth.lincal.ui.CalendarViewActivity
+flag:
+
+felixwiemuth.lincal.ui.CalendarListActivity-->felixwiemuth.lincal.ui.AddCalendarActivity
+flag:
+

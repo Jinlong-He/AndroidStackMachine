@@ -1,0 +1,9 @@
+com.secupwn.aimsicd.AIMSICD-->com.secupwn.aimsicd.activities.SettingsActivity
+flag:
+
+com.secupwn.aimsicd.AIMSICD-->com.secupwn.aimsicd.activities.AboutActivity
+flag:
+
+com.secupwn.aimsicd.AIMSICD-->com.secupwn.aimsicd.activities.DebugLogs
+flag:
+

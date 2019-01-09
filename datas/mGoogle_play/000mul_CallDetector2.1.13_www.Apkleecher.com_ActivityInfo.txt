@@ -1,0 +1,14 @@
+#MAIN
+activity:com.privacystar.core.ui.EulaActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.privacystar.core.callerid.CallerIdActivity
+LaunchMode:stk
+TaskAffinity:.CallerIdActivity
+
+activity:com.privacystar.core.googleplay.v3.IABV3Activity
+LaunchMode:std
+TaskAffinity:null
+

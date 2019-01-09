@@ -1,0 +1,18 @@
+com.jbirdvegas.mgerrit.activities.PatchSetViewerActivity-->com.jbirdvegas.mgerrit.activities.DiffViewer
+flag:
+
+com.jbirdvegas.mgerrit.activities.AOKPChangelog-->com.jbirdvegas.mgerrit.activities.PrefsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_HISTORY  
+
+com.jbirdvegas.mgerrit.activities.GerritControllerActivity-->com.jbirdvegas.mgerrit.activities.GerritSwitcher
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_HISTORY  
+
+com.jbirdvegas.mgerrit.activities.GerritControllerActivity-->com.jbirdvegas.mgerrit.activities.PrefsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_HISTORY  
+
+com.jbirdvegas.mgerrit.activities.GerritControllerActivity-->com.jbirdvegas.mgerrit.activities.ProjectsList
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.jbirdvegas.mgerrit.activities.GerritControllerActivity-->com.jbirdvegas.mgerrit.activities.PatchSetViewerActivity
+flag:
+

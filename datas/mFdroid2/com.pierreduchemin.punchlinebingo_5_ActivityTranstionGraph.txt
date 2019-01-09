@@ -1,0 +1,12 @@
+com.pierreduchemin.punchlinebingo.activities.AboutActivity-->com.pierreduchemin.punchlinebingo.activities.LegalActivity
+flag:
+
+com.pierreduchemin.punchlinebingo.activities.MainActivity-->com.pierreduchemin.punchlinebingo.activities.AboutActivity
+flag:
+
+com.pierreduchemin.punchlinebingo.activities.MainActivity-->com.pierreduchemin.punchlinebingo.activities.GameActivity
+flag:
+
+com.pierreduchemin.punchlinebingo.activities.MainActivity-->com.pierreduchemin.punchlinebingo.activities.PunchlinesSetSelectorActivity
+flag:
+

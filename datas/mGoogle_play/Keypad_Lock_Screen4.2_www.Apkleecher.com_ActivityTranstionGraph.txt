@@ -1,0 +1,9 @@
+com.wow.keypad.lock.screen.MainActivity-->com.wow.keypad.lock.screen.LockSettings
+flag:
+
+com.wow.keypad.lock.screen.LockSettings-->com.ashstudio.appcenter.PrivacyActivity
+flag:
+
+com.wow.keypad.lock.screen.LockSettings-->com.wow.keypad.lock.screen.WallpaperChooser
+flag:
+

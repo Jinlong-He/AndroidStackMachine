@@ -1,0 +1,14 @@
+#MAIN
+activity:.DocxParserActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.ShowFile
+LaunchMode:stk
+TaskAffinity:null
+
+activity:.Preferences
+LaunchMode:std
+TaskAffinity:null
+

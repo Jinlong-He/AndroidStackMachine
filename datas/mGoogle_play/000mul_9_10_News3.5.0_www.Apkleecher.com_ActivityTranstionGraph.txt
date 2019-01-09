@@ -1,0 +1,24 @@
+com.frankly.news.activity.SettingsActivity-->com.frankly.news.activity.LauncherActivity
+flag:
+
+com.urbanairship.util.HelperActivity-->com.frankly.news.activity.LauncherActivity
+flag:
+
+com.frankly.news.activity.LauncherActivity-->com.frankly.news.activity.OnBoardingActivity
+flag:finish
+
+com.frankly.news.activity.SectionActivity-->com.frankly.news.activity.LauncherActivity
+flag:
+
+com.frankly.news.activity.FranklyNewsActivity-->com.frankly.news.activity.WeatherActivity
+flag:
+
+com.frankly.news.activity.FranklyNewsActivity-->com.frankly.news.activity.LauncherActivity
+flag:
+
+com.frankly.news.activity.InboxActivity-->com.frankly.news.activity.LauncherActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

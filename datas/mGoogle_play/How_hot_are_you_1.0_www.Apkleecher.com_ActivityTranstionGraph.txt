@@ -1,0 +1,3 @@
+ru.lukaville.faces.MainActivity-->ru.lukaville.faces.AnalyzeActivity
+flag:
+

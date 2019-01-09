@@ -1,0 +1,12 @@
+us.feras.mdv.demo.MainActivity-->us.feras.mdv.demo.MarkdownThemesActivity
+flag:
+
+us.feras.mdv.demo.MainActivity-->us.feras.mdv.demo.RemoteMarkdownActivity
+flag:
+
+us.feras.mdv.demo.MainActivity-->us.feras.mdv.demo.LocalMarkdownActivity
+flag:
+
+us.feras.mdv.demo.MainActivity-->us.feras.mdv.demo.MarkdownDataActivity
+flag:
+

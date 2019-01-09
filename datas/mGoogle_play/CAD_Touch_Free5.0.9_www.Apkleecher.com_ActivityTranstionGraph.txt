@@ -1,0 +1,6 @@
+com.cadTouch.android.CTActivity-->com.cadTouch.android.CTEditorActivity
+flag:
+
+com.cadTouch.android.CTActivity-->com.cadTouch.android.HelpActivity
+flag:
+

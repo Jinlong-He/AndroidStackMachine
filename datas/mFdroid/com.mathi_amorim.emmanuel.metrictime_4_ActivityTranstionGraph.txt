@@ -1,0 +1,3 @@
+com.mathi_amorim.emmanuel.metrictime.MainActivity-->com.mathi_amorim.emmanuel.metrictime.SettingsActivity
+flag:
+

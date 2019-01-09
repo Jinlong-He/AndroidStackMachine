@@ -1,0 +1,14 @@
+#MAIN
+activity:com.graphics.logodesign._DLogoDesign
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.adobe.phonegap.push.PushHandlerActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

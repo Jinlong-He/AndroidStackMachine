@@ -1,0 +1,15 @@
+com.hd.factory.fairy.ActivityMain-->com.hd.factory.fairy.ActivitySearch
+flag:
+
+com.hd.factory.fairy.ActivityMain-->com.hd.factory.fairy.ActivityFavorite
+flag:
+
+com.hd.factory.fairy.ActivityTab-->com.hd.factory.fairy.ActivitySearch
+flag:
+
+com.hd.factory.fairy.ActivityTab-->com.hd.factory.fairy.ActivityFavorite
+flag:
+
+com.hd.factory.fairy.ActivityTab-->com.hd.factory.fairy.ActivityMoreApps
+flag:
+

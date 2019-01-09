@@ -1,0 +1,39 @@
+ch.homegate.mobile.account.ShowUserChangeActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+ch.homegate.mobile.account.LogInActivity-->ch.homegate.mobile.account.RegistrationActivity
+flag:
+
+ch.homegate.mobile.account.LogInActivity-->ch.homegate.mobile.account.ShowUserChangeActivity
+flag:finish
+
+ch.homegate.mobile.account.LogInActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:finish
+
+ch.homegate.mobile.appstart.SplashActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+ch.homegate.mobile.appstart.SplashActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:finish
+
+ch.homegate.mobile.mainview.MainActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+ch.homegate.mobile.cms.ContentSiteActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:
+
+ch.homegate.mobile.account.RegistrationActivity-->ch.homegate.mobile.account.ShowUserChangeActivity
+flag:finish
+
+ch.homegate.mobile.account.RegistrationActivity-->ch.homegate.mobile.cms.ContentSiteActivity
+flag:
+
+ch.homegate.mobile.account.RegistrationActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:
+
+ch.homegate.mobile.results.EstateResultsActivity-->ch.homegate.mobile.mainview.MainActivity
+flag:
+

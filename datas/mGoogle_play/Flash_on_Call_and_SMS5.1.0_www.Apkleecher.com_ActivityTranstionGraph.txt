@@ -1,0 +1,12 @@
+com.fineart.flash.on.call.sms.activities.MainActivity-->com.fineart.flash.on.call.sms.activities.TimeActivity
+flag:
+
+com.fineart.flash.on.call.sms.activities.MainActivity-->com.fineart.flash.on.call.sms.activities.NotificationsAppsActivity
+flag:
+
+com.fineart.flash.on.call.sms.activities.SplashActivity-->com.fineart.flash.on.call.sms.activities.Main
+flag:finish
+
+com.fineart.flash.on.call.sms.activities.Main-->com.fineart.flash.on.call.sms.activities.MainActivity
+flag:
+

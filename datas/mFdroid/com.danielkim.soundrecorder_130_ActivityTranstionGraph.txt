@@ -1,0 +1,3 @@
+com.danielkim.soundrecorder.activities.MainActivity-->com.danielkim.soundrecorder.activities.SettingsActivity
+flag:
+

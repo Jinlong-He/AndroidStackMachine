@@ -1,0 +1,9 @@
+com.rubenroy.minimaltodo.MainActivity-->com.rubenroy.minimaltodo.SettingsActivity
+flag:
+
+com.rubenroy.minimaltodo.MainActivity-->com.rubenroy.minimaltodo.AboutActivity
+flag:
+
+com.rubenroy.minimaltodo.ReminderActivity-->com.rubenroy.minimaltodo.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

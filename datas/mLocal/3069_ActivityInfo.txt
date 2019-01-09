@@ -1,0 +1,6 @@
+#MAIN
+activity:com.depthlink.airlink.AirLinkAct
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

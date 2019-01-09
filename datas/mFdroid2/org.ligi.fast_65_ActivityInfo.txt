@@ -1,0 +1,14 @@
+activity:org.ligi.fast.ui.FASTSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.ligi.fast.ui.LoadingDialog
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:org.ligi.fast.ui.SearchActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

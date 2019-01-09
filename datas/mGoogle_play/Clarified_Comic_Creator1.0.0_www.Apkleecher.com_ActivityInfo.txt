@@ -1,0 +1,14 @@
+#MAIN
+activity:com.unity3d.player.UnityPlayerActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.unity.purchasing.googleplay.PurchaseActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.unity.purchasing.googleplay.VRPurchaseActivity
+LaunchMode:std
+TaskAffinity:null
+

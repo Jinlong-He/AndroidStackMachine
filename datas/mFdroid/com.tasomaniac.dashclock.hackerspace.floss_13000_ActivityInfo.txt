@@ -1,0 +1,4 @@
+activity:com.tasomaniac.dashclock.hackerspace.ui.SettingsActivity
+LaunchMode:stk
+TaskAffinity:null
+

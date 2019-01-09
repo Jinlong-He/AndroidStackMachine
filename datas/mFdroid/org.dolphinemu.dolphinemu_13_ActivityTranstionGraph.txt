@@ -1,0 +1,6 @@
+org.dolphinemu.dolphinemu.activities.MainActivity-->org.dolphinemu.dolphinemu.activities.AddDirectoryActivity
+flag:
+
+org.dolphinemu.dolphinemu.activities.MainActivity-->org.dolphinemu.dolphinemu.activities.SettingsActivity
+flag:
+

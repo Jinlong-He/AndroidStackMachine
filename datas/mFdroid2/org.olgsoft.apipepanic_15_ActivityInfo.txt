@@ -1,0 +1,6 @@
+#MAIN
+activity:org.olgsoft.apipepanic.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

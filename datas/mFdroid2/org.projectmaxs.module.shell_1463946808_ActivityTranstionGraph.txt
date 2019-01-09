@@ -1,0 +1,3 @@
+.activities.InfoAndSettings-->org.projectmaxs.module.shell.activities.Settings
+flag:
+

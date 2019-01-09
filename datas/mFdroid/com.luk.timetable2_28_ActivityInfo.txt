@@ -1,0 +1,14 @@
+#MAIN
+activity:com.luk.timetable2.activities.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.luk.timetable2.activities.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.luk.timetable2.activities.v7.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

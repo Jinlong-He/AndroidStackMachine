@@ -1,0 +1,9 @@
+com.luk.timetable2.activities.MainActivity-->com.luk.timetable2.activities.SettingsActivity
+flag:
+
+com.luk.timetable2.activities.MainActivity-->com.luk.timetable2.activities.v7.SettingsActivity
+flag:
+
+com.luk.timetable2.activities.v7.SettingsActivity-->com.luk.timetable2.activities.MainActivity
+flag:
+

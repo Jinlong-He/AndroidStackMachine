@@ -1,0 +1,6 @@
+#MAIN
+activity:gov.cdc.ncird.vaccineschedule.VaccineSchedules
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

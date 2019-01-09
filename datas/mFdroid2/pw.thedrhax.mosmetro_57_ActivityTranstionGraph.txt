@@ -1,0 +1,15 @@
+pw.thedrhax.mosmetro.activities.SettingsActivity-->pw.thedrhax.mosmetro.activities.SafeViewActivity
+flag:
+
+pw.thedrhax.mosmetro.activities.SettingsActivity-->pw.thedrhax.mosmetro.activities.DebugActivity
+flag:
+
+pw.thedrhax.mosmetro.activities.DebugActivity-->pw.thedrhax.mosmetro.activities.ShortcutDialog
+flag:
+
+pw.thedrhax.mosmetro.activities.DebugActivity-->pw.thedrhax.mosmetro.activities.SendLogActivity
+flag:
+
+pw.thedrhax.mosmetro.activities.SendLogActivity-->pw.thedrhax.mosmetro.activities.DebugActivity
+flag:finish
+

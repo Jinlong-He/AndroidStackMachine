@@ -1,0 +1,12 @@
+com.tran.hwtsfy.SpeakerActivity-->com.tran.hwtsfy.SettingActivity
+flag:
+
+com.tran.hwtsfy.SpeakerActivity-->com.tran.hwtsfy.TranslatorNew
+flag:
+
+com.tran.hwtsfy.TranslatorNew-->com.tran.hwtsfy.ConversActivity
+flag:
+
+com.tran.hwtsfy.TranslatorNew-->com.tran.hwtsfy.SettingActivity
+flag:
+

@@ -1,0 +1,15 @@
+.Main-->com.labcorp.mobile.beacon.AboutDialog
+flag:
+
+.Main-->com.labcorp.mobile.beacon.Login
+flag:finish
+
+.SpecimenPager-->com.labcorp.mobile.beacon.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.Expert-->com.labcorp.mobile.beacon.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.Login-->com.labcorp.mobile.beacon.Login
+flag:finish
+

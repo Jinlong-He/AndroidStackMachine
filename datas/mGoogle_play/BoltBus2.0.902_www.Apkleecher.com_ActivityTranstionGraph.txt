@@ -1,0 +1,129 @@
+com.boltbus.mobile.consumer.mytrips.TripDetailActivity-->com.boltbus.mobile.consumer.mytrips.BarcodeActivity
+flag:
+
+com.boltbus.mobile.consumer.LoginActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.boltbus.mobile.consumer.LoginActivity-->com.boltbus.mobile.consumer.rewards.MyRewardsActivity
+flag:
+
+com.boltbus.mobile.consumer.LoginActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:finish
+
+com.boltbus.mobile.consumer.purchase.CheckoutActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.apptentive.android.sdk.ViewActivity-->com.apptentive.android.sdk.ViewActivity
+flag:
+
+com.boltbus.mobile.consumer.SortActivity_-->com.boltbus.mobile.consumer.HomeActivity
+flag:
+
+com.boltbus.mobile.consumer.information.ContactUsActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.SplashActivity-->com.boltbus.mobile.consumer.information.TermsConditionsActivity
+flag:finish
+
+com.boltbus.mobile.consumer.SplashActivity-->unknown
+flag:finish
+
+com.boltbus.mobile.consumer.information.FAQActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.rewards.MyRewardsActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.bustracker.BusTrackerActivity-->com.boltbus.mobile.consumer.information.TermsConditionsActivity
+flag:
+
+com.boltbus.mobile.consumer.mytrips.MyTripsActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.mytrips.MyTripsActivity-->com.boltbus.mobile.consumer.mytrips.TripDetailActivity
+flag:
+
+com.boltbus.mobile.consumer.mytrips.MyTripsActivity-->com.boltbus.mobile.consumer.information.StationInformationActivity
+flag:
+
+com.boltbus.mobile.consumer.mytrips.MyTripsActivity-->com.boltbus.mobile.consumer.rewards.MyRewardsActivity
+flag:finish
+
+com.boltbus.mobile.consumer.LocationSearchActivity_-->com.boltbus.mobile.consumer.HomeActivity
+flag:
+
+com.boltbus.mobile.consumer.uber.UberActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:
+
+com.boltbus.mobile.consumer.uber.UberActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.uber.UberActivity-->com.boltbus.mobile.consumer.information.TermsConditionsActivity
+flag:
+
+com.boltbus.mobile.consumer.purchase.CheckoutConfirmationActivity-->com.boltbus.mobile.consumer.purchase.CheckoutConfirmationActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.purchase.CheckoutConfirmationActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.information.LocationListActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.information.LocationListActivity-->com.boltbus.mobile.consumer.information.StationInformationActivity
+flag:
+
+com.boltbus.mobile.consumer.EditCartActivity-->com.boltbus.mobile.consumer.ScheduleActivity
+flag:
+
+com.boltbus.mobile.consumer.MyCartActivity-->com.boltbus.mobile.consumer.EditCartActivity
+flag:
+
+com.boltbus.mobile.consumer.MyCartActivity-->com.boltbus.mobile.consumer.MyCartActivity
+flag:finish
+
+com.boltbus.mobile.consumer.MyCartActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.MyCartActivity-->com.boltbus.mobile.consumer.ScheduleActivity
+flag:finish
+
+com.boltbus.mobile.consumer.MyCartActivity-->com.boltbus.mobile.consumer.purchase.CheckoutActivity
+flag:
+
+com.boltbus.mobile.consumer.MyCartActivity-->com.boltbus.mobile.consumer.LoginActivity
+flag:
+
+com.boltbus.mobile.consumer.MyCartActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:finish
+
+com.boltbus.mobile.consumer.SignOutActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.information.TermsConditionsActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.ScheduleActivity-->com.boltbus.mobile.consumer.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.boltbus.mobile.consumer.SearchScheduleActivity-->com.boltbus.mobile.consumer.MyCartActivity
+flag:finish
+
+com.boltbus.mobile.consumer.HomeActivity-->com.boltbus.mobile.consumer.mytrips.MyTripsActivity
+flag:
+
+com.boltbus.mobile.consumer.HomeActivity-->com.boltbus.mobile.consumer.ScheduleActivity
+flag:
+
+com.boltbus.mobile.consumer.HomeActivity-->com.boltbus.mobile.consumer.information.LocationListActivity
+flag:
+
+com.boltbus.mobile.consumer.HomeActivity-->com.boltbus.mobile.consumer.rewards.MyRewardsActivity
+flag:
+
+com.boltbus.mobile.consumer.HomeActivity-->com.boltbus.mobile.consumer.LoginActivity
+flag:
+
+com.boltbus.mobile.consumer.HomeActivity-->com.boltbus.mobile.consumer.information.FAQInformationActivity
+flag:
+

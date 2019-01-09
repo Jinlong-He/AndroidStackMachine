@@ -1,0 +1,15 @@
+com.threeksd.hdanimewallpapers.SlideImageActivity-->com.threeksd.hdanimewallpapers.SetAsWallpaperActivity
+flag:
+
+com.threeksd.hdanimewallpapers.MainActivity-->com.threeksd.hdanimewallpapers.AboutActivity
+flag:
+
+com.threeksd.hdanimewallpapers.MainActivity-->com.threeksd.hdanimewallpapers.Settings
+flag:
+
+com.threeksd.hdanimewallpapers.SplashActivity-->com.threeksd.hdanimewallpapers.MainActivity
+flag:finish
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

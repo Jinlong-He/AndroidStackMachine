@@ -1,0 +1,15 @@
+com.phone.lock.ui.Launcher-->com.phone.lock.ui.PwdActivity
+flag:finish
+
+com.phone.lock.ui.LockActivity-->com.google.ads.AdActivity
+flag:
+
+com.phone.lock.ui.PwdActivity-->com.phone.lock.ui.LockActivity
+flag:finish
+
+com.google.ads.AdActivity-->com.phone.lock.ui.PwdActivity
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

@@ -1,0 +1,4 @@
+activity:eu.siacs.conversations.voicerecorder.ui.RecordingActivity
+LaunchMode:std
+TaskAffinity:null
+

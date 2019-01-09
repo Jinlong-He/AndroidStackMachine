@@ -1,0 +1,12 @@
+com.codenza.dp.programs.MainActivity-->com.codenza.dp.programs.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.codenza.dp.programs.MainActivity-->com.codenza.dp.programs.CustomTabs
+flag:
+
+com.codenza.dp.programs.MainActivity-->com.codenza.dp.programs.MainActivity
+flag:
+
+com.codenza.dp.programs.Splash-->com.codenza.dp.programs.MainActivity
+flag:finish
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:.LockScreen
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

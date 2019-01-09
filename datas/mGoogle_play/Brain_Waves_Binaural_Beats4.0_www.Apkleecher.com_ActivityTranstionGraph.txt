@@ -1,0 +1,3 @@
+net.luizmello.brainwaves.view.activity.SplashActivity-->net.luizmello.brainwaves.view.activity.MainActivity
+flag:finish
+

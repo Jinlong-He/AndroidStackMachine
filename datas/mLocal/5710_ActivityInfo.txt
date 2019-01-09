@@ -1,0 +1,10 @@
+#MAIN
+activity:br.com.carlosrafaelgn.fplay.activity.ActivityHost
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:br.com.carlosrafaelgn.fplay.activity.ActivityVisualizer
+LaunchMode:std
+TaskAffinity:null
+

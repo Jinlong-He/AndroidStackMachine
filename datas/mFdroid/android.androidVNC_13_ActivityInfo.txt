@@ -1,0 +1,14 @@
+#MAIN
+activity:androidVNC
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:VncCanvasActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.ConnectionListActivity
+LaunchMode:std
+TaskAffinity:null
+

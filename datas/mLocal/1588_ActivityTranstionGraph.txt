@@ -1,0 +1,15 @@
+com.tencent.connect.common.AssistActivity-->com.dlj24pi.android.activity.SecondEnterActivity
+flag:
+
+com.tencent.android.tpush.XGPushActivity-->com.dlj24pi.android.activity.SecondEnterActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tencent.android.tpush.XGPushActivity-->com.dlj24pi.android.activity.SecondEnterActivity
+flag:finish
+
+com.dlj24pi.android.activity.StartActivity-->com.dlj24pi.android.activity.NavigateActivity
+flag:finish
+
+com.dlj24pi.android.activity.StartActivity-->com.dlj24pi.android.activity.MainActivity
+flag:finish
+

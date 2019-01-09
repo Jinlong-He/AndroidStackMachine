@@ -1,0 +1,6 @@
+#MAIN
+activity:ryey.flock.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

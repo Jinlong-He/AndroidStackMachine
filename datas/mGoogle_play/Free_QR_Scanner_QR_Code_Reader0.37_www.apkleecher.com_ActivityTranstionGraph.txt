@@ -1,0 +1,9 @@
+app.qrcode.ResultActivities.BarCodeActivity-->app.qrcode.ResultActivities.WebviewActivity
+flag:
+
+app.qrcode.MainActivity-->app.qrcode.PictureActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

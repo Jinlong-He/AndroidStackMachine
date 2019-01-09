@@ -1,0 +1,75 @@
+com.ellucian.mobile.android.app.OutdatedReceiverActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ellucian.mobile.android.app.SendToSelectionReceiverActivity-->com.ellucian.mobile.android.schoolselector.SchoolSelectionActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.ellucian.mobile.android.webframe.WebframeActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:
+
+com.ellucian.mobile.android.courses.overview.CourseOverviewActivity-->com.ellucian.mobile.android.directory.DirectoryDetailActivity
+flag:
+
+com.ellucian.mobile.android.courses.overview.CourseOverviewActivity-->com.ellucian.mobile.android.directory.DirectoryListActivity
+flag:
+
+com.ellucian.mobile.android.courses.overview.CourseOverviewActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:
+
+com.ellucian.mobile.android.courses.daily.CoursesDailyScheduleActivity-->com.ellucian.mobile.android.courses.overview.CourseOverviewActivity
+flag:
+
+com.ellucian.mobile.android.numbers.NumbersListActivity-->com.ellucian.mobile.android.numbers.NumbersListActivity
+flag:FLAG_ACTIVITY_PREVIOUS_IS_TOP  finish
+
+com.ellucian.mobile.android.maps.MapsActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:
+
+com.ellucian.mobile.android.maps.MapsActivity-->com.ellucian.mobile.android.maps.BuildingListActivity
+flag:
+
+com.ellucian.mobile.android.maps.MapsActivity-->com.ellucian.mobile.android.maps.LegalNoticesActivity
+flag:
+
+com.ellucian.mobile.android.ilp.IlpListActivity-->com.ellucian.mobile.android.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ellucian.mobile.android.ilp.IlpListActivity-->com.ellucian.mobile.android.ilp.IlpDetailActivity
+flag:FLAG_ACTIVITY_PREVIOUS_IS_TOP  finish
+
+com.ellucian.mobile.android.notifications.NotificationsActivity-->com.ellucian.mobile.android.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ellucian.mobile.android.ilp.IlpCardActivity-->com.ellucian.mobile.android.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ellucian.mobile.android.ilp.IlpCardActivity-->com.ellucian.mobile.android.ilp.IlpListActivity
+flag:
+
+com.ellucian.mobile.android.MainActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:
+
+com.ellucian.mobile.android.MainActivity-->com.ellucian.mobile.android.schoolselector.SchoolSelectionActivity
+flag:
+
+com.ellucian.mobile.android.maps.BuildingListActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:
+
+com.ellucian.mobile.android.maps.MapsSingleLocationActivity-->com.ellucian.mobile.android.maps.LegalNoticesActivity
+flag:
+
+com.ellucian.mobile.android.about.AboutActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:
+
+com.ellucian.mobile.android.app.ConfigurationUpdateReceiverActivity-->com.ellucian.mobile.android.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.ellucian.mobile.android.app.ConfigurationUpdateReceiverActivity-->com.ellucian.mobile.android.schoolselector.ConfigurationLoadingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ellucian.mobile.android.events.EventsActivity-->com.ellucian.mobile.android.events.EventsActivity
+flag:FLAG_ACTIVITY_PREVIOUS_IS_TOP  finish
+
+com.ellucian.mobile.android.news.NewsActivity-->com.ellucian.mobile.android.news.NewsActivity
+flag:FLAG_ACTIVITY_PREVIOUS_IS_TOP  finish
+

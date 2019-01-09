@@ -1,0 +1,12 @@
+net.fred.feedex.activity.HomeActivity-->net.fred.feedex.activity.GeneralPrefsActivity
+flag:
+
+net.fred.feedex.activity.HomeActivity-->net.fred.feedex.activity.EditFeedsListActivity
+flag:
+
+net.fred.feedex.activity.HomeActivity-->net.fred.feedex.activity.AddGoogleNewsActivity
+flag:
+
+net.fred.feedex.activity.EntryActivity-->net.fred.feedex.activity.HomeActivity
+flag:finish
+

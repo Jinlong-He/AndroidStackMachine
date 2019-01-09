@@ -1,0 +1,66 @@
+in.usefulapps.timelybills.activity.AppStartupActivity-->in.usefulapps.timelybills.createbillnotification.SetupRecurringBillsActivity
+flag:
+
+in.usefulapps.timelybills.activity.AppStartupActivity-->in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity
+flag:
+
+in.usefulapps.timelybills.createbillnotification.SetupRecurringBillsActivity-->in.usefulapps.timelybills.createbillnotification.CreateBillNotificationActivity
+flag:
+
+in.usefulapps.timelybills.createbillnotification.SetupRecurringBillsActivity-->in.usefulapps.timelybills.activity.AppStartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity-->in.usefulapps.timelybills.activity.AppStartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity-->in.usefulapps.timelybills.createbillnotification.CreateBillNotificationActivity
+flag:
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity-->in.usefulapps.timelybills.showbillnotifications.CalendarViewActivity
+flag:
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity-->in.usefulapps.timelybills.activity.SettingsActivity
+flag:
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity-->in.usefulapps.timelybills.reports.AccountBarChartActivity
+flag:
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity-->in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity
+flag:
+
+in.usefulapps.timelybills.activity.BackupRestoreActivity-->in.usefulapps.timelybills.activity.SettingsActivity
+flag:finish
+
+in.usefulapps.timelybills.managebillcategory.BillCategoryListActivity-->in.usefulapps.timelybills.managebillcategory.CreateBillCategoryActivity
+flag:
+
+in.usefulapps.timelybills.managebillcategory.BillCategoryListActivity-->in.usefulapps.timelybills.activity.SettingsActivity
+flag:finish
+
+in.usefulapps.timelybills.createbillnotification.CreateBillNotificationActivity-->in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity
+flag:finish
+
+in.usefulapps.timelybills.createbillnotification.CreateBillNotificationActivity-->in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+in.usefulapps.timelybills.createbillnotification.CreateBillNotificationActivity-->unknown
+flag:
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity-->in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity-->in.usefulapps.timelybills.showbillnotifications.BillNotificationListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity-->in.usefulapps.timelybills.payment.PaymentActivity
+flag:
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity-->in.usefulapps.timelybills.createbillnotification.CreateBillNotificationActivity
+flag:
+
+in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity-->in.usefulapps.timelybills.reports.AccountBarChartActivity
+flag:
+
+in.usefulapps.timelybills.payment.PaymentActivity-->in.usefulapps.timelybills.showbillnotifications.BillNotificationDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

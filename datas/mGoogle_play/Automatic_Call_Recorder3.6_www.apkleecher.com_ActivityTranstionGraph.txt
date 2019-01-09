@@ -1,0 +1,36 @@
+com.smsrobot.callrecorder.CallRecorder-->com.smsrobot.callrecorder.ExitDialogActivity
+flag:
+
+com.dropbox.core.android.AuthActivity-->com.dropbox.core.android.AuthActivity
+flag:
+
+com.smsrobot.callrecorder.AfterCallActivity-->com.dropbox.core.android.AuthActivity
+flag:FLAG_GRANT_READ_URI_PERMISSION  
+
+com.smsrobot.callrecorder.AfterCallActivity-->com.smsrobot.callrecorder.PinEntryDialog
+flag:finish
+
+com.smsrobot.callrecorder.AfterCallActivity-->com.smsrobot.callrecorder.CallRecorder
+flag:finish
+
+com.smsrobot.callrecorder.AfterCallActivity-->com.smsrobot.callrecorder.CallPlayer
+flag:
+
+com.smsrobot.callrecorder.AfterCallActivity-->com.smsrobot.callrecorder.NewNoteActivity
+flag:
+
+com.smsrobot.callrecorder.StartActivity-->com.smsrobot.callrecorder.CallRecorder
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.smsrobot.callrecorder.StartActivity-->com.smsrobot.callrecorder.CallRecorder
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.smsrobot.callrecorder.StartActivity-->com.smsrobot.callrecorder.PinEntryDialog
+flag:finish
+
+com.smsrobot.callrecorder.PinEntryDialog-->com.smsrobot.callrecorder.CallRecorder
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.smsrobot.callrecorder.PinEntryDialog-->com.smsrobot.callrecorder.CallRecorder
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

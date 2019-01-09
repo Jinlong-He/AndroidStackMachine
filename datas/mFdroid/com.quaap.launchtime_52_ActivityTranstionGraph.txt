@@ -1,0 +1,36 @@
+com.quaap.launchtime.BackupActivity-->com.quaap.launchtime.MainActivity
+flag:finish
+
+com.quaap.launchtime.BackupActivity-->com.quaap.launchtime.SettingsActivity
+flag:finish
+
+com.quaap.launchtime.BackupActivity-->com.quaap.launchtime.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.quaap.launchtime.SettingsActivity-->com.quaap.launchtime.MainActivity
+flag:finish
+
+com.quaap.launchtime.AboutActivity-->com.quaap.launchtime.MainActivity
+flag:finish
+
+com.quaap.launchtime.AboutActivity-->com.quaap.launchtime.SettingsActivity
+flag:finish
+
+com.quaap.launchtime.CrashReportActivity-->com.quaap.launchtime.SettingsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK  finish
+
+com.quaap.launchtime.MainActivity-->com.quaap.launchtime.SettingsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.quaap.launchtime.MainActivity-->com.quaap.launchtime.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.quaap.launchtime.MainActivity-->com.quaap.launchtime.AboutActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.quaap.launchtime.FeedbackActivity-->com.quaap.launchtime.MainActivity
+flag:finish
+
+com.quaap.launchtime.FeedbackActivity-->com.quaap.launchtime.SettingsActivity
+flag:finish
+

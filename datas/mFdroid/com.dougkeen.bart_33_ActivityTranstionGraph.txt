@@ -1,0 +1,6 @@
+com.dougkeen.bart.activities.ViewDeparturesActivity-->com.dougkeen.bart.activities.ViewMapActivity
+flag:
+
+com.dougkeen.bart.activities.RoutesListActivity_-->com.dougkeen.bart.activities.ViewDeparturesActivity
+flag:
+

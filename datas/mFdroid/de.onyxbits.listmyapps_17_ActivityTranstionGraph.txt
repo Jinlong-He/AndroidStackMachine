@@ -1,0 +1,9 @@
+de.onyxbits.listmyapps.MainActivity-->de.onyxbits.listmyapps.AnnotationsActivity
+flag:
+
+de.onyxbits.listmyapps.MainActivity-->de.onyxbits.listmyapps.TemplatesActivity
+flag:
+
+de.onyxbits.listmyapps.TemplatesActivity-->de.onyxbits.listmyapps.TemplateEditorActivity
+flag:
+

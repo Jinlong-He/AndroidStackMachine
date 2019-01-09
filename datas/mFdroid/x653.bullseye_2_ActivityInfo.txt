@@ -1,0 +1,6 @@
+#MAIN
+activity:x653.bullseye.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

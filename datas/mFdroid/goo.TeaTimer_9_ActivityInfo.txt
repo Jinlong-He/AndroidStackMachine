@@ -1,0 +1,10 @@
+#MAIN
+activity:.TimerActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.TimerPrefActivity
+LaunchMode:std
+TaskAffinity:null
+

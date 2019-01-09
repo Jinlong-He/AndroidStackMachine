@@ -1,0 +1,14 @@
+#MAIN
+activity:github.yaa110.memento.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:github.yaa110.memento.activity.CategoryActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:github.yaa110.memento.activity.NoteActivity
+LaunchMode:std
+TaskAffinity:null
+

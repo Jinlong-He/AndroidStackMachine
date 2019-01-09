@@ -1,0 +1,6 @@
+com.plugin.gcm.PushHandlerActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

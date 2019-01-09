@@ -1,0 +1,15 @@
+com.flysnow.days.ui.LauncherActivity-->com.flysnow.days.ui.DaysListActivity
+flag:finish
+
+com.flysnow.days.ui.LauncherActivity-->unknown
+flag:
+
+com.flysnow.days.ui.ViewDayActivity-->unknown
+flag:
+
+com.flysnow.days.ui.DaysListActivity-->com.flysnow.days.ui.DaysFragmentActivity
+flag:
+
+com.flysnow.days.ui.DaysListActivity-->unknown
+flag:
+

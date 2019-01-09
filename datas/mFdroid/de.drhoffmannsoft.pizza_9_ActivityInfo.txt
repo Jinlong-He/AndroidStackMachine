@@ -1,0 +1,14 @@
+#MAIN
+activity:de.drhoffmannsoft.pizza.PizzacostActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.drhoffmannsoft.pizza.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.drhoffmannsoft.pizza.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,8 @@
+activity:.MinistroActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.kde.necessitas.ministro.MinistroConfigActivity
+LaunchMode:std
+TaskAffinity:null
+

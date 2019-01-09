@@ -1,0 +1,6 @@
+#MAIN
+activity:.Screen1
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

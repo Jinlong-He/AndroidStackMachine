@@ -1,0 +1,14 @@
+#MAIN
+activity:net.sourceforge.xhdcamera.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.sourceforge.xhdcamera.TakePhoto
+LaunchMode:std
+TaskAffinity:
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

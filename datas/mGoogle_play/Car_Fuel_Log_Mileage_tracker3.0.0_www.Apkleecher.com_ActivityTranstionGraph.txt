@@ -1,0 +1,33 @@
+com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt-->com.google.android.gms.appinvite.PreviewActivity
+flag:finish
+
+com.firebase.ui.auth.ui.email.RegisterEmailActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.firebase.ui.auth.KickoffActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.andrzejsalwin.carfuellog.SignInActivity-->com.andrzejsalwin.carfuellog.MainActivity
+flag:finish
+
+com.andrzejsalwin.carfuellog.SignInActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.andrzejsalwin.carfuellog.MainActivity-->com.andrzejsalwin.carfuellog.SignInActivity
+flag:finish
+
+com.andrzejsalwin.carfuellog.MainActivity-->com.facebook.CustomTabActivity
+flag:finish
+

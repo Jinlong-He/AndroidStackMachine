@@ -1,0 +1,3 @@
+.MyImgViewSigle-->com.dazhonghua.wallpapaer.Angel.ExitPage
+flag:finish
+

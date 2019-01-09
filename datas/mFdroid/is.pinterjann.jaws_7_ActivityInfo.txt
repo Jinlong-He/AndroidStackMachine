@@ -1,0 +1,14 @@
+#MAIN
+activity:is.pinterjann.jaws.activities.JAWSActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:is.pinterjann.jaws.activities.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:is.pinterjann.jaws.activities.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

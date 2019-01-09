@@ -1,0 +1,9 @@
+com.addtexttophotos.thephotoapps.activity.MainActivity-->com.addtexttophotos.thephotoapps.activity.ChoosePhotosActivity
+flag:
+
+com.addtexttophotos.thephotoapps.activity.MenuActivity-->com.addtexttophotos.thephotoapps.activity.MainActivity
+flag:
+
+com.addtexttophotos.thephotoapps.activity.MenuActivity-->com.addtexttophotos.thephotoapps.activity.SamplePhotosActivity
+flag:
+

@@ -1,0 +1,9 @@
+com.ext.ui.MainActivity-->com.ext.ui.SettingsActivity
+flag:
+
+com.ext.ui.MainActivity-->com.startapp.android.publish.adsCommon.activities.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.startapp.android.publish.ads.list3d.List3DActivity-->com.startapp.android.publish.adsCommon.activities.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

@@ -1,0 +1,14 @@
+activity:com.ittus.book_template.ReadBookActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.ittus.book_template.SplashScreenActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

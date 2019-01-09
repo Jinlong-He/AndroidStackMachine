@@ -1,0 +1,6 @@
+#MAIN
+activity:.MicrophoneActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

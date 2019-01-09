@@ -1,0 +1,6 @@
+#MAIN
+activity:org.dgtale.icsimport.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

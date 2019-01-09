@@ -1,0 +1,6 @@
+#MAIN
+activity:com.itds.sms.ping.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

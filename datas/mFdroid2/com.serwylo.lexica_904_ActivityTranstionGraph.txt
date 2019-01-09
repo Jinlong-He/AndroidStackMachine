@@ -1,0 +1,9 @@
+com.serwylo.lexica.PlayLexica-->com.serwylo.lexica.ScoreActivity
+flag:finish
+
+com.serwylo.lexica.Lexica-->com.serwylo.lexica.PlayLexica
+flag:
+
+com.serwylo.lexica.Lexica-->com.serwylo.lexica.LexicaConfig
+flag:
+

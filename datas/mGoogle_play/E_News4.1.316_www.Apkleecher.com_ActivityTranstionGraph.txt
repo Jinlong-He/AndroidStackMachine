@@ -1,0 +1,24 @@
+com.eachscape.plugin.HttpResolverPluginActivity-->com.eachscape.SplashScreen
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.eachscape.Settings-->com.eachscape.AppViewControllerActivity
+flag:
+
+com.eachscape.AppViewControllerActivity-->com.eachscape.SplashScreen
+flag:finish
+
+com.eachscape.AppViewControllerActivityLandscape-->com.eachscape.SplashScreen
+flag:finish
+
+com.eachscape.SplashScreenNew-->com.eachscape.plugin.HttpResolverPluginActivity
+flag:finish
+
+com.eachscape.SplashScreenNew-->com.eachscape.ESDownloaderActivity
+flag:
+
+com.eachscape.OrientationScreen-->com.eachscape.SplashScreenNew
+flag:finish
+
+com.eachscape.VideoPlayer-->com.eachscape.SplashScreen
+flag:finish
+

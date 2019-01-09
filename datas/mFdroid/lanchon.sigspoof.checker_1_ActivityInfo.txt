@@ -1,0 +1,6 @@
+#MAIN
+activity:lanchon.sigspoof.checker.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

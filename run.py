@@ -7,7 +7,8 @@ def verify(cmd, dir_name, window, flag, name):
     for i in range(0,len(file_list),2):
 	if os.path.getsize(dir_name + file_list[i + 1]) == 0:
 	    continue
-        commond = "./asm " + cmd + " " + dir_name + file_list[i] + " " + dir_name + file_list[i + 1] + " " + window + " " + flag + " " + name 
+        commond = "./asm " + cmd + " " + dir_name + file_list[i] + " " + dir_name + file_list[i + 1] + " " + window 
+        #commond = "./asm " + cmd + " " + dir_name + file_list[i] + " " + dir_name + file_list[i + 1] + " " + window + " " + flag + " " + name 
         os.system(commond)
 	print(file_list[i])
 

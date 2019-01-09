@@ -1,0 +1,27 @@
+.IpAntManActivity-->.IpAntManActivity
+flag:
+
+.IpAntManActivity-->com.iforpowell.android.ipantman.bt.DeviceListActivity
+flag:
+
+.IpAntManActivity-->com.iforpowell.android.ipantman.PreferencesFromXml
+flag:
+
+.IpAntManActivity-->com.iforpowell.android.ipantman.SensorEditor
+flag:
+
+.IpAntManActivity-->com.flurry.android.FlurryFullscreenTakeoverActivity
+flag:
+
+org.openintents.distribution.EulaActivity-->.IpAntManActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+PreferencesFromXml-->com.flurry.android.FlurryFullscreenTakeoverActivity
+flag:
+
+org.openintents.distribution.NewVersionActivity-->.IpAntManActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+SensorEditor-->com.flurry.android.FlurryFullscreenTakeoverActivity
+flag:
+

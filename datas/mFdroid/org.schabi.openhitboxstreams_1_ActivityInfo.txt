@@ -1,0 +1,4 @@
+activity:org.schabi.openhitboxstreams.MenuActivity
+LaunchMode:std
+TaskAffinity:null
+

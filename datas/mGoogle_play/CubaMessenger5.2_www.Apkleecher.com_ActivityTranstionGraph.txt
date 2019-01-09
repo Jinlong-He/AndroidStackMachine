@@ -1,0 +1,15 @@
+com.cubamessenger.cubamessengerapp.RegisterActivity-->com.cubamessenger.cubamessengerapp.LoginActivity
+flag:
+
+com.cubamessenger.cubamessengerapp.RegisterActivity-->com.cubamessenger.cubamessengerapp.MainActivity
+flag:finish
+
+com.cubamessenger.cubamessengerapp.LoginActivity-->com.cubamessenger.cubamessengerapp.MainActivity
+flag:finish
+
+com.cubamessenger.cubamessengerapp.LoginActivity-->com.cubamessenger.cubamessengerapp.RegisterActivity
+flag:
+
+com.cubamessenger.cubamessengerapp.MainActivity-->com.cubamessenger.cubamessengerapp.LoginActivity
+flag:finish
+

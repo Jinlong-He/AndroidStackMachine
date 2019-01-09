@@ -1,0 +1,9 @@
+.CalculatorActivity-->eu.veldsoft.svarka.odds.calculator.HelpActivity
+flag:
+
+.CalculatorActivity-->eu.veldsoft.svarka.odds.calculator.AboutActivity
+flag:
+
+.SplashActivity-->unknown
+flag:
+

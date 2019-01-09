@@ -1,0 +1,30 @@
+com.baritastic.view.activity.AppIntroActivity-->com.baritastic.view.RegistrationIntentService
+flag:finish
+
+com.baritastic.view.activity.AppIntroActivity-->com.baritastic.view.activity.SplashActivity
+flag:finish
+
+com.baritastic.view.activity.AppIntroActivity-->com.baritastic.view.activity.LicenseAgreementActivity
+flag:finish
+
+com.baritastic.view.activity.SplashActivity-->com.baritastic.view.activity.LicenseAgreementActivity
+flag:finish
+
+com.baritastic.view.activity.SplashActivity-->com.baritastic.view.activity.LoginSignUpBaseActivity
+flag:finish
+
+com.baritastic.view.activity.SplashActivity-->com.baritastic.view.activity.LandingScreen
+flag:finish
+
+com.baritastic.view.activity.LandingScreen-->com.baritastic.view.activity.EnterPassCodeActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.baritastic.view.activity.EnterPassCodeActivity-->com.baritastic.view.activity.LandingScreen
+flag:
+
+com.baritastic.view.activity.LicenseAgreementActivity-->com.baritastic.view.activity.LoginSignUpBaseActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

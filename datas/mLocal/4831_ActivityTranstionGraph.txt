@@ -1,0 +1,12 @@
+org.cocos2dx.javascript.AppActivity-->com.mob.tools.MobUIShell
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.cocos2dx.javascript.AppActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.alipay.sdk.auth.AuthActivity-->com.mob.tools.MobUIShell
+flag:
+
+.wxapi.WXEntryActivity-->com.mob.tools.MobUIShell
+flag:
+

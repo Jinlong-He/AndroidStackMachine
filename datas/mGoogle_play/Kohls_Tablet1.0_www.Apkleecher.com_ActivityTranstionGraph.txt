@@ -1,0 +1,3 @@
+com.kohls.tcommerce.opal.activities.SplashActivity-->com.kohls.tcommerce.opal.activities.TabHostActivity
+flag:
+

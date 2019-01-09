@@ -1,0 +1,14 @@
+#MAIN
+activity:ch.jiikuy.velocitycalculator.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ch.jiikuy.velocitycalculator.CalculateActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ch.jiikuy.velocitycalculator.CalibrationActivity
+LaunchMode:std
+TaskAffinity:null
+

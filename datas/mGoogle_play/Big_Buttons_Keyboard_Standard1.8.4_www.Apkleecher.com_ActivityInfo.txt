@@ -1,0 +1,10 @@
+#MAIN
+activity:KeyboardPreferences
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.bigbuttons.InstallationInstructions
+LaunchMode:std
+TaskAffinity:null
+

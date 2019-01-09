@@ -1,0 +1,21 @@
+com.good.gt.ndkproxy.icc.IccActivity-->com.good.chrome.gdgma.gd.LaunchActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.good.chrome.gdgma.ui.GAEULAActivity-->com.good.chrome.gdgma.ui.GAEULAActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.good.chrome.gdgma.so.SmartOfficeActivity-->com.good.chrome.gdgma.gd.LaunchActivity
+flag:finish
+
+com.good.gd.ui.dialogs.GDDialogActivity-->com.good.gd.ui.dialogs.GDDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.good.chrome.gdgma.gd.LaunchActivity-->com.good.chrome.gdgma.ui.BrowserActivity
+flag:finish
+
+com.good.chrome.gdgma.ui.BrowserActivity-->com.good.chrome.gdgma.ui.GAEULAActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.good.chrome.gdgma.ui.BrowserActivity-->com.good.chrome.gdgma.rsa.ui.activities.RSAActivity
+flag:
+

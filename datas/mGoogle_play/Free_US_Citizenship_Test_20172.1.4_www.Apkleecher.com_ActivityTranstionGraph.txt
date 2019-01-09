@@ -1,0 +1,3 @@
+com.google.games.bridge.NativeBridgeActivity-->com.google.games.bridge.NativeBridgeActivity
+flag:
+

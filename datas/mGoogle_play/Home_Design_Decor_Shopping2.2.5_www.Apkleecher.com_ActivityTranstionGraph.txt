@@ -1,0 +1,78 @@
+com.contextlogic.wish.activity.invite.InviteCouponActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.invite.InviteCouponActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.contextlogic.wish.activity.link.DeepLinkActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.contextlogic.wish.activity.link.DeepLinkActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.link.DeepLinkActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.klarna.checkout.browser.BrowserActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.productdetails.ProductDetailsActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.productdetails.ProductDetailsActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.contextlogic.wish.activity.share.ShareActivity-->com.contextlogic.wish.activity.invite.InviteCouponActivity
+flag:finish
+
+com.contextlogic.wish.activity.share.ShareActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:finish
+
+com.contextlogic.wish.activity.share.ShareActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.contextlogic.wish.activity.ticketinfo.TicketInfoActivity-->com.contextlogic.wish.activity.webview.WebViewActivity
+flag:finish
+
+com.contextlogic.wish.activity.ticketinfo.TicketInfoActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.contextlogic.wish.activity.ticketinfo.TicketInfoActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.facebook.WishFacebookDeepLinkActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:finish
+
+com.contextlogic.wish.activity.facebook.WishFacebookDeepLinkActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.contextlogic.wish.activity.earnmoney.EarnMoneyActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.earnmoney.EarnMoneyActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.contextlogic.wish.activity.developer.DeveloperSettingsActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.developer.DeveloperSettingsActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.contextlogic.wish.activity.profile.update.UpdateProfileActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:
+
+com.contextlogic.wish.activity.profile.update.UpdateProfileActivity-->com.contextlogic.wish.activity.link.DeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+io.card.payment.CardIOActivity-->io.card.payment.DataEntryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NO_HISTORY  
+

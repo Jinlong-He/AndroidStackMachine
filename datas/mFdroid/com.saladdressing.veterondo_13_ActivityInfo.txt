@@ -1,0 +1,14 @@
+#MAIN
+activity:com.saladdressing.veterondo.activities.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.saladdressing.veterondo.activities.IconShowcaseActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.saladdressing.veterondo.activities.IntroActivity
+LaunchMode:std
+TaskAffinity:null
+

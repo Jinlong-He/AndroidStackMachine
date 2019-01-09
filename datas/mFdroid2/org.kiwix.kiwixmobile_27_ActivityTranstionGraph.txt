@@ -1,0 +1,15 @@
+org.kiwix.kiwixmobile.KiwixMobileActivity-->org.kiwix.kiwixmobile.SearchActivity
+flag:
+
+org.kiwix.kiwixmobile.KiwixMobileActivity-->org.kiwix.kiwixmobile.KiwixMobileActivity
+flag:
+
+org.kiwix.kiwixmobile.KiwixMobileActivity-->org.kiwix.kiwixmobile.ZimFileSelectActivity
+flag:
+
+org.kiwix.kiwixmobile.KiwixMobileActivity-->org.kiwix.kiwixmobile.settings.KiwixSettingsActivity
+flag:
+
+org.kiwix.kiwixmobile.settings.KiwixSettingsActivity-->unknown
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.xperia64.timidityae.TimidityActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.xperia64.timidityae.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.xperia64.timidityae.DummyActivity
+LaunchMode:std
+TaskAffinity:null
+

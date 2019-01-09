@@ -1,0 +1,14 @@
+#MAIN
+activity:com.hbo.go.LaunchActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

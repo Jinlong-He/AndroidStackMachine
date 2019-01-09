@@ -1,0 +1,14 @@
+#MAIN
+activity:com.nkanaev.comics.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.nkanaev.comics.activity.ReaderActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.mikepenz.aboutlibraries.ui.LibsActivity
+LaunchMode:std
+TaskAffinity:null
+

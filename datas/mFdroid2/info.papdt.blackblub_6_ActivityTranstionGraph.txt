@@ -1,0 +1,3 @@
+info.papdt.blackblub.ui.LaunchActivity-->info.papdt.blackblub.ui.LaunchActivity
+flag:finish
+

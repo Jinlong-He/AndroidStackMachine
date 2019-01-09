@@ -1,0 +1,9 @@
+com.synapsegroup.syndeca.activity.MainActivity-->unknown
+flag:finish
+
+com.synapsegroup.syndeca.activity.ScanActivity-->com.synapsegroup.syndeca.activity.CameraActivity
+flag:
+
+com.synapsegroup.syndeca.activity.ScanActivity-->com.synapsegroup.syndeca.activity.ValidationActivity
+flag:
+

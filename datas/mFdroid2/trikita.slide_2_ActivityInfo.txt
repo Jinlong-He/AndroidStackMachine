@@ -1,0 +1,6 @@
+#MAIN
+activity:trikita.slide.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,9 @@
+com.nbossard.packlist.gui.MainActivity-->com.nbossard.packlist.gui.AboutActivity
+flag:
+
+com.nbossard.packlist.gui.MainActivity-->com.nbossard.packlist.gui.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.nbossard.packlist.gui.MainActivityForTest-->com.nbossard.packlist.gui.AboutActivity
+flag:
+

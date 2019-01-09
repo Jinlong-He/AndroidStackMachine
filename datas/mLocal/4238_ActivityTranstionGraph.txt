@@ -1,0 +1,18 @@
+com.mylhyl.acp.AcpActivity-->com.mylhyl.acp.AcpActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.google.zxing.client.android.encode.EncodeActivity-->com.xmexe.exe.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.cocomeng.videorecorder.CameraActivity-->com.cocomeng.videorecorder.CameraActivity
+flag:
+
+com.google.zxing.client.android.CaptureActivity-->com.xmexe.exe.MainActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+cn.jpush.android.ui.PushActivity-->com.xmexe.exe.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

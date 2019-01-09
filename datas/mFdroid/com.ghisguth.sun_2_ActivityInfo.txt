@@ -1,0 +1,4 @@
+activity:com.ghisguth.sun.WallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,33 @@
+com.lowes.android.controller.storemap.InteractiveStoreMapActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:
+
+com.lowes.android.controller.storemap.InteractiveStoreMapActivity-->com.lowes.android.controller.storemap.InteractiveStoreMapActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lowes.android.controller.storemap.InteractiveStoreMapActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lowes.android.controller.util.LaunchActivity-->com.lowes.android.controller.root.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.lowes.android.widgets.KeyfobWidgetConfigurationActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lowes.android.controller.root.VideoActivity-->com.lowes.android.controller.root.VideoActivity
+flag:
+
+com.lowes.android.controller.root.VideoActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lowes.android.widgets.QuickListWidgetConfigurationActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lowes.android.controller.root.MainActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:
+
+com.lowes.android.controller.root.MainActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lowes.android.controller.util.MaintenanceActivity-->com.lowes.android.controller.util.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

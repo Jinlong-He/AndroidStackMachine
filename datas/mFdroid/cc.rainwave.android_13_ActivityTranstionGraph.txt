@@ -1,0 +1,9 @@
+.LandingActivity-->cc.rainwave.android.NowPlayingActivity
+flag:finish
+
+.NowPlayingActivity-->cc.rainwave.android.RainwavePreferenceActivity
+flag:
+
+.NowPlayingActivity-->cc.rainwave.android.PlaylistActivity
+flag:
+

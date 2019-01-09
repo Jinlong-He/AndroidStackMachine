@@ -1,0 +1,12 @@
+.activities.AlarmListActivity-->mobi.boilr.boilr.activities.AlarmSettingsActivity
+flag:
+
+.activities.AlarmListActivity-->mobi.boilr.boilr.activities.AlarmCreationActivity
+flag:
+
+.activities.AlarmListActivity-->mobi.boilr.boilr.activities.SettingsActivity
+flag:
+
+.activities.AlarmListActivity-->.activities.SettingsActivity
+flag:finish
+

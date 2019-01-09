@@ -1,0 +1,14 @@
+activity:net.daverix.urlforward.LinkDialogActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:net.daverix.urlforward.FiltersActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.daverix.urlforward.SaveFilterActivity
+LaunchMode:std
+TaskAffinity:null
+

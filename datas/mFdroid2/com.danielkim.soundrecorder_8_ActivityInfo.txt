@@ -1,0 +1,10 @@
+#MAIN
+activity:com.danielkim.soundrecorder.activities.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:android.support.v7.widget.TestActivity
+LaunchMode:std
+TaskAffinity:null
+

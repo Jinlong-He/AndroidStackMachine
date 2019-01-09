@@ -1,0 +1,6 @@
+WelcomeActivity-->com.mtdev.mtduoduo.MainActivity
+flag:finish
+
+MainActivity-->com.mtdev.mtduoduo.AboutActivity
+flag:
+

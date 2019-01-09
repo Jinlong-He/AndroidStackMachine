@@ -1,0 +1,3 @@
+com.mustafaali.sensorssandbox.activity.MainActivity-->com.mustafaali.sensorssandbox.activity.AboutActivity
+flag:
+

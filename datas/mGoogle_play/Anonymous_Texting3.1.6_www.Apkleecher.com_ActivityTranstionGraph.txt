@@ -1,0 +1,27 @@
+uk.co.digitalclockwork.apps.android.anonymoustexting.AllConversations-->unknown
+flag:
+
+uk.co.digitalclockwork.apps.android.anonymoustexting.AllConversations-->uk.co.digitalclockwork.apps.android.anonymoustexting.Numbers
+flag:
+
+uk.co.digitalclockwork.apps.android.anonymoustexting.AllConversations-->uk.co.digitalclockwork.apps.android.anonymoustexting.Help
+flag:
+
+uk.co.digitalclockwork.apps.android.anonymoustexting.AllConversations-->uk.co.digitalclockwork.apps.android.anonymoustexting.Tutorial
+flag:
+
+uk.co.digitalclockwork.apps.android.anonymoustexting.AllConversations-->uk.co.digitalclockwork.apps.android.anonymoustexting.Preferences
+flag:
+
+uk.co.digitalclockwork.apps.android.anonymoustexting.AllConversations-->uk.co.digitalclockwork.apps.android.anonymoustexting.SingleConversation
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+uk.co.digitalclockwork.apps.android.anonymoustexting.AnonymousTexting-->uk.co.digitalclockwork.apps.android.anonymoustexting.AllConversations
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+uk.co.digitalclockwork.apps.android.anonymoustexting.Help-->uk.co.digitalclockwork.apps.android.anonymoustexting.SingleConversation
+flag:
+

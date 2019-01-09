@@ -1,0 +1,12 @@
+com.szyk.myheart.SettingsActivity-->com.szyk.myheart.CategoryPickerActivity
+flag:
+
+com.szyk.myheart.SettingsActivity-->com.szyk.myheart.CreditsActivity
+flag:
+
+com.szyk.myheart.SettingsActivity-->com.szyk.myheart.sync.google.GoogleDriveSettingsActivity
+flag:
+
+com.szyk.myheart.SettingsActivity-->com.szyk.myheart.ColorsCustomizerActivity
+flag:
+

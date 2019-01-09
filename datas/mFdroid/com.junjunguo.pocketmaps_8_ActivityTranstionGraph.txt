@@ -1,0 +1,12 @@
+com.junjunguo.pocketmaps.controller.SettingsActivity-->com.junjunguo.pocketmaps.controller.DownloadMapActivity
+flag:
+
+com.junjunguo.pocketmaps.controller.MainActivity-->com.junjunguo.pocketmaps.controller.MapActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.junjunguo.pocketmaps.controller.MainActivity-->com.junjunguo.pocketmaps.controller.SettingsActivity
+flag:
+
+com.junjunguo.pocketmaps.controller.MainActivity-->com.junjunguo.pocketmaps.controller.DownloadMapActivity
+flag:
+

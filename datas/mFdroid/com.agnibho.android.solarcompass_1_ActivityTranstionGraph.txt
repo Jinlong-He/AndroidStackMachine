@@ -1,0 +1,6 @@
+com.agnibho.android.solarcompass.MainActivity-->com.agnibho.android.solarcompass.HelpActivity
+flag:
+
+com.agnibho.android.solarcompass.MainActivity-->com.agnibho.android.solarcompass.LocationActivity
+flag:
+

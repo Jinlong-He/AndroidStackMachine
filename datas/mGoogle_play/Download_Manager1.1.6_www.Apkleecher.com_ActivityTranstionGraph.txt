@@ -1,0 +1,6 @@
+com.acr.androiddownloadmanager.Main-->com.acr.androiddownloadmanager.Folder
+flag:
+
+com.acr.androiddownloadmanager.Main-->com.acr.androiddownloadmanager.Options
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:se.memfrag.app.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

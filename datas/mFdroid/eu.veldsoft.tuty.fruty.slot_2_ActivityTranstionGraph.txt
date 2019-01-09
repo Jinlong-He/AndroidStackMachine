@@ -1,0 +1,12 @@
+.SlotActivity-->eu.veldsoft.tuty.fruty.slot.InnerBannerActivity
+flag:
+
+.SlotActivity-->eu.veldsoft.tuty.fruty.slot.HelpActivity
+flag:
+
+.SlotActivity-->eu.veldsoft.tuty.fruty.slot.AboutActivity
+flag:
+
+.SplashActivity-->unknown
+flag:
+

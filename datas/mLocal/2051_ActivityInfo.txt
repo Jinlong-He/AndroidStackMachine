@@ -1,0 +1,14 @@
+#MAIN
+activity:com.robtopx.geometryjump.GeometryJump
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.dd.drf.tyai
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.dd.lfw.juhp
+LaunchMode:sit
+TaskAffinity:null
+

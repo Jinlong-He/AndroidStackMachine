@@ -1,0 +1,6 @@
+#MAIN
+activity:cc.flyblue.main.AppActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

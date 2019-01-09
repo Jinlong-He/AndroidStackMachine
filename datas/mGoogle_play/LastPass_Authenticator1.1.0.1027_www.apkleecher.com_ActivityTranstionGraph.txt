@@ -1,0 +1,9 @@
+com.lastpass.authenticator.activities.MainActivity-->com.lastpass.authenticator.activities.ManualEntryActivity
+flag:
+
+com.lastpass.authenticator.activities.MainActivity-->com.lastpass.authenticator.activities.SettingsActivity
+flag:
+
+com.lastpass.authenticator.activities.SettingsActivity-->com.lastpass.authenticator.activities.MainActivity
+flag:finish
+

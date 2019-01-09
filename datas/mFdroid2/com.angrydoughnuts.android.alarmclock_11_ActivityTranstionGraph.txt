@@ -1,0 +1,12 @@
+com.angrydoughnuts.android.alarmclock.ActivityAlarmClock-->com.angrydoughnuts.android.alarmclock.ActivityPendingAlarms
+flag:
+
+com.angrydoughnuts.android.alarmclock.ActivityAlarmClock-->com.angrydoughnuts.android.alarmclock.ActivityAlarmSettings
+flag:
+
+com.angrydoughnuts.android.alarmclock.ActivityAlarmClock-->com.angrydoughnuts.android.alarmclock.ActivityAppSettings
+flag:
+
+com.angrydoughnuts.android.alarmclock.ActivityAlarmClock-->com.angrydoughnuts.android.alarmclock.ActivityAlarmNotification
+flag:FLAG_ACTIVITY_NEW_TASK  
+

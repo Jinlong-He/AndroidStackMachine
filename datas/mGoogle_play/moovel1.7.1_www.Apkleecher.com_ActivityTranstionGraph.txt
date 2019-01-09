@@ -1,0 +1,9 @@
+com.moovel.mint.android.ui.FeedbackActivity-->com.moovel.mint.android.ui.splash.SplashActivity
+flag:
+
+com.moovel.mint.android.ui.splash.SplashActivity-->com.moovel.mint.android.ui.splash.SplashActivity
+flag:finish
+
+com.moovel.mint.android.ui.MapsActivity-->com.moovel.mint.android.ui.splash.SplashActivity
+flag:
+

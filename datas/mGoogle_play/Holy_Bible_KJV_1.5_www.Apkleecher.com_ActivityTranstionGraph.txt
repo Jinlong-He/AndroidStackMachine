@@ -1,0 +1,6 @@
+com.solvus_lab.android.BibleEN_kjv.MainActivity-->com.solvus_lab.android.BibleEN_kjv.AboutActivity
+flag:
+
+com.solvus_lab.android.BibleLib.SearchActivity-->com.solvus_lab.android.BibleLib.ChapterActivity
+flag:
+

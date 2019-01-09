@@ -1,0 +1,14 @@
+#MAIN
+activity:de.k3b.android.locationMapViewer.LocationMapViewer
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.k3b.android.locationMapViewer.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.k3b.android.locationMapViewer.geobmp.GeoBmpEditActivity
+LaunchMode:std
+TaskAffinity:null
+

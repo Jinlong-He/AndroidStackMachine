@@ -1,0 +1,18 @@
+com.browser.search.activities.MainActivity-->com.browser.search.activities.ChangColorActivity
+flag:
+
+com.browser.search.activities.MainActivity-->com.browser.search.activities.DownloadFileActivity
+flag:
+
+com.browser.search.activities.MainActivity-->com.browser.search.activities.BaseSettingsActivity
+flag:finish
+
+com.browser.search.activities.MainActivity-->com.ijoysoft.appwall.GiftShowActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.browser.search.activities.MainActivity-->com.ijoysoft.appwall.GiftActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.browser.search.activities.MainActivity-->com.ijoysoft.appwall.GiftActivity
+flag:
+

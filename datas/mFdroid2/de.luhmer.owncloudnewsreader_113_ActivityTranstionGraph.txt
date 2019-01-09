@@ -1,0 +1,15 @@
+de.luhmer.owncloudnewsreader.NewsDetailActivity-->de.luhmer.owncloudnewsreader.NewFeedActivity
+flag:
+
+de.luhmer.owncloudnewsreader.NewFeedActivity-->com.nbsp.materialfilepicker.ui.FilePickerActivity
+flag:
+
+de.luhmer.owncloudnewsreader.NewsReaderListActivity-->de.luhmer.owncloudnewsreader.SettingsActivity
+flag:
+
+de.luhmer.owncloudnewsreader.NewsReaderListActivity-->de.luhmer.owncloudnewsreader.NewFeedActivity
+flag:
+
+de.luhmer.owncloudnewsreader.NewsReaderListActivity-->de.luhmer.owncloudnewsreader.NewsDetailActivity
+flag:
+

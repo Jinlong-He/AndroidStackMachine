@@ -1,0 +1,9 @@
+de.drhoffmannsoft.pizza.PreferencesActivity-->de.drhoffmannsoft.pizza.AboutActivity
+flag:
+
+de.drhoffmannsoft.pizza.PizzacostActivity-->de.drhoffmannsoft.pizza.AboutActivity
+flag:
+
+de.drhoffmannsoft.pizza.PizzacostActivity-->de.drhoffmannsoft.pizza.PreferencesActivity
+flag:
+

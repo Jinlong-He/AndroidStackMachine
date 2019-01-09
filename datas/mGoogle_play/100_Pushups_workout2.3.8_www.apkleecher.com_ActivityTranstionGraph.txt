@@ -1,0 +1,12 @@
+com.ansca.corona.CoronaActivity-->com.ansca.corona.CameraActivity
+flag:
+
+com.ansca.corona.CoronaActivity-->com.ansca.corona.CoronaActivity
+flag:
+
+com.vk.sdk.VKServiceActivity-->com.ansca.corona.CoronaActivity
+flag:
+
+com.vk.sdk.VKServiceActivity-->com.ansca.corona.CoronaActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,24 @@
+.ThemePreferenceActivity-->com.dianxinos.lockscreen.base.SettingsActivity
+flag:FLAG_GRANT_READ_URI_PERMISSION  finish
+
+com.dianxinos.lockscreen.theme.AskActivity-->com.dianxinos.lockscreen.theme.ThemeMain
+flag:
+
+com.dianxinos.lockscreen.base.SettingsActivity-->.ThemePreferenceActivity
+flag:
+
+com.dianxinos.lockscreen.theme.ThemeMain-->.ThemePreferenceActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.dianxinos.lockscreen.details.DetailsActivity-->com.dianxinos.lockscreen.details.PreviewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.dianxinos.lockscreen.details.DetailsActivity-->com.dianxinos.lockscreen.details.DetailsActivity
+flag:finish
+
+com.dianxinos.lockscreen.details.DetailsActivity-->.ThemePreferenceActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.dianxinos.lockscreen.update.DownloadAskActivity-->.ThemePreferenceActivity
+flag:finish
+

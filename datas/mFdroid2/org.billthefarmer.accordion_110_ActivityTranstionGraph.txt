@@ -1,0 +1,9 @@
+org.billthefarmer.accordion.MainActivity-->org.billthefarmer.accordion.SettingsActivity
+flag:
+
+org.billthefarmer.accordion.SettingsActivity-->org.billthefarmer.accordion.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+org.billthefarmer.accordion.SettingsActivity-->org.billthefarmer.accordion.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

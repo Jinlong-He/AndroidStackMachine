@@ -1,0 +1,111 @@
+.AllCallSetting-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.AllCallSetting-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.AddContentActivity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.AddContentActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.TabSmsActivity-->com.securesoltuion.app.blocksmscall.NewMessagerActivity
+flag:
+
+.TabSmsActivity-->com.securesoltuion.app.blocksmscall.ListSmsManager
+flag:
+
+.HomeTabLayoutActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.HomeTabLayoutActivity-->com.securesoltuion.app.blocksmscall.AboutActivity
+flag:
+
+.HomeTabLayoutActivity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.HomeTabLayoutActivity-->com.securesoltuion.app.blocksmscall.SettingActivity
+flag:
+
+.AddContactActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.AddContactActivity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.ListSmsManager-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.ListSmsManager-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.LockActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.LockActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.LockActivity-->.HomeTabLayoutActivity
+flag:finish
+
+.NewMessagerActivity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.NewMessagerActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.NewMessagerActivity-->com.securesoltuion.app.blocksmscall.ListSmsManager
+flag:finish
+
+.SettingActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.SettingActivity-->com.securesoltuion.app.blocksmscall.AllCallSetting
+flag:
+
+.SettingActivity-->com.securesoltuion.app.blocksmscall.AllSmsSetting
+flag:
+
+.SettingActivity-->com.securesoltuion.app.blocksmscall.SettingPasswordActivity
+flag:
+
+.SettingActivity-->com.securesoltuion.app.blocksmscall.AboutActivity
+flag:
+
+.SettingActivity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+AboutActivity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+AboutActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.banana.lib.RateDialogActivity-->.HomeTabLayoutActivity
+flag:
+
+.MessagerActitvity-->com.securesoltuion.app.blocksmscall.ListSmsManager
+flag:
+
+.MessagerActitvity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.MessagerActitvity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.AllSmsSetting-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+
+.TabBackListActivity-->com.securesoltuion.app.blocksmscall.AddContactActivity
+flag:
+
+.TabBackListActivity-->com.securesoltuion.app.blocksmscall.AddContentActivity
+flag:
+
+.SettingPasswordActivity-->.HomeTabLayoutActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.SettingPasswordActivity-->com.securesoltuion.app.blocksmscall.LockActivity
+flag:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.tmendes.dadosd.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.tmendes.dadosd.AboutUsActivity
+LaunchMode:std
+TaskAffinity:null
+

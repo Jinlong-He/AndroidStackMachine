@@ -1,0 +1,6 @@
+com.hd.video.player.ui.MainActivity-->com.hd.video.player.ui.player.VideoActivity
+flag:
+
+com.hd.video.player.ui.vitamio.InitActivity-->com.hd.video.player.ui.player.VideoActivity
+flag:finish
+

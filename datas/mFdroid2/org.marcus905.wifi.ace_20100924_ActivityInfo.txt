@@ -1,0 +1,10 @@
+#MAIN
+activity:.WiFiACEList
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:WiFiACESettings
+LaunchMode:std
+TaskAffinity:null
+

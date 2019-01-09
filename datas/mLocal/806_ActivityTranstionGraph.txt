@@ -1,0 +1,12 @@
+gdf.jfj.dff.SplashAcitivity-->org.vv.gameCell.MainActivity
+flag:finish
+
+org.vv.gameCell.MainActivity-->org.vv.gameCell.MoreActivity
+flag:
+
+org.vv.gameCell.MainActivity-->org.vv.gameCell.GameActivity
+flag:
+
+org.vv.gameCell.WelcomeActivity-->org.vv.gameCell.MainActivity
+flag:finish
+

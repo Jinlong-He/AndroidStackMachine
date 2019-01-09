@@ -1,0 +1,3 @@
+com.mantz_it.rfanalyzer.MainActivity-->com.mantz_it.rfanalyzer.SettingsActivity
+flag:
+

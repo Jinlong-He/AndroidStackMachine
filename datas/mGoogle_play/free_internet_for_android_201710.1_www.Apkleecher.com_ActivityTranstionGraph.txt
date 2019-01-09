@@ -1,0 +1,30 @@
+org.wmtech.internetgratisandroid.MainActivity-->org.wmtech.internetgratisandroid.RegistroActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.wmtech.internetgratisandroid.MainActivity-->org.wmtech.internetgratisandroid.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.wmtech.internetgratisandroid.SplashActivity-->org.wmtech.internetgratisandroid.MainActivity
+flag:finish
+
+org.wmtech.internetgratisandroid.SplashActivity-->org.wmtech.internetgratisandroid.LoginActivity
+flag:finish
+
+org.wmtech.internetgratisandroid.RegistroActivity-->org.wmtech.internetgratisandroid.MainActivity
+flag:finish
+
+org.wmtech.internetgratisandroid.LoginActivity-->org.wmtech.internetgratisandroid.MainActivity
+flag:finish
+
+org.wmtech.internetgratisandroid.LoginActivity-->org.wmtech.internetgratisandroid.RegistroActivity
+flag:finish
+
+org.wmtech.internetgratisandroid.LoginActivity-->org.wmtech.internetgratisandroid.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+org.wmtech.internetgratisandroid.ActivityListaTutoxPais-->org.wmtech.internetgratisandroid.ActivityDetalleTuto
+flag:
+
+org.wmtech.internetgratisandroid.ActivityListaTutoxPais-->org.wmtech.internetgratisandroid.MainActivity
+flag:
+

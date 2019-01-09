@@ -1,0 +1,4 @@
+activity:.SendToClipboard
+LaunchMode:std
+TaskAffinity:null
+

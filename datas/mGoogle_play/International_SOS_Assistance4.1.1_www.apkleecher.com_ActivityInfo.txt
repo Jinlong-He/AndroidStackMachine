@@ -1,0 +1,6 @@
+#MAIN
+activity:com.infostretch.iSOSAndroid.Assistance
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

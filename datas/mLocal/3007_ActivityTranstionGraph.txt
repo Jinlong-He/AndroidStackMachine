@@ -1,0 +1,9 @@
+com.contactsapp.SplashActivity-->com.contactsapp.LoginActivity
+flag:finish
+
+com.contactsapp.SplashActivity-->com.contactsapp.MainActivity
+flag:finish
+
+com.contactsapp.AboutActivity-->com.contactsapp.LoginActivity
+flag:finish
+

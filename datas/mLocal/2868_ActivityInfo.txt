@@ -1,0 +1,14 @@
+#MAIN
+activity:.StartActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.Map
+LaunchMode:std
+TaskAffinity:null
+
+activity:cn.waps.OffersWebView
+LaunchMode:std
+TaskAffinity:null
+

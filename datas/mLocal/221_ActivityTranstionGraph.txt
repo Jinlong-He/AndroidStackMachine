@@ -1,0 +1,21 @@
+com.tencent.connect.common.AssistActivity-->com.mewe.wolf.wbapi.WBShareActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.mewe.wolf.wbapi.WBShareActivity
+flag:finish
+
+com.tencent.android.tpush.XGPushActivity-->com.mewe.wolf.wbapi.WBShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tencent.android.tpush.XGPushActivity-->com.mewe.wolf.wbapi.WBShareActivity
+flag:finish
+
+com.tencent.android.tpush.XGPushActivity-->com.tencent.tauth.AuthActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.mewe.wolf.wbapi.WBShareActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

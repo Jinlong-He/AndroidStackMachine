@@ -1,0 +1,10 @@
+#MAIN
+activity:bml.prods.instasave.ConcreteBaseActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.rdrei.android.dirchooser.DirectoryChooserActivity
+LaunchMode:std
+TaskAffinity:null
+

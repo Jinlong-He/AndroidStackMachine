@@ -1,0 +1,6 @@
+com.obd2.elmscantoyota.MainActivity-->com.obd2.elmscantoyota.DeviceListActivity
+flag:
+
+com.obd2.elmscantoyota.MainActivity-->com.obd2.elmscantoyota.SettingsActivity
+flag:
+

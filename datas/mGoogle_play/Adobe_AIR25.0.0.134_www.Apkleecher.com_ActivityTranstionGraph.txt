@@ -1,0 +1,27 @@
+com.adobe.mobile_playpanel.adclients.PartnerAdsWebBrowserActivity-->com.adobe.air.wand.WandActivity
+flag:finish
+
+com.adobe.mobile_playpanel.adclients.PartnerAdsWebBrowserActivity-->.AdobeAIR
+flag:finish
+
+com.adobe.mobile_playpanel.appwidget.FeaturedGamesWidgetClickInstallHandler-->com.adobe.mobile_playpanel.GameDetailsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.adobe.mobile_playpanel.appwidget.FeaturedGamesWidgetClickInstallHandler-->com.adobe.mobile_playpanel.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.adobe.mobile_playpanel.appwidget.FeaturedGamesWidgetClickInstallHandler-->com.adobe.air.wand.WandActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.adobe.mobile_playpanel.GameDetailsActivity-->.AdobeAIR
+flag:
+
+com.adobe.mobile_playpanel.GameDetailsActivity-->com.adobe.air.wand.WandActivity
+flag:
+
+.AdobeAIRMainActivity-->com.adobe.air.StaticPageActivity
+flag:
+
+.AdobeAIRMainActivity-->.AdobeAIR
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:org.bitbatzen.wlanscanner.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

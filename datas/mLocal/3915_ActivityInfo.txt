@@ -1,0 +1,10 @@
+#MAIN
+activity:com.oppo.launcher.Launcher
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:LauncherSearchActivity
+LaunchMode:std
+TaskAffinity:null
+

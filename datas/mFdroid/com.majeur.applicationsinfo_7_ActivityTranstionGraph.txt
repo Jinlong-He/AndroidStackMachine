@@ -1,0 +1,3 @@
+com.majeur.applicationsinfo.MainActivity-->com.majeur.applicationsinfo.DetailActivity
+flag:
+

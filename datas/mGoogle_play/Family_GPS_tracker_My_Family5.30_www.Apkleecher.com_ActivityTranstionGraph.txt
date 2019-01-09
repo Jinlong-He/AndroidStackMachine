@@ -1,0 +1,156 @@
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.VoIPActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.MainActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.PhotoListActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.AlarmActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.ChatActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.SettingsActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.HelpActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.MapGoogleActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.MapOSMActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapOSMActivity-->net.prtm.myfamily.view.activities.MapYandexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.ChatActivity-->net.prtm.myfamily.view.activities.HelpActivity
+flag:
+
+net.prtm.myfamily.view.activities.MainActivity-->net.prtm.myfamily.view.activities.InviteActivity
+flag:
+
+net.prtm.myfamily.view.activities.MainActivity-->net.prtm.myfamily.view.activities.MapGoogleActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MainActivity-->net.prtm.myfamily.view.activities.MapOSMActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MainActivity-->net.prtm.myfamily.view.activities.MapYandexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MainActivity-->net.prtm.myfamily.view.activities.CreateFamilyActivity
+flag:
+
+net.prtm.myfamily.view.activities.MainActivity-->net.prtm.myfamily.view.activities.SettingsActivity
+flag:
+
+net.prtm.myfamily.view.activities.MainActivity-->net.prtm.myfamily.view.activities.HelpActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.ChatActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.SettingsActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.HelpActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.VoIPActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.MapGoogleActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.MapOSMActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.MapYandexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.MainActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.PhotoListActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapGoogleActivity-->net.prtm.myfamily.view.activities.AlarmActivity
+flag:
+
+net.prtm.myfamily.view.activities.InviteActivity-->net.prtm.myfamily.view.activities.MapGoogleActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.InviteActivity-->net.prtm.myfamily.view.activities.MapOSMActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.InviteActivity-->net.prtm.myfamily.view.activities.MapYandexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.SplashActivity-->net.prtm.myfamily.view.activities.MapGoogleActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.SplashActivity-->net.prtm.myfamily.view.activities.MapOSMActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.SplashActivity-->net.prtm.myfamily.view.activities.MapYandexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.SplashActivity-->net.prtm.myfamily.view.activities.MainActivity
+flag:
+
+net.prtm.myfamily.view.activities.SettingsActivity-->net.prtm.myfamily.view.activities.HelpActivity
+flag:
+
+net.prtm.myfamily.view.activities.PhotoListActivity-->net.prtm.myfamily.view.activities.SettingsActivity
+flag:
+
+net.prtm.myfamily.view.activities.PhotoListActivity-->net.prtm.myfamily.view.activities.HelpActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.MainActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.PhotoListActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.MapGoogleActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.MapOSMActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.MapYandexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.ChatActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.SettingsActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.HelpActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.VoIPActivity
+flag:
+
+net.prtm.myfamily.view.activities.MapYandexActivity-->net.prtm.myfamily.view.activities.AlarmActivity
+flag:
+
+net.prtm.myfamily.view.activities.CreateFamilyActivity-->net.prtm.myfamily.view.activities.MapGoogleActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.CreateFamilyActivity-->net.prtm.myfamily.view.activities.MapOSMActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.CreateFamilyActivity-->net.prtm.myfamily.view.activities.MapYandexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.prtm.myfamily.view.activities.CreateFamilyActivity-->net.prtm.myfamily.view.activities.MainActivity
+flag:
+

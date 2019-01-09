@@ -1,0 +1,3 @@
+biz.incomsystems.fwknop2.ConfigListActivity-->biz.incomsystems.fwknop2.HelpActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:.SmartCleanerActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

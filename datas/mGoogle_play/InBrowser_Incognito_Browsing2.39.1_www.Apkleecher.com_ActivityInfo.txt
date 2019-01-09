@@ -1,0 +1,10 @@
+#MAIN
+activity:nu.tommie.inbrowser.lib.Inbrowser
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:nu.tommie.inbrowser.lib.activity.VideoActivity
+LaunchMode:std
+TaskAffinity:null
+

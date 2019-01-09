@@ -1,0 +1,14 @@
+#MAIN
+activity:com.bataryan.gta5wall.Ana
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.bataryan.gta5wall.Resim
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

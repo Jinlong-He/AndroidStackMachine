@@ -1,0 +1,12 @@
+com.tikamori.trickme.activity.DetailActivity-->com.tikamori.trickme.activity.DetailActivity
+flag:
+
+com.tikamori.trickme.activity.MainActivity-->com.tikamori.trickme.activity.TranslationHelpActivity
+flag:
+
+com.tikamori.trickme.activity.SplashActivity-->com.tikamori.trickme.activity.MainActivity
+flag:finish
+
+com.tikamori.trickme.activity.TranslationHelpActivity-->com.tikamori.trickme.activity.GiveSuggestionActivity
+flag:
+

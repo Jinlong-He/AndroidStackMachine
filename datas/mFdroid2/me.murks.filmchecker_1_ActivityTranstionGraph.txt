@@ -1,0 +1,6 @@
+me.murks.filmchecker.activities.FilmListActivity-->me.murks.filmchecker.activities.AddFilmActivity
+flag:
+
+me.murks.filmchecker.activities.AddFilmActivity-->me.murks.filmchecker.activities.FilmListActivity
+flag:
+

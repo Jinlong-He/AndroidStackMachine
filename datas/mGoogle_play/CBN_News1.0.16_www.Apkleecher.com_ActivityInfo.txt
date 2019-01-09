@@ -1,0 +1,14 @@
+#MAIN
+activity:com.cbn.cbnnews.app.android.christian.news.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.cbn.cbnnews.app.android.christian.news.ChromeCast.expandedcontrols.ExpandedControlsActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

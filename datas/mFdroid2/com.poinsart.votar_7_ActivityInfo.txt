@@ -1,0 +1,6 @@
+#MAIN
+activity:com.poinsart.votar.VotarMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

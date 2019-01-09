@@ -1,0 +1,6 @@
+#MAIN
+activity:com.tananaev.logcat.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

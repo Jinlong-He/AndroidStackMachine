@@ -1,0 +1,6 @@
+#MAIN
+activity:com.smartmadsoft.xposed.aio.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:.app.LaunchActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

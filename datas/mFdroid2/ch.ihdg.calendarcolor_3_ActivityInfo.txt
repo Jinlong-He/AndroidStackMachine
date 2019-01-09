@@ -1,0 +1,10 @@
+#MAIN
+activity:ch.ihdg.calendarcolor.CalendarListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ch.ihdg.calendarcolor.ColorPickerActivity
+LaunchMode:std
+TaskAffinity:null
+

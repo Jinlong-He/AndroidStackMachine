@@ -1,0 +1,3 @@
+de.cwde.freeshisen.ShisenShoActivity-->de.cwde.freeshisen.SettingsActivity
+flag:
+

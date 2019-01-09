@@ -1,0 +1,14 @@
+activity:org.aykit.MyOwnNotes.activities.LoginActivity
+LaunchMode:sit
+TaskAffinity:null
+
+#MAIN
+activity:org.aykit.MyOwnNotes.activities.NoteListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.aykit.MyOwnNotes.activities.NoteDetailActivity
+LaunchMode:std
+TaskAffinity:null
+

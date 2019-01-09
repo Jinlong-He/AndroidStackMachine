@@ -1,0 +1,372 @@
+com.waplogmatch.preferences.activity.UserInfoMoreAboutPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.FavoritesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.photogallery.FavoritePhotosActivity-->com.waplogmatch.photogallery.FavoritePhotosActivity
+flag:
+
+com.waplogmatch.photogallery.FavoritePhotosActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.photogallery.FavoritePhotosActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.VisitorsPagerActivity-->com.waplogmatch.wmatch.activity.VisitorsPagerActivity
+flag:
+
+com.waplogmatch.wmatch.activity.VisitorsPagerActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.wmatch.activity.VisitorsPagerActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.EmailPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.UserInfoBasicPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.auth.RegisterActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.auth.RegisterActivity-->com.waplogmatch.wmatch.activity.MatchActivity
+flag:
+
+com.waplogmatch.auth.RegisterActivity-->com.waplogmatch.main.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.auth.RegisterActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.auth.RegisterActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.profile.ProfileFriendsActivity-->com.waplogmatch.profile.ProfileFriendsActivity
+flag:
+
+com.waplogmatch.profile.ProfileFriendsActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.profile.ProfileFriendsActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.FriendsActivity-->com.waplogmatch.searchfriend.SearchFriendActivity
+flag:
+
+com.waplogmatch.wmatch.activity.FriendsActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.VisitorsActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.wmatch.activity.VisitorsActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.NotificationsActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.profile.ProfileActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.profile.ProfileActivity-->com.waplogmatch.wmatch.activity.MeetNewFriendsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.profile.ProfileActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.UserInfoPreferencesActivity-->com.waplogmatch.preferences.activity.UserInfoPreferencesActivity
+flag:
+
+com.waplogmatch.preferences.activity.UserInfoPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.photogallery.SocialPhotosActivity-->com.waplogmatch.photogallery.SocialPhotosActivity
+flag:
+
+com.waplogmatch.photogallery.SocialPhotosActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.photogallery.SocialPhotosActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.NotificationPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.auth.WelcomeActivity-->com.waplogmatch.auth.RegisterActivity
+flag:
+
+com.waplogmatch.auth.WelcomeActivity-->com.waplogmatch.auth.LoginActivity
+flag:
+
+com.waplogmatch.auth.WelcomeActivity-->com.waplogmatch.main.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.auth.WelcomeActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.main.ForceRateActivity-->com.waplogmatch.main.ForceRateActivity
+flag:
+
+com.waplogmatch.main.ForceRateActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.auth.LoginActivity-->com.waplogmatch.main.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.auth.LoginActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.chat.ChatActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.chat.ChatActivity-->com.waplogmatch.wmatch.activity.MessageBoxActivity
+flag:
+
+com.waplogmatch.chat.ChatActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.chat.ChatActivity-->com.waplogmatch.wmatch.activity.MatchActivity
+flag:
+
+com.waplogmatch.chat.ChatActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.chat.ChatActivity-->com.waplogmatch.wmatch.activity.MeetNewFriendsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.PrivacyPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.photogallery.PhotosActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.photogallery.PhotosActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.SearchCriteriaActivity-->com.waplogmatch.wmatch.activity.SearchCriteriaActivity
+flag:
+
+com.waplogmatch.wmatch.activity.SearchCriteriaActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.SharingPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.waplogmatch.wmatch.activity.MatchActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.wmatch.activity.MatchActivity-->com.waplogmatch.wmatch.activity.SearchCriteriaActivity
+flag:
+
+com.waplogmatch.wmatch.activity.MatchActivity-->com.waplogmatch.wmatch.activity.MeetNewFriendsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.MatchActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.iab.subscription.SubscriptionIntroductionActivity-->com.waplogmatch.iab.subscription.SubscriptionIntroductionActivity
+flag:
+
+com.waplogmatch.iab.subscription.SubscriptionIntroductionActivity-->com.waplogmatch.iab.InAppBillingPurchaseActivity
+flag:
+
+com.waplogmatch.iab.subscription.SubscriptionIntroductionActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.inmobi.rendering.InMobiAdActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.wmatch.activity.MeetNewFriendsActivity-->com.waplogmatch.main.SplashActivity
+flag:finish
+
+com.waplogmatch.wmatch.activity.MeetNewFriendsActivity-->com.waplogmatch.wmatch.activity.SearchCriteriaActivity
+flag:
+
+com.waplogmatch.wmatch.activity.MeetNewFriendsActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.wmatch.activity.MeetNewFriendsActivity-->com.waplogmatch.wmatch.activity.MeetNewFriendsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.MeetNewFriendsActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.iab.credit.CreditInfoActivity-->com.waplogmatch.iab.credit.CreditInfoActivity
+flag:
+
+com.waplogmatch.iab.credit.CreditInfoActivity-->com.waplogmatch.iab.InAppBillingPurchaseActivity
+flag:
+
+com.waplogmatch.iab.credit.CreditInfoActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.iab.credit.CreditInfoActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.SuggestionActivity-->com.waplogmatch.wmatch.activity.SuggestionActivity
+flag:
+
+com.waplogmatch.wmatch.activity.SuggestionActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.wmatch.activity.SuggestionActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.main.HardUpdateActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.MatchSmartPickActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.wmatch.activity.MatchSmartPickActivity-->com.waplogmatch.wmatch.activity.MeetNewFriendsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.MatchSmartPickActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.iab.InAppBillingPurchaseActivity-->com.waplogmatch.iab.InAppBillingPurchaseActivity
+flag:
+
+com.waplogmatch.iab.InAppBillingPurchaseActivity-->com.waplogmatch.wmatch.activity.MatchActivity
+flag:
+
+com.waplogmatch.iab.InAppBillingPurchaseActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.iab.InAppBillingPurchaseActivity-->com.waplogmatch.wmatch.activity.MeetNewFriendsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.iab.InAppBillingPurchaseActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.iab.InAppBillingPurchaseActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.UserInfoFavoritesPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.LikesActivity-->com.waplogmatch.wmatch.activity.LikesActivity
+flag:
+
+com.waplogmatch.wmatch.activity.LikesActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.wmatch.activity.LikesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.searchfriend.SearchFriendActivity-->com.waplogmatch.searchfriend.SearchFriendActivity
+flag:
+
+com.waplogmatch.searchfriend.SearchFriendActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.searchfriend.SearchFriendActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mopub.mobileads.MoPubActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.preferences.activity.RegionalPreferencesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.MessageBoxActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.wmatch.activity.MatchesActivity-->com.waplogmatch.wmatch.activity.MatchesActivity
+flag:
+
+com.waplogmatch.wmatch.activity.MatchesActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.wmatch.activity.MatchesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.SocialMediaLikeActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.preferences.activity.SocialMediaLikeActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.preferences.activity.MainPreferencesActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.miniprofile.MiniProfileActivity-->com.waplogmatch.miniprofile.MiniProfileActivity
+flag:
+
+com.waplogmatch.miniprofile.MiniProfileActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.miniprofile.MiniProfileActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.ads.AppOfTheDayActivity-->com.waplogmatch.ads.AppOfTheDayActivity
+flag:
+
+com.waplogmatch.ads.AppOfTheDayActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.captcha.CaptchaActivity-->com.waplogmatch.captcha.CaptchaActivity
+flag:
+
+com.waplogmatch.captcha.CaptchaActivity-->com.waplogmatch.wmatch.activity.MatchActivity
+flag:
+
+com.waplogmatch.captcha.CaptchaActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.captcha.CaptchaActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.photogallery.CommentsActivity-->com.waplogmatch.photogallery.CommentsActivity
+flag:
+
+com.waplogmatch.photogallery.CommentsActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.photogallery.CommentsActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mopub.mobileads.MraidActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:
+
+com.waplogmatch.profile.ProfileLikesActivity-->com.waplogmatch.profile.ProfileLikesActivity
+flag:
+
+com.waplogmatch.profile.ProfileLikesActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.profile.ProfileLikesActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.main.SplashActivity-->com.waplogmatch.wmatch.activity.MeetNewFriendsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.waplogmatch.main.SplashActivity-->com.waplogmatch.auth.WelcomeActivity
+flag:finish
+
+com.waplogmatch.main.SplashActivity-->com.waplogmatch.main.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.waplogmatch.main.SplashActivity-->com.waplogmatch.preferences.activity.RegionalPreferencesActivity
+flag:finish
+
+com.waplogmatch.main.SplashActivity-->com.waplogmatch.main.HardUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+vlmedia.core.advertisement.interstitial.NativeInterstitialActivity-->vlmedia.core.advertisement.interstitial.NativeInterstitialActivity
+flag:
+

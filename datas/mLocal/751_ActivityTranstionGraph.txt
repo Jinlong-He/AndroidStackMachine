@@ -1,0 +1,15 @@
+PlaylistIndexActivity-->com.tinanlin.tjc_hymn_cn.PlaylistContentActivity
+flag:
+
+OneHymnActivity-->com.tinanlin.tjc_hymn_cn.About
+flag:
+
+PlaylistContentActivity-->com.tinanlin.tjc_hymn_cn.About
+flag:
+
+TjcHymnActivity-->com.tinanlin.tjc_hymn_cn.OneHymnActivity
+flag:
+
+TjcHymnActivity-->com.tinanlin.tjc_hymn_cn.About
+flag:
+

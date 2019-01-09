@@ -1,0 +1,15 @@
+org.dmfs.tasks.TaskListActivity-->org.dmfs.tasks.SyncSettingsActivity
+flag:
+
+org.dmfs.tasks.ViewTaskActivity-->org.dmfs.tasks.TaskListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.dmfs.tasks.ViewTaskActivity-->org.dmfs.tasks.TaskListActivity
+flag:finish
+
+org.dmfs.tasks.ManageListActivity-->org.dmfs.android.colorpicker.ColorPickerActivity
+flag:
+
+org.dmfs.android.colorpicker.ColorPickerActivity-->org.dmfs.android.colorpicker.ColorPickerActivity
+flag:
+

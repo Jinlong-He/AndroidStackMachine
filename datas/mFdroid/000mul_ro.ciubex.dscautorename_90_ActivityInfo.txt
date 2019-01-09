@@ -1,0 +1,14 @@
+#MAIN
+activity:ro.ciubex.dscautorename.activity.SettingsActivity
+LaunchMode:std
+TaskAffinity:.SettingsActivity
+NIAM#
+
+activity:ro.ciubex.dscautorename.activity.InfoActivity
+LaunchMode:std
+TaskAffinity:.InfoActivity
+
+activity:ro.ciubex.dscautorename.activity.RenameDlgActivity
+LaunchMode:std
+TaskAffinity:.RenameDlgActivity
+

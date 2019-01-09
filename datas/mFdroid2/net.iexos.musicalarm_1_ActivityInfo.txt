@@ -1,0 +1,6 @@
+#MAIN
+activity:net.iexos.musicalarm.AlarmViewActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

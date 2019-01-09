@@ -1,0 +1,14 @@
+#MAIN
+activity:org.opengappsdownloader.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.opengappsdownloader.DirectoryPicker
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.opengappsdownloader.SetPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

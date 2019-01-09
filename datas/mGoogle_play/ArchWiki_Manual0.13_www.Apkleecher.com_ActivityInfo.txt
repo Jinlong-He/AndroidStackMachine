@@ -1,0 +1,6 @@
+#MAIN
+activity:com.gsc.archwikimanual.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.fab.views.activities.HomeActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.purchase.InAppPurchaseActivity
+LaunchMode:std
+TaskAffinity:null
+

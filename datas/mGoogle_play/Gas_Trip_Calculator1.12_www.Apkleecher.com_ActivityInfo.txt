@@ -1,0 +1,14 @@
+#MAIN
+activity:.FuelDrivingCostSaveActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.PremiumInfoActivity
+LaunchMode:std
+TaskAffinity:null
+

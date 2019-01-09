@@ -1,0 +1,12 @@
+damo.three.ie.activity.PrepayCreditActivity-->damo.three.ie.activity.LoginActivity
+flag:finish
+
+damo.three.ie.activity.PrepayCreditActivity-->damo.three.ie.activity.SettingsActivity
+flag:
+
+damo.three.ie.activity.PrepayCreditActivity-->damo.three.ie.activity.AboutActivity
+flag:
+
+damo.three.ie.activity.LoginActivity-->damo.three.ie.activity.PrepayCreditActivity
+flag:finish
+

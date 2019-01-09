@@ -1,0 +1,10 @@
+#MAIN
+activity:com.wasami.electric.screen.touch.Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+com.reflection.anime.LesonStep-->com.reflection.anime.Step
+flag:
+
+com.reflection.anime.LesonStep-->com.reflection.anime.SettingsActivity
+flag:
+
+com.reflection.anime.LesonsList-->com.reflection.anime.LesonStep
+flag:
+
+com.reflection.anime.FavoritesList-->com.reflection.anime.LesonStep
+flag:
+

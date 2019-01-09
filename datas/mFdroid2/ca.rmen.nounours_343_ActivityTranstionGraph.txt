@@ -1,0 +1,9 @@
+ca.rmen.nounours.android.handheld.MainActivity-->ca.rmen.nounours.android.handheld.AboutActivity
+flag:
+
+ca.rmen.nounours.android.handheld.MainActivity-->ca.rmen.nounours.android.handheld.settings.SettingsActivity
+flag:
+
+ca.rmen.nounours.android.handheld.settings.SettingsActivity-->ca.rmen.nounours.android.handheld.settings.SettingsActivity
+flag:
+

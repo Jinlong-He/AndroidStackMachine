@@ -1,0 +1,9 @@
+com.alipay.sdk.auth.AuthActivity-->com.alibaba.baichuan.android.trade.ui.activity.AlibcNativeTaobaoActivity
+flag:
+
+com.ali.auth.third.ui.LoginActivity-->com.ali.auth.third.ui.LoginWebViewActivity
+flag:
+
+com.alibaba.baichuan.android.trade.ui.activity.AlibcNativeTaobaoActivity-->com.alibaba.baichuan.android.trade.ui.activity.AlibcWebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

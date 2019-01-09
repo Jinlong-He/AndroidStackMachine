@@ -1,0 +1,3 @@
+com.repsi.heartrate.SplashActivity-->com.repsi.heartrate.MainActivity
+flag:finish
+

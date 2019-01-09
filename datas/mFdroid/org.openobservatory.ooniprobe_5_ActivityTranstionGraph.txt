@@ -1,0 +1,3 @@
+org.openobservatory.ooniprobe.activity.MainActivity-->org.openobservatory.ooniprobe.activity.InformedConsentActivity
+flag:
+

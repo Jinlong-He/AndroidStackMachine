@@ -1,0 +1,6 @@
+#MAIN
+activity:it.langolonerd.app.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

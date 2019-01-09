@@ -1,0 +1,399 @@
+com.doit.aar.applock.activity.AppLockVerifyPasswordActivity-->com.doit.aar.applock.activity.AppLockVerifyPasswordActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockVerifyPasswordActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockVerifyPasswordActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockVerifyPasswordActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockVerifyPasswordActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.apusapps.tools.booster.ui.HomeActivity-->com.apusapps.tools.booster.ui.splash.SplashActvity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.HomeActivity-->com.doit.aar.applock.activity.AppLockPasswordActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.HomeActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.apusapps.tools.booster.ui.HomeActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.apusapps.tools.booster.ui.HomeActivity-->com.doit.aar.applock.activity.AppLockEntryActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.HomeActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.HomeActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockPermissionGuideActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockPermissionGuideActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockPermissionGuideActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockPermissionGuideActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockPermissionGuideActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.BoostMainActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.apusapps.tools.booster.ui.BoostMainActivity-->com.apusapps.tools.booster.ui.BoostMainPermissionGuideActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.apusapps.tools.booster.ui.BoostMainActivity-->com.apusapps.tools.booster.ui.BoostResultActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.apusapps.tools.booster.ui.BoostMainActivity-->com.apusapps.tools.booster.whitelist.UserWhiteListActivity
+flag:
+
+com.apusapps.tools.booster.ui.BoostMainActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.BoostMainActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.ui.BoostMainActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppUnlockPasswordActivity-->com.doit.aar.applock.activity.RemoveLockActivity
+flag:finish
+
+com.doit.aar.applock.activity.AppUnlockPasswordActivity-->com.doit.aar.applock.activity.AppLockPasswordInitActivity
+flag:
+
+com.doit.aar.applock.activity.AppUnlockPasswordActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppUnlockPasswordActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppUnlockPasswordActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppUnlockPasswordActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppUnlockPasswordActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockPasswordInitActivity-->com.doit.aar.applock.activity.AppLockPasswordInitActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockPasswordInitActivity-->com.doit.aar.applock.activity.AppLockPasswordInitActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockPasswordInitActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockPasswordInitActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockPasswordInitActivity-->com.doit.aar.applock.activity.AppLockGpResetActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockPasswordInitActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockPasswordInitActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.rubbish.cache.support.RubbishCleanResultActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.rubbish.cache.support.RubbishCleanResultActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.rubbish.cache.support.RubbishCleanResultActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+org.crashguard.UploadActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.rubbish.cache.AppCleanDetailListActivity-->com.rubbish.cache.AppCleanDetailListActivity
+flag:
+
+com.rubbish.cache.AppCleanDetailListActivity-->com.rubbish.cache.ImagePreviewActivity
+flag:
+
+com.apusapps.tools.booster.whitelist.UserWhiteListActivity-->com.apusapps.tools.booster.whitelist.AddUserWhiteListActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockPasswordActivity-->com.doit.aar.applock.activity.AppLockPasswordActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockPasswordActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockPasswordActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockPasswordActivity-->com.doit.aar.applock.activity.AppLockPasswordInitActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockPasswordActivity-->com.doit.aar.applock.activity.AppLockEntryActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockPasswordActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockPasswordActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.rubbish.cache.scanner.base.RubbishScanningActivity-->com.rubbish.cache.scanner.base.RubbishCleanProgressActivity
+flag:finish
+
+com.rubbish.cache.scanner.base.RubbishScanningActivity-->com.rubbish.cache.scanner.base.RubbishScanningActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.rubbish.cache.scanner.base.RubbishScanningActivity-->com.rubbish.cache.scanner.base.RubbishScanningActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.rubbish.cache.scanner.base.RubbishScanningActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.ui.RemindBoosterActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.doit.aar.applock.activity.AccountVerifyActivity-->com.doit.aar.applock.activity.AppLockPasswordInitActivity
+flag:
+
+com.apusapps.tools.booster.ui.BoostMainPermissionGuideActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.apusapps.tools.booster.ui.BoostMainPermissionGuideActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.GobackBridgeActivity-->unknown
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanApiActivity-->com.apusapps.tools.booster.ui.BoostMainPermissionGuideActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanApiActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanApiActivity-->com.apusapps.tools.booster.ui.BoostResultActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanApiActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.rubbish.cache.scanner.base.RubbishCleanProgressActivity-->unknown
+flag:
+
+com.rubbish.cache.scanner.base.RubbishCleanProgressActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.rubbish.cache.scanner.base.RubbishCleanProgressActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanWithoutLockActivity-->com.apusapps.tools.booster.ui.BoostResultActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanWithoutLockActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanWithoutLockActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.rubbish.cache.AppCleanActivity-->com.rubbish.cache.AppCleanActivity
+flag:
+
+com.rubbish.cache.AppCleanActivity-->com.rubbish.cache.AppCleanActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.rubbish.cache.AppCleanActivity-->com.rubbish.cache.AppCleanDetailListActivity
+flag:
+
+com.apusapps.tools.booster.feedback.FeedbackActivity-->com.apusapps.tools.booster.feedback.FeedbackActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.apusapps.tools.booster.ui.AboutActivity-->com.apusapps.launcher.snsshare.SnsShareDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.AboutActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.cpu.ui.CpuCoolerActivity-->com.apusapps.tools.booster.cpu.ui.CpuCoolDownProgressActivity
+flag:finish
+
+com.apusapps.tools.booster.cpu.ui.CpuCoolerActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.cpu.ui.CpuCoolerActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.ui.SettingDesktopActivity
+flag:
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.whitelist.UserWhiteListActivity
+flag:
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.ui.AboutActivity
+flag:
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.ui.SettingActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.ui.SettingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.ui.SettingActivity
+flag:
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.SettingActivity-->com.doit.aar.applock.activity.BridgeActivity
+flag:
+
+com.apusapps.tools.booster.ui.splash.SplashActvity-->com.apusapps.tools.booster.ui.splash.SplashActvity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.splash.SplashActvity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:finish
+
+com.apusapps.tools.booster.cpu.ui.CpuTempDetectorActivity-->com.apusapps.tools.booster.cpu.ui.CpuCoolerActivity
+flag:finish
+
+com.apusapps.tools.booster.cpu.ui.CpuTempDetectorActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.cpu.ui.CpuTempDetectorActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockEntryActivity-->com.doit.aar.applock.activity.AppLockEntryActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockEntryActivity-->com.doit.aar.applock.activity.AppLockVerifyPasswordActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockEntryActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockEntryActivity-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockEntryActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockEntryActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockEntryActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.apusapps.launcher.snsshare.SnsShareDialogActivity-->com.apusapps.launcher.snsshare.QRCodeActivity
+flag:finish
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.doit.aar.applock.activity.AppLockMainActivity2
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.doit.aar.applock.activity.AppLockSettingActivity2
+flag:
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.doit.aar.applock.activity.AppLockPasswordInitActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockMainActivity2-->com.doit.aar.applock.activity.AppLockVerifyPasswordActivity
+flag:
+
+com.apusapps.tools.booster.ui.BoostResultActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.apusapps.tools.booster.ui.BoostResultActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.BoostResultActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.apusapps.tools.booster.cpu.ui.CpuCoolDownProgressActivity-->com.apusapps.tools.booster.cpu.ui.CpuCoolResultActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.apusapps.tools.booster.cpu.ui.CpuCoolDownProgressActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.rubbish.cache.support.SpecialAppCleanResultActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.rubbish.cache.support.SpecialAppCleanResultActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.AccessibilityIntentActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.rubbish.cache.ImagePreviewActivity-->com.rubbish.cache.ImagePreviewActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockSettingActivity2-->com.doit.aar.applock.activity.AppLockSettingActivity2
+flag:
+
+com.doit.aar.applock.activity.AppLockSettingActivity2-->com.doit.aar.applock.activity.AppLockGpResetActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockSettingActivity2-->com.doit.aar.applock.activity.AppLockEntryActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockSettingActivity2-->com.doit.aar.applock.activity.AppLockPasswordInitActivity
+flag:
+
+com.doit.aar.applock.activity.BridgeActivity-->com.doit.aar.applock.activity.BridgeActivity
+flag:
+
+com.doit.aar.applock.activity.BridgeActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.doit.aar.applock.activity.AppLockGpResetActivity-->com.doit.aar.applock.activity.AppLockGpResetActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockGpResetActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+
+com.doit.aar.applock.activity.AppLockGpResetActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.doit.aar.applock.activity.AppLockGpResetActivity-->com.doit.aar.applock.activity.AppLockPermissionGuideActivity
+flag:
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanActivity-->com.apusapps.tools.booster.ui.BoostMainPermissionGuideActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanActivity-->com.apusapps.tools.booster.ui.GobackBridgeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.apusapps.tools.booster.ui.OneTapTurboCleanActivity-->com.apusapps.tools.booster.ui.BoostMainActivity
+flag:
+

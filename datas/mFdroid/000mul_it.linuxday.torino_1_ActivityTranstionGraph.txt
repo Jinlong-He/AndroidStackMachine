@@ -1,0 +1,12 @@
+it.linuxday.torino.activities.EventDetailsActivity-->it.linuxday.torino.activities.TrackScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+it.linuxday.torino.activities.SearchResultActivity-->it.linuxday.torino.activities.EventDetailsActivity
+flag:finish
+
+it.linuxday.torino.activities.MainActivity-->it.linuxday.torino.activities.SettingsActivity
+flag:
+
+it.linuxday.torino.activities.TrackScheduleActivity-->it.linuxday.torino.activities.TrackScheduleEventActivity
+flag:
+

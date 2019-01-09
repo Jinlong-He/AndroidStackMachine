@@ -1,0 +1,12 @@
+com.xyf.getlocation.StartPage-->com.xyf.getlocation.Main
+flag:finish
+
+com.xyf.getlocation.Location-->com.xyf.getlocation.Main
+flag:finish
+
+com.xyf.getlocation.Main-->com.xyf.getlocation.Location
+flag:
+
+com.xyf.getlocation.Main-->com.xyf.getlocation.Contact
+flag:
+

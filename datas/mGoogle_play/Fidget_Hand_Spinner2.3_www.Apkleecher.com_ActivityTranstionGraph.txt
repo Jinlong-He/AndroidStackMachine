@@ -1,0 +1,9 @@
+com.lightcone.gifjaw.SplashActivity-->com.lightcone.gifjaw.MainActivity
+flag:finish
+
+com.lightcone.gifjaw.SettingActivity-->com.lightcone.gifjaw.SelectBackActivity
+flag:finish
+
+com.lightcone.gifjaw.SettingActivity-->com.lightcone.setting.feedback.FeedbackActivity
+flag:
+

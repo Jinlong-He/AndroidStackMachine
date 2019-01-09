@@ -1,0 +1,10 @@
+#MAIN
+activity:.MCompass
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:Settings
+LaunchMode:std
+TaskAffinity:null
+

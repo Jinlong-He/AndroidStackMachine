@@ -1,0 +1,10 @@
+#MAIN
+activity:mobi.omegacentauri.Earpiece.Earpiece
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:mobi.omegacentauri.Earpiece.Options
+LaunchMode:std
+TaskAffinity:null
+

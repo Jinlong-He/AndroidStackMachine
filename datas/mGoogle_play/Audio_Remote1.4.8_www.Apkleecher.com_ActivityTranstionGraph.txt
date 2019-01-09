@@ -1,0 +1,57 @@
+com.samsung.samsungband.controller.BTConnectInitActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.samsung.samsungband.controller.BTConnectInitActivity-->com.samsung.samsungband.controller.BTConnectActivity
+flag:finish
+
+com.samsung.samsungband.controller.BTConnectInitActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.samsung.samsungband.controller.WelcomeActivity-->com.samsung.samsungband.controller.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.samsung.samsungband.controller.BTConnectActivity-->com.samsung.samsungband.controller.SettingActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.samsung.samsungband.controller.BTConnectActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.samsung.samsungband.controller.BTConnectActivity-->com.samsung.samsungband.controller.MainActivity
+flag:finish
+
+com.samsung.samsungband.controller.BTConnectActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.samsung.samsungband.controller.OpenSourceLicenseActivity-->com.samsung.samsungband.controller.SettingActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.samsung.samsungband.controller.SettingActivity-->com.samsung.samsungband.controller.BTConnectActivity
+flag:
+
+com.samsung.samsungband.controller.SettingActivity-->com.samsung.samsungband.controller.OpenSourceLicenseActivity
+flag:
+
+com.samsung.samsungband.controller.SettingActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.samsung.samsungband.controller.HomeActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.samsung.samsungband.controller.HomeActivity-->com.samsung.samsungband.controller.BTConnectInitActivity
+flag:finish
+
+com.samsung.samsungband.controller.HomeActivity-->com.samsung.samsungband.controller.BTConnectActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.samsung.samsungband.controller.HomeActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.samsung.samsungband.controller.IntroduceActivity-->com.samsung.samsungband.controller.MainActivity
+flag:finish
+
+com.samsung.samsungband.controller.MainActivity-->com.samsung.samsungband.controller.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.samsung.samsungband.controller.MainActivity-->com.samsung.samsungband.controller.SettingActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+

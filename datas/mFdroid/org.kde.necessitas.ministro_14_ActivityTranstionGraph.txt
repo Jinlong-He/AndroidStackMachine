@@ -1,0 +1,3 @@
+.MinistroActivity-->org.kde.necessitas.ministro.MinistroActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

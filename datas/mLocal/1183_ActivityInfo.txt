@@ -1,0 +1,14 @@
+#MAIN
+activity:cn.com.changan.caecapp.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.alipay.sdk.app.H5PayActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:cordova.plugins.pickcrop.CropImageActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:android.app.NativeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

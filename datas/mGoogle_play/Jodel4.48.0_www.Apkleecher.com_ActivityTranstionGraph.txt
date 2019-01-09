@@ -1,0 +1,9 @@
+com.jodelapp.jodelandroidv3.view.Launcher-->com.jodelapp.jodelandroidv3.features.deeplinkpost.DeepLinkActivity
+flag:
+
+com.jodelapp.jodelandroidv3.features.deeplinkpost.DeepLinkActivity-->com.jodelapp.jodelandroidv3.view.Launcher
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.jodelapp.jodelandroidv3.features.deeplinkpost.DeepLinkActivity-->com.jodelapp.jodelandroidv3.view.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

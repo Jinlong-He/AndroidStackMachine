@@ -1,0 +1,3 @@
+com.smartmadsoft.xposed.aio.SettingsActivity-->com.smartmadsoft.xposed.aio.SettingsActivity
+flag:
+

@@ -1,0 +1,3 @@
+trikita.obsqr.ObsqrActivity-->trikita.obsqr.ObsqrActivity
+flag:
+

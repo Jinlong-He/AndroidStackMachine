@@ -1,0 +1,6 @@
+com.smartisan.settings.MoreActivity-->com.smartisan.feedbackhelper.FeedbackActivity
+flag:
+
+com.smartisan.settings.MoreActivity-->com.smartisan.settings.UserExperienceActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:de.hoffmannsgimmickstaupunkt.TaupunktActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.hoffmannsgimmickstaupunkt.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.hoffmannsgimmickstaupunkt.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

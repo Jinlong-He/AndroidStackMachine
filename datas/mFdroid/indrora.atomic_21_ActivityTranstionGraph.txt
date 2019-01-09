@@ -1,0 +1,21 @@
+indrora.atomic.activity.ConversationActivity-->indrora.atomic.activity.AddServerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+indrora.atomic.activity.ConversationActivity-->indrora.atomic.activity.JoinActivity
+flag:
+
+indrora.atomic.FirstRunActivity-->indrora.atomic.activity.ServersActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+indrora.atomic.activity.ServersActivity-->indrora.atomic.activity.AddServerActivity
+flag:
+
+indrora.atomic.activity.ServersActivity-->indrora.atomic.activity.SettingsActivity
+flag:
+
+indrora.atomic.activity.ServersActivity-->indrora.atomic.activity.AboutActivity
+flag:
+
+indrora.atomic.activity.ServersActivity-->indrora.atomic.activity.ConversationActivity
+flag:
+

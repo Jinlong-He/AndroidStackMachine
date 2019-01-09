@@ -1,0 +1,9 @@
+com.simplemobiletools.calculator.activities.MainActivity-->com.simplemobiletools.calculator.activities.SettingsActivity
+flag:
+
+com.simplemobiletools.calculator.activities.MainActivity-->com.simplemobiletools.calculator.activities.AboutActivity
+flag:
+
+com.simplemobiletools.calculator.activities.AboutActivity-->com.simplemobiletools.calculator.activities.LicenseActivity
+flag:
+

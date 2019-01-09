@@ -1,0 +1,14 @@
+#MAIN
+activity:com.aurorabai.princesskissing.UnityPlayerNativeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.am.pumper.activities.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.am.pumper.activities.AMIActivity
+LaunchMode:std
+TaskAffinity:null
+

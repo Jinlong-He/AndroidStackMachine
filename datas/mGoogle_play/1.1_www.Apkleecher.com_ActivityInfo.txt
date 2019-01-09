@@ -1,0 +1,10 @@
+#MAIN
+activity:and.syncsys.ginotoys.SplashScreen
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:and.syncsys.ginotoys.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

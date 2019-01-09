@@ -1,0 +1,10 @@
+#MAIN
+activity:com.foxfi.HotspotSettings
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.foxfi.RegisterActivity
+launchMode:stp
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:CompassActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

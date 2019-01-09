@@ -1,0 +1,10 @@
+#MAIN
+activity:com.uzmap.pkg.EntranceActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.uzmap.pkg.uzmodules.UISearchBar.SearchBarActivity
+LaunchMode:std
+TaskAffinity:null
+

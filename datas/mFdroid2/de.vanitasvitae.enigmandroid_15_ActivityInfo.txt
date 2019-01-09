@@ -1,0 +1,10 @@
+#MAIN
+activity:de.vanitasvitae.enigmandroid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.vanitasvitae.enigmandroid.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

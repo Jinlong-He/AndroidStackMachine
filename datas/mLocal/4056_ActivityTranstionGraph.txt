@@ -1,0 +1,6 @@
+.ui.ActMorePaper-->co.lvdou.livewallpaper.ld375312.ui.ActMorePaper
+flag:
+
+.ui.ActSetting-->co.lvdou.livewallpaper.ld375312.ui.ActMorePaper
+flag:
+

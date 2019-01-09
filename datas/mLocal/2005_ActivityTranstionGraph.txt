@@ -1,0 +1,12 @@
+com.renren.api.connect.android.status.StatusPubActivity-->com.renren.api.connect.android.AuthorizationHelper$BlockActivity
+flag:
+
+com.ibookchina.framework.IbookChinaMainActivity-->com.ibookchina.details.BookDetail
+flag:
+
+com.ibookchina.model.search.SearchActivity-->com.ibookchina.details.BookDetail
+flag:
+
+com.ibookchina.framework.SplashLogoFragmentActivity-->com.ibookchina.framework.IbookChinaMainActivity
+flag:finish
+

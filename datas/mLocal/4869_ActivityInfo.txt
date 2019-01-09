@@ -1,0 +1,14 @@
+#MAIN
+activity:com.collect.bearinfestedchildrenpuzzle.WallpaperPuzzle
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.collect.bearinfestedchildrenpuzzle.WallpaperMenu
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+

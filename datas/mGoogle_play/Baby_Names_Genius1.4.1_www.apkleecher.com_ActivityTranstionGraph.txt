@@ -1,0 +1,24 @@
+com.babynames.SignUpActivity-->com.babynames.GeneralActivity
+flag:
+
+com.babynames.RootActivity-->com.babynames.IabActivity
+flag:
+
+com.babynames.LogInActivity-->com.babynames.ForgotPasswordActivity
+flag:
+
+com.babynames.LogInActivity-->com.babynames.GeneralActivity
+flag:
+
+com.babynames.SplashActivity-->com.babynames.RootActivity
+flag:
+
+com.babynames.SplashActivity-->com.babynames.IntroActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.babynames.LandingScreenActivity-->com.babynames.SignUpActivity
+flag:finish
+
+com.babynames.LandingScreenActivity-->com.babynames.LogInActivity
+flag:finish
+

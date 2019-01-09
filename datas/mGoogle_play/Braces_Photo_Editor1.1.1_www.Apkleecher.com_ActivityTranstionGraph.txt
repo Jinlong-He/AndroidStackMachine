@@ -1,0 +1,12 @@
+com.photocombinat.bracesphotoeditor.CropActivity-->com.photocombinat.bracesphotoeditor.EditorActivity
+flag:
+
+com.photocombinat.bracesphotoeditor.MainActivity-->com.photocombinat.bracesphotoeditor.CropActivity
+flag:
+
+com.photocombinat.bracesphotoeditor.MainActivity-->com.photocombinat.bracesphotoeditor.MyImageViewer
+flag:
+
+com.photocombinat.bracesphotoeditor.SplashActivity-->com.photocombinat.bracesphotoeditor.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

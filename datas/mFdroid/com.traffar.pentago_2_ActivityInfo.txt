@@ -1,0 +1,6 @@
+#MAIN
+activity:pentagoActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

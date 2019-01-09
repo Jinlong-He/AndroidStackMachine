@@ -1,0 +1,21 @@
+com.wishabi.flipp.app.HelpActivity-->com.wishabi.flipp.app.MainActivity
+flag:finish
+
+com.wishabi.flipp.app.HelpActivity-->com.wishabi.flipp.app.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.wishabi.flipp.app.LauncherActivity-->com.wishabi.flipp.app.MainActivity
+flag:finish
+
+com.wishabi.flipp.app.MainActivity-->com.wishabi.flipp.app.SettingsActivity
+flag:
+
+com.wishabi.flipp.app.MainActivity-->com.wishabi.flipp.app.EulaActivity
+flag:
+
+com.wishabi.flipp.app.MainActivity-->com.wishabi.flipp.app.MainActivity
+flag:
+
+com.wishabi.flipp.app.MainActivity-->com.wishabi.flipp.app.HelpActivity
+flag:
+

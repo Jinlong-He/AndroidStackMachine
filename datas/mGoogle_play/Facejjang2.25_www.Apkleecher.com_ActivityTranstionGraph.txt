@@ -1,0 +1,9 @@
+com.appster.facejjang.MainActivity-->com.nextapps.naswall.NASWallBrowser
+flag:
+
+com.appster.nas_ad.NasAdActivity-->com.nextapps.naswall.NASWallBrowser
+flag:
+
+com.appster.nas_ad.NasAdActivity-->com.nextapps.naswall.NASWall
+flag:
+

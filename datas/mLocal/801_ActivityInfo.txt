@@ -1,0 +1,10 @@
+#MAIN
+activity:jp.the_redzone.gosay2shot.GoSay2shotActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

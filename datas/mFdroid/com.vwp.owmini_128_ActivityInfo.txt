@@ -1,0 +1,10 @@
+#MAIN
+activity:com.vwp.owmini.OWMiniAtAndroid
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.vwp.owmini.OWLMapPrefs
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+.tempMeter-->com.bti.tempMeter.myUsage
+flag:
+
+.tempMeter-->com.bti.tempMeter.Settings
+flag:
+
+.tempMeter-->com.bti.tempMeter.myAbout
+flag:
+

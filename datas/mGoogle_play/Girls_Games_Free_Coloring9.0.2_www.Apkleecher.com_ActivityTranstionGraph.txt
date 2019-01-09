@@ -1,0 +1,9 @@
+tv.superawesome.sdk.views.SAInterstitialAd-->tv.superawesome.sdk.views.SAInterstitialAd
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+tv.superawesome.sdk.views.SAVideoAd-->tv.superawesome.sdk.views.SAVideoAd
+flag:
+

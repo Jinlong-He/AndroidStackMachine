@@ -1,0 +1,10 @@
+#MAIN
+activity:UpsellActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:HowToActivity
+LaunchMode:std
+TaskAffinity:null
+

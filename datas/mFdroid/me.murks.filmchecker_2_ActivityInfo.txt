@@ -1,0 +1,10 @@
+#MAIN
+activity:me.murks.filmchecker.activities.FilmListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:me.murks.filmchecker.activities.AddFilmActivity
+LaunchMode:std
+TaskAffinity:null
+

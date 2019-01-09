@@ -1,0 +1,6 @@
+studio.coldstream.minecraftlwp.MainActivity-->studio.coldstream.minecraftlwp.LiveWallpaperSettings
+flag:
+
+studio.coldstream.minecraftlwp.MainActivity-->studio.coldstream.minecraftlwp.InterstitialActivity
+flag:
+

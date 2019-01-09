@@ -1,0 +1,12 @@
+com.otakuclub.animegirls.SlideImageActivity-->com.otakuclub.animegirls.SetAsWallpaperActivity
+flag:
+
+com.otakuclub.animegirls.SlideImageActivity-->com.otakuclub.animegirls.PinchZoom
+flag:
+
+com.otakuclub.animegirls.Activity_CategoryItem-->com.otakuclub.animegirls.SlideImageActivity
+flag:
+
+com.otakuclub.animegirls.Activity_Splash-->com.otakuclub.animegirls.NavigationDrawerMain
+flag:finish
+

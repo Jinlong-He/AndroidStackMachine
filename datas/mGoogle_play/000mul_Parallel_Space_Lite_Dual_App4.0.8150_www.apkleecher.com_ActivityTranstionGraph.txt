@@ -1,0 +1,180 @@
+com.lbe.parallel.ui.theme.ThemeActivity-->com.lbe.parallel.ui.theme.ThemeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.ads.RelativeRecommendActivity-->com.lbe.parallel.ui.install.GooglePlayForwardActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.HomeActivity-->com.lbe.parallel.service.localproxy.LocalProxyService
+flag:
+
+com.lbe.parallel.ui.HomeActivity-->com.lbe.parallel.ui.upgrade.UpgradeIntentService
+flag:
+
+com.lbe.parallel.ui.HomeActivity-->com.lbe.parallel.ui.tour.RatingGuideActivity
+flag:
+
+com.lbe.parallel.ui.HomeActivity-->com.lbe.parallel.ui.HomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lbe.parallel.ui.ads.exit.AppExitAdActivity-->com.lbe.parallel.ui.HomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.ads.exit.AppExitAdActivity-->com.lbe.parallel.ui.ads.exit.AppExitAdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.ads.exit.AppExitAdActivity-->com.lbe.parallel.ui.billing.BillingActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.proxy.ProxyConnectionActivity-->com.lbe.parallel.ui.browser.BrowserActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.FeedbackActivity-->com.lbe.parallel.ui.FeedbackActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.FeedbackActivity-->com.lbe.parallel.ui.FeedbackActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.billing.BillingActivity-->com.lbe.parallel.ui.billing.BillingActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.billing.BillingActivity-->com.lbe.parallel.ui.RaiderActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.ShareProxyActivity-->com.lbe.parallel.ui.MiddlewareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.lbe.parallel.ui.IncognitoInstallGuideActivity-->com.lbe.parallel.ui.HomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.lbe.parallel.ui.IncognitoInstallGuideActivity-->com.lbe.parallel.ui.IncognitoInstallGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.ShortcutActivity-->com.lbe.parallel.ui.tour.SplashActivity
+flag:finish
+
+com.lbe.parallel.ui.theme.ps.PsThemeApplyActivity-->com.lbe.parallel.ui.tour.SplashActivity
+flag:finish
+
+com.lbe.parallel.ui.theme.ps.PsThemeApplyActivity-->com.lbe.parallel.ui.HomeActivity
+flag:finish
+
+com.lbe.parallel.ui.cleaner.CleanResultActivity-->com.lbe.parallel.ui.cleaner.CleanResultActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.browser.BrowserActivity-->com.lbe.parallel.ui.browser.bookmarks.BookMarksActivity
+flag:
+
+com.lbe.parallel.ui.browser.BrowserActivity-->com.lbe.parallel.ui.browser.bookmarks.HistoryActivity
+flag:
+
+com.lbe.parallel.ui.browser.BrowserActivity-->com.lbe.parallel.ui.browser.BrowserSettingActivity
+flag:
+
+com.lbe.parallel.ui.browser.BrowserActivity-->com.lbe.parallel.ui.HomeActivity
+flag:finish
+
+com.lbe.parallel.ui.browser.BrowserActivity-->com.lbe.parallel.ui.browser.BrowserActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.browser.BrowserActivity-->com.lbe.parallel.ui.browser.BrowserActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.virgo.ads.internal.ui.GPForwardActivity-->com.virgo.ads.internal.ui.GPForwardActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.doubleagent.service.account.AddAccountSettings-->com.lbe.doubleagent.service.account.ChooseAccountTypeActivity
+flag:
+
+com.lbe.parallel.ui.operatingcenter.OperatingContentDetailsActivity-->com.lbe.parallel.ui.browser.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.operatingcenter.OperatingContentDetailsActivity-->com.lbe.parallel.ui.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  
+
+com.lbe.parallel.ui.operatingcenter.OperatingContentDetailsActivity-->com.lbe.parallel.ui.operatingcenter.OperatingContentDetailsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.lbe.parallel.ui.operatingcenter.OperatingContentDetailsActivity-->com.lbe.parallel.ui.share.ShareActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.operatingcenter.OperatingContentDetailsActivity-->com.lbe.parallel.ui.theme.ThemeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.ThemeApplyActivity-->com.lbe.parallel.ui.theme.ThemeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.lbe.parallel.ui.ThemeApplyActivity-->com.lbe.parallel.ui.HomeActivity
+flag:finish
+
+com.lbe.parallel.ui.cleaner.CleanAssistantActivity-->com.lbe.parallel.ui.cleaner.CleanResultActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.tour.SplashActivity-->com.lbe.parallel.ui.tour.NewGuideTourActivity
+flag:
+
+com.lbe.parallel.ui.tour.SplashActivity-->com.lbe.parallel.ui.HomeActivity
+flag:finish
+
+com.lbe.parallel.ui.lockscreen.LockScreenActivityImpl-->com.lbe.parallel.ui.lockscreen.KeyguardDismissActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+com.lbe.parallel.ui.share.SNSInviteActivity-->com.lbe.parallel.ui.share.SNSInviteActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.lbe.parallel.ui.share.SNSInviteActivity-->com.lbe.parallel.ui.share.ShareActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.CloneInstallGuideActivity-->com.lbe.parallel.ui.MiddlewareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.lbe.parallel.ui.lockscreen.KeyguardDismissActivity-->com.lbe.parallel.ui.lockscreen.KeyguardDismissActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+com.lbe.parallel.ui.MiddlewareActivity-->com.lbe.parallel.ui.MiddlewareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.lbe.parallel.ui.MiddlewareActivity-->com.lbe.parallel.ui.SpeedModeSettingsActivity
+flag:finish
+
+com.lbe.parallel.ui.MiddlewareActivity-->com.lbe.parallel.ui.middleware.MiddlewareAdActivity
+flag:
+
+com.lbe.parallel.ui.keyguard.KeyguardConfirmActivity-->com.lbe.parallel.ui.billing.BillingActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.GoogleServicesActivity-->com.lbe.parallel.ui.MiddlewareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.lbe.parallel.ui.theme.ps.PsThemeGuideActivity-->com.lbe.parallel.ui.theme.ps.PsThemeApplyActivity
+flag:finish
+
+com.lbe.parallel.ui.tour.NewGuideTourActivity-->com.lbe.parallel.ui.theme.ThemeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.LaunchDelegateActivity-->com.lbe.parallel.ui.MiddlewareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.lbe.parallel.ui.AboutActivity-->unknown
+flag:
+
+com.lbe.doubleagent.service.account.ChooseTypeAndAccountActivity-->com.lbe.doubleagent.service.account.ChooseAccountTypeActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.lbe.parallel.ui.theme.ThemePreviewActivity-->com.lbe.parallel.ui.theme.ThemeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.middleware.MiddlewareAdActivity-->com.lbe.parallel.ui.billing.BillingActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.lbe.parallel.ui.tour.RatingGuideActivity-->com.lbe.parallel.ui.FeedbackActivity
+flag:finish
+
+com.lbe.parallel.ui.share.ShareActivity-->com.lbe.parallel.ui.share.ShareActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lbe.parallel.ui.share.ShareActivity-->com.lbe.parallel.ui.MiddlewareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.lbe.parallel.ui.install.GooglePlayForwardActivity-->com.lbe.parallel.ui.install.GooglePlayForwardActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+

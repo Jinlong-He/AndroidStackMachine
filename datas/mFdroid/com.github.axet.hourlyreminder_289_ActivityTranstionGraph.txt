@@ -1,0 +1,6 @@
+com.github.axet.hourlyreminder.activities.AlarmActivity-->com.github.axet.hourlyreminder.activities.AlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.github.axet.hourlyreminder.activities.MainActivity-->com.github.axet.hourlyreminder.activities.MainActivity
+flag:finish
+

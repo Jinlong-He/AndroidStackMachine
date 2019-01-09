@@ -1,0 +1,3 @@
+streetwalrus.usbmountr.MainActivity-->streetwalrus.usbmountr.LicenseActivity
+flag:
+

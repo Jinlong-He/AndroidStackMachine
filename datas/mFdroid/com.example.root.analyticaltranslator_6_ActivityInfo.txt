@@ -1,0 +1,6 @@
+#MAIN
+activity:com.example.root.analyticaltranslator.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,12 @@
+.a-->com.AppssppA.iDwxr2.b
+flag:
+
+.a-->com.datouniao.AdPublisher.AdsOffersWebView
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.Land-->com.AppssppA.iDwxr2.a
+flag:
+
+com.AppssppA.iDwxr2.b-->com.datouniao.AdPublisher.AdsOffersWebView
+flag:FLAG_ACTIVITY_NEW_TASK  
+

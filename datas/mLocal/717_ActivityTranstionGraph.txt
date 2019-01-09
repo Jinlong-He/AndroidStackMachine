@@ -1,0 +1,15 @@
+com.mitao.transcreen.view.SplashActivity-->com.mitao.transcreen.view.ConfigActivity
+flag:
+
+com.mitao.transcreen.view.SplashActivity-->com.mitao.transcreen.view.RecordActivity
+flag:
+
+com.mitao.transcreen.view.SplashActivity-->com.mitao.transcreen.service.CameraPreService
+flag:
+
+com.mitao.transcreen.view.SplashActivity-->com.mitao.transcreen.view.VideoActivity
+flag:
+
+com.mitao.transcreen.view.SplashActivity-->com.mitao.transcreen.view.QuietlyCameraActivity
+flag:
+

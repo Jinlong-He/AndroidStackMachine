@@ -1,0 +1,12 @@
+com.picediting.haircolorchanger.HairColorChangerActivity-->com.picediting.haircolorchanger.SaveActivity
+flag:
+
+com.picediting.haircolorchanger.CropActivity-->com.picediting.haircolorchanger.HairColorChangerActivity
+flag:finish
+
+com.picediting.haircolorchanger.MainActivity-->com.picediting.haircolorchanger.CropActivity
+flag:
+
+com.picediting.haircolorchanger.MainActivity-->com.picediting.haircolorchanger.View_Activity
+flag:
+

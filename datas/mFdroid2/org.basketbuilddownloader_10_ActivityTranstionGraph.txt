@@ -1,0 +1,6 @@
+org.basketbuilddownloader.MainActivity-->org.basketbuilddownloader.SetPreferenceActivity
+flag:
+
+org.basketbuilddownloader.DirectoryPicker-->org.basketbuilddownloader.DirectoryPicker
+flag:
+

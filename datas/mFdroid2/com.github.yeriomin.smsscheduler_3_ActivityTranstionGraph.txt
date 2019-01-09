@@ -1,0 +1,9 @@
+com.github.yeriomin.smsscheduler.Activity.AddSmsActivity-->com.github.yeriomin.smsscheduler.Activity.SmsSchedulerPreferenceActivity
+flag:
+
+com.github.yeriomin.smsscheduler.Activity.SmsListActivity-->com.github.yeriomin.smsscheduler.Activity.AddSmsActivity
+flag:
+
+com.github.yeriomin.smsscheduler.Activity.SmsListActivity-->com.github.yeriomin.smsscheduler.Activity.SmsSchedulerPreferenceActivity
+flag:
+

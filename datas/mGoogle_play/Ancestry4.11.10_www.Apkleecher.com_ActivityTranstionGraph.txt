@@ -1,0 +1,66 @@
+com.ancestry.android.apps.ancestry.ListTreesActivity-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:
+
+com.ancestry.android.apps.ancestry.ListTreesActivity-->com.ancestry.android.apps.ancestry.AddTreeActivity
+flag:
+
+com.ancestry.android.apps.ancestry.ListTreesActivity-->com.ancestry.android.apps.ancestry.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ancestry.android.apps.ancestry.SignInActivity-->com.ancestry.android.apps.ancestry.ListTreesActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.ancestry.android.apps.ancestry.SignInActivity-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.ancestry.android.apps.ancestry.SignInActivity-->com.ancestry.android.apps.ancestry.SignUpActivity
+flag:finish
+
+com.ancestry.android.apps.ancestry.SignInActivity-->com.ancestry.android.apps.ancestry.SignInActivity
+flag:finish
+
+com.ancestry.android.apps.ancestry.SignInActivity-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:
+
+com.ancestry.android.apps.ancestry.StartupActivity-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:
+
+com.jakewharton.processphoenix.ProcessPhoenix-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.jakewharton.processphoenix.ProcessPhoenix-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:finish
+
+com.ancestry.android.apps.ancestry.SignUpActivity-->com.ancestry.android.apps.ancestry.views.FreeTrialActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ancestry.android.apps.ancestry.SignUpActivity-->com.ancestry.android.apps.ancestry.SignUpActivity
+flag:finish
+
+com.ancestry.android.apps.ancestry.SignUpActivity-->com.ancestry.android.apps.ancestry.SignInActivity
+flag:finish
+
+com.ancestry.android.apps.ancestry.SignUpActivity-->com.ancestry.android.apps.ancestry.ListTreesActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ancestry.android.apps.ancestry.HomeActivity-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:
+
+com.ancestry.android.apps.ancestry.HomeActivity-->com.ancestry.android.apps.ancestry.ListTreesActivity
+flag:finish
+
+com.ancestry.android.apps.ancestry.views.FreeTrialActivity-->com.ancestry.android.apps.ancestry.ListTreesActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ancestry.android.apps.ancestry.TermsActivity-->com.ancestry.android.apps.ancestry.TermsActivity
+flag:
+
+com.ancestry.android.apps.ancestry.AndroidDatabaseViewer-->com.ancestry.android.apps.ancestry.StartupActivity
+flag:finish
+
+com.ancestry.android.apps.ancestry.purchase.DenyActivity-->com.ancestry.android.apps.ancestry.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

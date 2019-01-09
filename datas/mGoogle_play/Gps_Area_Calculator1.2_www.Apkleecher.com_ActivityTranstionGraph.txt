@@ -1,0 +1,15 @@
+bailey.maparea.measure.geo.activity.MapsActivity-->bailey.maparea.measure.geo.activity.SaveMeasureActivity
+flag:
+
+bailey.maparea.measure.geo.activity.MapsActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+bailey.maparea.measure.geo.activity.MapsActivity-->bailey.maparea.measure.geo.activity.SettingActivity
+flag:
+
+bailey.maparea.measure.geo.activity.MapsActivity-->bailey.maparea.measure.geo.activity.SavedMeasureListActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

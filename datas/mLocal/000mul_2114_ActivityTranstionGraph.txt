@@ -1,0 +1,3 @@
+com.richinfo.droidplugin.stub.ShortcutProxyActivity-->com.businesshall.activity.H5LogoActivity
+flag:
+

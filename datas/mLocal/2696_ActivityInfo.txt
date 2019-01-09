@@ -1,0 +1,10 @@
+#MAIN
+activity:com.e4a.runtime.android.StartActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.e4a.runtime.android.mainActivity
+LaunchMode:stk
+TaskAffinity:null
+

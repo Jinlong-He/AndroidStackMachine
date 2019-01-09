@@ -1,0 +1,14 @@
+#MAIN
+activity:.MtNativeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.freeminerTextEntry
+LaunchMode:std
+TaskAffinity:null
+
+activity:.freeminerAssetCopy
+LaunchMode:std
+TaskAffinity:null
+

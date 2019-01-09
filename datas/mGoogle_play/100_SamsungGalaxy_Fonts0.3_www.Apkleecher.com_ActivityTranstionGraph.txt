@@ -1,0 +1,12 @@
+com.monotype.android.font.samsunggalaxyfonts1.BaseClassInFont-->com.monotype.android.font.samsunggalaxyfonts1.Splash
+flag:
+
+com.monotype.android.font.samsunggalaxyfonts1.ReassempleFontData-->com.monotype.android.font.samsunggalaxyfonts1.Splash
+flag:
+
+com.monotype.android.font.samsunggalaxyfonts1.callfirstactivity-->com.monotype.android.font.samsunggalaxyfonts1.stylepreviewactivity
+flag:
+
+com.monotype.android.font.samsunggalaxyfonts1.Splash-->com.monotype.android.font.samsunggalaxyfonts1.callfirstactivity
+flag:
+

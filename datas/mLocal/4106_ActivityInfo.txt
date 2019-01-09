@@ -1,0 +1,6 @@
+#MAIN
+activity:net.qihoo.launcher.widget.WidgetActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

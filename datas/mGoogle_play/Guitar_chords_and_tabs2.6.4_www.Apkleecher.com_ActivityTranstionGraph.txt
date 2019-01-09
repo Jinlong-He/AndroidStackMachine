@@ -1,0 +1,12 @@
+org.xssembler.guitarchordsandtabs.preferences.SettingsActivity-->org.xssembler.guitarchordsandtabs.preferences.SettingsActivity
+flag:
+
+org.xssembler.guitarchordsandtabs.MainFragmentActivity-->org.xssembler.guitarchordsandtabs.preferences.SettingsActivity
+flag:
+
+org.xssembler.guitarchordsandtabs.MainFragmentActivity-->org.xssembler.guitarchordsandtabs.FeedbackActivity
+flag:
+
+org.xssembler.guitarchordsandtabs.MainFragmentActivity-->org.xssembler.guitarchordsandtabs.MainFragmentActivity
+flag:finish
+

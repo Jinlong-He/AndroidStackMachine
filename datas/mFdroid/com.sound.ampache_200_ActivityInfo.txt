@@ -1,0 +1,6 @@
+#MAIN
+activity:com.sound.ampache.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

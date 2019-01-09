@@ -1,0 +1,14 @@
+#MAIN
+activity:com.samebits.beacon.locator.ui.activity.MainNavigationActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.samebits.beacon.locator.ui.activity.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.samebits.beacon.locator.ui.activity.BeaconActionActivity
+LaunchMode:std
+TaskAffinity:null
+

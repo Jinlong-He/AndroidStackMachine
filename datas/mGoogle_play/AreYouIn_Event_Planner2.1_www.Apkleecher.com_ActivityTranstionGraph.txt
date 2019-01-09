@@ -1,0 +1,30 @@
+com.nfo.areyouin.android.ActivationActivity-->com.nfo.areyouin.android.ActivityFacebookLogin
+flag:finish
+
+com.nfo.areyouin.android.ActivationActivity-->com.nfo.areyouin.android.ActivityMainTab
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.nfo.areyouin.android.ActivityMainTab-->com.nfo.areyouin.android.ActivityWebView
+flag:
+
+com.nfo.areyouin.android.ActivityFacebookLogin-->com.nfo.areyouin.android.ActivityPhoneRegistration
+flag:finish
+
+com.nfo.areyouin.android.ActivityPhoneRegistration-->com.nfo.areyouin.android.ActivityCountrySelect
+flag:
+
+com.nfo.areyouin.android.ActivityPhoneRegistration-->com.nfo.areyouin.android.ActivationActivity
+flag:finish
+
+com.nfo.areyouin.android.ActivityPhoneRegistration-->com.nfo.areyouin.android.ActivationActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.nfo.areyouin.android.ActivityPhoneRegistration-->com.nfo.areyouin.android.ActivityWebView
+flag:
+
+com.nfo.areyouin.android.SplashActivity-->com.nfo.areyouin.android.ActivityFacebookLogin
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.nfo.areyouin.android.SplashActivity-->com.nfo.areyouin.android.ActivityMainTab
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

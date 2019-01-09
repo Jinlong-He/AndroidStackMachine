@@ -1,0 +1,10 @@
+#MAIN
+activity:cn.pipiproducts.ddncnkqwry.MyActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.appquanta.wk.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

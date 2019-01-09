@@ -1,0 +1,6 @@
+.Main-->com.nexes.manager.AudioPlayblack
+flag:
+
+.Main-->com.nexes.manager.Settings
+flag:
+

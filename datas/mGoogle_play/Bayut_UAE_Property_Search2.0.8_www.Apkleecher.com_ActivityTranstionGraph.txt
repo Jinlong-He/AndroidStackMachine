@@ -1,0 +1,18 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.main.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.main.SplashScreen-->com.main.MainActivity
+flag:finish
+
+com.main.MainActivity-->com.main.SplashScreen
+flag:finish
+
+com.main.MainActivity-->com.main.MainActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

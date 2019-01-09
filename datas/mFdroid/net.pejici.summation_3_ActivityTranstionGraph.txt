@@ -1,0 +1,6 @@
+net.pejici.summation.SummationList-->net.pejici.summation.ItemActivity
+flag:
+
+net.pejici.summation.SummationList-->net.pejici.summation.SheetActivity
+flag:
+

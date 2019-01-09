@@ -1,0 +1,27 @@
+pl.infinzmedia.electricscreenfree.LightningPreferenceActivity-->pl.infinzmedia.electricscreenfree.LightningActivity
+flag:finish
+
+pl.infinzmedia.electricscreenfree.SplashActivity-->pl.infinzmedia.electricscreenfree.LanucherActivity
+flag:finish
+
+pl.infinzmedia.electricscreenfree.LightningActivity-->pl.infinzmedia.electricscreenfree.LightningPreferenceActivity
+flag:finish
+
+pl.infinzmedia.electricscreenfree.LightningActivity-->pl.infinzmedia.electricscreenfree.LanucherActivity
+flag:finish
+
+com.adcolony.sdk.AdColonyAdViewActivity-->com.adcolony.sdk.o
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+pl.infinzmedia.electricscreenfree.LanucherActivity-->pl.infinzmedia.electricscreenfree.crosspromo.CrossPromoActivity
+flag:
+
+pl.infinzmedia.electricscreenfree.LanucherActivity-->pl.infinzmedia.electricscreenfree.LightningActivity
+flag:finish
+
+pl.infinzmedia.electricscreenfree.LanucherActivity-->pl.infinzmedia.electricscreenfree.LightningPreferenceActivity
+flag:finish
+
+com.adcolony.sdk.AdColonyInterstitialActivity-->com.adcolony.sdk.o
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+

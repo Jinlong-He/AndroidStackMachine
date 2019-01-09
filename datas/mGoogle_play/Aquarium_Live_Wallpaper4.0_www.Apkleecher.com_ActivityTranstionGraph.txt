@@ -1,0 +1,12 @@
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.millennialmedia.internal.MMIntentWrapperActivity
+flag:
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:
+
+com.doubledragonbatii.Acva.ActivityLive-->com.doubledragonbatii.Acva.WallpaperSeting
+flag:
+

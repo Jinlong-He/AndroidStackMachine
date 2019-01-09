@@ -1,0 +1,6 @@
+com.frimustechnologies.claptofind.SplashScreen-->com.frimustechnologies.claptofind.MainActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

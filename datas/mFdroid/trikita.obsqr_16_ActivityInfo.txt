@@ -1,0 +1,6 @@
+#MAIN
+activity:trikita.obsqr.ObsqrActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

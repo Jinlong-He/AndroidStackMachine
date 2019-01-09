@@ -1,0 +1,4 @@
+activity:com.wolas.awesomewallpaper.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

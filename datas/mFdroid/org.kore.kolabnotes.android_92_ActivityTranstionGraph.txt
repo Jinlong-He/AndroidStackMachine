@@ -1,0 +1,12 @@
+org.kore.kolabnotes.android.security.AuthenticatorActivity-->org.kore.kolabnotes.android.MainActivity
+flag:
+
+org.kore.kolabnotes.android.MainActivity-->org.kore.kolabnotes.android.TagListActivity
+flag:
+
+org.kore.kolabnotes.android.MainActivity-->org.kore.kolabnotes.android.AttachmentActivity
+flag:
+
+org.kore.kolabnotes.android.AttachmentActivity-->org.kore.kolabnotes.android.TagListActivity
+flag:
+

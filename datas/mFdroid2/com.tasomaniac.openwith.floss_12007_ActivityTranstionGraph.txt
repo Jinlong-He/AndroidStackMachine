@@ -1,0 +1,6 @@
+com.tasomaniac.openwith.ShareToOpenWith-->com.tasomaniac.openwith.resolver.ResolverActivity
+flag:finish
+
+com.tasomaniac.openwith.homescreen.AddToHomeScreen-->com.tasomaniac.openwith.resolver.ResolverActivity
+flag:finish
+

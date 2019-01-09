@@ -1,0 +1,156 @@
+com.boreumdal.voca.kor.test.start.act.popup.PopupNoticeUpdate-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.study.StudyChapter-->com.boreumdal.voca.kor.test.start.act.test.TestList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.settings.MoreApps-->com.boreumdal.voca.kor.test.start.act.popup.PopupMoreApps
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.kakao.adfit.common.inappbrowser.activity.IABActivity-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:
+
+com.boreumdal.voca.kor.test.start.act.course.Course-->com.boreumdal.voca.kor.test.start.act.popup.PopupCourse
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.study.StudyStarWord-->com.boreumdal.voca.kor.test.start.act.test.TestList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestMeaningSelection-->com.boreumdal.voca.kor.test.start.act.popup.PopupWord
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestMeaningSelection-->com.boreumdal.voca.kor.test.start.act.test.TestResult
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestSentenceListening-->com.boreumdal.voca.kor.test.start.act.test.TestResult
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestWordSpeaking-->com.boreumdal.voca.kor.test.start.act.test.TestResult
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.course.CourseAtFirst-->com.boreumdal.voca.kor.test.start.act.popup.PopupCourse
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.popup.PopupMoreApps-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.popup.PopupDailyWord-->com.boreumdal.voca.kor.test.start.act.study.StudyChapterList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.popup.PopupCourse-->com.boreumdal.voca.kor.test.start.act.study.StudyChapterList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestSentenceCompletion-->com.boreumdal.voca.kor.test.start.act.test.TestResult
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.study.StudyChapterList-->com.boreumdal.voca.kor.test.start.act.study.StudyChapter
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.Voca-->com.boreumdal.voca.kor.test.start.act.course.CourseAtFirst
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.Voca-->com.boreumdal.voca.kor.test.start.act.study.StudyChapterList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.Voca-->com.boreumdal.voca.kor.test.start.act.study.StudyChapterList
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.settings.Settings-->com.boreumdal.voca.kor.test.start.act.course.CourseAtFirst
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestMeaningSelection
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestWordSelection
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestWordWriting
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestWordSpeaking
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestSentenceCompletion
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestWordListening
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestSentenceListening
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.test.TestChapterList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestList-->com.boreumdal.voca.kor.test.start.act.study.StudyChapterList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestWordListening-->com.boreumdal.voca.kor.test.start.act.test.TestResult
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.boreumdal.voca.kor.test.start.act.test.TestMeaningSelection
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.boreumdal.voca.kor.test.start.act.test.TestWordSelection
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.boreumdal.voca.kor.test.start.act.test.TestWordWriting
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.boreumdal.voca.kor.test.start.act.test.TestWordSpeaking
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.boreumdal.voca.kor.test.start.act.test.TestSentenceCompletion
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.boreumdal.voca.kor.test.start.act.test.TestWordListening
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestChapterList-->com.boreumdal.voca.kor.test.start.act.test.TestSentenceListening
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.unlock.UnlockTest-->com.boreumdal.voca.kor.test.start.act.unlock.UnlockNotice
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.unlock.UnlockTest-->com.boreumdal.voca.kor.test.start.act.course.CourseAtFirst
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.unlock.UnlockTest-->com.boreumdal.voca.kor.test.start.act.popup.PopupWord
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestWordWrong-->com.boreumdal.voca.kor.test.start.act.popup.PopupNotice
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestWordWrong-->com.boreumdal.voca.kor.test.start.act.test.TestList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.inmobi.rendering.InMobiAdActivity-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestResult-->com.boreumdal.voca.kor.test.start.act.test.TestList
+flag:
+
+com.boreumdal.voca.kor.test.start.act.test.TestResult-->com.boreumdal.voca.kor.test.start.act.study.StudyChapterList
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestResult-->com.kakao.adfit.common.inappbrowser.activity.IABActivity
+flag:
+
+com.boreumdal.voca.kor.test.start.act.test.TestWordSelection-->com.boreumdal.voca.kor.test.start.act.test.TestResult
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestWordSelection-->com.boreumdal.voca.kor.test.start.act.popup.PopupWord
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.boreumdal.voca.kor.test.start.act.test.TestWordWriting-->com.boreumdal.voca.kor.test.start.act.test.TestResult
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,45 @@
+com.mj.scan.activity.CouponActivity-->com.mj.scan.activity.SettingActivity
+flag:
+
+com.mj.scan.activity.CouponActivity-->com.mj.scan.activity.CouponListActivity
+flag:
+
+com.mj.scan.activity.ApiActivity-->com.baidu.voicerecognition.android.ui.BaiduASRDigitalDialog
+flag:
+
+com.mj.scan.activity.ApiActivity-->com.mj.scan.activity.MainActivity
+flag:finish
+
+com.mj.scan.activity.SplashActivity-->com.mj.scan.activity.MainActivity
+flag:finish
+
+com.mj.scan.activity.ExpressActivity-->com.mj.scan.activity.SettingActivity
+flag:
+
+com.mj.scan.activity.ExpressActivity-->com.mj.scan.zxing.CaptureActivity
+flag:
+
+com.payeco.android.plugin.PayecoOrderDetailActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.mj.scan.zxing.CaptureResultActivity-->com.mj.scan.activity.MainActivity
+flag:finish
+
+com.payeco.android.plugin.PayecoPluginLoadingActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.mj.scan.activity.CompareActivity-->com.mj.scan.activity.SettingActivity
+flag:
+
+com.mj.scan.zxing.CaptureActivity-->com.mj.scan.activity.SettingActivity
+flag:
+
+com.mj.scan.zxing.CaptureActivity-->com.mj.scan.zxing.CaptureResultActivity
+flag:finish
+
+com.payeco.android.plugin.PayecoRiskControlActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.mj.scan.activity.RewardActivity-->com.wanpu.pay.PayView
+flag:
+

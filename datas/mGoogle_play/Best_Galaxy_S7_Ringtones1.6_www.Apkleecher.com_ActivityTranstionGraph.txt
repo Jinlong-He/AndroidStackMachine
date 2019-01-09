@@ -1,0 +1,3 @@
+com.babyfish.bests7rts.MainActivity-->com.babyfish.bests7rts.RingRateActivity
+flag:finish
+

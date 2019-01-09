@@ -1,0 +1,14 @@
+#MAIN
+activity:net.bierbaumer.otp_authenticator.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.bierbaumer.otp_authenticator.CaptureActivityAnyOrientation
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.journeyapps.barcodescanner.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

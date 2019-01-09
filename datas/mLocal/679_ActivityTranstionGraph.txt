@@ -1,0 +1,12 @@
+com.baiwang.piceditor.Activity.MainActivity-->com.aviary.android.feather.sdk.FeatherActivity
+flag:
+
+com.baiwang.piceditor.Activity.MainActivity-->com.baiwang.piceditor.Activity.ShareActivity
+flag:
+
+com.baiwang.piceditor.Activity.MainActivity-->com.baiwang.piceditor.Activity.OverlayActivity
+flag:
+
+com.baiwang.piceditor.Activity.HomeActivity-->com.baiwang.piceditor.Activity.MainActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:.AppEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:io.presage.activities.PresageActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,33 @@
+com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity-->com.antoniotari.reactiveampacheapp.MainActivity
+flag:finish
+
+com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity-->com.antoniotari.reactiveampacheapp.ui.activities.LoginActivity
+flag:finish
+
+com.antoniotari.reactiveampacheapp.MainActivity-->com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.antoniotari.reactiveampacheapp.MainActivity-->com.antoniotari.reactiveampacheapp.ui.activities.PlaylistActivity
+flag:
+
+com.antoniotari.reactiveampacheapp.MainActivity-->com.antoniotari.reactiveampacheapp.ui.activities.OfflinePlaylistActivity
+flag:
+
+com.antoniotari.reactiveampacheapp.MainActivity-->com.antoniotari.reactiveampacheapp.ui.activities.SearchResultActivity
+flag:
+
+com.antoniotari.reactiveampacheapp.ui.activities.AlbumActivity-->com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.antoniotari.reactiveampacheapp.ui.activities.PlaylistActivity-->com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.antoniotari.reactiveampacheapp.ui.activities.ArtistActivity-->com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.antoniotari.reactiveampacheapp.ui.activities.LoginActivity-->com.antoniotari.reactiveampacheapp.MainActivity
+flag:finish
+
+com.antoniotari.reactiveampacheapp.ui.activities.SearchResultActivity-->com.antoniotari.reactiveampacheapp.ui.activities.SearchResultActivity
+flag:
+

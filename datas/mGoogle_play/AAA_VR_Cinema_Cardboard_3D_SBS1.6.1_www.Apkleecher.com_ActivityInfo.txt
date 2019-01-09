@@ -1,0 +1,14 @@
+#MAIN
+activity:com.candlify.intentplugin.IntentPluginCardboardUnityActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.candlify.intentplugin.IntentPluginGalleryActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

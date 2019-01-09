@@ -1,0 +1,10 @@
+#MAIN
+activity:io.github.baiatbun.react.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:io.github.baiatbun.react.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

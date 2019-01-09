@@ -1,0 +1,6 @@
+#MAIN
+activity:protect.babysleepsounds.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

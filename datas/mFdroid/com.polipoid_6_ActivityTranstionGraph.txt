@@ -1,0 +1,6 @@
+com.polipoid.ui.MainActivity-->com.polipoid.ui.SettingsActivity
+flag:
+
+com.polipoid.ui.MainActivity-->com.polipoid.ui.HelpActivity
+flag:
+

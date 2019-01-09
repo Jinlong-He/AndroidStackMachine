@@ -1,0 +1,567 @@
+com.anysoft.tyyd.activities.AnchorListActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.AnchorListActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.tencent.connect.common.AssistActivity-->com.anysoft.tyyd.Loading
+flag:finish
+
+com.anysoft.tyyd.activities.CreditsInquiryActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.CreditsInquiryActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ConsumerRecordActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ConsumerRecordActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ProgressActivity-->com.anysoft.tyyd.activities.ProgressActivity
+flag:FLAG_ACTIVITY_NO_USER_ACTION  FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.PlayerControlActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.PlayerControlActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.PlayerControlActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.SettingsActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.SettingsActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.AlarmAlertActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.AlarmAlertActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.PlayerDetailActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.PlayerDetailActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RecommendPullListActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RecommendPullListActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RankingDetailsActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RankingDetailsActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.FeedBackActivity-->com.anysoft.tyyd.activities.FeedBackActivity
+flag:
+
+com.anysoft.tyyd.activities.FeedBackActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.FeedBackActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.VerifyCodeActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.VerifyCodeActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RecommendBookActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RecommendBookActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.GuideLoginActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.GuideLoginActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.GuideLoginActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RechardRecordActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RechardRecordActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.LocalMp3SubListActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.LocalMp3SubListActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.SimilarBookActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.SimilarBookActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ExchageRecordsActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ExchageRecordsActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RecommendAppActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RecommendAppActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.RecommendAppActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.LocalMp3Activity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.LocalMp3Activity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.MemberCardExchangeActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.MemberCardExchangeActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.SmsLoginActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.SmsLoginActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.LocalMusicActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ClassTagActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ClassTagActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.FeedBackMQWebActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.FeedBackMQWebActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.baidu.mobads.AppActivity-->com.anysoft.tyyd.activities.PlayToolActivity
+flag:
+
+com.baidu.mobads.AppActivity-->com.anysoft.tyyd.Loading
+flag:finish
+
+com.baidu.mobads.AppActivity-->com.anysoft.tyyd.activities.ShareJumpActivity
+flag:
+
+com.anysoft.tyyd.activities.LockScreenActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.anysoft.tyyd.activities.ShareConfigActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ShareConfigActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ShareConfigActivity-->com.renn.rennsdk.oauth.OAuthActivity
+flag:
+
+com.anysoft.tyyd.activities.LoginActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.LoginActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.LoginActivity-->com.renn.rennsdk.oauth.OAuthActivity
+flag:
+
+com.anysoft.tyyd.activities.RecommendListActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RecommendListActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.NetWorkErrActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.anysoft.tyyd.activities.JoinVipActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.JoinVipActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.JoinVipActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.PlayerLivingActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.PlayerLivingActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.anysoft.tyyd.activities.PlayerLivingActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.HelpCenterWebActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.HelpCenterWebActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.AnchorBooksActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.AnchorBooksActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.TagActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.TagActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.FeaturesPackActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ServerConfigActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ServerConfigActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.AuthorSeriesProductActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.AuthorSeriesProductActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RecommendHistoryActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RecommendHistoryActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.HelpCenterActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.HelpCenterActivity-->com.anysoft.tyyd.activities.FeedBackActivity
+flag:
+
+com.anysoft.tyyd.activities.HelpCenterActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ModifyPasswordActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ModifyPasswordActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.FragmentContainerActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.FragmentContainerActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.Loading-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.Loading-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.DownloadedRingActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.DownloadedRingActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.igexin.getuiext.activity.GetuiExtActivity-->com.anysoft.tyyd.activities.ShareJumpActivity
+flag:
+
+com.igexin.getuiext.activity.GetuiExtActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.PersonPreferenceActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.PersonPreferenceActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.DiscussActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ManageClassActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ManageClassActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.PaymentActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.WeekRankBookListActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.WeekRankBookListActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.anysoft.tyyd.Loading
+flag:finish
+
+cn.com.chinatelecom.account.lib.AuthorizeActivity-->cn.com.chinatelecom.account.lib.AuthorizeActivity
+flag:
+
+com.anysoft.tyyd.activities.DownloadManageActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.DownloadManageActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RegisterActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RegisterActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.AboutUsActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.AboutUsActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.PersonalCenterActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.PersonalCenterActivity-->com.anysoft.tyyd.activities.MyMessageActivity
+flag:
+
+com.anysoft.tyyd.activities.PersonalCenterActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.PersonalCenterActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.duiba.DuiBaCreditWebActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.duiba.DuiBaCreditWebActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.duiba.DuiBaCreditWebActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RingSelectActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RingSelectActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.MainActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.MainActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ScoreMissionActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ScoreMissionActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.ScoreMissionActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.MyMessageActivity-->com.anysoft.tyyd.activities.MyMessageActivity
+flag:
+
+com.anysoft.tyyd.activities.MyMessageActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.WebViewActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.WebViewActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.WebViewActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.WebViewActivity-->com.anysoft.tyyd.activities.ShareJumpActivity
+flag:
+
+com.anysoft.tyyd.activities.WebViewActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.TopicActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.CountDownSettingActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.CountDownSettingActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RecentCollectionActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RecentCollectionActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.CommentActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.CommentActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.TagGroupActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.TagGroupActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.SettingSpecialActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.SettingSpecialActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.AlarmTimeRepeatActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.AlarmTimeRepeatActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.UploadVoiceActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.UploadVoiceActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ManageAccountActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ManageAccountActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.MyCommentActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.MyCommentActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.AlarmSettingActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.AlarmSettingActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ShareJumpActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ShareJumpActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.ShareJumpActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.SeriesBookListActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.SeriesBookListActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ReadPointsRechargeActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ClearCacheActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ClearCacheActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.FlowWarnActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.anysoft.tyyd.activities.LookLikeDialogActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.DownloadingManagerActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.DownloadingManagerActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.AnchorDetailsActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.AnchorDetailsActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.SignActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.SignActivity-->com.anysoft.tyyd.Loading
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.SignActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.alipay.sdk.auth.AuthActivity-->com.anysoft.tyyd.activities.ShareJumpActivity
+flag:
+
+cn.com.chinatelecom.account.lib.WebViewActivity-->cn.com.chinatelecom.account.lib.WebViewActivity
+flag:
+
+com.anysoft.tyyd.activities.FeaturesPackDetailsActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.FeaturesPackDetailsActivity-->com.anysoft.tyyd.activities.ProgressActivity
+flag:FLAG_ACTIVITY_NO_USER_ACTION  FLAG_ACTIVITY_NEW_TASK  
+
+com.anysoft.tyyd.activities.FeaturesPackDetailsActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.RecentListenActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.RecentListenActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.TopicDetailsActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.TopicDetailsActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.ReadPointsRechargeSubActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.ReadPointsRechargeSubActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.DownloadSelectionActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.DownloadSelectionActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+
+com.anysoft.tyyd.activities.PersonalInformationActivity-->com.anysoft.tyyd.Loading
+flag:
+
+com.anysoft.tyyd.activities.PersonalInformationActivity-->com.anysoft.tyyd.activities.LookLikeDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_NO_USER_ACTION  
+

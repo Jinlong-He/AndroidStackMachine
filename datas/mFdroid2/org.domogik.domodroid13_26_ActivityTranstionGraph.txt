@@ -1,0 +1,24 @@
+mq.Main-->activities.Preference
+flag:
+
+activities.Activity_Main-->activities.Activity_Map
+flag:
+
+activities.Activity_Main-->activities.Preference
+flag:FLAG_GRANT_PREFIX_URI_PERMISSION  
+
+activities.Activity_Main-->activities.Preference
+flag:
+
+activities.Activity_Main-->mq.Main
+flag:
+
+activities.Activity_Main-->activities.Activity_About
+flag:
+
+activities.Activity_Map-->activities.Activity_Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+activities.Activity_Map-->activities.Activity_Main
+flag:
+

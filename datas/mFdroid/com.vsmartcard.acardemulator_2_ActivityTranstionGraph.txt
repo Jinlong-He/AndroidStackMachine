@@ -1,0 +1,6 @@
+com.vsmartcard.acardemulator.MainActivity-->com.vsmartcard.acardemulator.SettingsActivity
+flag:
+
+com.vsmartcard.acardemulator.SettingsActivity-->com.vsmartcard.acardemulator.SettingsActivity
+flag:
+

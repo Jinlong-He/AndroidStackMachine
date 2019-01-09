@@ -1,0 +1,3 @@
+com.wcare.android.smoke.WelcomeActivity-->com.wcare.android.smoke.MainActivity
+flag:finish
+

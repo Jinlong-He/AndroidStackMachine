@@ -1,0 +1,14 @@
+#MAIN
+activity:de.hampager.dapnetmobile.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.hampager.dapnetmobile.LoginActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.hampager.dapnetmobile.PostCallActivity
+LaunchMode:std
+TaskAffinity:null
+

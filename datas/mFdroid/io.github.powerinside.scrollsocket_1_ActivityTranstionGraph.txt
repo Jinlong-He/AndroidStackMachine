@@ -1,0 +1,3 @@
+io.github.powerinside.scrollsocket.CanvasActivity-->io.github.powerinside.scrollsocket.SettingsActivity
+flag:
+

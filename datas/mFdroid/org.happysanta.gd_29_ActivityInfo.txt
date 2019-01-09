@@ -1,0 +1,6 @@
+#MAIN
+activity:.GDActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

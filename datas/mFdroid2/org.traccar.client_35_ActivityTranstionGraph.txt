@@ -1,0 +1,6 @@
+org.traccar.client.MainActivity-->org.traccar.client.StatusActivity
+flag:
+
+org.traccar.client.MainActivity-->org.traccar.client.AboutActivity
+flag:
+

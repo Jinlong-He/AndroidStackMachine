@@ -1,0 +1,6 @@
+.detailActivity-->com.example.hello.MainActivity
+flag:finish
+
+com.example.hello.MainActivity-->com.example.hello.detailActivity
+flag:finish
+

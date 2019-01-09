@@ -1,0 +1,6 @@
+com.mynavy.automaticbluetoothenable.MainActivity-->com.mynavy.automaticbluetoothenable.SettingsActivity
+flag:
+
+com.mynavy.automaticbluetoothenable.MainActivity-->com.mynavy.automaticbluetoothenable.FeaturesActivity
+flag:
+

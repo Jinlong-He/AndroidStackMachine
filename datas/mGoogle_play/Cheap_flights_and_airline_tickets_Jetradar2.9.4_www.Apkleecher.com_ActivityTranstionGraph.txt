@@ -1,0 +1,105 @@
+ru.aviasales.screen.purchase_browser.activity.PurchaseBrowserActivity-->ru.aviasales.screen.purchase_browser.activity.PurchaseBrowserActivity
+flag:
+
+ru.aviasales.screen.purchase_browser.activity.PurchaseBrowserActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+ru.aviasales.screen.purchase_browser.activity.PurchaseBrowserActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:finish
+
+ru.aviasales.screen.passengers.activity.PassengersActivity-->ru.aviasales.screen.passengers.activity.PassengersActivity
+flag:finish
+
+ru.aviasales.ui.activity.DevSettingsActivity-->ru.aviasales.ui.activity.DevSettingsActivity
+flag:finish
+
+ru.aviasales.screen.simplesearch.activity.SearchFormActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+ru.aviasales.screen.simplesearch.activity.SearchFormActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:finish
+
+ru.aviasales.screen.subscriptions.SubscriptionsActivity-->ru.aviasales.screen.subscriptions.SubscriptionsActivity
+flag:finish
+
+ru.aviasales.screen.information.activity.InformationActivity-->ru.aviasales.screen.information.activity.InformationActivity
+flag:finish
+
+ru.aviasales.screen.results.ResultsActivity-->ru.aviasales.screen.results.ResultsActivity
+flag:finish
+
+ru.aviasales.screen.results.ResultsActivity-->ru.aviasales.screen.openjawsearch.activity.OpenJawSearchFormActivity
+flag:finish
+
+ru.aviasales.screen.results.ResultsActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+ru.aviasales.screen.results.ResultsActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:finish
+
+ru.aviasales.screen.settings.activity.SettingsActivity-->ru.aviasales.screen.settings.activity.SettingsActivity
+flag:finish
+
+ru.aviasales.screen.history.HistoryActivity-->ru.aviasales.screen.history.HistoryActivity
+flag:finish
+
+ru.aviasales.screen.openjawsearch.activity.OpenJawSearchFormActivity-->ru.aviasales.screen.openjawsearch.activity.OpenJawSearchFormActivity
+flag:finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+ru.aviasales.launch_features.LaunchTypeHandlerActivity-->ru.aviasales.launch_features.LaunchTypeHandlerActivity
+flag:finish
+
+ru.aviasales.screen.browser.activity.BrowserActivity-->ru.aviasales.screen.browser.activity.BrowserActivity
+flag:finish
+
+ru.aviasales.screen.browser.activity.BrowserActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+ru.aviasales.screen.browser.activity.BrowserActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:finish
+
+ru.aviasales.ui.SplashActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+ru.aviasales.ui.SplashActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:
+
+ru.aviasales.ui.SplashActivity-->ru.aviasales.launch_features.LaunchTypeHandlerActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.aviasales.screen.searching.SearchingActivity-->ru.aviasales.screen.searching.SearchingActivity
+flag:finish
+
+ru.aviasales.screen.searching.SearchingActivity-->ru.aviasales.screen.openjawsearch.activity.OpenJawSearchFormActivity
+flag:finish
+
+ru.aviasales.screen.searching.SearchingActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+ru.aviasales.screen.searching.SearchingActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:finish
+
+ru.aviasales.screen.ota_confirmation.activity.OtaConfirmationActivity-->ru.aviasales.screen.ota_confirmation.activity.OtaConfirmationActivity
+flag:
+
+ru.aviasales.screen.ota_confirmation.activity.OtaConfirmationActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+ru.aviasales.screen.ota_confirmation.activity.OtaConfirmationActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+ru.aviasales.screen.price_map.activity.PriceMapActivity-->ru.aviasales.screen.price_map.activity.PriceMapActivity
+flag:finish
+
+ru.aviasales.screen.price_map.activity.PriceMapActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+ru.aviasales.screen.price_map.activity.PriceMapActivity-->ru.aviasales.screen.simplesearch.activity.SearchFormActivity
+flag:finish
+

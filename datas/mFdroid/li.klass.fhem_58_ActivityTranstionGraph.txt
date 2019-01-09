@@ -1,0 +1,6 @@
+.activities.graph.ChartingActivity-->li.klass.fhem.activities.graph.ChartingActivity
+flag:
+
+.activities.graph.ChartingActivity-->li.klass.fhem.activities.graph.ChartingDateSelectionActivity
+flag:
+

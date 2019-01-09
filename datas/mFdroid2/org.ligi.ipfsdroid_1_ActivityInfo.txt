@@ -1,0 +1,10 @@
+#MAIN
+activity:org.ligi.ipfsdroid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.ligi.ipfsdroid.IPFSBrowseActivity
+LaunchMode:std
+TaskAffinity:null
+

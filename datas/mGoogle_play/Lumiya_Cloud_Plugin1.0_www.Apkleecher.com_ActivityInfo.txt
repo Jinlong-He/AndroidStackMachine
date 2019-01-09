@@ -1,0 +1,8 @@
+activity:com.lumiyaviewer.lumiya.cloud.ConnectionResolutionActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

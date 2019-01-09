@@ -1,0 +1,36 @@
+com.andrew.apollo.ui.activities.AudioPlayerActivity-->com.andrew.apollo.ui.activities.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.andrew.apollo.ui.activities.AudioPlayerActivity-->com.andrew.apollo.ui.activities.ProfileActivity
+flag:
+
+com.andrew.apollo.ui.activities.AudioPlayerActivity-->com.andrew.apollo.ui.activities.SearchActivity
+flag:
+
+com.andrew.apollo.ui.activities.ProfileActivity-->com.andrew.apollo.ui.activities.ProfileActivity
+flag:
+
+com.andrew.apollo.ui.activities.ShortcutActivity-->com.andrew.apollo.ui.activities.AudioPlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.bt.download.android.gui.activities.MainActivity-->com.bt.download.android.gui.activities.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.bt.download.android.gui.activities.MainActivity-->com.andrew.apollo.ui.activities.AudioPlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.bt.download.android.gui.activities.MainActivity-->com.bt.download.android.gui.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.bt.download.android.gui.activities.MainActivity-->com.bt.download.android.gui.activities.PreferencesActivity
+flag:
+
+com.bt.download.android.gui.activities.MainActivity-->com.andrew.apollo.ui.activities.HomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.bt.download.android.gui.activities.MainActivity-->com.bt.download.android.gui.activities.MainActivity
+flag:
+
+com.andrew.apollo.ui.activities.SearchActivity-->com.andrew.apollo.ui.activities.ProfileActivity
+flag:
+

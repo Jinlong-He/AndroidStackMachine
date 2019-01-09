@@ -1,0 +1,8 @@
+activity:cat.mvmike.minimalcalendarwidget.activity.PermissionsActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:cat.mvmike.minimalcalendarwidget.activity.ConfigurationActivity
+LaunchMode:sit
+TaskAffinity:null
+

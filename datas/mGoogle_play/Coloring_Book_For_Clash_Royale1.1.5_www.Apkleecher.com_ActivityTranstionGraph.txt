@@ -1,0 +1,6 @@
+com.Colo.clash.just.ing.foreacha.free.justa.Pikokhffghghgom-->com.Colo.clash.just.ing.foreacha.free.justa.Flivdfvvcvcfdfdity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.Colo.clash.just.ing.foreacha.free.justa.Spihghghghoiityvity-->com.Colo.clash.just.ing.foreacha.free.justa.Pikokhffghghgom
+flag:finish
+

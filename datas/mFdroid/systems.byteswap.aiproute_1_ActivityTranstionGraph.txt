@@ -1,0 +1,9 @@
+systems.byteswap.aiproute.MainActivity-->systems.byteswap.aiproute.SettingsActivity
+flag:
+
+systems.byteswap.aiproute.MainActivity-->systems.byteswap.aiproute.EditRouteActivity
+flag:
+
+systems.byteswap.aiproute.EditRouteActivity-->systems.byteswap.aiproute.MainActivity
+flag:
+

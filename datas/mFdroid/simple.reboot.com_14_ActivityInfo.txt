@@ -1,0 +1,6 @@
+#MAIN
+activity:simple.reboot.com.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:giraffine.dimmer.Dimmer
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:giraffine.dimmer.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

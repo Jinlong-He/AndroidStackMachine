@@ -1,0 +1,14 @@
+#MAIN
+activity:com.hasi.d00r.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.hasi.d00r.NewIdentity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.hasi.d00r.Settings
+LaunchMode:std
+TaskAffinity:null
+

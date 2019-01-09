@@ -1,0 +1,21 @@
+com.github.axet.audiorecorder.activities.MainActivity-->com.github.axet.audiorecorder.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.axet.audiorecorder.activities.MainActivity-->com.github.axet.audiorecorder.activities.SettingsActivity
+flag:
+
+com.github.axet.audiorecorder.activities.MainActivity-->com.github.axet.audiorecorder.activities.RecordingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.axet.audiorecorder.activities.RecordingActivity-->com.github.axet.audiorecorder.activities.RecordingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.axet.audiorecorder.activities.RecordingActivity-->com.github.axet.audiorecorder.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.axet.audiorecorder.activities.SettingsActivity-->com.github.axet.audiorecorder.activities.SettingsActivity
+flag:finish
+
+com.github.axet.audiorecorder.activities.SettingsActivity-->com.github.axet.audiorecorder.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+

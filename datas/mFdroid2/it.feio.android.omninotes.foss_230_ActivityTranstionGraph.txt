@@ -1,0 +1,12 @@
+it.feio.android.omninotes.SnoozeActivity-->it.feio.android.omninotes.MainActivity
+flag:finish
+
+it.feio.android.omninotes.MainActivity-->it.feio.android.omninotes.MainActivity
+flag:
+
+it.feio.android.omninotes.MainActivity-->it.feio.android.omninotes.intro.IntroActivity
+flag:
+
+it.feio.android.omninotes.MainActivity-->it.feio.android.omninotes.CategoryActivity
+flag:
+

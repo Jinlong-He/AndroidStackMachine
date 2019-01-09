@@ -1,0 +1,6 @@
+#MAIN
+activity:com.cmcm.keyboard.themeapk.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

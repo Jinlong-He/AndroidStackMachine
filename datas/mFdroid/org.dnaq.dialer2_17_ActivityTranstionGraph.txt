@@ -1,0 +1,15 @@
+.DialerActivity-->.DialerActivity
+flag:
+
+.DialerActivity-->org.dnaq.dialer2.SelectNumberDialog
+flag:
+
+.DialerActivity-->org.dnaq.dialer2.ContactViewDialog
+flag:
+
+.DialerActivity-->org.dnaq.dialer2.DialerPreferenceActivity
+flag:
+
+.DialerActivity-->org.dnaq.dialer2.SelectSpeedDialSlotDialog
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.example.jiasuda.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

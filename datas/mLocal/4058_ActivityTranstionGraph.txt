@@ -1,0 +1,6 @@
+com.dualboot.activity.offer.OfferList-->.Main$Settings
+flag:
+
+com.dualboot.activity.misc.Upsell-->.Main$Settings
+flag:
+

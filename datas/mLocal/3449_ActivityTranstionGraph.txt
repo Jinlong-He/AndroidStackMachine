@@ -1,0 +1,12 @@
+com.tuniu.loan.activity.CertificationByFaceIDActivityStep2-->com.megvii.livenesslib.LivenessActivity
+flag:
+
+com.tuniu.loan.activity.ProductsActivity-->com.tuniu.loan.activity.CouponChooseActivity
+flag:
+
+com.tuniu.loan.activity.CertificationByFaceIDActivity-->com.tuniu.loan.activity.CertificationByFaceIDActivityStep2
+flag:finish
+
+com.tuniu.loan.activity.FeedbackActivity-->com.tuniu.loan.activity.ImagePickerActivity
+flag:
+

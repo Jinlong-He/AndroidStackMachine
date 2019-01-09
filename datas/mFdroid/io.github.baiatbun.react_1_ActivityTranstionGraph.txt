@@ -1,0 +1,3 @@
+io.github.baiatbun.react.MainActivity-->io.github.baiatbun.react.AboutActivity
+flag:
+

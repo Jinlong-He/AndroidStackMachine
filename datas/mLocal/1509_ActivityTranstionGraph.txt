@@ -1,0 +1,9 @@
+com.yanghe.btsearch.StartSplshActivity-->com.yanghe.btsearch.MainActivity
+flag:finish
+
+com.baidu.appx.uikit.BDActivity-->com.baidu.appx.uikit.BDActivity
+flag:
+
+com.yanghe.btsearch.MainActivity-->unknown
+flag:
+

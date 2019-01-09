@@ -1,0 +1,10 @@
+#MAIN
+activity:com.jtl.bluetooth.DisplayMainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.jtl.bluetooth.CameraPreviewActivity
+LaunchMode:std
+TaskAffinity:null
+

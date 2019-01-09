@@ -1,0 +1,10 @@
+#MAIN
+activity:chock.xwf.electricscreen2d.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.youmi.android.AdBrowser
+LaunchMode:std
+TaskAffinity:null
+

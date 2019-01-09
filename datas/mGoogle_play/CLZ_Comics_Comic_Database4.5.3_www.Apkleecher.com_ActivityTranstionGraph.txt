@@ -1,0 +1,12 @@
+com.collectorz.android.activity.DetailActivity-->com.collectorz.android.activity.DetailActivity
+flag:
+
+com.collectorz.android.activity.DetailActivity-->com.collectorz.android.activity.EditActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

@@ -1,0 +1,6 @@
+com.photo.cartoon.editor.photo.FirstActivity-->com.photo.cartoon.editor.photo.ImageHomeFragmentActivity
+flag:
+
+com.photo.cartoon.editor.sketchphoto.pencil.ImageRemake-->com.photo.cartoon.editor.sketchphoto.pencil.ShareActivity
+flag:
+

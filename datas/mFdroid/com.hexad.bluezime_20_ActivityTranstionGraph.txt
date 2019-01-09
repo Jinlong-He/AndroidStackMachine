@@ -1,0 +1,3 @@
+BluezIMESettings-->com.hexad.bluezime.DeviceScanActivity
+flag:
+

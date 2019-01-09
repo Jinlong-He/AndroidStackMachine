@@ -1,0 +1,6 @@
+#MAIN
+activity:.Flash
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

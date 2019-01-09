@@ -1,0 +1,14 @@
+#MAIN
+activity:org.asnelt.derandom.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:org.asnelt.derandom.DisplayParametersActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.asnelt.derandom.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

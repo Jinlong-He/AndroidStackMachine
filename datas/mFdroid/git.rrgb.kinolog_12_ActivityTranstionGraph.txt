@@ -1,0 +1,15 @@
+git.rrigby.kinolog.ViewKino-->git.rrigby.kinolog.AddReview
+flag:
+
+git.rrigby.kinolog.AddKino-->git.rrigby.kinolog.ViewKino
+flag:
+
+git.rrigby.kinolog.AddKino-->git.rrigby.kinolog.AddReview
+flag:
+
+git.rrigby.kinolog.MainActivity-->git.rrigby.kinolog.ViewKino
+flag:
+
+git.rrigby.kinolog.MainActivity-->git.rrigby.kinolog.AddKino
+flag:
+

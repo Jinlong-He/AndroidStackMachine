@@ -1,0 +1,10 @@
+#MAIN
+activity:.SplashScreenActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:.CameraActivity
+launchMode:stp
+TaskAffinity:null
+

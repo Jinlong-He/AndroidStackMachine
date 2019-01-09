@@ -1,0 +1,12 @@
+ghost.detector.pro.VistaConfig-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+ghost.detector.pro.GhostRadarActivity-->ghost.detector.pro.VistaConfig
+flag:
+
+ghost.detector.pro.GhostRadarActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

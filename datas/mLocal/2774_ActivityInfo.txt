@@ -1,0 +1,10 @@
+activity:cld.navi.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+
+#MAIN
+activity:cld.navi.c2883.mainframe.NaviMainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

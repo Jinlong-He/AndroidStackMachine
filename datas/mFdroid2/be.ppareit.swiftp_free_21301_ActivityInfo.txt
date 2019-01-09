@@ -1,0 +1,10 @@
+#MAIN
+activity:be.ppareit.swiftp.gui.FsPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:be.ppareit.swiftp.locale.EditActivity
+LaunchMode:std
+TaskAffinity:null
+

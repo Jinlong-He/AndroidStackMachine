@@ -1,0 +1,10 @@
+#MAIN
+activity:de.vibora.viborafeed.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.vibora.viborafeed.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

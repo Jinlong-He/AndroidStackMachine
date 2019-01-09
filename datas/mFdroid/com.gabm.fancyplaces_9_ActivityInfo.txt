@@ -1,0 +1,14 @@
+#MAIN
+activity:com.gabm.fancyplaces.ui.MainWindow
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.gabm.fancyplaces.ui.ShowEditPlace
+LaunchMode:std
+TaskAffinity:null
+
+activity:android.support.v7.widget.TestActivity
+LaunchMode:std
+TaskAffinity:null
+

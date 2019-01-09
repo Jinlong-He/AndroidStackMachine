@@ -1,0 +1,3 @@
+com.scdgroup.app.audio_book_librivox.activity.SplashActivity-->com.scdgroup.app.audio_book_librivox.activity.MainActivity
+flag:finish
+

@@ -1,0 +1,6 @@
+.FrActivity-->szu.fr.android.PwdActivity
+flag:finish
+
+.PwdActivity-->szu.fr.android.FrActivity
+flag:finish
+

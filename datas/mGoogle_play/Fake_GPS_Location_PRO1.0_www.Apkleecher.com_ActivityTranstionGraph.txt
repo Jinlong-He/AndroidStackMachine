@@ -1,0 +1,6 @@
+com.usefullapps.fakegpslocationpro.MainActivity-->com.usefullapps.fakegpslocationpro.tutorial.GPSAppIntro
+flag:
+
+com.usefullapps.fakegpslocationpro.MainActivity-->com.usefullapps.fakegpslocationpro.SettingsActivity
+flag:
+

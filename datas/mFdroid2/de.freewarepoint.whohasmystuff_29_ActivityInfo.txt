@@ -1,0 +1,10 @@
+#MAIN
+activity:de.freewarepoint.whohasmystuff.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.freewarepoint.whohasmystuff.AddObject
+LaunchMode:std
+TaskAffinity:null
+

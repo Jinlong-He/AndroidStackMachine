@@ -1,0 +1,12 @@
+de.saschahlusiak.freebloks.game.FreebloksActivity-->de.saschahlusiak.freebloks.preferences.FreebloksPreferences
+flag:
+
+de.saschahlusiak.freebloks.game.FreebloksActivity-->de.saschahlusiak.freebloks.donate.DonateActivity
+flag:
+
+de.saschahlusiak.freebloks.game.FreebloksActivity-->de.saschahlusiak.freebloks.game.GameFinishActivity
+flag:
+
+de.saschahlusiak.freebloks.game.GameFinishActivity-->de.saschahlusiak.freebloks.stats.StatisticsActivity
+flag:
+

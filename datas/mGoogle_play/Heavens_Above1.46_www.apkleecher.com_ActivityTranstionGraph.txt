@@ -1,0 +1,12 @@
+com.heavens_above.viewer.ViewerActivity-->com.heavens_above.settings.AlarmSettingsActivity
+flag:
+
+com.heavens_above.viewer.ViewerActivity-->com.heavens_above.viewer.LogActivity
+flag:
+
+com.heavens_above.viewer.ViewerActivity-->com.heavens_above.settings.SettingsActivity
+flag:
+
+com.heavens_above.viewer.ViewerActivity-->com.heavens_above.viewer.AboutActivity
+flag:
+

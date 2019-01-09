@@ -1,0 +1,3 @@
+com.nba2k17tips.nba2k17basketballcheats.SplashActivity-->com.nba2k17tips.nba2k17basketballcheats.MainActivity
+flag:
+

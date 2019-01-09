@@ -1,0 +1,6 @@
+#MAIN
+activity:.AsSeenOnTV
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

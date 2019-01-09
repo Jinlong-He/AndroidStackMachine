@@ -1,0 +1,10 @@
+#MAIN
+activity:org.sufficientlysecure.ical.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.sufficientlysecure.ical.ui.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

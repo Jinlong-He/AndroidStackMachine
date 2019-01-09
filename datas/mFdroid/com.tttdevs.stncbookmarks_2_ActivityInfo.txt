@@ -1,0 +1,10 @@
+activity:com.tttdevs.stncbookmarks.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+
+#MAIN
+activity:com.tttdevs.stncbookmarks.ConfigActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

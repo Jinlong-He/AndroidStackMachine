@@ -1,0 +1,15 @@
+com.poi.poiandroid.StartActivity-->com.poi.poiandroid.LocalRegActivity
+flag:
+
+com.poi.poiandroid.StartActivity-->com.poi.poiandroid.NetRegActivity
+flag:
+
+com.poi.poiandroid.StartActivity-->com.poi.poiandroid.MainActivity
+flag:
+
+com.poi.poiandroid.LocalRegActivity-->com.poi.poiandroid.StartActivity
+flag:
+
+com.poi.poiandroid.NetRegActivity-->com.poi.poiandroid.StartActivity
+flag:
+

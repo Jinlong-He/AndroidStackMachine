@@ -1,0 +1,6 @@
+io.dcloud.PandoraEntry-->io.dcloud.WebAppActivity
+flag:
+
+io.dcloud.PandoraEntry-->io.dcloud.PandoraEntryActivity
+flag:
+

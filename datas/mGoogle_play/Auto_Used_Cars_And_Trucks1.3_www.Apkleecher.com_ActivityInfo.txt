@@ -1,0 +1,6 @@
+#MAIN
+activity:com.auto.webview.autowebviewapp.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

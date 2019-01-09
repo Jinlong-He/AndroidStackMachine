@@ -1,0 +1,4 @@
+activity:de.drhoffmannsoftware.xearth.XearthSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

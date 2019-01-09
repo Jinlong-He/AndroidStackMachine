@@ -1,0 +1,9 @@
+org.poirsouille.tinc_gui.TincActivity-->org.poirsouille.tinc_gui.SettingsActivity
+flag:
+
+org.poirsouille.tinc_gui.TincActivity-->org.poirsouille.tinc_gui.SettingsActivityOld
+flag:
+
+org.poirsouille.tinc_gui.TincActivity-->org.poirsouille.tinc_gui.AboutActivity
+flag:
+

@@ -1,0 +1,18 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->app.hurdlr.com.MainActivity
+flag:
+
+io.intercom.android.sdk.activities.IntercomNoteActivity-->app.hurdlr.com.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.adobe.phonegap.push.PushHandlerActivity-->app.hurdlr.com.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_FROM_BACKGROUND  
+
+com.adobe.phonegap.push.PushHandlerActivity-->app.hurdlr.com.MainActivity
+flag:
+
+io.intercom.android.sdk.activities.IntercomPostActivity-->app.hurdlr.com.MainActivity
+flag:
+

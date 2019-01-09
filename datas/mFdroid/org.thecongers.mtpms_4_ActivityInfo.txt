@@ -1,0 +1,10 @@
+#MAIN
+activity:org.thecongers.mtpms.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.thecongers.mtpms.UserSettingActivity
+LaunchMode:std
+TaskAffinity:null
+

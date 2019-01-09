@@ -1,0 +1,15 @@
+com.mathrawk.calleridfaker.DashboardActivity-->com.zopim.android.sdk.prechat.ZopimChatActivity
+flag:
+
+com.mathrawk.calleridfaker.DashboardActivity-->com.tapjoy.TJAdUnitActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.mathrawk.calleridfaker.LoginActivity-->com.mathrawk.calleridfaker.DashboardActivity
+flag:finish
+
+com.tapjoy.TJContentActivity-->com.tapjoy.TJContentActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.zopim.android.sdk.prechat.ZopimChatActivity-->com.zopim.android.sdk.prechat.ZopimChatActivity
+flag:
+

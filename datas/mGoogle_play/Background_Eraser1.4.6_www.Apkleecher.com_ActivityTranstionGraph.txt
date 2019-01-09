@@ -1,0 +1,15 @@
+com.handycloset.android.eraser.SupportMailActivity-->com.handycloset.android.eraser.SupportMailActivity
+flag:
+
+com.handycloset.android.eraser.MainActivity-->com.handycloset.android.eraser.CropActivity
+flag:
+
+com.handycloset.android.eraser.SaveActivity-->com.handycloset.android.eraser.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.handycloset.android.eraser.PLsGPSCheckActivity-->com.handycloset.android.eraser.PLsGPSCheckActivity
+flag:finish
+
+com.handycloset.android.eraser.PLsGPSCheckActivity-->com.handycloset.android.eraser.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+

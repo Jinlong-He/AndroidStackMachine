@@ -1,0 +1,9 @@
+com.mtph.bpapp.FavouriteList-->com.mtph.bpapp.MainActivity
+flag:finish
+
+com.mtph.bpapp.MainActivity-->com.mtph.bpapp.MenuActivity
+flag:
+
+com.mtph.bpapp.MainActivity-->com.mtph.bpapp.FavouriteList
+flag:
+

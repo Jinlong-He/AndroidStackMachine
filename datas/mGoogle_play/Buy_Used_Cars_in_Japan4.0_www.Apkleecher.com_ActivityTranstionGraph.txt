@@ -1,0 +1,3 @@
+com.dtech.weblist.SplashActivity-->com.dtech.weblist.MainActivity
+flag:
+

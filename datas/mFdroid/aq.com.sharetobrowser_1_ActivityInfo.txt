@@ -1,0 +1,6 @@
+#MAIN
+activity:aq.com.sharetobrowser.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

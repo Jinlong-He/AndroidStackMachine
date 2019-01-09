@@ -1,0 +1,10 @@
+#MAIN
+activity:grmpl.mk.stepandheightcounter.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:grmpl.mk.stepandheightcounter.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

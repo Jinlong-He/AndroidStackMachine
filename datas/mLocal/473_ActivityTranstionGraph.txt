@@ -1,0 +1,9 @@
+com.android.camera.VideoCamera-->com.android.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+
+com.android.camera.panorama.PanoramaActivity-->com.android.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+
+com.android.camera.Camera-->com.android.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+

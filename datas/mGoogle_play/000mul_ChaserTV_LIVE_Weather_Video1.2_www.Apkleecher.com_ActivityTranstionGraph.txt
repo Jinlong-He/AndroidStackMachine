@@ -1,0 +1,9 @@
+com.chaser.tv.CategoryItem-->com.chaser.tv.TvDetails
+flag:
+
+com.chaser.tv.TvDetails-->com.chaser.tv.TvPlay
+flag:
+
+com.chaser.tv.SplashActivity-->com.chaser.tv.MainActivity
+flag:finish
+

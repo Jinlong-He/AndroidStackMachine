@@ -1,0 +1,24 @@
+com.umeng.fb.ui.FeedbackConversations-->com.umeng.fb.ui.FeedbackConversation
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversations-->com.umeng.fb.ui.SendFeedback
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.mohuan.ring.MainActivity-->com.umeng.fb.ui.SendFeedback
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversation-->com.umeng.fb.ui.SendFeedback
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversation-->com.umeng.fb.ui.FeedbackConversations
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.adchina.android.ads.views.FullScreenAdActivity-->com.adchina.android.ads.views.AdBrowserView
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.umeng.fb.ui.SendFeedback-->com.umeng.fb.ui.FeedbackConversations
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.mohuan.ring.SplashActivity-->com.mohuan.ring.MainActivity
+flag:finish
+

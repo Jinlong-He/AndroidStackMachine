@@ -1,0 +1,234 @@
+com.cardfree.blimpandroid.giftcards.giftcardautoreload.GiftcardAutoReloadActivity-->com.cardfree.blimpandroid.giftcards.giftcarddetails.GiftcardDetailsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.giftcards.giftcardautoreload.GiftcardAutoReloadActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.giftcards.giftcardautoreload.GiftcardAutoReloadActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.giftcards.giftcardautoreload.GiftcardAutoReloadActivity-->com.cardfree.blimpandroid.giftcards.giftcardautoreload.GiftcardAutoReloadWithCCActivity
+flag:
+
+com.cardfree.blimpandroid.notificationsettings.NotificationSettingsActivity-->com.cardfree.blimpandroid.notificationsettings.NotificationActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.app.BlimpActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.account.accountmodify.BirthdateChangeActivity-->com.cardfree.blimpandroid.account.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.giftcards.combinegiftcards.CombineGiftcardsActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.giftcards.combinegiftcards.CombineGiftcardsActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:finish
+
+com.cardfree.blimpandroid.account.accountmodify.AddressActivity-->com.cardfree.blimpandroid.account.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.accountmodify.NameChangeActivity-->com.cardfree.blimpandroid.account.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.offers.OffersListActivity-->com.cardfree.blimpandroid.locator.LocatorActivity
+flag:
+
+com.cardfree.blimpandroid.offers.OffersListActivity-->com.cardfree.blimpandroid.settings.SettingsLogInActivity
+flag:
+
+com.cardfree.blimpandroid.offers.OffersListActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity-->com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchasePhysicalActivity
+flag:
+
+com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity-->com.cardfree.blimpandroid.giftcards.combinegiftcards.CombineGiftcardsActivity
+flag:finish
+
+com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardCheckoutActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.creditcards.EditSavedCreditCardActivity-->com.cardfree.blimpandroid.creditcards.SavedCreditCardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.checkout.CheckoutActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.checkout.CheckoutActivity-->com.cardfree.blimpandroid.app.LoginActivity
+flag:
+
+com.cardfree.blimpandroid.checkout.CheckoutActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.account.accountmodify.PasswordChangeActivity-->com.cardfree.blimpandroid.account.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.creditcards.SavedCreditCardActivity-->com.cardfree.blimpandroid.creditcards.EditSavedCreditCardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.app.MainActivity-->com.cardfree.blimpandroid.app.LoginActivity
+flag:
+
+com.cardfree.blimpandroid.app.MainActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:
+
+com.cardfree.blimpandroid.app.MainActivity-->com.cardfree.blimpandroid.app.LoginActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.cardfree.blimpandroid.app.MainActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:finish
+
+com.cardfree.blimpandroid.app.MainActivity-->com.cardfree.blimpandroid.app.RegistrationActivity
+flag:
+
+com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchasePhysicalActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:finish
+
+com.cardfree.blimpandroid.account.accountmodify.EmailChangeActivity-->com.cardfree.blimpandroid.account.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cardfree.blimpandroid.giftcards.giftcardautoreload.GiftcardAutoReloadWithCCActivity-->com.cardfree.blimpandroid.giftcards.giftcarddetails.GiftcardDetailsActivity
+flag:finish
+
+com.cardfree.blimpandroid.menu.ComboTemplateActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.creditcards.EnterNewCreditCardActivity-->com.cardfree.blimpandroid.creditcards.SavedCreditCardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.app.SplashActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:finish
+
+com.cardfree.blimpandroid.app.RegistrationActivity-->com.cardfree.blimpandroid.app.LoginActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.cardfree.blimpandroid.locator.LocatorActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:finish
+
+com.cardfree.blimpandroid.giftcards.giftcardreload.GiftcardReloadActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:finish
+
+com.cardfree.blimpandroid.giftcards.giftcardreload.GiftcardReloadActivity-->com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardCheckoutActivity
+flag:
+
+com.cardfree.blimpandroid.giftcards.giftcardtransactionhistory.GiftcardTransactionHistoryActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.egift.SendAnEgiftWithCCActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.egift.SendAnEgiftWithCCActivity-->com.cardfree.blimpandroid.egift.SentEgiftsActivity
+flag:
+
+com.cardfree.blimpandroid.giftcards.giftcarddetails.GiftcardDetailsActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:finish
+
+com.cardfree.blimpandroid.giftcards.giftcarddetails.GiftcardDetailsActivity-->com.cardfree.blimpandroid.giftcards.giftcardreload.GiftcardReloadActivity
+flag:finish
+
+com.cardfree.blimpandroid.giftcards.giftcarddetails.GiftcardDetailsActivity-->com.cardfree.blimpandroid.giftcards.giftcardautoreload.GiftcardAutoReloadActivity
+flag:finish
+
+io.card.payment.CardIOActivity-->io.card.payment.DataEntryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NO_HISTORY  
+
+com.cardfree.blimpandroid.egift.SendAnEgiftActivity-->com.cardfree.blimpandroid.egift.SentEgiftsActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.cardfree.blimpandroid.egift.SendAnEgiftActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.egift.SendAnEgiftActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.egift.SendAnEgiftActivity-->com.cardfree.blimpandroid.egift.SentEgiftsActivity
+flag:
+
+com.cardfree.blimpandroid.settings.SettingsLogInActivity-->com.cardfree.blimpandroid.app.LoginActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.cardfree.blimpandroid.settings.SettingsLogInActivity-->com.cardfree.blimpandroid.app.RegistrationActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.checkout.CheckoutActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.app.RegistrationActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.locator.LocatorActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchaseDigitalActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.cardfree.blimpandroid.menu.MenuActivity-->unknown
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.egift.SendAnEgiftActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.settings.SettingsLogInActivity
+flag:
+
+com.cardfree.blimpandroid.menu.MenuActivity-->com.cardfree.blimpandroid.app.LoginActivity
+flag:
+
+com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchaseDigitalActivity-->com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchasePhysicalActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchaseDigitalActivity-->com.cardfree.blimpandroid.giftcards.giftcardmanagelist.GiftcardManageListActivity
+flag:finish
+
+com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchaseDigitalActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:
+
+com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchaseDigitalActivity-->com.cardfree.blimpandroid.giftcards.purchasegiftcard.GiftcardPurchaseAutoReloadActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.cardfree.blimpandroid.egift.SentEgiftsActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.egift.SentEgiftsActivity-->com.cardfree.blimpandroid.egift.SendAnEgiftActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.menu.MenuActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.account.accountmodify.NameChangeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.account.accountmodify.EmailChangeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.account.accountmodify.PhoneNumberChangeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.account.accountmodify.AddressActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.account.accountmodify.BirthdateChangeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.app.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.AccountActivity-->com.cardfree.blimpandroid.account.accountmodify.PasswordChangeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.cardfree.blimpandroid.account.accountmodify.PhoneNumberChangeActivity-->com.cardfree.blimpandroid.account.AccountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

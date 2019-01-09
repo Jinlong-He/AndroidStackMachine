@@ -1,0 +1,4 @@
+activity:org.epstudios.morbidmeter.lib.MmConfigure
+LaunchMode:std
+TaskAffinity:null
+

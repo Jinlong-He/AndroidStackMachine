@@ -1,0 +1,10 @@
+activity:com.quaap.computationaldemonology.GraphicDemonActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.quaap.computationaldemonology.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

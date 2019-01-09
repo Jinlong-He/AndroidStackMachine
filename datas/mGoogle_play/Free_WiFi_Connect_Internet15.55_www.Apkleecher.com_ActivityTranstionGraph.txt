@@ -1,0 +1,9 @@
+com.freewebnet.wificon4.WifiConnectActivity-->com.freewebnet.wificon4.wificonnector.WifiConnecter
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.freewebnet.wificon4.wificonnector.WifiConnecter
+flag:
+
+com.freewebnet.wificon4.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+

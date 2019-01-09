@@ -1,0 +1,6 @@
+com.samebits.beacon.locator.ui.activity.MainNavigationActivity-->com.samebits.beacon.locator.ui.activity.SettingsActivity
+flag:
+
+com.samebits.beacon.locator.ui.activity.SettingsActivity-->com.samebits.beacon.locator.ui.activity.SettingsActivity
+flag:
+

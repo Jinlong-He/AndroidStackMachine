@@ -1,0 +1,14 @@
+#MAIN
+activity:.Units
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:.UnitList
+launchMode:stp
+TaskAffinity:null
+
+activity:.UnitDetails
+LaunchMode:std
+TaskAffinity:null
+

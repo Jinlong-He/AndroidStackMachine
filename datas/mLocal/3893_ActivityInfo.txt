@@ -1,0 +1,6 @@
+#MAIN
+activity:.NovaLauncherPrimeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

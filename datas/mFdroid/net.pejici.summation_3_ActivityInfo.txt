@@ -1,0 +1,14 @@
+#MAIN
+activity:net.pejici.summation.SummationList
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.pejici.summation.SheetActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:net.pejici.summation.ItemActivity
+LaunchMode:std
+TaskAffinity:null
+

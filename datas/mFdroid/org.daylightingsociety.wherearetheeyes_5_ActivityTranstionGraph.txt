@@ -1,0 +1,6 @@
+org.daylightingsociety.wherearetheeyes.MainActivity-->org.daylightingsociety.wherearetheeyes.SettingsActivity
+flag:
+
+org.daylightingsociety.wherearetheeyes.MainActivity-->org.daylightingsociety.wherearetheeyes.HelpActivity
+flag:
+

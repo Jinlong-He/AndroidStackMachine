@@ -1,0 +1,3 @@
+com.kiwiapplab.versepager.SplashActivity-->com.kiwiapplab.versepager.MainActivity
+flag:finish
+

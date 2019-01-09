@@ -1,0 +1,9 @@
+rabbitescape.ui.android.AndroidMenuActivity-->rabbitescape.ui.android.AndroidGameActivity
+flag:
+
+rabbitescape.ui.android.AndroidMenuActivity-->rabbitescape.ui.android.AndroidMenuActivity
+flag:
+
+rabbitescape.ui.android.AndroidMenuActivity-->rabbitescape.ui.android.AndroidAboutActivity
+flag:
+

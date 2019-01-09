@@ -1,0 +1,6 @@
+.WelcomActivity-->tyk.android.diatance.DistanceCountActivity
+flag:finish
+
+net.youmi.android.AdActivity-->net.youmi.android.AdActivity
+flag:
+

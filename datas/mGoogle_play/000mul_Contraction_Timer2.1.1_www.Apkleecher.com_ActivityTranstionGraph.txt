@@ -1,0 +1,6 @@
+com.ianhanniballake.contractiontimer.ui.MainActivity-->com.ianhanniballake.contractiontimer.ui.Preferences
+flag:
+
+com.ianhanniballake.contractiontimer.ui.MainActivity-->com.ianhanniballake.contractiontimer.ui.DonateActivity
+flag:
+

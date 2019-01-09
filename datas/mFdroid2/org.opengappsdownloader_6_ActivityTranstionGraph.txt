@@ -1,0 +1,6 @@
+org.opengappsdownloader.DirectoryPicker-->org.opengappsdownloader.DirectoryPicker
+flag:
+
+org.opengappsdownloader.MainActivity-->org.opengappsdownloader.SetPreferenceActivity
+flag:
+

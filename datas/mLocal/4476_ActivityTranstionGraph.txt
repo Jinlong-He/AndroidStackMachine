@@ -1,0 +1,6 @@
+.MainActivity-->com.axis.mobile.chapters.trans.NewSettingActivity
+flag:
+
+.MainActivity-->com.axis.mobile.chapters.trans.SettingActivity
+flag:
+

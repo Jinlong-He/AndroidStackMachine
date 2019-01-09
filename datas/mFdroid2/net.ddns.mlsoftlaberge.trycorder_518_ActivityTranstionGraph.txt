@@ -1,0 +1,6 @@
+net.ddns.mlsoftlaberge.trycorder.products.ProductsListActivity-->net.ddns.mlsoftlaberge.trycorder.products.ProductDetailActivity
+flag:
+
+net.ddns.mlsoftlaberge.trycorder.contacts.ContactsListActivity-->net.ddns.mlsoftlaberge.trycorder.contacts.ContactAdminActivity
+flag:
+

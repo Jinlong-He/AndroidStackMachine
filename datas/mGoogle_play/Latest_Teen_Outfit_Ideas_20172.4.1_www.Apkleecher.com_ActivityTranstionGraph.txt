@@ -1,0 +1,3 @@
+teen.outfit.ideas.view.DetailActivity-->teen.outfit.ideas.view.MainActivity
+flag:
+

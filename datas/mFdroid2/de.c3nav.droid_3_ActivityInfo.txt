@@ -1,0 +1,6 @@
+#MAIN
+activity:de.c3nav.droid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

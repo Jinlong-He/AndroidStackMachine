@@ -1,0 +1,9 @@
+ch.corten.aha.worldclock.WorldClockActivity-->ch.corten.aha.worldclock.EditClockActivity
+flag:
+
+ch.corten.aha.worldclock.WorldClockActivity-->ch.corten.aha.worldclock.AddClockActivity
+flag:
+
+ch.corten.aha.worldclock.WorldClockActivity-->ch.corten.aha.worldclock.WorldClockPreferenceActivity
+flag:
+

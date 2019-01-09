@@ -1,0 +1,12 @@
+com.ifeng.core.DetailActivity-->com.ifeng.core.DetailActivity
+flag:
+
+com.ifeng.lite.MainActivity-->com.ifeng.lite.InterestActivity
+flag:
+
+com.ifeng.lite.MainActivity-->com.ifeng.core.DetailActivity
+flag:
+
+com.ifeng.lite.upgrade.UpgradeDialogActivity-->com.ifeng.lite.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.ui.setting.AnilistLoginActivity-->eu.kanade.tachiyomi.ui.setting.SettingsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+eu.kanade.tachiyomi.ui.main.MainActivity-->eu.kanade.tachiyomi.ui.download.DownloadActivity
+flag:
+
+eu.kanade.tachiyomi.ui.main.MainActivity-->eu.kanade.tachiyomi.ui.setting.SettingsActivity
+flag:
+

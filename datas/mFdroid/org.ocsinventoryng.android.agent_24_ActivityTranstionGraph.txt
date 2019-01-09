@@ -1,0 +1,9 @@
+org.ocsinventoryng.android.agent.OCSAgentActivity-->org.ocsinventoryng.android.agent.OCSListActivity
+flag:
+
+org.ocsinventoryng.android.agent.OCSAgentActivity-->org.ocsinventoryng.android.agent.OCSPrefsActivity
+flag:
+
+org.ocsinventoryng.android.agent.OCSListActivity-->org.ocsinventoryng.android.agent.OCSSectionListActivity
+flag:
+

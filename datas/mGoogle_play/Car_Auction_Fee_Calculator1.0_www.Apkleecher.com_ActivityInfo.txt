@@ -1,0 +1,10 @@
+activity:com.nest.flippingcars.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.nest.flippingcars.Splash
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

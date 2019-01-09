@@ -1,0 +1,15 @@
+com.ar.augment.ui.activity.ScanTutorialActivity-->com.ar.augment.ui.activity.AugmentPlayerActivity
+flag:finish
+
+com.ar.augment.ui.activity.account.LoginActivity-->com.ar.augment.ui.activity.MainActivity
+flag:
+
+com.ar.augment.ui.activity.MainActivity-->com.ar.augment.ui.activity.MainActivity
+flag:
+
+com.ar.augment.ui.activity.MainActivity-->com.ar.augment.ui.activity.AugmentPlayerActivity
+flag:
+
+com.ar.augment.ui.activity.MainActivity-->com.ar.augment.ui.activity.ScanTutorialActivity
+flag:
+

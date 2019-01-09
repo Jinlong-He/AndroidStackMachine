@@ -1,0 +1,66 @@
+org.mozilla.gecko.sync.setup.activities.SetupSuccessActivity-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.dropbox.core.android.AuthActivity-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:
+
+org.mozilla.gecko.webapp.Dispatcher-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:
+
+org.mozilla.gecko.trackingprotection.TrackingProtectionPrompt-->org.mozilla.gecko.preferences.GeckoPreferences
+flag:
+
+org.mozilla.search.SearchActivity-->org.mozilla.search.SearchPreferenceActivity
+flag:
+
+org.mozilla.gecko.sync.setup.activities.AccountActivity-->org.mozilla.gecko.sync.setup.activities.SetupSuccessActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+org.mozilla.gecko.sync.setup.activities.AccountActivity-->org.mozilla.gecko.sync.setup.activities.SetupFailureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+org.mozilla.gecko.sync.setup.activities.RedirectToSetupActivity-->org.mozilla.gecko.sync.setup.activities.SetupSyncActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+org.mozilla.gecko.sync.setup.activities.SetupFailureActivity-->org.mozilla.gecko.sync.setup.activities.AccountActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+org.mozilla.gecko.preferences.GeckoPreferences-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:
+
+org.mozilla.gecko.tabqueue.TabQueueDispatcher-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:finish
+
+org.mozilla.gecko.BrowserApp-->org.mozilla.gecko.preferences.GeckoPreferences
+flag:
+
+org.mozilla.gecko.BrowserApp-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:
+
+org.mozilla.gecko.BrowserApp-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+org.mozilla.gecko.BrowserApp-->org.mozilla.gecko.trackingprotection.TrackingProtectionPrompt
+flag:
+
+org.mozilla.gecko.sync.setup.activities.SetupSyncActivity-->org.mozilla.gecko.sync.setup.activities.AccountActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+org.mozilla.gecko.sync.setup.activities.SetupSyncActivity-->org.mozilla.gecko.sync.setup.activities.WebViewActivity
+flag:
+
+org.mozilla.gecko.sync.setup.activities.SetupSyncActivity-->org.mozilla.gecko.sync.setup.activities.SetupSuccessActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+org.mozilla.gecko.sync.setup.activities.SetupSyncActivity-->org.mozilla.gecko.sync.setup.activities.SetupFailureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+org.mozilla.gecko.overlays.ui.ShareDialog-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:finish
+
+org.mozilla.gecko.fxa.activities.FxAccountStatusActivity-->org.mozilla.gecko.fxa.activities.FxAccountGetStartedActivityWeb
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+org.mozilla.gecko.fxa.activities.FxAccountStatusActivity-->org.mozilla.gecko.tabqueue.TabQueueDispatcher
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

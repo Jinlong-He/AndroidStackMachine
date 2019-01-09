@@ -1,0 +1,15 @@
+com.drawingsnewsyk.drawinggirly.activities.ActivityWallpaperByCategory-->com.drawingsnewsyk.drawinggirly.activities.ActivitySlideImage
+flag:
+
+com.drawingsnewsyk.drawinggirly.activities.ActivitySplash-->com.drawingsnewsyk.drawinggirly.activities.MainActivity
+flag:finish
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.drawingsnewsyk.drawinggirly.activities.ActivitySlideImage-->com.drawingsnewsyk.drawinggirly.activities.ActivitySetAsWallpaper
+flag:
+
+com.drawingsnewsyk.drawinggirly.activities.ActivitySlideImage-->com.drawingsnewsyk.drawinggirly.activities.ActivityPinchZoom
+flag:
+

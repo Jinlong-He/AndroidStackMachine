@@ -1,0 +1,3 @@
+com.photo.stickers.base.MainActivity-->com.photo.stickers.base.EditorActivity
+flag:
+

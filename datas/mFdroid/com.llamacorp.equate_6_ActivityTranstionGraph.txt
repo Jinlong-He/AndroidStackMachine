@@ -1,0 +1,6 @@
+com.llamacorp.equate.view.CalcActivity-->com.llamacorp.equate.view.SettingsActivity
+flag:
+
+com.llamacorp.equate.view.SettingsActivity-->com.llamacorp.equate.view.SettingsActivity
+flag:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:ru.equestriadev.mgke.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ru.equestriadev.widget.WidgetConfigure
+LaunchMode:std
+TaskAffinity:null
+

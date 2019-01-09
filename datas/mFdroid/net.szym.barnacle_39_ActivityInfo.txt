@@ -1,0 +1,14 @@
+#MAIN
+activity:StatusActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:ClientsActivity
+launchMode:stp
+TaskAffinity:null
+
+activity:SettingsActivity
+launchMode:stp
+TaskAffinity:null
+

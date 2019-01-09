@@ -1,0 +1,18 @@
+com.tennumbers.animatedwidgets.activities.dialogs.AppPlayServicesErrorDialog-->com.tennumbers.animatedwidgets.activities.app.details.WeatherDetailsActivity
+flag:
+
+com.tennumbers.animatedwidgets.activities.dialogs.PlayServicesErrorDialog-->com.tennumbers.animatedwidgets.todayweatherwidget.todayweatherwidgetconfiguration.TodayWeatherWidgetConfigurationActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tennumbers.animatedwidgets.activities.dialogs.enablelocationaccess.EnableLocationAccessDialog-->com.tennumbers.animatedwidgets.todayweatherwidget.todayweatherwidgetconfiguration.TodayWeatherWidgetConfigurationActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.tennumbers.animatedwidgets.activities.dialogs.enablelocationaccess.GrantLocationPermissionDialog-->com.tennumbers.animatedwidgets.todayweatherwidget.todayweatherwidgetconfiguration.TodayWeatherWidgetConfigurationActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

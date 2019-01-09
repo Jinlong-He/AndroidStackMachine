@@ -1,0 +1,12 @@
+org.aykit.MyOwnNotes.activities.NoteListActivity-->org.aykit.MyOwnNotes.activities.NoteDetailActivity
+flag:
+
+org.aykit.MyOwnNotes.activities.NoteListActivity-->org.aykit.MyOwnNotes.activities.LoginActivity
+flag:finish
+
+org.aykit.MyOwnNotes.activities.LoginActivity-->org.aykit.MyOwnNotes.activities.NoteListActivity
+flag:finish
+
+org.aykit.MyOwnNotes.activities.NoteDetailActivity-->org.aykit.MyOwnNotes.activities.NoteListActivity
+flag:finish
+

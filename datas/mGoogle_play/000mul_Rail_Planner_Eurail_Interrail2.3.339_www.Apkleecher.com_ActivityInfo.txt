@@ -1,0 +1,14 @@
+#MAIN
+activity:de.hafas.main.HafasApp
+launchMode:stp
+TaskAffinity:de.hafas.android.eurail
+NIAM#
+
+activity:de.hafas.android.HafasStarter
+LaunchMode:std
+TaskAffinity:de.hafas.android.HafasStarter.standard
+
+activity:de.hafas.ar.ARActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+secondStepActivity-->com.emoji.androidl.keyboard.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+SplashActivity-->com.emoji.androidl.keyboard.FirstNewStepActivity
+flag:finish
+
+com.emoji.androidl.keyboard.FirstNewStepActivity-->com.emoji.androidl.keyboard.Main
+flag:finish
+
+Main-->com.emoji.androidl.keyboard.PlugINActivity
+flag:
+

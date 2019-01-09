@@ -1,0 +1,6 @@
+org.androidworks.livewallpaperwatervr.StereoViewActivity-->org.androidworks.livewallpaperwatervr.VRPrefs
+flag:
+
+org.androidworks.livewallpaperwatervr.StereoViewActivity-->org.androidworks.livewallpaperwatervr.About
+flag:
+

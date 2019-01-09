@@ -1,0 +1,6 @@
+#MAIN
+activity:zte.com.cn.lovetalk.SettingsActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

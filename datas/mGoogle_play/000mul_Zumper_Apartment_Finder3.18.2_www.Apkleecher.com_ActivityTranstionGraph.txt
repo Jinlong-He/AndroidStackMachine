@@ -1,0 +1,36 @@
+com.zumper.rentals.ui.deep.UrlListingsControllerActivity-->com.zumper.rentals.launch.LaunchControllerActivity
+flag:
+
+com.optimizely.PreviewExpsActivity-->com.optimizely.PreviewVarsActivity
+flag:
+
+com.optimizely.PreviewExpsActivity-->com.optimizely.PreviewLogActivity
+flag:
+
+io.smooch.ui.ConversationActivity-->io.smooch.ui.ConversationActivity
+flag:
+
+io.smooch.ui.ConversationActivity-->com.zumper.rentals.launch.LaunchControllerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.zumper.rentals.ui.alerts.AlertsListController2Activity-->com.zumper.rentals.launch.LaunchControllerActivity
+flag:
+
+com.blueshift.rich_push.NotificationActivity-->com.zumper.rentals.launch.LaunchControllerActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.zumper.rentals.ui.MainControllerActivity-->com.zumper.rentals.ui.listing.ClusterListingsControllerActivity
+flag:
+
+com.zumper.rentals.ui.MainControllerActivity-->com.zumper.rentals.launch.LaunchControllerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.zumper.rentals.ui.MainControllerActivity-->com.zumper.rentals.launch.LaunchControllerActivity
+flag:
+

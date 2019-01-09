@@ -1,0 +1,6 @@
+#MAIN
+activity:.OpenTimerActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

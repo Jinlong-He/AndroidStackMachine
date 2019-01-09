@@ -1,0 +1,14 @@
+#MAIN
+activity:org.billthefarmer.tuner.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.billthefarmer.tuner.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.billthefarmer.tuner.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

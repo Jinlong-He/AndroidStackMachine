@@ -1,0 +1,12 @@
+koeln.mop.elpeefpe.CharacterEditActivity-->koeln.mop.elpeefpe.CharacterDetailActivity
+flag:
+
+koeln.mop.elpeefpe.CharacterDetailActivity-->koeln.mop.elpeefpe.CharacterEditActivity
+flag:
+
+koeln.mop.elpeefpe.CharacterListActivity-->koeln.mop.elpeefpe.CharacterDetailActivity
+flag:
+
+koeln.mop.elpeefpe.CharacterListActivity-->koeln.mop.elpeefpe.CharacterCreateActivity
+flag:
+

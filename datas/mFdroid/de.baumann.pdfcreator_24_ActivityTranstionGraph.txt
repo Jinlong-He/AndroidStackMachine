@@ -1,0 +1,12 @@
+de.baumann.pdfcreator.helper.Activity_Settings-->de.baumann.pdfcreator.Activity_Main
+flag:finish
+
+de.baumann.pdfcreator.helper.Activity_Settings-->de.baumann.pdfcreator.about.About_activity
+flag:
+
+de.baumann.pdfcreator.Activity_Main-->de.baumann.pdfcreator.helper.Activity_intro
+flag:
+
+de.baumann.pdfcreator.Activity_Main-->de.baumann.pdfcreator.helper.Activity_Settings
+flag:
+

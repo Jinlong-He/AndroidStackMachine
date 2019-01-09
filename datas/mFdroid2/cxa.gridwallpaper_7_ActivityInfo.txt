@@ -1,0 +1,4 @@
+activity:com.ghisguth.limitlessgrid.WallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.vrem.wifianalyzer.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.vrem.wifianalyzer.settings.SettingActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.vrem.wifianalyzer.about.AboutActivity
+LaunchMode:stk
+TaskAffinity:null
+

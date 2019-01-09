@@ -1,0 +1,9 @@
+com.cootek.smartinputv5.emoji.adultemoji.LauncherActivity-->com.cootek.smartinputv5.emoji.adultemoji.ApplyActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.cootek.smartinputv5.emoji.adultemoji.ApplyActivity-->com.cootek.smartinputv5.emoji.adultemoji.RecommendedActivity
+flag:
+
+com.yandex.mobile.ads.AdActivity-->com.yandex.mobile.ads.AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

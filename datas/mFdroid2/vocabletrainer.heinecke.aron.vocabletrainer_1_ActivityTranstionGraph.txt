@@ -1,0 +1,15 @@
+vocabletrainer.heinecke.aron.vocabletrainer.Activities.ListSelector-->unknown
+flag:
+
+vocabletrainer.heinecke.aron.vocabletrainer.Activities.TrainerSettingsActivity-->vocabletrainer.heinecke.aron.vocabletrainer.Activities.TrainerActivity
+flag:
+
+vocabletrainer.heinecke.aron.vocabletrainer.Activities.TrainerActivity-->vocabletrainer.heinecke.aron.vocabletrainer.Activities.MainAcitivity
+flag:
+
+vocabletrainer.heinecke.aron.vocabletrainer.Activities.MainAcitivity-->vocabletrainer.heinecke.aron.vocabletrainer.Activities.ListSelector
+flag:
+
+vocabletrainer.heinecke.aron.vocabletrainer.Activities.MainAcitivity-->vocabletrainer.heinecke.aron.vocabletrainer.Activities.EditorActivity
+flag:
+

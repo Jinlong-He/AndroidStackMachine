@@ -1,0 +1,6 @@
+com.simplemobiletools.applauncher.activities.MainActivity-->com.simplemobiletools.applauncher.activities.SettingsActivity
+flag:
+
+com.simplemobiletools.applauncher.activities.MainActivity-->com.simplemobiletools.applauncher.activities.AboutActivity
+flag:
+

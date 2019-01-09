@@ -1,0 +1,12 @@
+com.carkeyremote.remotecarkey.MainActivity-->com.appnext.ads.interstitial.InterstitialActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.carkeyremote.remotecarkey.MainActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.ironsource.mobilcore.InterstitialVideoActivity-->com.ironsource.mobilcore.InterstitialVideoActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

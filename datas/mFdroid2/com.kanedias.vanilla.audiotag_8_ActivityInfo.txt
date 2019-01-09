@@ -1,0 +1,8 @@
+activity:com.kanedias.vanilla.audiotag.TagEditActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.kanedias.vanilla.audiotag.SafRequestActivity
+LaunchMode:std
+TaskAffinity:null
+

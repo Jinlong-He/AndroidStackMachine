@@ -1,0 +1,12 @@
+com.hyperbooth.facecam2.AlbumActivity-->com.hyperbooth.facecam2.SavedActivity
+flag:
+
+com.hyperbooth.facecam2.CamActivity-->com.hyperbooth.facecam2.SavedActivity
+flag:
+
+com.hyperbooth.facecam2.CamActivity-->com.hyperbooth.facecam2.AlbumActivity
+flag:
+
+com.hyperbooth.facecam2.StartActivity-->com.hyperbooth.facecam2.CamActivity
+flag:finish
+

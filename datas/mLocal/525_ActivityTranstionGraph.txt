@@ -1,0 +1,27 @@
+com.linecorp.foodcam.android.setting.SettingOpenSourceLicenseActivity-->com.linecorp.foodcam.android.setting.SettingOpenSourceLicenseActivity
+flag:
+
+com.linecorp.foodcam.android.gallery.GalleryActivity-->com.linecorp.foodcam.android.gallery.GalleryActivity
+flag:
+
+com.linecorp.foodcam.android.setting.SettingActivity-->com.linecorp.foodcam.android.setting.SettingActivity
+flag:
+
+com.linecorp.foodcam.android.setting.SettingActivity-->com.linecorp.foodcam.android.scheme.SchemeActivity
+flag:
+
+com.linecorp.foodcam.android.setting.SettingActivity-->com.linecorp.foodcam.android.scheme.SchemeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.linecorp.foodcam.android.setting.SettingActivity-->com.linecorp.foodcam.android.setting.SettingOpenSourceLicenseActivity
+flag:
+
+com.linecorp.foodcam.android.setting.SettingActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.linecorp.foodcam.android.setting.SettingDebugActivity-->com.linecorp.foodcam.android.setting.SettingDebugActivity
+flag:
+
+com.linecorp.foodcam.android.camera.CameraActivity-->com.linecorp.foodcam.android.camera.CameraActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+

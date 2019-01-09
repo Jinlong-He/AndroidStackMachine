@@ -1,0 +1,6 @@
+com.socialfollowers.app.MainActivity-->com.socialfollowers.app.BonzoLoginActivity
+flag:
+
+com.socialfollowers.app.MainActivity-->com.socialfollowers.app.InstagramLoginActivity
+flag:
+

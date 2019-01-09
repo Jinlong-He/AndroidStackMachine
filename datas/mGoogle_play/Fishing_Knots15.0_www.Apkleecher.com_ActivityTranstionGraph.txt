@@ -1,0 +1,3 @@
+de.perished.android.apps.fishingknots.ListableObjectListActivity-->de.perished.android.apps.fishingknots.ListableObjectDetailActivity
+flag:
+

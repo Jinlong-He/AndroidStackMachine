@@ -1,0 +1,14 @@
+#MAIN
+activity:net.mingyihui.kuaiyi.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:cn.jpush.android.ui.PushActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:cn.jpush.android.ui.PopWinActivity
+LaunchMode:std
+TaskAffinity:null
+

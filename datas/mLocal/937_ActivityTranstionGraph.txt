@@ -1,0 +1,3 @@
+com.gome.ecmall.home.flight.ui.OrderPayActivity-->com.gome.ecmall.home.flight.ui.FlightHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

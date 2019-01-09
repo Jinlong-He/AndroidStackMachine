@@ -1,0 +1,10 @@
+#MAIN
+activity:.Screen1
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:appinventor.ai_hazels_rugeley.BlackGospelMusic_v_1_0_00.ChannelSelection
+LaunchMode:std
+TaskAffinity:null
+

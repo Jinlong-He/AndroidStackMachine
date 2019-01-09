@@ -1,0 +1,14 @@
+#MAIN
+activity:com.navico.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.navico.LobbyActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.navico.ViewFinderActivity
+LaunchMode:std
+TaskAffinity:null
+

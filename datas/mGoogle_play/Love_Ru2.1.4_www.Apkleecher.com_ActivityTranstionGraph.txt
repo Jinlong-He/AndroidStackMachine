@@ -1,0 +1,45 @@
+com.vk.sdk.VKServiceActivity-->ru.mylove.android.RestorePasswordActivity
+flag:
+
+com.vk.sdk.VKServiceActivity-->ru.mylove.android.RestorePasswordActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+ru.mylove.android.RestoreAccountActivity-->ru.mylove.android.IndexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.mylove.android.RestorePasswordActivity-->ru.mylove.android.IndexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.mylove.android.IndexActivity-->ru.mylove.android.ProfileActivity
+flag:finish
+
+ru.mylove.android.IndexActivity-->ru.mylove.android.CompetitionActivity
+flag:finish
+
+ru.mylove.android.IndexActivity-->ru.mylove.android.QuickAuthActivity
+flag:finish
+
+ru.mylove.android.IndexActivity-->ru.mylove.android.ProfileAlienActivity
+flag:
+
+ru.mylove.android.IndexActivity-->ru.mylove.android.ProfileActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.mylove.android.IndexActivity-->ru.mylove.android.IndexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.mylove.android.QuickAuthActivity-->ru.mylove.android.IndexActivity
+flag:finish
+
+ru.mylove.android.QuickAuthActivity-->ru.mylove.android.ProfileActivity
+flag:finish
+
+ru.mylove.android.QuickAuthActivity-->ru.mylove.android.ProfileActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.mylove.android.QuickAuthActivity-->ru.mylove.android.IndexActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.mylove.android.SearchOnMapActivity-->ru.mylove.android.ProfileAlienActivity
+flag:
+

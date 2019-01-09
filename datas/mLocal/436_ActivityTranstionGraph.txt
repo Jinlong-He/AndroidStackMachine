@@ -1,0 +1,24 @@
+com.alipay.sdk.auth.AuthActivity-->my.beautyCamera.PocoCamera
+flag:
+
+com.tencent.connect.common.AssistActivity-->my.beautyCamera.PocoCamera
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->my.beautyCamera.PocoCamera
+flag:finish
+
+com.adnonstop.beautyCamera.wxapi.WXEntryActivity-->my.beautyCamera.PocoCamera
+flag:finish
+
+my.beautyCamera.wxapi.WXEntryActivity-->my.beautyCamera.PocoCamera
+flag:finish
+
+my.beautyCamera.CallActivity-->my.beautyCamera.PocoCamera
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

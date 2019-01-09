@@ -1,0 +1,45 @@
+com.tencent.connect.common.AssistActivity-->com.godinsec.godinsec_private_space.wxapi.WXPayStartActivity
+flag:finish
+
+com.godinsec.godinsec_private_space.boot.ui.widget.AdvertActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.godinsec.godinsec_private_space.boot.MainActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.godinsec.godinsec_private_space.boot.SplashActivity-->com.godinsec.godinsec_private_space.boot.PluginUpdateActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.godinsec.godinsec_private_space.wxapi.WXPayStartActivity
+flag:finish
+
+com.godinsec.virtual.ui.activity.WXAudioEncHintActivity-->com.godinsec.virtual.ui.activity.WXAudioEncHintActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.godinsec.godinsec_private_space.ShareActivity-->com.godinsec.godinsec_private_space.ShareFriendsActivity
+flag:
+
+com.godinsec.virtual.client.stub.ChooserActivity-->com.godinsec.godinsec_private_space.wxapi.WXPayStartActivity
+flag:
+
+com.godinsec.virtual.virtuallock.VertifyPwdActivity-->com.godinsec.godinsec_private_space.wxapi.WXPayStartActivity
+flag:
+
+com.godinsec.virtual.client.stub.ShortcutHandleActivity-->com.godinsec.godinsec_private_space.wxapi.WXPayStartActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.godinsec.virtual.client.stub.ShortcutHandleActivity-->com.godinsec.godinsec_private_space.wxapi.WXPayStartActivity
+flag:finish
+
+com.godinsec.godinsec_private_space.tools.ManageSpaceActivity-->com.godinsec.godinsec_private_space.wxapi.WXPayStartActivity
+flag:finish
+
+com.godinsec.godinsec_private_space.boot.LogoActivity-->com.godinsec.godinsec_private_space.boot.SplashActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.godinsec.godinsec_private_space.boot.LogoActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+

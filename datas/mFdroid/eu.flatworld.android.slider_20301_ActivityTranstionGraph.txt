@@ -1,0 +1,9 @@
+eu.flatworld.android.slider.MenuActivity-->eu.flatworld.android.slider.SliderSynth
+flag:
+
+eu.flatworld.android.slider.MenuActivity-->eu.flatworld.android.slider.SettingsActivity
+flag:
+
+eu.flatworld.android.slider.MenuActivity-->eu.flatworld.android.slider.AboutActivity
+flag:
+

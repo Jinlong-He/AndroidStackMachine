@@ -1,0 +1,6 @@
+de.arnefeil.bewegungsmelder.SettingActivity-->de.arnefeil.bewegungsmelder.AboutActivity
+flag:
+
+de.arnefeil.bewegungsmelder.MainActivity-->de.arnefeil.bewegungsmelder.SettingActivity
+flag:
+

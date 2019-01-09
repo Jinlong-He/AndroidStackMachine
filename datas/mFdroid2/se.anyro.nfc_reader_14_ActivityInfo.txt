@@ -1,0 +1,6 @@
+#MAIN
+activity:TagViewer
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

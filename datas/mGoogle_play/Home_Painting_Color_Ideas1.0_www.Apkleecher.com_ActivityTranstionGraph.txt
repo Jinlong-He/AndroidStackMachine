@@ -1,0 +1,3 @@
+HomePaintingColor-->com.HomePaintingColor.acrets.AdsActivity
+flag:
+

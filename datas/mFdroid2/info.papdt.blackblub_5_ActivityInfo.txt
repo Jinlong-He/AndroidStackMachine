@@ -1,0 +1,6 @@
+#MAIN
+activity:info.papdt.blackblub.ui.LaunchActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:.Screen1
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.appinventor.components.runtime.ListPickerActivity
+LaunchMode:std
+TaskAffinity:null
+

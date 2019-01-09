@@ -1,0 +1,10 @@
+#MAIN
+activity:org.ligi.satoshiproof.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.ligi.satoshiproof.LastHashActivity
+LaunchMode:std
+TaskAffinity:null
+

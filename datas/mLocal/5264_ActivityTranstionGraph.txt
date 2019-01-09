@@ -1,0 +1,60 @@
+com.garmin.android.apps.gccm.controller.activities.base.FrameworkActivity-->com.mob.tools.MobUIShell
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.garmin.android.apps.gccm.controller.activities.base.FrameworkActivity-->com.mob.tools.MobUIShell
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.garmin.android.apps.gccm.controller.activities.base.FrameworkActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.login.StartupActivity-->com.garmin.android.apps.gccm.controller.activities.login.UserLoginOrCreateActivity
+flag:finish
+
+com.garmin.android.apps.gccm.controller.activities.login.StartupActivity-->com.garmin.android.apps.gccm.controller.activities.base.BlankActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.login.StartupActivity-->com.garmin.android.apps.gccm.controller.activities.base.LauncherADActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.garmin.android.apps.gccm.controller.activities.login.StartupActivity-->com.garmin.android.apps.gccm.controller.activities.base.FrameworkActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.garmin.android.apps.gccm.controller.activities.dashboard.activity.ActivityDetailInfoActivity-->com.garmin.android.apps.gccm.controller.activities.base.BlankActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.dashboard.activity.ActivityDetailInfoActivity-->com.garmin.android.apps.gccm.controller.activities.base.FullScreenActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.dashboard.activity.ActivityDetailInfoActivity-->com.garmin.android.apps.gccm.controller.activities.trainingcamp.trainingplan.StickActionBarFullScreenActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.dashboard.activity.ActivityDetailInfoActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.dashboard.activity.ActivityDetailInfoActivity-->cn.finalteam.rxgalleryfinal.ui.activity.MediaActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.garmin.android.apps.gccm.controller.activities.trainingcamp.trainingplan.TrainingPlanInfoActivity-->com.garmin.android.apps.gccm.controller.activities.base.BlankActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.trainingcamp.trainingplan.TrainingPlanInfoActivity-->com.garmin.android.apps.gccm.controller.activities.base.FullScreenActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.trainingcamp.trainingplan.TrainingPlanInfoActivity-->com.garmin.android.apps.gccm.controller.activities.trainingcamp.trainingplan.StickActionBarFullScreenActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.base.CompetitionDetailActivity-->com.garmin.android.apps.gccm.controller.activities.base.BlankActivity
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.login.UserLoginOrCreateActivity-->com.mob.tools.MobUIShell
+flag:
+
+com.garmin.android.apps.gccm.controller.activities.login.UserLoginOrCreateActivity-->com.garmin.android.apps.gccm.controller.activities.login.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_NEW_TASK  
+
+com.garmin.android.apps.gccm.controller.activities.login.UserLoginOrCreateActivity-->com.garmin.android.apps.gccm.controller.activities.login.StartupActivity
+flag:finish
+
+com.garmin.android.apps.gccm.controller.activities.login.UserLoginOrCreateActivity-->com.garmin.android.apps.gccm.controller.activities.base.FrameworkActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

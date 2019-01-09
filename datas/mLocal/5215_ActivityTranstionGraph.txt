@@ -1,0 +1,630 @@
+com.myfitnesspal.feature.diary.ui.activity.EntryComplete-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.diary.ui.activity.EntryComplete-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.restaurantlogging.ui.activity.VenuesActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.restaurantlogging.ui.activity.VenuesActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.goals.ui.activity.MacroGoalEditorActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.goals.ui.activity.MacroGoalEditorActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.FinishOnboardingActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.FinishOnboardingActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.nutrition.ui.activity.Nutrition-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.nutrition.ui.activity.Nutrition-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.foodeditor.ui.activity.FoodEditorActivity-->com.myfitnesspal.android.login.Welcome
+flag:finish
+
+com.myfitnesspal.feature.foodeditor.ui.activity.FoodEditorActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressPhotosInterstitialActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressPhotosInterstitialActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.notificationinbox.ui.activity.NotificationInboxActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.notificationinbox.ui.activity.NotificationInboxActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.PasscodeView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.PasscodeView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.fileexport.ui.activity.FileExportPreview-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.fileexport.ui.activity.FileExportPreview-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.WeightPickerActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.WeightPickerActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.deleteaccount.ui.activity.DeleteAccountActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.deleteaccount.ui.activity.DeleteAccountActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.meals.ui.activity.MealBrowseFilterActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.android.login.Welcome-->com.myfitnesspal.android.login.Welcome
+flag:finish
+
+com.myfitnesspal.android.login.Welcome-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.barcode.ui.activity.BarcodeScannerActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.barcode.ui.activity.BarcodeScannerActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsContacts-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsContacts-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.challenges.ui.activity.ChallengesActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.challenges.ui.activity.ChallengesActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.exercise.ui.activity.AddExerciseEntry-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.exercise.ui.activity.AddExerciseEntry-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressCongratsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressCongratsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.FacebookLoginActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.FacebookLoginActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.ImportPhotoActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.ImportPhotoActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.meals.ui.activity.MealBrowseActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.meals.ui.activity.MealBrowseActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.debug.ui.activity.EndpointActivity-->com.myfitnesspal.feature.debug.ui.activity.EndpointActivity
+flag:
+
+com.myfitnesspal.feature.diary.ui.activity.Diary-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.diary.ui.activity.Diary-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.goals.ui.activity.CalorieAdjustmentIntro-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.goals.ui.activity.CalorieAdjustmentIntro-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsFacebook-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsFacebook-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.recipes.ui.activity.RecipesAndFoods-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.recipes.ui.activity.RecipesAndFoods-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.EditProfile-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.EditProfile-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.InviteFriendView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.InviteFriendView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.addentry.ui.activity.AddFoodSummaryViewV2-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addentry.ui.activity.AddFoodSummaryViewV2-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.home.ui.activity.Home-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.home.ui.activity.Home-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.CommentsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.CommentsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.premium.ui.activity.PremiumInterstitialActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.premium.ui.activity.PremiumInterstitialActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.LegacyDetailedMessageView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.LegacyDetailedMessageView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rfm.sdk.MraidVideoPlayerActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.RecommendGoal-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.RecommendGoal-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.help.ui.activity.SamsungGearHelp-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.help.ui.activity.SamsungGearHelp-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.exercise.ui.activity.ExerciseSearchActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.exercise.ui.activity.ExerciseSearchActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.challenges.ui.activity.ChallengeDetailActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.myfitnesspal.feature.challenges.ui.activity.ChallengeDetailActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.challenges.ui.activity.ChallengeDetailActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.MyReminders-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.MyReminders-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.SelectReminder-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.SelectReminder-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.goals.ui.activity.UpdateGoals-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.goals.ui.activity.UpdateGoals-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.payments.ui.activity.GooglePlayPaymentActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.payments.ui.activity.GooglePlayPaymentActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.LegacyComposeMessageView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.LegacyComposeMessageView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.recipes.ui.activity.RecipeImporter-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.recipes.ui.activity.RecipeImporter-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.barcode.ui.activity.BarcodeMatchActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.barcode.ui.activity.BarcodeMatchActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.AccountRestrictedActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.AccountRestrictedActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.debug.ui.activity.ProgressPhotosDebugActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.debug.ui.activity.ProgressPhotosDebugActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.ShareProgressActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.ShareProgressActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.addentry.ui.activity.AddFood-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addentry.ui.activity.AddFood-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.payments.ui.activity.PaymentConfirmation-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.payments.ui.activity.PaymentConfirmation-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.FacebookSettings-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.FacebookSettings-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.StatusUpdateActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.StatusUpdateActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.UAScaleInterstitialActivity-->com.myfitnesspal.android.login.Welcome
+flag:finish
+
+com.myfitnesspal.feature.addentry.ui.activity.QuickAddView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addentry.ui.activity.QuickAddView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.home.ui.activity.ImageReportingActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.home.ui.activity.ImageReportingActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.OAuthActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.OAuthActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.LogoutActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.LogoutActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.goals.ui.activity.CalorieAdjustmentExplanationView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.goals.ui.activity.CalorieAdjustmentExplanationView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsSplash-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsSplash-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.challenges.ui.activity.ChallengeAchievementActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.LegacyMessagesView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.LegacyMessagesView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.exercise.ui.activity.NewCardio-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.exercise.ui.activity.NewCardio-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.help.ui.activity.NewsFeedSettings-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.help.ui.activity.NewsFeedSettings-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.addentry.ui.activity.AddFoodSummaryView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addentry.ui.activity.AddFoodSummaryView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.recipes.ui.activity.RecipeImporterShareProxy-->com.myfitnesspal.android.login.Welcome
+flag:finish
+
+com.myfitnesspal.feature.home.ui.activity.ImageReportingDetailsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.home.ui.activity.ImageReportingDetailsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.dashboard.ui.activity.NutrientDashboardSettingsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.dashboard.ui.activity.NutrientDashboardSettingsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.CustomMealNames-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.CustomMealNames-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsParent-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addfriends.ui.activity.AddFriendsParent-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.help.ui.activity.AboutUs-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.help.ui.activity.AboutUs-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.EditReminder-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.EditReminder-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.AddWeightActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.AddWeightActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.goals.ui.activity.MealGoalsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.goals.ui.activity.MealGoalsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.SignUpActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.SignUpActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.DetailedMessageActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.DetailedMessageActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.recipes.ui.activity.RecipeEditor-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.recipes.ui.activity.RecipeEditor-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.ForgotPasswordActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.ForgotPasswordActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.restaurantlogging.ui.activity.MenusActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.restaurantlogging.ui.activity.MenusActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.debug.ui.activity.PremiumDebugActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.debug.ui.activity.PremiumDebugActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.fileexport.ui.activity.FileExport-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.fileexport.ui.activity.FileExport-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.addentry.ui.activity.WaterEntryActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.addentry.ui.activity.WaterEntryActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.search.ui.activity.FoodSearchActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.search.ui.activity.FoodSearchActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.settings.ui.activity.Troubleshooting-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.settings.ui.activity.Troubleshooting-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.debug.ui.activity.MealDebugActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.inmobi.androidsdk.IMBrowserActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.PrefetchActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.PrefetchActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.NewStatusOrComment-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.NewStatusOrComment-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.challenges.ui.activity.UserAchievementsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.challenges.ui.activity.UserAchievementsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.FriendsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.FriendsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.debug.ui.activity.RetrieveMealFoodDebugActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.debug.ui.activity.RetrieveMealFoodDebugActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.help.ui.activity.Help-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.help.ui.activity.Help-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MoPubActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.TermsOfUseActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.TermsOfUseActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.LoginActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.LoginActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.registration.ui.activity.UpdatedTermsActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.registration.ui.activity.UpdatedTermsActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.shared.ui.activity.impl.deeplink.DeepLinkRouterActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.myfitnesspal.feature.community.ui.activity.Community-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.community.ui.activity.Community-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressPhotosGalleryActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.progress.ui.activity.ProgressPhotosGalleryActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.notificationinbox.ui.activity.NotificationInboxActivityV2-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.notificationinbox.ui.activity.NotificationInboxActivityV2-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.shared.ui.activity.impl.FullScreenWebView-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.shared.ui.activity.impl.FullScreenWebView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.deleteaccount.ui.activity.DeleteAccountPremiumActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.deleteaccount.ui.activity.DeleteAccountPremiumActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.search.ui.dialog.SearchCategoryDialog-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.search.ui.dialog.SearchCategoryDialog-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.restaurantlogging.ui.activity.RestaurantLoggingInterstitial-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.restaurantlogging.ui.activity.RestaurantLoggingInterstitial-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.friends.ui.activity.MessagesActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.friends.ui.activity.MessagesActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.myfitnesspal.feature.walkthrough.ui.activity.WalkthroughLoggingActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.myfitnesspal.feature.walkthrough.ui.activity.WalkthroughLoggingActivity-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MraidActivity-->com.myfitnesspal.android.login.Welcome
+flag:
+
+com.rfm.sdk.HTMLBrowserView-->com.myfitnesspal.android.login.Welcome
+flag:FLAG_ACTIVITY_NEW_TASK  
+

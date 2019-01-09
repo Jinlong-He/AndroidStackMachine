@@ -1,0 +1,6 @@
+net.alaindonesia.silectric.MainActivity-->net.alaindonesia.silectric.OptionsActivity
+flag:
+
+net.alaindonesia.silectric.MainActivity-->net.alaindonesia.silectric.ElectronicListActivity
+flag:
+

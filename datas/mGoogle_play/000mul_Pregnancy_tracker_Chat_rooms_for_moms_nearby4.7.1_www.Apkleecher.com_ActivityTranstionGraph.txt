@@ -1,0 +1,24 @@
+com.vk.sdk.VKServiceActivity-->com.preggieapp.preggie.ui.activity.main.MainActivity
+flag:
+
+com.vk.sdk.VKServiceActivity-->com.preggieapp.preggie.ui.activity.main.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.preggieapp.preggie.ui.activity.main.MainActivity-->com.preggieapp.preggie.ui.activity.main.MainActivity
+flag:
+
+com.preggieapp.preggie.ui.activity.main.MainActivity-->com.preggieapp.preggie.ui.auth.activity.AuthActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yandex.mobile.ads.AdActivity-->com.preggieapp.preggie.ui.activity.main.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yandex.mobile.ads.AdActivity-->com.preggieapp.preggie.ui.activity.main.MainActivity
+flag:
+

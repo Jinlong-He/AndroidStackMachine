@@ -1,0 +1,27 @@
+com.ZKXT.SmallAntPro.activity.HomePageAcitity-->com.ZKXT.SmallAntPro.activity.LoginActivity
+flag:finish
+
+com.ZKXT.SmallAntPro.activity.HomePageAcitity-->unknown
+flag:
+
+com.baidu.autoupdatesdk.ConfirmDialoigActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ZKXT.SmallAntPro.activity.MyLocationActivity-->unknown
+flag:
+
+cn.jpush.android.ui.PushActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.ZKXT.SmallAntPro.activity.HomeActivity-->com.ZKXT.SmallAntPro.activity.LoginActivity
+flag:finish
+
+com.ZKXT.SmallAntPro.activity.HomeActivity-->unknown
+flag:
+
+com.ZKXT.SmallAntPro.activity.HomeActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ZKXT.SmallAntPro.activity.OneActivity-->unknown
+flag:
+

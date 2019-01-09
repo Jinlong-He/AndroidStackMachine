@@ -1,0 +1,12 @@
+com.neurondigital.FakeTextMessage.FakeTextMessage-->unknown
+flag:
+
+com.neurondigital.FakeTextMessage.FakeTextMessage-->com.neurondigital.FakeTextMessage.FakeTextMessage
+flag:
+
+com.neurondigital.FakeTextMessage.About-->com.neurondigital.FakeTextMessage.FakeTextMessage
+flag:
+
+com.neurondigital.FakeTextMessage.About-->com.neurondigital.FakeTextMessage.PolicyActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

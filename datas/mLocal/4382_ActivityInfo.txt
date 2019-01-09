@@ -1,0 +1,14 @@
+#MAIN
+activity:.AppEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.alipay.sdk.app.H5PayActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.alipay.sdk.auth.AuthActivity
+LaunchMode:std
+TaskAffinity:null
+

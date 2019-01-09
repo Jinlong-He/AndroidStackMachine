@@ -1,0 +1,6 @@
+com.gloto.telemundo.TelemundoRootActivity-->com.urbanairship.google.PlayServicesErrorActivity
+flag:
+
+com.gloto.telemundo.TelemundoStartupActivity-->com.gloto.telemundo.TelemundoRootActivity
+flag:finish
+

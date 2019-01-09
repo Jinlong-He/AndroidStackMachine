@@ -1,0 +1,12 @@
+com.girls.hair.FavouriteActivity-->com.girls.hair.ViewImageActivity
+flag:
+
+com.girls.hair.MainActivity-->com.girls.hair.FavouriteActivity
+flag:
+
+com.girls.hair.MainActivity-->com.girls.hair.ViewImageActivity
+flag:
+
+com.girls.hair.Splash-->com.girls.hair.MainActivity
+flag:finish
+

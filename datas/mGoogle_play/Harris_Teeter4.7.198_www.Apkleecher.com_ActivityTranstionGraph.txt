@@ -1,0 +1,15 @@
+com.harristeeter.htmobile.activities.StartUpActivityV2-->com.harristeeter.htmobile.activities.MainActivity
+flag:finish
+
+com.harristeeter.htmobile.activities.StartUpActivityV2-->com.harristeeter.htmobile.activities.StartUpActivityV2
+flag:finish
+
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.harristeeter.htmobile.activities.StartUpActivityV2
+flag:
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

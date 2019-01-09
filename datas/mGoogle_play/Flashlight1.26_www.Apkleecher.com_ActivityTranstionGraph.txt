@@ -1,0 +1,6 @@
+net.zenjoy.lockscreen.SpeedChargingActivity-->net.zenjoy.lockscreen.SettingActivity
+flag:finish
+
+com.zenjoy.flashlight12.MainActivity-->net.zenjoy.lockscreen.SettingActivity
+flag:
+

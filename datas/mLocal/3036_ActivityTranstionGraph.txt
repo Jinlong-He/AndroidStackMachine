@@ -1,0 +1,24 @@
+com.baidu.mobads.AppActivity-->com.fuxin.read.imp.RD_ReadActivity
+flag:finish
+
+com.microsoft.intune.mam.client.app.offline.OfflineInstallCompanyPortalDialogActivity-->com.fuxin.read.imp.RD_ReadActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.fuxin.read.imp.RD_ReadActivity
+flag:
+
+com.microsoft.rightsmanagement.ui.ConsentActivity-->com.microsoft.rightsmanagement.ui.ConsentActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.microsoft.rightsmanagement.ui.PolicyPickerActivity-->com.microsoft.rightsmanagement.ui.PolicyPickerActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.fuxin.home.photo2pdf.activity.BaseActivity-->com.fuxin.read.imp.RD_ReadActivity
+flag:
+
+com.microsoft.rightsmanagement.ui.EmailActivity-->com.microsoft.rightsmanagement.ui.EmailActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.microsoft.rightsmanagement.ui.UserPolicyViewerActivity-->com.microsoft.rightsmanagement.ui.UserPolicyViewerActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+

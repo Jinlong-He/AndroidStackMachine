@@ -1,0 +1,14 @@
+#MAIN
+activity:.droidssider.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.droidssider.activity.NetworkDetailsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.droidssider.activity.ChannelDetailsActivity
+LaunchMode:std
+TaskAffinity:null
+

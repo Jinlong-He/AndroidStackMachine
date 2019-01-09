@@ -1,0 +1,10 @@
+#MAIN
+activity:com.eolwral.osmonitor.OSMonitor
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.eolwral.osmonitor.preference.OSMPreference
+LaunchMode:std
+TaskAffinity:null
+

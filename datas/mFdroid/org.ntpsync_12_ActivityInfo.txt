@@ -1,0 +1,10 @@
+#MAIN
+activity:org.ntpsync.ui.BaseActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.ntpsync.ui.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

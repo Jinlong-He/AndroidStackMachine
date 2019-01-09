@@ -1,0 +1,6 @@
+#MAIN
+activity:com.samj.CardTest.CardTestActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

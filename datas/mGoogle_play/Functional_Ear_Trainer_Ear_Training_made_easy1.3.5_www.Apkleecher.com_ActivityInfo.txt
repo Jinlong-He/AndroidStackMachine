@@ -1,0 +1,10 @@
+#MAIN
+activity:com.kaizen9.fet.android.AndroidLauncher
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:raele.concurseiro.ui.activity.RecordStudyActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:raele.concurseiro.ui.activity.TopicSelectionActivity
+LaunchMode:std
+TaskAffinity:null
+

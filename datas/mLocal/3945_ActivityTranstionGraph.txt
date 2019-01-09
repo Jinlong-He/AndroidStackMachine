@@ -1,0 +1,9 @@
+andorid.googles.activity.Package-->unknown
+flag:finish
+
+in.shick.szandroid.GeneratorActivity-->in.shick.szandroid.PreferencesActivity
+flag:
+
+in.shick.szandroid.GeneratorActivity-->in.shick.szandroid.TextWallActivity
+flag:
+

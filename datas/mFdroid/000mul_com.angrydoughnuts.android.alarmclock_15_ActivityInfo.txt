@@ -1,0 +1,10 @@
+#MAIN
+activity:com.angrydoughnuts.android.alarmclock.AlarmClockActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.angrydoughnuts.android.alarmclock.AlarmNotificationActivity
+LaunchMode:sit
+TaskAffinity:
+

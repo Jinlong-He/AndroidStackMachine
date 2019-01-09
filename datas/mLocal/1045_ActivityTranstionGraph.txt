@@ -1,0 +1,57 @@
+cn.fuyoushuo.fqbb.view.activity.UserguideActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:finish
+
+cn.fuyoushuo.fqbb.view.activity.WebviewActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.WebviewActivity-->cn.fuyoushuo.fqbb.view.activity.SearchActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.huawei.android.pushselfshow.permission.RequestPermissionsActivity-->com.huawei.android.pushselfshow.permission.RequestPermissionsActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.huawei.android.pushselfshow.permission.RequestPermissionsActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:
+
+com.huawei.android.pushselfshow.permission.RequestPermissionsActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.huawei.android.pushselfshow.permission.RequestPermissionsActivity-->com.huawei.android.pushselfshow.richpush.RichPushActivity
+flag:FLAG_EXCLUDE_STOPPED_PACKAGES FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+cn.fuyoushuo.fqbb.view.activity.PointMallActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.UserLoginActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.UserLoginActivity-->cn.fuyoushuo.fqbb.view.activity.SearchActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.HelpActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.HelpActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.HelpActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.AppstartActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:finish
+
+cn.fuyoushuo.fqbb.view.activity.LauncherActivity-->cn.fuyoushuo.fqbb.view.activity.AppstartActivity
+flag:finish
+
+cn.fuyoushuo.fqbb.view.activity.LauncherActivity-->cn.fuyoushuo.fqbb.view.activity.UserguideActivity
+flag:finish
+
+cn.fuyoushuo.fqbb.view.activity.ConfigActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+cn.fuyoushuo.fqbb.view.activity.MainActivity-->cn.fuyoushuo.fqbb.view.activity.SearchActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+cn.fuyoushuo.fqbb.view.activity.SearchActivity-->cn.fuyoushuo.fqbb.view.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

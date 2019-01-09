@@ -1,0 +1,12 @@
+org.rferl.ui.activity.MainActivity-->org.rferl.ui.activity.MainActivity
+flag:finish
+
+org.rferl.ui.activity.article.WebViewActivity-->org.rferl.ui.activity.MainActivity
+flag:
+
+org.rferl.ui.activity.multimedia.PhotogalleryActivity-->org.rferl.ui.activity.MainActivity
+flag:
+
+org.rferl.ui.activity.upload.UploadActivity-->org.rferl.ui.activity.MainActivity
+flag:
+

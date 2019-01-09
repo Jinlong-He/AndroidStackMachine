@@ -1,0 +1,15 @@
+MainActivity-->com.fr3ts0n.ecu.gui.androbd.DashBoardActivity
+flag:
+
+MainActivity-->com.fr3ts0n.ecu.gui.androbd.ChartActivity
+flag:
+
+MainActivity-->com.fr3ts0n.ecu.gui.androbd.SettingsActivity
+flag:
+
+MainActivity-->com.fr3ts0n.ecu.gui.androbd.BtDeviceListActivity
+flag:
+
+MainActivity-->com.fr3ts0n.ecu.gui.androbd.UsbDeviceListActivity
+flag:
+

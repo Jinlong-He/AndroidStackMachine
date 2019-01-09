@@ -1,0 +1,15 @@
+com.smithdtyler.prettygoodmusicplayer.NowPlaying-->com.smithdtyler.prettygoodmusicplayer.SettingsActivity
+flag:
+
+com.smithdtyler.prettygoodmusicplayer.AlbumList-->com.smithdtyler.prettygoodmusicplayer.SongList
+flag:finish
+
+com.smithdtyler.prettygoodmusicplayer.ArtistList-->com.smithdtyler.prettygoodmusicplayer.AlbumList
+flag:
+
+com.smithdtyler.prettygoodmusicplayer.ArtistList-->com.smithdtyler.prettygoodmusicplayer.SettingsActivity
+flag:
+
+com.smithdtyler.prettygoodmusicplayer.SongList-->com.smithdtyler.prettygoodmusicplayer.NowPlaying
+flag:
+

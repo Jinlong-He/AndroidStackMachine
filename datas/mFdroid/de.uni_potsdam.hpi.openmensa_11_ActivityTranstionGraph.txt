@@ -1,0 +1,3 @@
+de.uni_potsdam.hpi.openmensa.MainActivity-->de.uni_potsdam.hpi.openmensa.api.preferences.SettingsActivity
+flag:
+

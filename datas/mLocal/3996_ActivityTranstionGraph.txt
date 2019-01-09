@@ -1,0 +1,15 @@
+.OneActivity-->com.wen.fan.suo.niaopu.zhu.TestWeiXinWhatsNewActivity
+flag:finish
+
+.TestWeiXinWhatsNewActivity-->com.wen.fan.suo.niaopu.zhu.OtherActivity
+flag:finish
+
+.TestWeiXinWhatsNewActivity-->com.nd.dianjin.activity.OfferAppActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.TestWeiXinWhatsNewActivity-->com.datouniao.AdPublisher.AdsOffersWebView
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.TestWeiXinWhatsNewActivity-->unknown
+flag:
+

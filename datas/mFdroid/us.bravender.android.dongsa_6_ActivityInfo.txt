@@ -1,0 +1,10 @@
+#MAIN
+activity:.Dongsa
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ConjugationDetailActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,3 @@
+de.vanitasvitae.enigmandroid.MainActivity-->de.vanitasvitae.enigmandroid.SettingsActivity
+flag:
+

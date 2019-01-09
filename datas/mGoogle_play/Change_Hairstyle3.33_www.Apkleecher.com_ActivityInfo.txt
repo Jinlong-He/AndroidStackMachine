@@ -1,0 +1,14 @@
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.engine
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.recomendacion
+LaunchMode:std
+TaskAffinity:null
+

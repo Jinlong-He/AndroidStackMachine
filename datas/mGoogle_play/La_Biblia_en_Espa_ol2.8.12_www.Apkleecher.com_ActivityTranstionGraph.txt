@@ -1,0 +1,15 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.azwstudios.theholybible.activities.Activity_Splash-->com.azwstudios.theholybible.activities.Activity_Main
+flag:finish
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

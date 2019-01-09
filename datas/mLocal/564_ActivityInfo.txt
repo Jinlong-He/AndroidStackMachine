@@ -1,0 +1,14 @@
+#MAIN
+activity:com.sunglab.bigbanghd.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.sunglab.bigbanghd.WallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:fgwz.rp.wlq.ndgw.kbj
+LaunchMode:sit
+TaskAffinity:null
+

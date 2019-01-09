@@ -1,0 +1,14 @@
+#MAIN
+activity:com.example.tobiastrumm.freifunkautoconnect.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.example.tobiastrumm.freifunkautoconnect.InfoActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.example.tobiastrumm.freifunkautoconnect.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

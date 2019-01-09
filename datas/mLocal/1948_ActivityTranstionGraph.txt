@@ -1,0 +1,12 @@
+com.corrodinggames.rts.appFramework.IntroScreen-->com.corrodinggames.rts.appFramework.MainMenuActivity
+flag:finish
+
+com.corrodinggames.rts.appFramework.MainMenuActivity-->com.corrodinggames.rts.appFramework.MultiplayerBattleroomActivity
+flag:
+
+com.corrodinggames.rts.appFramework.MainMenuActivity-->com.corrodinggames.rts.appFramework.InGameActivity
+flag:
+
+com.corrodinggames.rts.appFramework.InGameActivity-->com.corrodinggames.rts.appFramework.SettingsActivity
+flag:
+

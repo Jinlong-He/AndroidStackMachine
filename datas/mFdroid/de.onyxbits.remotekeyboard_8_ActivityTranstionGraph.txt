@@ -1,0 +1,9 @@
+de.onyxbits.remotekeyboard.ReplacementsListActivity-->de.onyxbits.remotekeyboard.ReplacementActivity
+flag:
+
+de.onyxbits.remotekeyboard.MainActivity-->de.onyxbits.remotekeyboard.SettingsActivity
+flag:
+
+de.onyxbits.remotekeyboard.MainActivity-->de.onyxbits.remotekeyboard.ReplacementsListActivity
+flag:
+

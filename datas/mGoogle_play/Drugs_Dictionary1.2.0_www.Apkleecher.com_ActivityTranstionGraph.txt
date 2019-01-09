@@ -1,0 +1,6 @@
+mobi.dailyapps.drugsdictionary.DetailsActivity-->mobi.dailyapps.drugsdictionary.AboutActivity
+flag:
+
+mobi.dailyapps.drugsdictionary.MainActivity-->mobi.dailyapps.drugsdictionary.AboutActivity
+flag:
+

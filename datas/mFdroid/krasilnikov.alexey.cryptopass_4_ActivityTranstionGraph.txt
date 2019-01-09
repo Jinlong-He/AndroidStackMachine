@@ -1,0 +1,12 @@
+krasilnikov.alexey.cryptopass.v8.StartActivity-->krasilnikov.alexey.cryptopass.v8.MainActivity
+flag:
+
+krasilnikov.alexey.cryptopass.v14.StartActivity-->krasilnikov.alexey.cryptopass.v14.StartActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+krasilnikov.alexey.cryptopass.v14.StartActivity-->krasilnikov.alexey.cryptopass.v14.StartActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+krasilnikov.alexey.cryptopass.v14.StartActivity-->krasilnikov.alexey.cryptopass.v8.MainActivity
+flag:
+

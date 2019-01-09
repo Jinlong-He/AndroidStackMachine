@@ -1,0 +1,6 @@
+#MAIN
+activity:ru.nxdomain.bluetoothwalkietalkie.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

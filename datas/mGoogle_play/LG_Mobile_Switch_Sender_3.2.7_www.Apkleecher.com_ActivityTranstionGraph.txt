@@ -1,0 +1,45 @@
+com.lge.mobilemigration.ui.MainActivity-->com.lge.mobilemigration.ui.CategoryListActivity
+flag:
+
+com.lge.mobilemigration.ui.MainActivity-->com.lge.mobilemigration.ui.BNRManuallyCopyDataWireActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lge.mobilemigration.ui.MainActivity-->com.lge.mobilemigration.ui.FileTransferGuideActivity
+flag:
+
+com.lge.mobilemigration.ui.MainActivity-->com.lge.mobilemigration.ui.MainActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lge.mobilemigration.ui.MainActivity-->com.lge.mobilemigration.ui.EulaViewActivity
+flag:
+
+com.lge.mobilemigration.ui.CategoryListActivity-->com.lge.mobilemigration.ui.ProgressViewActivity
+flag:finish
+
+com.lge.mobilemigration.ui.WiFiSenderActivity-->com.lge.mobilemigration.ui.ProgressViewActivity
+flag:finish
+
+com.lge.mobilemigration.ui.WiFiSenderActivity-->com.lge.mobilemigration.ui.CategoryListActivity
+flag:finish
+
+com.lge.mobilemigration.ui.ManuallyCopyDataActivity-->com.lge.mobilemigration.ui.CategoryListActivity
+flag:
+
+com.lge.mobilemigration.ui.ManuallyCopyDataActivity-->com.lge.mobilemigration.ui.FileTransferGuideActivity
+flag:
+
+com.lge.mobilemigration.ui.StorageListActivity-->com.lge.mobilemigration.ui.CategoryListActivity
+flag:finish
+
+com.lge.mobilemigration.ui.FileTransferGuideActivity-->com.lge.mobilemigration.ui.WiFiSenderActivity
+flag:
+
+com.lge.mobilemigration.ui.EulaViewActivity-->com.lge.mobilemigration.ui.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.lge.mobilemigration.ui.ProgressViewActivity-->com.lge.mobilemigration.ui.CategoryListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.lge.mobilemigration.ui.BaseActivity-->com.lge.mobilemigration.ui.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

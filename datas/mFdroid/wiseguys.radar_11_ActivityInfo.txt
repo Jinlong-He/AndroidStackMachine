@@ -1,0 +1,6 @@
+#MAIN
+activity:wiseguys.radar.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

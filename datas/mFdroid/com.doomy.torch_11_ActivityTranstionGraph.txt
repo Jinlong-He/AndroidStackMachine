@@ -1,0 +1,3 @@
+com.doomy.torch.MainActivity-->com.doomy.torch.SettingsActivity
+flag:
+

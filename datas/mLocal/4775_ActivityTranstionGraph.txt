@@ -1,0 +1,3 @@
+com.bbagames.kidsgames.SplashActivity-->com.bbagames.kidsgames.MainActivity
+flag:finish
+

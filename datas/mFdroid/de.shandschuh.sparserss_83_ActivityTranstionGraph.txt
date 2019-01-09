@@ -1,0 +1,3 @@
+.RSSOverview-->de.shandschuh.sparserss.ApplicationPreferencesActivity
+flag:
+

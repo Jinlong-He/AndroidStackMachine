@@ -1,0 +1,12 @@
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+com.templa.mockloc.RSplashActivity-->com.templa.mockloc.MyActivity
+flag:finish
+
+com.umeng.fb.ConversationActivity-->com.umeng.fb.ContactActivity
+flag:
+
+com.templa.mockloc.MyActivity-->com.templa.mockloc.AboutDetailWebView
+flag:
+

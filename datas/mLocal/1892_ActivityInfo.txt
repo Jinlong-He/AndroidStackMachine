@@ -1,0 +1,14 @@
+#MAIN
+activity:com.pdagate.chmreaderlib.CHMReader
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.pdagate.chmreaderlib.CHMPrefs
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.pdagate.chmreaderlib.CHMViewer
+LaunchMode:std
+TaskAffinity:null
+

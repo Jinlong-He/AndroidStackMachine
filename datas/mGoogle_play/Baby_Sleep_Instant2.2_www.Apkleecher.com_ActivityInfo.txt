@@ -1,0 +1,14 @@
+#MAIN
+activity:com.urbandroid.babysleep.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.urbandroid.babysleep.TutorialActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.urbandroid.babysleep.RecordActivity
+LaunchMode:std
+TaskAffinity:null
+

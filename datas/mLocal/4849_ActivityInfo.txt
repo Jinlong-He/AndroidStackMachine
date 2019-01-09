@@ -1,0 +1,14 @@
+#MAIN
+activity:air.org.axisentertainment.BabyHazelMothersDay.AppEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:kor.iu.af.hahap.u.HaHaActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:kor.iu.af.garys.u.GaryActivity
+launchMode:stp
+TaskAffinity:null
+

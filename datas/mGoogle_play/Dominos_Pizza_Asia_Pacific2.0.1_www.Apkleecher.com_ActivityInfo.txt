@@ -1,0 +1,6 @@
+#MAIN
+activity:com.dominos.pacific.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

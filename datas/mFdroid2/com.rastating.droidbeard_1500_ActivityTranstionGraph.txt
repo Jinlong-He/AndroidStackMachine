@@ -1,0 +1,6 @@
+com.rastating.droidbeard.MainActivity-->com.rastating.droidbeard.ShowSearch
+flag:
+
+com.rastating.droidbeard.MainActivity-->com.rastating.droidbeard.AboutActivity
+flag:
+

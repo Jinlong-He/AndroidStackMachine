@@ -1,0 +1,15 @@
+org.zywx.wbpalmstar.plugin.ueximage.PictureGridActivity-->org.zywx.wbpalmstar.plugin.ueximage.ImagePreviewActivity
+flag:finish
+
+org.zywx.wbpalmstar.plugin.ueximage.ImagePreviewActivity-->org.zywx.wbpalmstar.plugin.ueximage.PictureGridActivity
+flag:finish
+
+org.zywx.wbpalmstar.engine.EBrowserActivity-->org.zywx.wbpalmstar.engine.EBrowserActivity
+flag:
+
+org.zywx.wbpalmstar.engine.EBrowserActivity-->org.zywx.wbpalmstar.engine.TempActivity
+flag:
+
+org.zywx.wbpalmstar.plugin.ueximage.AlbumListActivity-->org.zywx.wbpalmstar.plugin.ueximage.PictureGridActivity
+flag:
+

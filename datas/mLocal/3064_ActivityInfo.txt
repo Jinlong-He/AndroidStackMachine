@@ -1,0 +1,14 @@
+#MAIN
+activity:com.costep.aml_lite.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.costep.aml_lite.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.costep.aml_lite.MessageActivity
+LaunchMode:std
+TaskAffinity:null
+

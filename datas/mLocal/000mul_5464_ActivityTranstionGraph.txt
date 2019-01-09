@@ -1,0 +1,15 @@
+com.tencent.connect.common.AssistActivity-->com.cmcc.migutvtwo.ui.WebViewActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.cmcc.migutvtwo.ui.WebViewActivity
+flag:finish
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.sina.weibo.sdk.component.WeiboSdkBrowser
+flag:
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.cmcc.migutvtwo.thirdpart.WBEntryActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

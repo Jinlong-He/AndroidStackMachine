@@ -1,0 +1,6 @@
+com.fox.android.fsp.MainActivity-->com.fox.android.fsp.ReminderSetupActivity
+flag:
+
+com.fox.android.fsp.MainActivity-->com.fox.android.fsp.LoginActivity
+flag:
+

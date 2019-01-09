@@ -1,0 +1,6 @@
+#MAIN
+activity:com.shjt.comm.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

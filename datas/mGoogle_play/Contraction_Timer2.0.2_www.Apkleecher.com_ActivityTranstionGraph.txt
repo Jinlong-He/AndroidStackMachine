@@ -1,0 +1,6 @@
+.settings.SettingsActivity-->com.jamesots.android.contractiontimer.ContractionTimer
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.ContractionTimer-->com.jamesots.android.contractiontimer.settings.SettingsActivity
+flag:
+

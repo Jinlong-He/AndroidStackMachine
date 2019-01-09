@@ -1,0 +1,6 @@
+com.lampe.torcher.flashlight.MainActivity-->net.zenjoy.lockscreen.SettingActivity
+flag:
+
+net.zenjoy.lockscreen.SpeedChargingActivity-->net.zenjoy.lockscreen.SettingActivity
+flag:finish
+

@@ -1,0 +1,4 @@
+activity:com.viper.simplert.StartAccessoryActivity
+LaunchMode:std
+TaskAffinity:null
+

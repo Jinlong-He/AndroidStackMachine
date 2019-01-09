@@ -1,0 +1,12 @@
+lt.noframe.fieldsareameasure.views.ActivityDrawer-->lt.noframe.fieldsareameasure.views.ActivityDrawer
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+lt.noframe.fieldsareameasure.views.ActivityDrawer-->lt.noframe.fieldsareameasure.views.ActivityDrawer
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

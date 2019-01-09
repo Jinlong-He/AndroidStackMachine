@@ -1,0 +1,21 @@
+com.etoolkit.lovecollage.MainActivity-->com.etoolkit.photoeditor.PhotoEditorActivity
+flag:
+
+com.etoolkit.lovecollage.ui.social.gallery.InstaPhotoGallery-->com.etoolkit.photoeditor.PhotoEditorActivity
+flag:
+
+com.etoolkit.lovecollage.ui.social.gallery.InstaPhotoGallery-->com.etoolkit.lovecollage.ImageSharingActivity
+flag:
+
+com.etoolkit.lovecollage.ui.social.gallery.FacebookPhotoGallery-->com.etoolkit.photoeditor.PhotoEditorActivity
+flag:
+
+com.etoolkit.lovecollage.ui.social.gallery.FacebookPhotoGallery-->com.etoolkit.lovecollage.ImageSharingActivity
+flag:
+
+com.adcolony.sdk.AdColonyAdViewActivity-->com.adcolony.sdk.AdColonyPubServicesInAppMsgActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.adcolony.sdk.AdColonyInterstitialActivity-->com.adcolony.sdk.AdColonyPubServicesInAppMsgActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,9 @@
+com.ultramegatech.ey.PeriodicTableActivity-->com.ultramegatech.ey.ElementListActivity
+flag:
+
+com.ultramegatech.ey.SettingsActivity-->com.ultramegatech.ey.SettingsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ultramegatech.ey.ElementListActivity-->com.ultramegatech.ey.ElementDetailsActivity
+flag:
+

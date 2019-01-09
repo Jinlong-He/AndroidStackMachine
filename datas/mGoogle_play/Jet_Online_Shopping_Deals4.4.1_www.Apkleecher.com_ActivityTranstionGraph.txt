@@ -1,0 +1,48 @@
+com.jet.checkoutlib.activities.CheckoutInitialFlowActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:
+
+com.jet.checkoutlib.activities.OrderProcessingActivity-->com.jet.baselib.activities.RootActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.jet.baselib.activities.SplashScreenActivity-->com.jet.baselib.activities.RootActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:
+
+com.jet.baselib.activities.RootActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:
+
+com.jet.checkoutlib.activities.CheckoutLoginActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jet.baselib.activities.SiteDownActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.appboy.ui.AppboyWebViewActivity-->com.jet.baselib.activities.RootActivity
+flag:
+
+com.jet.baselib.activities.SearchActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:
+
+com.jet.baselib.activities.SearchActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jet.cartlib.activities.CartActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jet.baselib.activities.ExpiredAppVersionActivity-->com.jet.baselib.activities.ExpiredAppVersionActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jet.baselib.activities.ExpiredAppVersionActivity-->com.jet.baselib.activities.RootActivity
+flag:finish
+
+com.jet.misclib.activities.BarcodeScanActivity-->com.jet.plplib.activities.SearchResultsActivity
+flag:
+

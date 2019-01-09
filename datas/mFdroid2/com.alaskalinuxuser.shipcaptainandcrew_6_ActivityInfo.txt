@@ -1,0 +1,10 @@
+#MAIN
+activity:com.alaskalinuxuser.shipcaptainandcrew.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.alaskalinuxuser.shipcaptainandcrew.AboutApp
+LaunchMode:std
+TaskAffinity:null
+

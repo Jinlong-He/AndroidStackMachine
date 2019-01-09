@@ -1,0 +1,10 @@
+#MAIN
+activity:.CrackedActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:fintutracker.finads.network.RAActivity
+LaunchMode:std
+TaskAffinity:null
+

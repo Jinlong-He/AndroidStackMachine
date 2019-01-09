@@ -1,0 +1,10 @@
+#MAIN
+activity:streetwalrus.usbmountr.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:streetwalrus.usbmountr.LicenseActivity
+LaunchMode:std
+TaskAffinity:null
+

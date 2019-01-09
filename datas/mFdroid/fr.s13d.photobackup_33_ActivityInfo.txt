@@ -1,0 +1,14 @@
+#MAIN
+activity:fr.s13d.photobackup.PBActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:fr.s13d.photobackup.journal.PBJournalActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:fr.s13d.photobackup.about.PBAboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,147 @@
+com.blinkslabs.blinkist.android.feature.campaign.BannerPageActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.account.unlink.UnlinkFacebookAccountActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.account.unlink.UnlinkFacebookAccountActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.mostread.MostReadBooksActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.finish.FinishBookActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.categories.CategoriesActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.deeplinking.DeepLinkingActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.mixpanel.android.takeoverinapp.TakeoverInAppActivity-->com.blinkslabs.blinkist.android.feature.deeplinking.DeepLinkingActivity
+flag:finish
+
+com.jakewharton.processphoenix.ProcessPhoenix-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:finish
+
+com.blinkslabs.blinkist.android.feature.search.SearchActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.search.SearchActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.blinkslabs.blinkist.android.feature.search.SearchActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.auth.AuthActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.ui.activities.HomeActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.ui.activities.HomeActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.userlists.UserListsActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.purchase.paywall.PaywallActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.account.edit.EditBlinkistAccountActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.blinkslabs.blinkist.android.feature.audio.AudioQueueActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.evernote.EvernoteSettingsActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.justadded.NewBooksActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.datamigration.SyncInterstitialActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.datamigration.SyncInterstitialActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.purchase.SubscriptionActivity-->com.blinkslabs.blinkist.android.feature.deeplinking.DeepLinkingActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.purchase.SubscriptionActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.purchase.SubscriptionActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.textmarkers.TextmarkerOfBookActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.textmarkers.TextmarkerOfBookActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.tagging.TagActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.settings.SettingsActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.ui.activities.LauncherActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.account.add.AddBlinkistAccountActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.CustomTabMainActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.blinkslabs.blinkist.android.feature.tagging.booktags.BookTagsActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.categories.CategoryDetailActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.discover.categories.CategoryDetailActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.onboarding.OnboardingActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:finish
+
+com.blinkslabs.blinkist.android.feature.social.profile.stats.StatsActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.ui.InnerSettingsActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.audio.AudioBooksActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.reader.outline.OutlineActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.tagging.tags.TagsActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.reader.ReaderActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:
+
+com.blinkslabs.blinkist.android.feature.reader.ReaderActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.trending.TrendingBooksActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blinkslabs.blinkist.android.feature.discover.foryou.ForYouBooksActivity-->com.blinkslabs.blinkist.android.ui.activities.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

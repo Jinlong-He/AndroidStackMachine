@@ -1,0 +1,33 @@
+com.app.guidelenses.Bonus-->com.app.guidelenses.activity1
+flag:
+
+com.app.guidelenses.Bonus-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.app.guidelenses.Step4-->com.app.guidelenses.Bonus
+flag:
+
+com.app.guidelenses.Step4-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.app.guidelenses.Step3-->com.app.guidelenses.Step4
+flag:
+
+com.app.guidelenses.Step3-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.app.guidelenses.Step2-->com.app.guidelenses.Step3
+flag:
+
+com.app.guidelenses.Step2-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.app.guidelenses.activity1-->com.app.guidelenses.Step2
+flag:
+
+com.app.guidelenses.activity1-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

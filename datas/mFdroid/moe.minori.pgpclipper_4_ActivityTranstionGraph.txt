@@ -1,0 +1,6 @@
+moe.minori.pgpclipper.activities.PGPClipperResultShowActivity-->moe.minori.pgpclipper.activities.PGPClipperQuickReplyActivity
+flag:finish
+
+moe.minori.pgpclipper.activities.PGPClipperSettingsActivity-->moe.minori.pgpclipper.activities.NFCAuthenticationSetupActivity
+flag:
+

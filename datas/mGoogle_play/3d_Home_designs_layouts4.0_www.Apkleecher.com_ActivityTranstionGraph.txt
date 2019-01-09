@@ -1,0 +1,9 @@
+com.deepsgamestudio.homeplan.Home-->com.deepsgamestudio.homeplan.GroupImageView
+flag:
+
+com.deepsgamestudio.homeplan.Home-->com.deepsgamestudio.activity.AppTerms
+flag:
+
+com.deepsgamestudio.homeplan.GroupImageView-->com.deepsgamestudio.homeplan.SingleImageView
+flag:
+

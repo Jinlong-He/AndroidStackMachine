@@ -1,0 +1,6 @@
+com.artificialsolutions.teneo.va.PortalLandingActivity-->com.artificialsolutions.teneo.va.PortalRegisterActivity
+flag:
+
+com.artificialsolutions.teneo.va.PortalLandingActivity-->com.artificialsolutions.teneo.va.PortalLoginActivity
+flag:
+

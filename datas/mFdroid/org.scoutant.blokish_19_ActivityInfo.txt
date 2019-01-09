@@ -1,0 +1,14 @@
+#MAIN
+activity:org.scoutant.blokish.UI
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.scoutant.blokish.Settings
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.scoutant.blokish.Help
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+com.arellomobile.android.push.PushHandlerActivity-->com.arellomobile.android.push.PushWebview
+flag:
+
+com.arellomobile.android.push.PushHandlerActivity-->essential.oils.more.MainActivity
+flag:
+
+com.arellomobile.android.push.PushHandlerActivity-->com.arellomobile.android.push.MessageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

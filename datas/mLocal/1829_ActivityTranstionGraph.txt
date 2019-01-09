@@ -1,0 +1,3 @@
+aiwuxia1.mianfei.haohao.RSplashActivity-->aiwuxia1.mianfei.haohao.MainActivity
+flag:finish
+

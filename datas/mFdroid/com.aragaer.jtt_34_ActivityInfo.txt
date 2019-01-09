@@ -1,0 +1,6 @@
+#MAIN
+activity:com.aragaer.jtt.JTTMainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

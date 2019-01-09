@@ -1,0 +1,10 @@
+#MAIN
+activity:.activity.ApplistActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.preference.RightsalertPreference
+LaunchMode:std
+TaskAffinity:null
+

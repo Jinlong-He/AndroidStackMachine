@@ -1,0 +1,15 @@
+io.github.phora.androptpb.activities.MainActivity-->io.github.phora.androptpb.activities.SettingsActivity
+flag:
+
+io.github.phora.androptpb.activities.MainActivity-->io.github.phora.androptpb.activities.UploadOptionsActivity
+flag:
+
+io.github.phora.androptpb.activities.MainActivity-->io.github.phora.androptpb.activities.PasteHintsActivity
+flag:
+
+io.github.phora.androptpb.activities.MainActivity-->io.github.phora.androptpb.activities.PasteFormatActivity
+flag:
+
+io.github.phora.androptpb.activities.MainActivity-->io.github.phora.androptpb.activities.PasteStyleActivity
+flag:
+

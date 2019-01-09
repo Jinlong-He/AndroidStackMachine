@@ -1,0 +1,3 @@
+com.termux.api.util.TermuxApiPermissionActivity-->com.termux.api.util.TermuxApiPermissionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

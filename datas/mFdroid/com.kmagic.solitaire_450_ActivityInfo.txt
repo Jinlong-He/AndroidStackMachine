@@ -1,0 +1,6 @@
+#MAIN
+activity:.Solitaire
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

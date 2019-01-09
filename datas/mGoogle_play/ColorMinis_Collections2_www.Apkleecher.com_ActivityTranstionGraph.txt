@@ -1,0 +1,3 @@
+com.astricstore.imageandvideopicker.AndroidPickerActivity-->eu.janmuller.android.simplecropimage.CropImage
+flag:
+

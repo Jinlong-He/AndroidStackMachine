@@ -1,0 +1,6 @@
+#MAIN
+activity:appinventor.ai_app_jcstudio.FodaSe.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

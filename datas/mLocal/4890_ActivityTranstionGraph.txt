@@ -1,0 +1,6 @@
+starspacedream.puzzle.EntryActivity-->starspacedream.puzzle.MainActivity
+flag:
+
+starspacedream.puzzle.EntryActivity-->starspacedream.puzzle.SettingActivity
+flag:
+

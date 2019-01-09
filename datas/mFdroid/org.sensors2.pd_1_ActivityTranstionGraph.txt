@@ -1,0 +1,9 @@
+org.sensors2.pd.activities.Sensors2PdActivity-->org.sensors2.pd.activities.GuideActivity
+flag:
+
+org.sensors2.pd.activities.Sensors2PdActivity-->org.sensors2.pd.activities.SettingsActivity
+flag:
+
+org.sensors2.pd.activities.Sensors2PdActivity-->org.sensors2.pd.activities.AboutActivity
+flag:
+

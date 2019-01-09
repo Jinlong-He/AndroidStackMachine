@@ -1,0 +1,8 @@
+activity:com.zgames.lwpfallout4.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.lostpolygon.unity.androidintegration.UnityPlayerInstantiatorActivity
+LaunchMode:stk
+TaskAffinity:null
+

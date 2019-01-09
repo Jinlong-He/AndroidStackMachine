@@ -1,0 +1,10 @@
+#MAIN
+activity:.FlashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:FlashView
+LaunchMode:std
+TaskAffinity:null
+

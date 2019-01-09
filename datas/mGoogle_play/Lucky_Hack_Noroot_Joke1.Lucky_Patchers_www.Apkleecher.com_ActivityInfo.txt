@@ -1,0 +1,10 @@
+#MAIN
+activity:com.ikuaiji.imobiles.W
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.mobvista.msdk.shell.MVActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,90 @@
+com.skyplatanus.crucio.ui.story.FirstStoryActivity-->com.skyplatanus.crucio.ui.story.FirstStoryActivity
+flag:
+
+com.skyplatanus.crucio.ui.story.FirstStoryActivity-->com.skyplatanus.crucio.ui.web.TimeUpActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.tencent.connect.common.AssistActivity-->com.skyplatanus.crucio.ui.others.SchemeActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.skyplatanus.crucio.ui.others.SchemeActivity
+flag:finish
+
+com.skyplatanus.crucio.ui.SplashActivity-->com.skyplatanus.crucio.ui.web.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.skyplatanus.crucio.ui.LandingActivity-->com.skyplatanus.crucio.ui.LandingActivity
+flag:
+
+com.skyplatanus.crucio.ui.LandingActivity-->com.skyplatanus.crucio.ui.SsoLoginActivity
+flag:
+
+com.skyplatanus.crucio.ui.LandingActivity-->com.skyplatanus.crucio.ui.web.WebViewActivity
+flag:
+
+com.skyplatanus.crucio.ui.ShareActivity-->com.skyplatanus.crucio.ui.ShareActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.skyplatanus.crucio.ui.ShareActivity-->com.sina.weibo.sdk.share.WbShareTransActivity
+flag:
+
+com.skyplatanus.crucio.ui.ShareActivity-->com.skyplatanus.crucio.ui.others.SchemeActivity
+flag:
+
+com.skyplatanus.crucio.ui.ShareActivity-->com.tencent.connect.common.AssistActivity
+flag:
+
+com.sina.weibo.sdk.share.WbShareTransActivity-->com.skyplatanus.crucio.ui.others.SchemeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.skyplatanus.crucio.ui.notify.NotifyActivity-->com.skyplatanus.crucio.ui.notify.NotifyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.skyplatanus.crucio.wxapi.WeixinPayActivity-->com.skyplatanus.crucio.wxapi.WeixinPayActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.skyplatanus.crucio.ui.story.StoryActivity-->com.skyplatanus.crucio.ui.story.StoryActivity
+flag:
+
+com.skyplatanus.crucio.ui.story.StoryActivity-->com.skyplatanus.crucio.ui.web.TimeUpActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.skyplatanus.crucio.ui.story.StoryActivity-->com.skyplatanus.crucio.ui.ShareActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.skyplatanus.crucio.ui.others.SchemeActivity-->com.skyplatanus.crucio.ui.others.SchemeActivity
+flag:
+
+com.skyplatanus.crucio.ui.others.SchemeActivity-->com.skyplatanus.crucio.ui.web.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.skyplatanus.crucio.ui.others.SchemeActivity-->com.skyplatanus.crucio.ui.web.WebViewActivity
+flag:
+
+com.skyplatanus.crucio.ui.others.SchemeActivity-->com.skyplatanus.crucio.ui.notify.NotifyActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.skyplatanus.crucio.ui.others.SchemeActivity-->com.skyplatanus.crucio.ui.story.StoryActivity
+flag:
+
+com.skyplatanus.crucio.ui.web.TimeUpActivity-->com.skyplatanus.crucio.ui.web.TimeUpActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.skyplatanus.crucio.ui.web.WebViewActivity-->com.skyplatanus.crucio.ui.web.WebViewActivity
+flag:
+
+com.skyplatanus.crucio.ui.web.HomeActivity-->com.skyplatanus.crucio.ui.web.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.skyplatanus.crucio.ui.web.HomeActivity-->com.skyplatanus.crucio.ui.story.FirstStoryActivity
+flag:
+
+com.skyplatanus.crucio.ui.SsoLoginActivity-->com.skyplatanus.crucio.ui.SsoLoginActivity
+flag:
+
+com.skyplatanus.crucio.qqapi.QQPayActivity-->com.skyplatanus.crucio.qqapi.QQPayActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

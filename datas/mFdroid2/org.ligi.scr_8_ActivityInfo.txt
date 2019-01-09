@@ -1,0 +1,14 @@
+#MAIN
+activity:org.ligi.scr.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.ligi.scr.ListActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.ligi.scr.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

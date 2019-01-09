@@ -1,0 +1,9 @@
+com.mozosoft.rangefinder.MainActivity-->com.mozosoft.rangefinder.OnboardingActivity
+flag:
+
+com.mozosoft.rangefinder.MainActivity-->com.mozosoft.rangefinder.SettingsActivity
+flag:
+
+com.mozosoft.rangefinder.OnboardingActivity-->com.mozosoft.rangefinder.MainActivity
+flag:
+

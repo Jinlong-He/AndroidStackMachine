@@ -1,0 +1,24 @@
+com.android.camera.PanoramaActivity-->com.android.gallery3d.app.Gallery
+flag:
+
+com.android.camera.PanoramaActivity-->com.android.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+
+com.android.camera.VideoCamera-->com.android.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+
+com.android.camera.CameraWelcome-->com.android.camera.Camera
+flag:finish
+
+com.android.camera.Camera-->com.android.camera.Welcome
+flag:finish
+
+com.android.camera.Camera-->com.android.gallery3d.app.Gallery
+flag:
+
+com.android.camera.Camera-->com.android.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+
+com.android.camera.Welcome-->com.android.camera.CameraWelcome
+flag:finish
+

@@ -1,0 +1,9 @@
+com.vadimfrolov.duorem.SearchConfigureActivity-->com.vadimfrolov.duorem.TargetConfigurationActivity
+flag:
+
+com.vadimfrolov.duorem.MainActivity-->com.vadimfrolov.duorem.SearchConfigureActivity
+flag:
+
+com.vadimfrolov.duorem.MainActivity-->com.vadimfrolov.duorem.TargetConfigurationActivity
+flag:
+

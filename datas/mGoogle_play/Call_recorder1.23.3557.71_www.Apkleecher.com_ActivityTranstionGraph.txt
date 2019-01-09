@@ -1,0 +1,15 @@
+.LockActivity-->com.toh.callrecord.MainActivity
+flag:finish
+
+.SettingActivity-->com.toh.callrecord.EditPassCodeActivity
+flag:
+
+.SettingActivity-->com.toh.callrecord.IgnoreCallActivity
+flag:
+
+.SettingActivity-->com.toh.callrecord.AboutActivity
+flag:
+
+.SettingActivity-->com.banana.lib.MoreAppActivity
+flag:
+

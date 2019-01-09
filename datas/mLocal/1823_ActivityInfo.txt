@@ -1,0 +1,14 @@
+#MAIN
+activity:com.wellbet.wellbet.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.wellbet.wellbet.TestActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:haibison.android.lockpattern.LockPatternActivity
+LaunchMode:std
+TaskAffinity:null
+

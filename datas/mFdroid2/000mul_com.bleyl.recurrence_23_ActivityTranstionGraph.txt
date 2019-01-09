@@ -1,0 +1,15 @@
+com.bleyl.recurrence.activities.ViewActivity-->com.bleyl.recurrence.activities.CreateEditActivity
+flag:finish
+
+com.bleyl.recurrence.activities.ViewActivity-->com.bleyl.recurrence.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.bleyl.recurrence.activities.MainActivity-->com.bleyl.recurrence.activities.CreateEditActivity
+flag:
+
+com.bleyl.recurrence.activities.MainActivity-->com.bleyl.recurrence.activities.PreferenceActivity
+flag:
+
+com.bleyl.recurrence.activities.MainActivity-->com.bleyl.recurrence.activities.AboutActivity
+flag:
+

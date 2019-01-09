@@ -1,0 +1,18 @@
+protect.eye.filterv.ConfigActivity-->protect.eye.filterv.MyWebViewActivity
+flag:
+
+protect.eye.filterv.ConfigActivity-->protect.eye.filterv.TipsActivity
+flag:
+
+protect.eye.filterv.ConfigActivity-->protect.eye.filterv.MyWebViewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.baidu.mobads.AppActivity-->protect.eye.filterv.MyWebViewActivity
+flag:finish
+
+protect.eye.filterv.XiaoMiActivity-->protect.eye.filterv.ConfigActivity
+flag:
+
+protect.eye.filterv.GuideActivity-->protect.eye.filterv.ConfigActivity
+flag:finish
+

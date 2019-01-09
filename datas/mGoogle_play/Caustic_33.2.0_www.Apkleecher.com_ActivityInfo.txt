@@ -1,0 +1,6 @@
+#MAIN
+activity:com.singlecellsoftware.caustic.CausticActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

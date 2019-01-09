@@ -1,0 +1,6 @@
+com.alipay.sdk.auth.AuthActivity-->com.knowbox.wb.student.MainActivity
+flag:
+
+com.knowbox.wb.student.wxapi.WXEntryActivity-->com.knowbox.wb.student.MainActivity
+flag:
+

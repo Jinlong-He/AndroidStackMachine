@@ -1,0 +1,12 @@
+com.example.appname.activities.ActivityWallpaperByCategory-->com.example.appname.activities.ActivitySlideImage
+flag:
+
+com.example.appname.activities.ActivitySlideImage-->com.example.appname.activities.ActivityPinchZoom
+flag:
+
+com.example.appname.activities.ActivitySlideImage-->com.example.appname.activities.ActivitySetAsWallpaper
+flag:
+
+com.example.appname.activities.ActivitySplash-->com.example.appname.activities.MainActivity
+flag:finish
+

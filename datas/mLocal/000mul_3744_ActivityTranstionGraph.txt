@@ -1,0 +1,3 @@
+org.alie.momona.view.activity.SetPasswordActivity-->org.alie.momona.view.activity.LoginActivity
+flag:finish
+

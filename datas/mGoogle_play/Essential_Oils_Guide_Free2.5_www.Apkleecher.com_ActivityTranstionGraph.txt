@@ -1,0 +1,3 @@
+com.ufo.oilguide.SplashActivity-->com.ufo.oilguide.MainActivity
+flag:finish
+

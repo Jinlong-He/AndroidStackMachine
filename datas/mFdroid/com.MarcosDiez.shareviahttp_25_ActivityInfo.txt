@@ -1,0 +1,10 @@
+#MAIN
+activity:com.MarcosDiez.shareviahttp.activities.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.MarcosDiez.shareviahttp.activities.SendFileActivity
+LaunchMode:std
+TaskAffinity:null
+

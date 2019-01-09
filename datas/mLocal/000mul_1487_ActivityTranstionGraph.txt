@@ -1,0 +1,6 @@
+.Main-->.AEditor
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+.Pref-->.AEditor
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

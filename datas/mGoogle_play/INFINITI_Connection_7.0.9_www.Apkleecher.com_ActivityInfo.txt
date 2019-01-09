@@ -1,0 +1,6 @@
+#MAIN
+activity:Connection
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

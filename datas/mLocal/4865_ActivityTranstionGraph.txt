@@ -1,0 +1,24 @@
+com.szjtvoice.anna.activitys.ShowActivity-->com.szjtvoice.anna.activitys.ShowDetailsActivity
+flag:
+
+com.szjtvoice.anna.activitys.FoodActivity-->com.szjtvoice.anna.activitys.FoodDetailActivity2
+flag:
+
+com.szjtvoice.anna.activitys.HomeActivity-->com.szjtvoice.anna.activitys.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.szjtvoice.anna.activitys.SettingActivity-->com.szjtvoice.anna.activitys.HomeActivity
+flag:finish
+
+com.szjtvoice.anna.activitys.WelcomeActivity-->com.szjtvoice.anna.activitys.HomeActivity
+flag:finish
+
+com.szjtvoice.anna.activitys.GameActivity-->com.szjtvoice.anna.activitys.HomeActivity
+flag:finish
+
+com.szjtvoice.anna.activitys.KnowledgeActivity-->com.szjtvoice.anna.activitys.KnowledgeItemActivity2
+flag:
+
+com.szjtvoice.anna.activitys.KnowledgeItemActivity2-->com.szjtvoice.anna.activitys.KnowledgeItemDetails
+flag:
+

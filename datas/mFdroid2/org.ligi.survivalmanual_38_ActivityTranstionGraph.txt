@@ -1,0 +1,9 @@
+org.ligi.survivalmanual.ui.MainActivity-->org.ligi.survivalmanual.ui.ImageViewActivity
+flag:
+
+org.ligi.survivalmanual.ui.MainActivity-->unknown
+flag:
+
+org.ligi.survivalmanual.ui.MainActivity-->org.ligi.survivalmanual.ui.MainActivity
+flag:
+

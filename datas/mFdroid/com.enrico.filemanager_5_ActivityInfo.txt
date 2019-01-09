@@ -1,0 +1,6 @@
+#MAIN
+activity:com.enrico.filemanager.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

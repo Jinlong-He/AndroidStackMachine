@@ -1,0 +1,14 @@
+#MAIN
+activity:de.live.gdev.cherrymusic.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.live.gdev.cherrymusic.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.live.gdev.cherrymusic.InfoActivity
+LaunchMode:std
+TaskAffinity:null
+

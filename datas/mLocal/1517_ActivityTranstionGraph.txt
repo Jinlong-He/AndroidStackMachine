@@ -1,0 +1,9 @@
+com.onscripter.pluspro.LauncherActivity-->com.onscripter.pluspro.ONScripter
+flag:
+
+com.onscripter.pluspro.LauncherActivity-->unknown
+flag:finish
+
+com.onscripter.pluspro.LauncherActivity-->com.onscripter.pluspro.Settings
+flag:
+

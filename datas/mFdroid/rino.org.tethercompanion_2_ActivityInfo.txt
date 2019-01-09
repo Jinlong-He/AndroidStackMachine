@@ -1,0 +1,6 @@
+#MAIN
+activity:rino.org.tethercompanion.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:name.seguri.android.isphoneencrypted.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

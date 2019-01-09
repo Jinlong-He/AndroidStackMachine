@@ -1,0 +1,10 @@
+#MAIN
+activity:com.fullscreen.ui.SplashScreenActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.fullscreen.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

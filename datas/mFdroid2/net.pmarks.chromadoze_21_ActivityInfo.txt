@@ -1,0 +1,6 @@
+#MAIN
+activity:net.pmarks.chromadoze.ChromaDoze
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

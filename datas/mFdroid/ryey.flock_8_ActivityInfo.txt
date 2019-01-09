@@ -1,0 +1,10 @@
+#MAIN
+activity:ryey.flock.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ryey.flock.LockActivity
+LaunchMode:std
+TaskAffinity:null
+

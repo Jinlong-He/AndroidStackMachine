@@ -1,0 +1,12 @@
+calculator.Calculator-->calculator.ListDefs
+flag:
+
+calculator.Calculator-->calculator.Settings
+flag:
+
+calculator.Calculator-->calculator.Help
+flag:
+
+calculator.Calculator-->calculator.ShowGraph
+flag:
+

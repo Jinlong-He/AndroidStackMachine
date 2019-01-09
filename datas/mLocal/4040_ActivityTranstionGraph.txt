@@ -1,0 +1,27 @@
+CustomShirtcutActivity-->com.android.Magic_launcher.ActivityPickerActivity
+flag:
+
+CustomShirtcutActivity-->Launcher
+flag:
+
+Launcher-->Launcher
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+Launcher-->com.android.Magic_launcher.CustomShirtcutActivity
+flag:
+
+Launcher-->Launcher
+flag:
+
+Launcher-->Launcher
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  
+
+Launcher-->WallpaperChooser
+flag:
+
+Launcher-->com.android.Magic_launcher.MyLauncherSettings
+flag:
+
+Launcher-->com.android.ADW_launcher.catalogue.AppInfoMList
+flag:
+

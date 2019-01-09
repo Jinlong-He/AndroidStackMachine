@@ -1,0 +1,14 @@
+#MAIN
+activity:br.com.tunglabs.bibliasagrada.kjv.women.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:br.com.tunglabs.bibliasagrada.kjv.women.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

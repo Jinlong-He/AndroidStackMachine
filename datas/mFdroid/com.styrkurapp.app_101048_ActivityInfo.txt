@@ -1,0 +1,6 @@
+#MAIN
+activity:com.styrkurapp.app.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

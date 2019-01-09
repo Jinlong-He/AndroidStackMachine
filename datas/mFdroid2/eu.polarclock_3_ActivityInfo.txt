@@ -1,0 +1,6 @@
+#MAIN
+activity:eu.polarclock.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

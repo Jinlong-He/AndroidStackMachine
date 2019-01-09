@@ -1,0 +1,9 @@
+com.itjinks.iosnotes.ui.SplashActivity-->com.itjinks.iosnotes.ui.MainActivity
+flag:finish
+
+com.itjinks.iosnotes.ui.MainActivity-->com.itjinks.iosnotes.ui.NoteActivity
+flag:
+
+com.itjinks.iosnotes.ui.NoteActivity-->com.itjinks.iosnotes.ui.NoteActivity
+flag:
+

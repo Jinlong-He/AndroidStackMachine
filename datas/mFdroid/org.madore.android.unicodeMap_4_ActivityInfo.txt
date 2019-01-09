@@ -1,0 +1,6 @@
+#MAIN
+activity:.UnicodeMapActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

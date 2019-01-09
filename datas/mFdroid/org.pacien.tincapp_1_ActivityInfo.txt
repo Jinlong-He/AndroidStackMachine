@@ -1,0 +1,6 @@
+#MAIN
+activity:org.pacien.tincapp.activities.StartActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

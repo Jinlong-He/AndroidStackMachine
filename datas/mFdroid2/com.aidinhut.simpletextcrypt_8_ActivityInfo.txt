@@ -1,0 +1,14 @@
+#MAIN
+activity:com.aidinhut.simpletextcrypt.LockActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.aidinhut.simpletextcrypt.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.aidinhut.simpletextcrypt.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

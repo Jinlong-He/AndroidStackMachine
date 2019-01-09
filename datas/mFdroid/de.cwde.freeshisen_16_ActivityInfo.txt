@@ -1,0 +1,14 @@
+#MAIN
+activity:de.cwde.freeshisen.ShisenShoActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.cwde.freeshisen.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.cwde.freeshisen.HighscoreActivity
+LaunchMode:std
+TaskAffinity:null
+

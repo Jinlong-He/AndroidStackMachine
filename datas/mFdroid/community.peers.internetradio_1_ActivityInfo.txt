@@ -1,0 +1,10 @@
+#MAIN
+activity:community.peers.internetradio.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:community.peers.internetradio.activity.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:net.zygotelabs.locker.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

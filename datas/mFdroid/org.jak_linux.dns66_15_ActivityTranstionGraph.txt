@@ -1,0 +1,6 @@
+org.jak_linux.dns66.MainActivity-->org.jak_linux.dns66.ItemActivity
+flag:
+
+org.jak_linux.dns66.MainActivity-->org.jak_linux.dns66.InfoActivity
+flag:
+

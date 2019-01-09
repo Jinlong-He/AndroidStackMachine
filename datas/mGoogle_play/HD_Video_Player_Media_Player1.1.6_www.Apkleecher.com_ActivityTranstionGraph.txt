@@ -1,0 +1,18 @@
+com.ijoysoft.videoplayer.activity.SafeSettingsActivity-->com.ijoysoft.videoplayer.activity.LockActivity
+flag:
+
+com.ijoysoft.videoplayer.activity.LockActivity-->com.ijoysoft.videoplayer.activity.ActivitySecurityQuestion
+flag:
+
+com.ijoysoft.videoplayer.activity.ActivityMain-->com.ijoysoft.videoplayer.activity.LockActivity
+flag:
+
+com.ijoysoft.videoplayer.activity.ActivityMain-->com.ijoysoft.appwall.GiftActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ijoysoft.videoplayer.activity.ActivityMain-->com.ijoysoft.appwall.GiftActivity
+flag:
+
+com.ijoysoft.videoplayer.activity.ActivityMain-->com.ijoysoft.appwall.GiftShowActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+

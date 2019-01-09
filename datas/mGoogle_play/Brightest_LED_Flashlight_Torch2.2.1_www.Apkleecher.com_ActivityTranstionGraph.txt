@@ -1,0 +1,3 @@
+com.google.android.gms.example.bannerexample.MyActivity-->com.google.android.gms.example.bannerexample.SettingsActivity
+flag:
+

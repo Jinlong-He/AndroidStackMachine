@@ -1,0 +1,12 @@
+com.simplemobiletools.camera.activities.SettingsActivity-->com.simplemobiletools.commons.activities.AboutActivity
+flag:
+
+com.simplemobiletools.camera.activities.SettingsActivity-->com.simplemobiletools.commons.activities.CustomizationActivity
+flag:
+
+com.simplemobiletools.commons.activities.AboutActivity-->com.simplemobiletools.commons.activities.LicenseActivity
+flag:
+
+com.simplemobiletools.camera.activities.MainActivity-->com.simplemobiletools.camera.activities.SettingsActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:tuioDroid.impl.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:tuioDroid.impl.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

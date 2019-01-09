@@ -1,0 +1,186 @@
+com.justunfollow.android.firebot.view.activity.LoginActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.justunfollow.android.firebot.view.activity.LoginActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.justunfollow.android.firebot.view.activity.LoginActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.prescriptionsActivity.activity.searchAndAddAccount.SearchAndAddAccountsActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.v1.activity.SettingsActivity-->com.justunfollow.android.shared.activity.WebViewActivity
+flag:
+
+com.justunfollow.android.v1.activity.SettingsActivity-->com.justunfollow.android.v1.tour.activity.TourActivity
+flag:
+
+com.justunfollow.android.v1.activity.SettingsActivity-->com.justunfollow.android.firebot.view.activity.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.justunfollow.android.prescriptionsActivity.activity.PrescriptionsActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.v1.activity.UserEmailActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.shared.activity.WebViewActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.settings.AdminPanel.AdminPanelActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.settings.EditNameSetting.EditNameActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.firebot.view.activity.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.settings.EditEmailSetting.EditEmailActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.settings.TimeZoneSettings.TimeZoneActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.v1.activity.SendFeedbackFragmentActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.settings.AccountSettings.AccountSettingsActivity
+flag:
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.settings.SettingsActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.settings.editTopicsSettings.EditTopicsSettingsActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.shared.activity.SplashScreenActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.shared.activity.SplashScreenActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.prescriptionsActivity.activity.addKeywordOfInterest.AddKeywordOfInterestActivity-->com.justunfollow.android.prescriptionsActivity.activity.addLocationOfInterest.AddLocationOfInterestActivity
+flag:
+
+com.justunfollow.android.shared.publish.compose.view.activity.ComposeActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.settings.AccountSettings.AccountSettingsActivity-->com.justunfollow.android.prescriptionsActivity.activity.PrescriptionsActivity
+flag:
+
+com.justunfollow.android.settings.AccountSettings.AccountSettingsActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.settings.AccountSettings.AccountSettingsActivity-->com.justunfollow.android.settings.AccountSettings.ActionSettings.ActionSettingsActvity
+flag:
+
+com.justunfollow.android.settings.AccountSettings.AccountSettingsActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.settings.usingCrowdfireForSettings.UsingCrowdfireForActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.myProfile.view.activity.MyProfileActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.justunfollow.android.myProfile.view.activity.MyProfileActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.inAppRating.inAppRatingController.RatingPopupActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.shared.publish.timeline.view.activity.PostToInstagramActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.shared.publish.timeline.view.activity.PostToInstagramActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:finish
+
+com.justunfollow.android.settings.EditEmailSetting.EditEmailActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.v1.activity.AccountSettingsFragmentActivity
+flag:
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.v1.activity.SettingsActivity
+flag:
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.v1.activity.UserEmailActivity
+flag:
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.v1.tour.activity.TourActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.v1.tour.activity.TourActivity
+flag:
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.v1.activity.HomeActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.mixpanel.android.surveys.SurveyActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:finish
+
+com.justunfollow.android.shared.activity.WebViewActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.shared.billing.googleplay.activity.UpgradeActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.shared.billing.googleplay.activity.UpgradeActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.v1.gcm.activity.NotificationHandlerActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:finish
+
+com.justunfollow.android.v1.gcm.activity.NotificationHandlerActivity-->com.justunfollow.android.shared.publish.timeline.view.activity.PostToInstagramActivity
+flag:finish
+
+com.justunfollow.android.v1.gcm.activity.NotificationHandlerActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.justunfollow.android.v1.gcm.activity.NotificationHandlerActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.justunfollow.android.widget.campaignAlert.CampaignAlertActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.deeplinking.DeepLinkingActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.deeplinking.DeepLinkingActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.deeplinking.DeepLinkingActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.justunfollow.android.deeplinking.DeepLinkingActivity-->com.justunfollow.android.firebot.view.activity.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.shared.activity.OAuthWebViewActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.firebot.view.activity.FirebotActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+
+com.justunfollow.android.firebot.view.activity.FirebotActivity-->com.justunfollow.android.v1.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.firebot.view.activity.FirebotActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.justunfollow.android.shared.activity.InstagramForbiddenFragmentActivity-->com.justunfollow.android.shared.activity.SplashScreenActivity
+flag:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:net.suckga.inoty2.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.NativeStatusBarExpanderActivity
+LaunchMode:sit
+TaskAffinity:null
+

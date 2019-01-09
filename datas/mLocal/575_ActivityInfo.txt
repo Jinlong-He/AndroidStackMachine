@@ -1,0 +1,14 @@
+#MAIN
+activity:gtepquyzsoqodpn.lbhbjrotte
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:gtepquyzsoqodpn.wsuodssesm
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

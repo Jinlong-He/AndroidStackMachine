@@ -1,0 +1,39 @@
+com.okta.android.auth.activity.CodeActivity-->com.okta.android.auth.activity.InitialSetupActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.okta.android.auth.activity.CodeActivity-->com.okta.android.auth.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.okta.android.auth.activity.CodeActivity-->com.okta.android.auth.activity.EnrollmentActivity
+flag:
+
+com.okta.android.auth.activity.InitialSetupActivity-->com.okta.android.auth.activity.CodeActivity
+flag:finish
+
+com.okta.android.auth.activity.InitialSetupActivity-->com.okta.android.auth.activity.EnrollmentActivity
+flag:
+
+com.okta.android.auth.activity.QRScannerActivity-->com.okta.android.auth.activity.EnterAccountActivity
+flag:
+
+com.okta.android.auth.activity.InformationActivity-->com.okta.android.auth.activity.InformationHelpActivity
+flag:
+
+com.okta.android.auth.activity.InformationActivity-->com.okta.android.auth.activity.InformationLegalActivity
+flag:
+
+com.okta.android.auth.activity.EnrollmentActivity-->com.okta.android.auth.activity.CodeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.okta.android.auth.activity.EnrollmentActivity-->com.okta.android.auth.activity.QRScannerActivity
+flag:
+
+com.okta.android.auth.activity.PushChallengeActivity-->com.okta.android.auth.activity.CodeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.okta.android.auth.activity.SplashActivity-->com.okta.android.auth.activity.CodeActivity
+flag:finish
+
+com.okta.android.auth.activity.SplashActivity-->com.okta.android.auth.activity.InitialSetupActivity
+flag:finish
+

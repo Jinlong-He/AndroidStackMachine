@@ -1,0 +1,10 @@
+#MAIN
+activity:.EasyExcel
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.FileList
+LaunchMode:std
+TaskAffinity:null
+

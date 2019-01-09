@@ -1,0 +1,10 @@
+#MAIN
+activity:jp.co.canon.oip.android.opal.ui.activity.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.dropbox.core.android.AuthActivity
+LaunchMode:stk
+TaskAffinity:null
+

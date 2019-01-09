@@ -1,0 +1,6 @@
+#MAIN
+activity:com.freetv.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

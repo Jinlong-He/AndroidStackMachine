@@ -1,0 +1,8 @@
+activity:science.itaintrocket.pomfshare.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:science.itaintrocket.pomfshare.HostListActivity
+LaunchMode:std
+TaskAffinity:null
+

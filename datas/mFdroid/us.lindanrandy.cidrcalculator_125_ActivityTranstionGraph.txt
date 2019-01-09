@@ -1,0 +1,12 @@
+us.lindanrandy.cidrcalculator.CIDRCalculator-->us.lindanrandy.cidrcalculator.HistoryList
+flag:
+
+us.lindanrandy.cidrcalculator.CIDRCalculator-->us.lindanrandy.cidrcalculator.Converter
+flag:
+
+us.lindanrandy.cidrcalculator.CIDRCalculator-->us.lindanrandy.cidrcalculator.IPv6Calculator
+flag:
+
+us.lindanrandy.cidrcalculator.CIDRCalculator-->us.lindanrandy.cidrcalculator.Preferences
+flag:
+

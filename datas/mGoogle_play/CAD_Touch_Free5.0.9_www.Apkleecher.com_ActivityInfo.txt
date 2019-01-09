@@ -1,0 +1,14 @@
+#MAIN
+activity:com.cadTouch.android.CTActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.cadTouch.android.CTEditorActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.cadTouch.android.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:.GREVocabularyFlashcards
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

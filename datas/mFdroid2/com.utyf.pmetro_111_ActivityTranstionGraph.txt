@@ -1,0 +1,6 @@
+com.utyf.pmetro.MapActivity-->com.utyf.pmetro.settings.SettingsActivity
+flag:
+
+com.utyf.pmetro.MapActivity-->com.utyf.pmetro.AboutActivity
+flag:
+

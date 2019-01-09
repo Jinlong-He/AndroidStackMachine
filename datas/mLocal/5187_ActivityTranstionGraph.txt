@@ -1,0 +1,189 @@
+com.med.drugmessagener.activity.GdMapActivity-->com.med.drugmessagener.activity.GdMapActivity
+flag:
+
+com.med.drugmessagener.activity.GdMapActivity-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.DrugReminderAct-->com.med.drugmessagener.activity.DrugReminderAct
+flag:
+
+com.med.drugmessagener.activity.DrugReminderAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.DrugCommentAct-->com.med.drugmessagener.activity.DrugCommentAct
+flag:
+
+com.med.drugmessagener.activity.DrugCommentAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.MyConsultAct-->com.med.drugmessagener.activity.MyConsultAct
+flag:
+
+com.med.drugmessagener.activity.MyConsultAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.BrandListAct-->com.med.drugmessagener.activity.BrandListAct
+flag:
+
+com.med.drugmessagener.activity.BrandListAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.DrugDetailAct-->com.med.drugmessagener.activity.DrugDetailAct
+flag:
+
+com.med.drugmessagener.activity.DrugDetailAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.scan.CaptureActivity-->com.med.drugmessagener.activity.ScanBarCodeDetailInfo
+flag:
+
+com.med.drugmessagener.scan.CaptureActivity-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.WebviewBrowserAct-->com.med.drugmessagener.activity.WebviewBrowserAct
+flag:
+
+com.med.drugmessagener.activity.WebviewBrowserAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.TabHostAct-->com.med.drugmessagener.activity.TabHostAct
+flag:
+
+com.med.drugmessagener.activity.TabHostAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.SearchByIllsActivity-->com.med.drugmessagener.activity.SearchByIllsActivity
+flag:
+
+com.med.drugmessagener.activity.SearchByIllsActivity-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.MineInfoSetAct-->com.med.drugmessagener.activity.MineInfoSetAct
+flag:
+
+com.med.drugmessagener.activity.MineInfoSetAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.FindPasswordAct-->com.med.drugmessagener.activity.FindPasswordAct
+flag:
+
+com.med.drugmessagener.activity.FindPasswordAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.LoginAct-->com.med.drugmessagener.activity.LoginAct
+flag:
+
+com.med.drugmessagener.activity.LoginAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.DrugConsultAct-->com.med.drugmessagener.activity.DrugConsultAct
+flag:
+
+com.med.drugmessagener.activity.DrugConsultAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.HomeBannerDetailAct-->com.med.drugmessagener.activity.HomeBannerDetailAct
+flag:
+
+com.med.drugmessagener.activity.HomeBannerDetailAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.MyCommentAct-->com.med.drugmessagener.activity.MyCommentAct
+flag:
+
+com.med.drugmessagener.activity.MyCommentAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.ModifyPasswordAct-->com.med.drugmessagener.activity.ModifyPasswordAct
+flag:
+
+com.med.drugmessagener.activity.ModifyPasswordAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.NearShopDetailListAct-->com.med.drugmessagener.activity.NearShopDetailListAct
+flag:
+
+com.med.drugmessagener.activity.NearShopDetailListAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.BandingPhoneAct-->com.med.drugmessagener.activity.BandingPhoneAct
+flag:
+
+com.med.drugmessagener.activity.BandingPhoneAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.AddDrugRemindAct-->com.med.drugmessagener.activity.AddDrugRemindAct
+flag:
+
+com.med.drugmessagener.activity.AddDrugRemindAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.FeedBackAct-->com.med.drugmessagener.activity.FeedBackAct
+flag:
+
+com.med.drugmessagener.activity.FeedBackAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.DrugTypeListActivity-->com.med.drugmessagener.activity.DrugTypeListActivity
+flag:
+
+com.med.drugmessagener.activity.DrugTypeListActivity-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.SearchDrugAct-->com.med.drugmessagener.activity.SearchDrugAct
+flag:
+
+com.med.drugmessagener.activity.SearchDrugAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.SearchDrugAct-->com.med.drugmessagener.activity.SearchResultListAct
+flag:
+
+com.med.drugmessagener.activity.RegisterAct-->com.med.drugmessagener.activity.RegisterAct
+flag:
+
+com.med.drugmessagener.activity.RegisterAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.SearchResultListAct-->com.med.drugmessagener.activity.SearchResultListAct
+flag:
+
+com.med.drugmessagener.activity.SearchResultListAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.AboutUsAct-->com.med.drugmessagener.activity.AboutUsAct
+flag:
+
+com.med.drugmessagener.activity.AboutUsAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.AgreementAct-->com.med.drugmessagener.activity.AgreementAct
+flag:
+
+com.med.drugmessagener.activity.AgreementAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.MainActivity-->com.med.drugmessagener.activity.MainActivity
+flag:
+
+com.med.drugmessagener.activity.MainActivity-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.ScanBarCodeDetailInfo-->com.med.drugmessagener.activity.ScanBarCodeDetailInfo
+flag:
+
+com.med.drugmessagener.activity.ScanBarCodeDetailInfo-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.MyCollectAct-->com.med.drugmessagener.activity.MyCollectAct
+flag:
+
+com.med.drugmessagener.activity.MyCollectAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.med.drugmessagener.activity.CompleteInfoAct-->com.med.drugmessagener.activity.CompleteInfoAct
+flag:
+
+com.med.drugmessagener.activity.CompleteInfoAct-->com.med.drugmessagener.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

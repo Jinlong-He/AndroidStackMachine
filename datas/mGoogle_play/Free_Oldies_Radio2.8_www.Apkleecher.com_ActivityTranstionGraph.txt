@@ -1,0 +1,9 @@
+com.MyIndieApp.FreeOldiesRadio.FreeOldiesRadioActivity-->com.MyIndieApp.FreeOldiesRadio.RadioActivity
+flag:finish
+
+com.MyIndieApp.FreeOldiesRadio.RadioActivity-->com.MyIndieApp.FreeOldiesRadio.ViewE
+flag:
+
+com.MyIndieApp.FreeOldiesRadio.RadioActivity-->com.MyIndieApp.FreeOldiesRadio.ViewA
+flag:
+

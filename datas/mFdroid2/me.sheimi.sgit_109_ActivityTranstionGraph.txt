@@ -1,0 +1,9 @@
+me.sheimi.sgit.activities.explorer.PrivateKeyManageActivity-->me.sheimi.sgit.activities.explorer.ExploreFileActivity
+flag:
+
+me.sheimi.sgit.RepoListActivity-->me.sheimi.sgit.activities.explorer.ImportRepositoryActivity
+flag:
+
+me.sheimi.sgit.RepoListActivity-->me.sheimi.sgit.activities.explorer.PrivateKeyManageActivity
+flag:
+

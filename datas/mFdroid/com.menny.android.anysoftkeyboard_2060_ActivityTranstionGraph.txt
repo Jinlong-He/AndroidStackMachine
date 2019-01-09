@@ -1,0 +1,3 @@
+com.menny.android.anysoftkeyboard.LauncherSettingsActivity-->com.anysoftkeyboard.ui.settings.MainSettingsActivity
+flag:
+

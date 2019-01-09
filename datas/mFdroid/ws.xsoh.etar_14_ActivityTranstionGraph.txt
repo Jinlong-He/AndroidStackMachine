@@ -1,0 +1,87 @@
+com.android.calendar.EventInfoActivity-->com.android.calendar.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.calendar.EventInfoActivity-->com.android.calendar.AllInOneActivity
+flag:finish
+
+com.android.calendar.GoogleCalendarUriIntentFilter-->com.android.calendar.EventInfoActivity
+flag:finish
+
+com.android.calendar.GoogleCalendarUriIntentFilter-->com.android.calendar.AllInOneActivity
+flag:
+
+com.android.calendar.alerts.QuickResponseActivity-->com.android.calendar.AllInOneActivity
+flag:finish
+
+com.android.calendar.alerts.AlertActivity-->com.android.calendar.AllInOneActivity
+flag:finish
+
+com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity-->com.android.calendar.selectcalendars.SelectSyncedCalendarsMultiAccountActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity-->com.android.calendar.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity-->com.android.calendar.CalendarSettingsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity-->com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity-->com.android.calendar.AllInOneActivity
+flag:
+
+com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity-->com.android.calendar.event.EditEventActivity
+flag:
+
+com.android.calendar.selectcalendars.SelectSyncedCalendarsMultiAccountActivity-->com.android.calendar.AllInOneActivity
+flag:finish
+
+com.android.calendar.selectcalendars.SelectSyncedCalendarsMultiAccountActivity-->com.android.calendar.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.calendar.CalendarSettingsActivity-->com.android.calendar.AllInOneActivity
+flag:finish
+
+com.android.calendar.ImportActivity-->com.android.calendar.ImportActivity
+flag:
+
+com.android.calendar.AllInOneActivity-->com.android.calendar.EventInfoActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.AllInOneActivity-->com.android.calendar.AllInOneActivity
+flag:finish
+
+com.android.calendar.AllInOneActivity-->com.android.calendar.CalendarSettingsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.AllInOneActivity-->com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.AllInOneActivity-->com.android.calendar.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.calendar.AllInOneActivity-->com.android.calendar.event.EditEventActivity
+flag:
+
+com.android.calendar.event.EditEventActivity-->com.android.calendar.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.calendar.SearchActivity-->com.android.calendar.EventInfoActivity
+flag:
+
+com.android.calendar.SearchActivity-->com.android.calendar.AllInOneActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.calendar.SearchActivity-->com.android.calendar.AllInOneActivity
+flag:finish
+
+com.android.calendar.SearchActivity-->com.android.calendar.CalendarSettingsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.SearchActivity-->com.android.calendar.selectcalendars.SelectVisibleCalendarsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.calendar.SearchActivity-->com.android.calendar.event.EditEventActivity
+flag:
+

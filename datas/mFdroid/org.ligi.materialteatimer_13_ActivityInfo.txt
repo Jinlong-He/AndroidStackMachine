@@ -1,0 +1,10 @@
+activity:org.ligi.materialteatimer.TeaListActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:org.ligi.materialteatimer.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.uberspot.a2048.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

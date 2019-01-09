@@ -1,0 +1,24 @@
+com.duokan.reader.DkReaderActivity-->com.duokan.reader.DkReaderActivity
+flag:finish
+
+com.duokan.reader.DkReaderActivity-->com.duokan.reader.DkReaderActivity
+flag: finish
+
+com.xiaomi.payment.PaymentOrderEntryActivity-->com.xiaomi.payment.ui.PaymentActivity
+flag:finish
+
+com.xiaomi.passport.ui.LicenseActivity-->com.duokan.reader.DkReaderActivity
+flag:
+
+com.xiaomi.payment.QrEntryActivity-->com.xiaomi.payment.ui.PaymentActivity
+flag:
+
+com.xiaomi.payment.ui.MibiLicenseActivity-->com.duokan.reader.DkReaderActivity
+flag:
+
+com.duokan.reader.DkMainActivity-->com.duokan.reader.DkReaderActivity
+flag: finish
+
+com.alipay.sdk.auth.AuthActivity-->com.duokan.reader.DkReaderActivity
+flag:
+

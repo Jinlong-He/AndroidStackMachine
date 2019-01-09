@@ -1,0 +1,14 @@
+#MAIN
+activity:fr.simon.marquis.preferencesmanager.ui.AppListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:fr.simon.marquis.preferencesmanager.ui.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:fr.simon.marquis.preferencesmanager.ui.FileEditorActivity
+LaunchMode:std
+TaskAffinity:null
+

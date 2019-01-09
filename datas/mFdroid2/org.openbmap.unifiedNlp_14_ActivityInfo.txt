@@ -1,0 +1,4 @@
+activity:org.openbmap.unifiedNlp.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

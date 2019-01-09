@@ -1,0 +1,3 @@
+king.james.bible.android.activity.MainFragmentActivity-->king.james.bible.android.activity.MainFragmentActivity
+flag:finish
+

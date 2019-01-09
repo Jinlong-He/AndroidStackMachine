@@ -1,0 +1,3 @@
+batterydoctor.fastcharger.batterysaver.activity.BatterySaverActivity-->batterydoctor.fastcharger.batterysaver.activity.AddModeActivity
+flag:
+

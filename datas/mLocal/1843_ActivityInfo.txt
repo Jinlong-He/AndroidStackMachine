@@ -1,0 +1,14 @@
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.moon.hao2.gh053.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.moon.hao2.gh053.RSplashActivity
+LaunchMode:std
+TaskAffinity:null
+

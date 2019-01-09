@@ -1,0 +1,10 @@
+#MAIN
+activity:.ActivityMain
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.plexnor.gravityscreenoffpro.locale.api.ui.EditActivity
+LaunchMode:std
+TaskAffinity:null
+

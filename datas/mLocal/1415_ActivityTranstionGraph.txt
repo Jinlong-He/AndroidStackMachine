@@ -1,0 +1,6 @@
+.ui.activity.SettingsActivity-->com.jumobile.manager.systemapp.ui.activity.DirectoryChooserActivity
+flag:
+
+.ui.activity.IndexActivity-->com.jumobile.manager.systemapp.ui.activity.MainActivity
+flag:finish
+

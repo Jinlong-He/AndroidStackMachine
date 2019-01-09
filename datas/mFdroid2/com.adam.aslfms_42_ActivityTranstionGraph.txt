@@ -1,0 +1,9 @@
+com.adam.aslfms.SettingsActivity-->com.adam.aslfms.ViewScrobbleCacheActivity
+flag:
+
+com.adam.aslfms.StatusActivity-->com.adam.aslfms.ViewScrobbleCacheActivity
+flag:
+
+com.adam.aslfms.UserCredsListActivity-->com.adam.aslfms.UserCredActivity
+flag:
+

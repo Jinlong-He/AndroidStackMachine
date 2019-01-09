@@ -1,0 +1,6 @@
+com.android.camera.CameraActivity-->com.android.camera.CameraActivity
+flag:finish
+
+com.android.camera.CameraActivity-->com.android.camera.crop.CropActivity
+flag:
+

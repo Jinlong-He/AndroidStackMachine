@@ -1,0 +1,15 @@
+.Preferencesss-->com.zoom.tool.zoomer.binoculars.Preferencesss
+flag:
+
+.Start-->com.zoom.tool.zoomer.binoculars.QuizSablonActivity
+flag:
+
+.Start-->com.zoom.tool.zoomer.binoculars.Preferencesss
+flag:
+
+.QuizSablonActivity-->com.zoom.tool.zoomer.binoculars.Preferencesss
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

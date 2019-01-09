@@ -1,0 +1,15 @@
+.ui.activity.AllDiseaseActivity-->com.fanyue.folkprescription.ui.activity.SearchActivity
+flag:
+
+.ui.activity.WineActivity-->com.fanyue.folkprescription.ui.activity.SearchWineActivity
+flag:
+
+.ui.activity.FolkActivity-->com.fanyue.folkprescription.ui.activity.SearchActivity
+flag:
+
+.ui.activity.FolkActivity-->com.fanyue.folkprescription.ui.activity.AllDiseaseActivity
+flag:
+
+.ui.activity.SpecificFolkPrescriptionActivity-->com.fanyue.folkprescription.ui.activity.SearchActivity
+flag:
+

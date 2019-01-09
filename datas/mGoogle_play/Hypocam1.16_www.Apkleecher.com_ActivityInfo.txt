@@ -1,0 +1,10 @@
+#MAIN
+activity:com.xnview.hypocam.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.xnview.imagepicker.ImagePickerActivity
+LaunchMode:std
+TaskAffinity:null
+

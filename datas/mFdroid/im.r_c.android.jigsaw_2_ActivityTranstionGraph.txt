@@ -1,0 +1,3 @@
+im.r_c.android.jigsaw.activity.GameActivity-->im.r_c.android.jigsaw.activity.ChooseActivity
+flag:
+

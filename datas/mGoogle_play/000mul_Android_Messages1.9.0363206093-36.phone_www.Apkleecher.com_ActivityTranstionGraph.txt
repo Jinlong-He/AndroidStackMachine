@@ -1,0 +1,9 @@
+com.google.android.apps.messaging.ui.conversation.WidgetReplyActivity-->com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity
+flag:
+
+com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity-->com.google.android.apps.messaging.ui.conversation.LaunchConversationActivity
+flag:
+
+com.google.android.apps.messaging.ui.conversation.ConversationActivity-->com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

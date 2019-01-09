@@ -1,0 +1,9 @@
+uk.co.ashtonbrsc.intentexplode.Explode-->uk.co.ashtonbrsc.intentexplode.Explode
+flag:
+
+uk.co.ashtonbrsc.intentexplode.StartupActivity-->uk.co.ashtonbrsc.intentexplode.Pre15SettingsActivity
+flag:finish
+
+uk.co.ashtonbrsc.intentexplode.StartupActivity-->uk.co.ashtonbrsc.intentexplode.SettingsActivity
+flag:finish
+

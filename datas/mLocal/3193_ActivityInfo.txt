@@ -1,0 +1,16 @@
+activity:com.android.email2.ui.EndOfLifeActivityEmail
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.android.email2.ui.EndOfLifeMessageActivityEmail
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.android.mail.ui.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.android.mail.ui.LicensesActivity
+LaunchMode:std
+TaskAffinity:null
+

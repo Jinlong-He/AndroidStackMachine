@@ -1,0 +1,10 @@
+#MAIN
+activity:com.oray.sunlogin.application.Main
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.oray.sunlogin.application.TranslucentActivity
+LaunchMode:sit
+TaskAffinity:null
+

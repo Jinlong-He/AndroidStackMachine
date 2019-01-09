@@ -1,0 +1,15 @@
+.Help-->com.nb.fingerprint.lock.MainAct
+flag:finish
+
+.Splash-->com.nb.fingerprint.lock.Help
+flag:finish
+
+.Splash-->com.nb.fingerprint.lock.MainAct
+flag:finish
+
+.MainAct-->com.nb.fingerprint.lock.Help
+flag:
+
+.MainAct-->com.nb.fingerprint.lock.Settings
+flag:
+

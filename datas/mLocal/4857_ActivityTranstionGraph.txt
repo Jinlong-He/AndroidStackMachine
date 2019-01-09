@@ -1,0 +1,3 @@
+com.example.adtsample.RSplashActivity-->com.example.adtsample.AppEntry
+flag:finish
+

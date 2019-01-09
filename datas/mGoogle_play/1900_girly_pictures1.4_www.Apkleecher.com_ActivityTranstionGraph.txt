@@ -1,0 +1,15 @@
+com.develobestsky.girlywallpapers.activities.ActivitySlideImage-->com.develobestsky.girlywallpapers.activities.ActivitySetAsWallpaper
+flag:
+
+com.develobestsky.girlywallpapers.activities.ActivitySlideImage-->com.develobestsky.girlywallpapers.activities.ActivityPinchZoom
+flag:
+
+com.develobestsky.girlywallpapers.activities.ActivityWallpaperByCategory-->com.develobestsky.girlywallpapers.activities.ActivitySlideImage
+flag:
+
+com.develobestsky.girlywallpapers.activities.ActivitySplash-->com.develobestsky.girlywallpapers.activities.MainActivity
+flag:finish
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

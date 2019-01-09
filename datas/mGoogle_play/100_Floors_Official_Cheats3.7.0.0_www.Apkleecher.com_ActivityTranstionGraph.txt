@@ -1,0 +1,9 @@
+.GuideActivity-->com.tobiapps.android_100floors_guide.MainActivity
+flag:finish
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+.MenuActivity-->com.tobiapps.android_100floors_guide.MainActivity
+flag:
+

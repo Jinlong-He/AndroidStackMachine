@@ -1,0 +1,3 @@
+com.example.tomek.notepad.MainActivity-->com.example.tomek.notepad.NoteActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  
+

@@ -1,0 +1,12 @@
+com.r22software.hdred.MainActivity-->com.r22software.hdred.EditActivity
+flag:
+
+com.r22software.hdred.ExtEditActivity-->com.r22software.hdred.EditActivity
+flag:
+
+com.r22software.hdred.StartActivity-->com.r22software.hdred.MainActivity
+flag:finish
+
+com.r22software.hdred.EditActivity-->com.r22software.hdred.SavedActivity
+flag:finish
+

@@ -1,0 +1,3 @@
+com.jgame.windowbeauty.MainActivity-->com.jgame.windowbeauty.RemoveWindowActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:mx.com.alamo.app.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

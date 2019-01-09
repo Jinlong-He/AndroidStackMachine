@@ -1,0 +1,99 @@
+com.paypal.android.sdk.payments.PayPalProfileSharingActivity-->com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+flag:
+
+com.dailyburn.challenge.common.LocalProgramDetailActivity-->com.dailyburn.challenge.common.cast.CastPreference
+flag:
+
+com.dailyburn.challenge.common.LocalProgramDetailActivity-->com.google.android.libraries.cast.companionlibrary.cast.player.VideoCastControllerActivity
+flag:
+
+com.dailyburn.challenge.common.LocalProgramDetailActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.common.LocalProgramDetailActivity-->com.dailyburn.challenge.phone.EpisodeUnifiedActivity
+flag:
+
+com.dailyburn.challenge.common.LocalProgramDetailActivity-->com.dailyburn.challenge.common.AmazonSignUpActivity
+flag:
+
+com.dailyburn.challenge.phone.FavoritesActivity-->com.dailyburn.challenge.phone.EpisodeUnifiedActivity
+flag:
+
+com.dailyburn.challenge.common.LocalPlayerActivity-->com.dailyburn.challenge.common.UpsellActivity
+flag:
+
+com.dailyburn.challenge.common.LocalPlayerActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:
+
+com.dailyburn.challenge.common.LocalPlayerActivity-->com.dailyburn.challenge.common.cast.CastPreference
+flag:
+
+com.dailyburn.challenge.common.LocalPlayerActivity-->com.google.android.libraries.cast.companionlibrary.cast.player.VideoCastControllerActivity
+flag:
+
+com.dailyburn.challenge.common.LocalPlayerActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.common.LocalPlayerActivity-->com.dailyburn.challenge.common.PreviewPlayerActivity
+flag:
+
+com.dailyburn.challenge.common.LocalPlayerActivity-->com.dailyburn.challenge.common.AmazonSignUpActivity
+flag:
+
+com.dailyburn.challenge.common.PlayerActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:
+
+com.dailyburn.challenge.phone.OnboardingActivity-->com.dailyburn.challenge.common.AmazonSignUpActivity
+flag:
+
+com.dailyburn.challenge.phone.OnboardingActivity-->com.dailyburn.challenge.phone.GetStartedActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.phone.OnboardingActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.paypal.android.sdk.payments.PayPalTouchActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:
+
+com.dailyburn.challenge.phone.HomeActivity-->com.dailyburn.challenge.phone.GetStartedActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.phone.HomeActivity-->com.dailyburn.challenge.phone.OnboardingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.phone.HomeActivity-->com.dailyburn.challenge.phone.ReactivateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.phone.GetStartedActivity-->com.dailyburn.challenge.phone.OnboardingActivity
+flag:
+
+com.dailyburn.challenge.phone.GetStartedActivity-->com.dailyburn.challenge.phone.OnboardingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.phone.GetStartedActivity-->com.dailyburn.challenge.phone.ReactivateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.phone.GetStartedActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.common.AmazonSignUpActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dailyburn.challenge.common.AmazonSignUpActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dailyburn.challenge.common.AmazonSignUpActivity-->com.dailyburn.challenge.common.AmazonSignUpActivity
+flag:
+
+com.dailyburn.challenge.phone.ReactivateActivity-->com.dailyburn.challenge.common.AmazonSignUpActivity
+flag:
+
+com.dailyburn.challenge.common.UpsellActivity-->com.dailyburn.challenge.common.PlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.paypal.android.sdk.payments.LoginActivity-->com.paypal.android.sdk.payments.LoginActivity
+flag:
+
+com.paypal.android.sdk.payments.ProfileSharingConsentActivity-->com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+flag:
+

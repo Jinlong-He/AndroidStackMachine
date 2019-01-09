@@ -1,0 +1,14 @@
+#MAIN
+activity:com.foreverbilisim.arkadasbul.SplashScreen
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.foreverbilisim.arkadasbul.MyActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

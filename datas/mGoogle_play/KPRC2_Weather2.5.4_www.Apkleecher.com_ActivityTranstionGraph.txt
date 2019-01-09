@@ -1,0 +1,27 @@
+com.carnival.sdk.MessageActivity-->com.pnsdigital.weather.app.view.activities.MainActivity
+flag:finish
+
+com.pnsdigital.weather.app.view.activities.SplashActivity-->com.pnsdigital.weather.app.view.activities.MainActivity
+flag:finish
+
+com.pnsdigital.weather.app.view.activities.SplashActivity-->com.pnsdigital.weather.app.view.activities.SoftLandingActivity
+flag:finish
+
+com.pnsdigital.weather.app.view.activities.SoftLandingActivity-->com.pnsdigital.weather.app.view.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.pnsdigital.weather.app.view.activities.ForceUpdateActivity-->com.pnsdigital.weather.app.view.activities.MainActivity
+flag:finish
+
+com.pnsdigital.weather.app.view.activities.MainActivity-->com.pnsdigital.weather.app.view.activities.MainActivity
+flag:
+
+com.pnsdigital.weather.app.view.activities.MainActivity-->com.pnsdigital.weather.app.view.activities.ForceUpdateActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.pnsdigital.weather.app.view.activities.MainActivity-->com.pnsdigital.weather.app.view.activities.SoftLandingActivity
+flag:finish
+
+com.pnsdigital.weather.app.view.activities.MainActivity-->com.pnsdigital.weather.app.view.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

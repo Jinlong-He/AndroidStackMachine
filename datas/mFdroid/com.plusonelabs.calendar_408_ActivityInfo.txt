@@ -1,0 +1,10 @@
+#MAIN
+activity:com.plusonelabs.calendar.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.plusonelabs.calendar.WidgetConfigurationActivity
+LaunchMode:std
+TaskAffinity:null
+

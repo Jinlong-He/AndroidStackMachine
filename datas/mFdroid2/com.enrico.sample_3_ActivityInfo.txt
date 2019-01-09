@@ -1,0 +1,10 @@
+#MAIN
+activity:com.enrico.sample.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.enrico.sample.PreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

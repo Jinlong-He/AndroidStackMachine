@@ -1,0 +1,15 @@
+org.lf_net.pgpunlocker.MainActivity-->org.lf_net.pgpunlocker.MainActivity
+flag:
+
+org.lf_net.pgpunlocker.MainActivity-->org.lf_net.pgpunlocker.ServerEditActivity
+flag:
+
+org.lf_net.pgpunlocker.MainActivity-->org.lf_net.pgpunlocker.SettingsActivity
+flag:
+
+org.lf_net.pgpunlocker.MainActivity-->org.lf_net.pgpunlocker.AboutActivity
+flag:
+
+org.lf_net.pgpunlocker.AboutActivity-->org.lf_net.pgpunlocker.MainActivity
+flag:
+

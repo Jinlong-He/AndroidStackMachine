@@ -1,0 +1,9 @@
+.ui.activity.BackupFontPreviewActivity-->com.sellapk.manager.font.ui.activity.RootHelpActivity
+flag:
+
+.ui.activity.OnlineFontPreviewActivity-->com.sellapk.manager.font.ui.activity.LocalFontPreviewActivity
+flag:finish
+
+.ui.activity.IndexActivity-->com.sellapk.manager.font.ui.activity.MainActivity
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:.WiFiKeyboard
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.WidgetActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.WidgetConfigure
+LaunchMode:std
+TaskAffinity:null
+

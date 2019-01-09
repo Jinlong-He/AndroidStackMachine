@@ -1,0 +1,27 @@
+org.sipdroid.sipua.ui.SIPUri-->org.sipdroid.sipua.ui.SIPUri
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.sipdroid.sipua.ui.Sipdroid-->org.sipdroid.sipua.ui.Settings
+flag:
+
+org.sipdroid.sipua.ui.Sipdroid-->org.sipdroid.sipua.ui.PSTN
+flag:
+
+org.sipdroid.sipua.ui.InCallScreen-->org.sipdroid.sipua.ui.PSTN
+flag:
+
+org.sipdroid.sipua.ui.PSTN-->org.sipdroid.sipua.ui.SIPUri
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.sipdroid.sipua.ui.SIP-->org.sipdroid.sipua.ui.SIPUri
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.sipdroid.sipua.ui.Settings-->org.sipdroid.sipua.ui.PSTN
+flag:
+
+org.sipdroid.sipua.ui.VideoCamera-->org.sipdroid.sipua.ui.PSTN
+flag:
+
+org.sipdroid.sipua.ui.Activity2-->org.sipdroid.sipua.ui.InCallScreen
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

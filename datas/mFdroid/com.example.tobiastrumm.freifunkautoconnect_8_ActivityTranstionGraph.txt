@@ -1,0 +1,6 @@
+com.example.tobiastrumm.freifunkautoconnect.MainActivity-->com.example.tobiastrumm.freifunkautoconnect.InfoActivity
+flag:
+
+com.example.tobiastrumm.freifunkautoconnect.MainActivity-->com.example.tobiastrumm.freifunkautoconnect.SettingsActivity
+flag:
+

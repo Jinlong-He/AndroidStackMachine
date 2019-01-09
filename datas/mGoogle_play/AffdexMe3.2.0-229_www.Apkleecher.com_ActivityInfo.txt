@@ -1,0 +1,14 @@
+#MAIN
+activity:com.affectiva.affdexme.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.affectiva.affdexme.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.affectiva.errorreporting.ErrorReporter
+LaunchMode:std
+TaskAffinity:null
+

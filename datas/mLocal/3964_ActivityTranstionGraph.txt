@@ -1,0 +1,3 @@
+com.mywallpaper.lolwallpaper.MainActivity1-->com.mywallpaper.lolwallpaper.WallpaperInfoActivity
+flag:
+

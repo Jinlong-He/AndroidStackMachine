@@ -1,0 +1,14 @@
+#MAIN
+activity:com.babystory.ui.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.babystory.ui.VideoActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.babystory.ui.JumpActivity
+LaunchMode:stk
+TaskAffinity:com.babystory.ui.JumpActivity
+

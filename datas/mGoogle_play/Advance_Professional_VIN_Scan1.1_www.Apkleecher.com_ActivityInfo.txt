@@ -1,0 +1,14 @@
+#MAIN
+activity:com.advanceautoparts.vehiclemanager.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.advanceautoparts.vehiclemanager.activity.SignInActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.zxing.client.android.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+leyfemenina.frasesparahombresinfieles.FullscreenActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+leyfemenina.frasesparahombresinfieles.dos-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+

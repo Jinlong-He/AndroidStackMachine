@@ -1,0 +1,3 @@
+.SokobanLevelMenuActivity-->com.mobilepearls.sokoban.SokobanGameActivity
+flag:
+

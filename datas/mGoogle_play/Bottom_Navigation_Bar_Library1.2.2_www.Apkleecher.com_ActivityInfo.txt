@@ -1,0 +1,6 @@
+#MAIN
+activity:com.ashokvarma.bottomnavigation.sample.HomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

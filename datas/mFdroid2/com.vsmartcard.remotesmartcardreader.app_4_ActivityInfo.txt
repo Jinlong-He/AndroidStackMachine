@@ -1,0 +1,14 @@
+#MAIN
+activity:com.vsmartcard.remotesmartcardreader.app.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.vsmartcard.remotesmartcardreader.app.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.journeyapps.barcodescanner.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

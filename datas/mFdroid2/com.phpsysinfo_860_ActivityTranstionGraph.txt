@@ -1,0 +1,6 @@
+com.phpsysinfo.activity.PSIActivity-->com.phpsysinfo.activity.HostListActivity
+flag:
+
+com.phpsysinfo.activity.PSIActivity-->com.phpsysinfo.activity.PSIPreferencesActivity
+flag:
+

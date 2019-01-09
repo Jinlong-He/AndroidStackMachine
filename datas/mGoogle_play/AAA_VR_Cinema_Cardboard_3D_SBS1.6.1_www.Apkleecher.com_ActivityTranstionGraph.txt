@@ -1,0 +1,3 @@
+com.candlify.intentplugin.IntentPluginGalleryActivity-->com.candlify.intentplugin.IntentPluginCardboardUnityActivity
+flag:finish
+

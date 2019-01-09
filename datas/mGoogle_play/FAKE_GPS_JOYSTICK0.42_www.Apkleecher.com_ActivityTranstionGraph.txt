@@ -1,0 +1,18 @@
+com.hacker.activity.MainActivity-->com.hacker.activity.AppInstructions
+flag:
+
+com.hacker.activity.MainActivity-->com.hacker.activity.GPSInstructions
+flag:
+
+com.hacker.activity.MainActivity-->com.hacker.activity.ControllerInsturctions
+flag:
+
+com.hacker.activity.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.hacker.activity.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:org.ligi.materialteatimer.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+com.reader.hdmi.Main-->com.reader.hdmi.Settings
+flag:
+
+com.reader.hdmi.SplashScreen-->com.reader.hdmi.Main
+flag:finish
+

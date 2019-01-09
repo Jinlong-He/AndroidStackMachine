@@ -1,0 +1,18 @@
+.LegalNotice-->com.jrj.loudalarm.LoadActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.LoadActivity-->com.jrj.loudalarm.Mainmenu
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.LoadActivity-->com.jrj.loudalarm.LegalNotice
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.Mainmenu-->com.jrj.loudalarm.OurApps
+flag:finish
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:
+

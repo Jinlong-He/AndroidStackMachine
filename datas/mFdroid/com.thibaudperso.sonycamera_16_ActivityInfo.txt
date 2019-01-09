@@ -1,0 +1,6 @@
+#MAIN
+activity:com.thibaudperso.sonycamera.timelapse.ui.TimelapseStepsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

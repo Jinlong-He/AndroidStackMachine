@@ -1,0 +1,12 @@
+com.google.android.apps.muzei.PhotoSetAsTargetActivity-->com.google.android.apps.muzei.gallery.GalleryArtSource
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.apps.muzei.MuzeiActivity-->com.google.android.apps.muzei.settings.SettingsActivity
+flag:
+
+com.google.android.apps.muzei.gallery.GallerySetupActivity-->com.google.android.apps.muzei.gallery.GallerySettingsActivity
+flag:
+
+com.google.android.apps.muzei.settings.SettingsActivity-->com.google.android.apps.muzei.settings.AboutActivity
+flag:
+

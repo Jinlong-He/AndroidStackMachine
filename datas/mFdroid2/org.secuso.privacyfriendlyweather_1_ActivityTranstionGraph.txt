@@ -1,0 +1,12 @@
+org.secuso.privacyfriendlyweather.CityWeatherActivity-->org.secuso.privacyfriendlyweather.CityWeatherDetailsActivity
+flag:
+
+org.secuso.privacyfriendlyweather.CityWeatherActivity-->org.secuso.privacyfriendlyweather.ForecastActivity
+flag:
+
+org.secuso.privacyfriendlyweather.SplashActivity-->org.secuso.privacyfriendlyweather.MainActivity
+flag:finish
+
+org.secuso.privacyfriendlyweather.SettingsActivity-->org.secuso.privacyfriendlyweather.SettingsActivity
+flag:
+

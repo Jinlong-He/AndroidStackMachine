@@ -1,0 +1,12 @@
+Navit-->org.navitproject.navit.NavitAddressSearchActivity
+flag:
+
+Navit-->org.navitproject.navit.FileBrowserActivity
+flag:
+
+Navit-->org.navitproject.navit.NavitDownloadSelectMapActivity
+flag:
+
+Navit-->Navit
+flag:
+

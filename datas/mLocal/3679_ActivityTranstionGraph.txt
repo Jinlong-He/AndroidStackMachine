@@ -1,0 +1,27 @@
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+la.dahuo.app.android.xiaojia.xianjinniu.WebViewActivity-->la.dahuo.app.android.xiaojia.xianjinniu.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+la.dahuo.app.android.xiaojia.xianjinniu.WebViewActivity-->la.dahuo.app.android.xiaojia.xianjinniu.WebViewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+la.dahuo.app.android.xiaojia.xianjinniu.WebViewActivity-->la.dahuo.app.android.xiaojia.xianjinniu.WebViewActivity
+flag:
+
+la.dahuo.app.android.xiaojia.xianjinniu.LoadingActivity-->la.dahuo.app.android.xiaojia.xianjinniu.MainActivity
+flag:finish
+
+cn.jpush.android.ui.PushActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+la.dahuo.app.android.xiaojia.xianjinniu.MainActivity-->la.dahuo.app.android.xiaojia.xianjinniu.SettingsActivity
+flag:
+
+la.dahuo.app.android.xiaojia.xianjinniu.MainActivity-->la.dahuo.app.android.xiaojia.xianjinniu.LoadingActivity
+flag:finish
+

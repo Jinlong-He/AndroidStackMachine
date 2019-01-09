@@ -1,0 +1,10 @@
+#MAIN
+activity:com.alaskalinuxuser.hourglass.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.alaskalinuxuser.hourglass.SetScaleActivity
+LaunchMode:std
+TaskAffinity:null
+

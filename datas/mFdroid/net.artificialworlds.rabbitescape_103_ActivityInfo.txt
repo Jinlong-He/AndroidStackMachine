@@ -1,0 +1,14 @@
+#MAIN
+activity:rabbitescape.ui.android.AndroidMenuActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:rabbitescape.ui.android.AndroidAboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:rabbitescape.ui.android.AndroidGameActivity
+LaunchMode:std
+TaskAffinity:null
+

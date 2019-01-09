@@ -1,0 +1,6 @@
+com.moggot.findmycarlocation.MainActivity-->com.moggot.findmycarlocation.OnboardingActivity
+flag:
+
+com.moggot.findmycarlocation.MainActivity-->com.moggot.findmycarlocation.MapActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:net.programmierecke.radiodroid2.ActivityMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.programmierecke.radiodroid2.ActivityRadioStationDetail
+LaunchMode:std
+TaskAffinity:null
+
+activity:net.programmierecke.radiodroid2.ActivityPlayerInfo
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,3 @@
+cn.jpush.android.ui.PushActivity-->com.and.colourmedia.ewifi.modules.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

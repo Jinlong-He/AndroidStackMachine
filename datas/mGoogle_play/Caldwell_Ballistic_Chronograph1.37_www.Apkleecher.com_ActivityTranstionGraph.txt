@@ -1,0 +1,3 @@
+com.battenfeld.chrono.MainActivity-->com.battenfeld.chrono.SettingsActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.tomer.screenshotsharer.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

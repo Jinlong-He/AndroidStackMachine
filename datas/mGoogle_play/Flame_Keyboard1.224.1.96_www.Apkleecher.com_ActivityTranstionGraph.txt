@@ -1,0 +1,24 @@
+com.jb.gokeyboard.theme.twflamekeyboard.ActivateActivity-->com.jb.gokeyboard.theme.twflamekeyboard.TestKeyboardActivity
+flag:
+
+com.jb.gokeyboard.theme.twflamekeyboard.ActivateActivity-->com.jb.gokeyboard.theme.twflamekeyboard.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.jb.gokeyboard.theme.twflamekeyboard.TestKeyboardActivity-->com.jb.gokeyboard.theme.twflamekeyboard.MainActivity
+flag:
+
+com.jb.gokeyboard.theme.twflamekeyboard.InstallActivity-->com.jb.gokeyboard.theme.twflamekeyboard.MainActivity
+flag:finish
+
+com.jb.gokeyboard.theme.twflamekeyboard.DownloadActivity-->com.jb.gokeyboard.theme.twflamekeyboard.ActivateActivity
+flag:finish
+
+com.jb.gokeyboard.theme.twflamekeyboard.MainActivity-->com.jb.gokeyboard.theme.twflamekeyboard.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.jb.gokeyboard.theme.twflamekeyboard.MainActivity-->com.jb.gokeyboard.theme.twflamekeyboard.MainActivity
+flag:
+
+com.jb.gokeyboard.theme.twflamekeyboard.MainActivity-->com.jb.gokeyboard.theme.twflamekeyboard.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

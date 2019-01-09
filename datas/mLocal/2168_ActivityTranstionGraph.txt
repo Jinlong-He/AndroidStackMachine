@@ -1,0 +1,15 @@
+.RechargeCardActivity-->cn.com.hkgt.gasapp.RechargeGuaGuaActivity
+flag:
+
+.AppStartActivity-->cn.com.hkgt.gasapp.SHAActivity
+flag:finish
+
+.RechargeUnionpayActivity-->cn.com.hkgt.gasapp.RechargeConfirmActivity
+flag:
+
+.SHAActivity-->cn.com.hkgt.gasapp.LoginActivity
+flag:
+
+.LoginActivity-->cn.com.hkgt.gasapp.SHAActivity
+flag:finish
+

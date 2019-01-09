@@ -1,0 +1,15 @@
+com.buildertrend.appStartup.MainActivity-->com.buildertrend.appStartup.MainActivity
+flag:
+
+com.buildertrend.appStartup.MainActivity-->com.buildertrend.browser.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.buildertrend.browser.BrowserActivity-->com.buildertrend.browser.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.buildertrend.webView.SecondaryWebViewActivity-->com.buildertrend.appStartup.MainActivity
+flag:
+
+com.buildertrend.webView.SecondaryWebViewActivity-->com.buildertrend.appStartup.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

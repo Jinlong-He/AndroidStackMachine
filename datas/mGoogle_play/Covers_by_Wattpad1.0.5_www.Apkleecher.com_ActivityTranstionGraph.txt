@@ -1,0 +1,27 @@
+wp.wattpad.covers.authentication.ui.activities.LoginActivity-->wp.wattpad.covers.LibraryActivity
+flag:
+
+wp.wattpad.covers.authentication.ui.activities.LoginActivity-->wp.wattpad.covers.authentication.ui.activities.LoginActivity
+flag:
+
+wp.wattpad.covers.authentication.AuthenticateActivity-->wp.wattpad.covers.LibraryActivity
+flag:
+
+wp.wattpad.covers.SampleCoverActivity-->wp.wattpad.covers.editor.EditCoverActivity
+flag:
+
+wp.wattpad.covers.SampleCoverActivity-->wp.wattpad.covers.colour.SelectColourActivity
+flag:
+
+wp.wattpad.covers.LibraryActivity-->wp.wattpad.covers.authentication.ui.activities.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+wp.wattpad.covers.LibraryActivity-->wp.wattpad.covers.editor.EditCoverActivity
+flag:
+
+wp.wattpad.covers.LibraryActivity-->wp.wattpad.covers.SampleCoverActivity
+flag:
+
+wp.wattpad.covers.LibraryActivity-->wp.wattpad.covers.UploadCoverActivity
+flag:finish
+

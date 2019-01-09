@@ -1,0 +1,6 @@
+#MAIN
+activity:com.escapistgames.starchartgoogleplay.StarChart
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

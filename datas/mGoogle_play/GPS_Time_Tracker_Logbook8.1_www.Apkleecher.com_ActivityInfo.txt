@@ -1,0 +1,14 @@
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.main
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:.einstellungen
+launchMode:stp
+TaskAffinity:null
+

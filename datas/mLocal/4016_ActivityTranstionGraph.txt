@@ -1,0 +1,9 @@
+fintutracker.finads.network.RAActivity-->fintutracker.finads.network.RAActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+.MainActivity-->fintutracker.finads.network.RAActivity
+flag:
+
+.MainActivity-->fintutracker.finads.network.RAActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_HISTORY  
+

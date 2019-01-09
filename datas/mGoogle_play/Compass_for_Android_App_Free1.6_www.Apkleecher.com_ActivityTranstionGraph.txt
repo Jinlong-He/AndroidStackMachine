@@ -1,0 +1,12 @@
+tntstudio.supercompass.MainActivity-->tntstudio.supercompass.SkinTypes
+flag:
+
+tntstudio.supercompass.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+tntstudio.supercompass.MainActivity-->tntstudio.supercompass.AdsActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

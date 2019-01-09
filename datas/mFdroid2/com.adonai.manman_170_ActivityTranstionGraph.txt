@@ -1,0 +1,3 @@
+com.adonai.manman.MainPagerActivity-->com.adonai.manman.preferences.PreferencesActivity
+flag:
+

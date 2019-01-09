@@ -1,0 +1,15 @@
+org.billthefarmer.currency.Main-->org.billthefarmer.currency.ChartActivity
+flag:
+
+org.billthefarmer.currency.Main-->org.billthefarmer.currency.SettingsActivity
+flag:
+
+org.billthefarmer.currency.Main-->org.billthefarmer.currency.HelpActivity
+flag:
+
+org.billthefarmer.currency.Main-->org.billthefarmer.currency.ChoiceDialog
+flag:
+
+org.billthefarmer.currency.ChartActivity-->org.billthefarmer.currency.ChoiceDialog
+flag:
+

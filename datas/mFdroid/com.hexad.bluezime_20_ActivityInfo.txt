@@ -1,0 +1,14 @@
+activity:DeviceScanActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ButtonConfiguration
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:BluezIMESettings
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

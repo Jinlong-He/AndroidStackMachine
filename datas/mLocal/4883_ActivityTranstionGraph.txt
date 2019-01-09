@@ -1,0 +1,6 @@
+com.meTextBook.touch.Hooker-->com.meTextBook.touch.FlashPlayer
+flag:
+
+com.meTextBook.touch.Hooker-->com.qq.e.appwall.AppwallActivity
+flag:
+

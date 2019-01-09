@@ -1,0 +1,6 @@
+ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity-->ru.sash0k.bluetooth_terminal.bluetooth.DeviceListActivity
+flag:
+
+ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity-->ru.sash0k.bluetooth_terminal.activity.SettingsActivity
+flag:
+

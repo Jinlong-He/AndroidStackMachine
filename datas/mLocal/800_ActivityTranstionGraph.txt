@@ -1,0 +1,9 @@
+com.BoldDeveloper.PhotoInstagram.SplashActivity-->com.BoldDeveloper.PhotoInstagram.MainActivity
+flag:finish
+
+com.BoldDeveloper.PhotoInstagram.MainActivity-->com.BoldDeveloper.PhotoInstagram.DisplayImage
+flag:
+
+com.BoldDeveloper.PhotoInstagram.MainActivity-->com.aviary.android.feather.FeatherActivity
+flag:
+

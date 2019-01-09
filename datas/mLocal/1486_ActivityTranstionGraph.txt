@@ -1,0 +1,3 @@
+com.keanbin.pinyinime.SettingActivity-->com.keanbin.pinyinime.SelectActivity
+flag:
+

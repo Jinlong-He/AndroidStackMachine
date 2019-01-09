@@ -1,0 +1,6 @@
+.EMainActivity-->org.uaraven.e.ECodeViewActivity
+flag:
+
+.EMainActivity-->org.uaraven.e.EHelpActivity
+flag:
+

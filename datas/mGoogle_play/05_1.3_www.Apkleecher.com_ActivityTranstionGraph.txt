@@ -1,0 +1,21 @@
+ru.ifsoft.chat.FriendsActivity-->ru.ifsoft.chat.MainActivity
+flag:finish
+
+ru.ifsoft.chat.AppActivity-->ru.ifsoft.chat.SignupActivity
+flag:
+
+ru.ifsoft.chat.AppActivity-->ru.ifsoft.chat.LoginActivity
+flag:
+
+ru.ifsoft.chat.AppActivity-->ru.ifsoft.chat.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+ru.ifsoft.chat.MainActivity-->ru.ifsoft.chat.SettingsActivity
+flag:
+
+ru.ifsoft.chat.DialogsActivity-->ru.ifsoft.chat.MainActivity
+flag:finish
+
+ru.ifsoft.chat.NotificationsActivity-->ru.ifsoft.chat.MainActivity
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:.pmTextEdit
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:.EditPreferences
+LaunchMode:std
+TaskAffinity:null
+
+activity:.FileBrowser
+LaunchMode:std
+TaskAffinity:null
+

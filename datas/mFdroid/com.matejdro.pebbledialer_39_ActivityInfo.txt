@@ -1,0 +1,10 @@
+#MAIN
+activity:com.matejdro.pebbledialer.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.matejdro.pebbledialer.tasker.TaskerSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:hr.kravarscan.enchantedfortress.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

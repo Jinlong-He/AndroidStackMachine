@@ -1,0 +1,9 @@
+.SplashActivity-->unknown
+flag:
+
+.GameActivity-->eu.veldsoft.fish.rings.HelpActivity
+flag:
+
+.GameActivity-->eu.veldsoft.fish.rings.AboutActivity
+flag:
+

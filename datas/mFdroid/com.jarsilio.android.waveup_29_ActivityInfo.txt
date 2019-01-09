@@ -1,0 +1,6 @@
+#MAIN
+activity:com.jarsilio.android.waveup.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

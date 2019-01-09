@@ -1,0 +1,14 @@
+#MAIN
+activity:.AppEntry
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.chartboost.sdk.CBImpressionActivity
+LaunchMode:std
+TaskAffinity:null
+

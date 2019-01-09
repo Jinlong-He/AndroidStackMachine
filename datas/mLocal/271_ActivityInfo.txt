@@ -1,0 +1,6 @@
+#MAIN
+activity:com.android.fromdaemonwry.Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

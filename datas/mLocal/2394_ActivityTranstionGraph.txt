@@ -1,0 +1,6 @@
+RecorderMain-->com.xuecs.AudioRecorder.RecorderSettings
+flag:
+
+RecorderMain-->com.xuecs.AudioRecorder.AboutActivity
+flag:
+

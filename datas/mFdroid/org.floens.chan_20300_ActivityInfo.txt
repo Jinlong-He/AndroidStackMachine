@@ -1,0 +1,6 @@
+#MAIN
+activity:org.floens.chan.ui.activity.BoardActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

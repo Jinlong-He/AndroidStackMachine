@@ -1,0 +1,10 @@
+#MAIN
+activity:se.embargo.retroboy.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:se.embargo.retroboy.ImageActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+de.homac.Mirrored.view.ArticlesList-->de.homac.Mirrored.view.CategoriesList
+flag:
+
+de.homac.Mirrored.view.ArticlesList-->de.homac.Mirrored.view.Preferences
+flag:
+
+de.homac.Mirrored.view.ArticlesList-->de.homac.Mirrored.view.ArticleViewer
+flag:
+

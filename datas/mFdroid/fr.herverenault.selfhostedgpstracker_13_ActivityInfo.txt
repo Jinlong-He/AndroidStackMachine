@@ -1,0 +1,10 @@
+#MAIN
+activity:fr.herverenault.selfhostedgpstracker.SelfHostedGPSTrackerActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:SelfHostedGPSTrackerPrefs
+LaunchMode:std
+TaskAffinity:null
+

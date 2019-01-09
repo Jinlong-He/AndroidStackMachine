@@ -1,0 +1,14 @@
+activity:com.github.dfa.diaspora_android.activity.SettingsActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:com.github.dfa.diaspora_android.activity.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.github.dfa.diaspora_android.activity.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

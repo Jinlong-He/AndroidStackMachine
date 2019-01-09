@@ -1,0 +1,6 @@
+#MAIN
+activity:com.google.vrtoolkit.cardboard.plugins.unity.UnityCardboardActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,324 @@
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity-->jp.pioneer.mbg.appradio.SNS.PostPositionActivity
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppHistoryActivity
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity-->jp.pioneer.mbg.appradio.recommend.CategoryList
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppHistoryActivity-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppHistoryActivity-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppHistoryActivity-->jp.pioneer.mbg.appradio.recommend.CategoryList
+flag:
+
+jp.pioneer.mbg.appradio.calender.EventActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.Photo.PhotoShowActivity-->jp.pioneer.mbg.appradio.Photo.SettingPreference
+flag:
+
+jp.pioneer.mbg.appradio.Photo.PhotoShowActivity-->jp.pioneer.mbg.appradio.Photo.DrivingResistantActivity
+flag:
+
+jp.pioneer.mbg.appradio.Photo.PhotoShowActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+jp.pioneer.mbg.appradio.Photo.PhotoShowActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.Wallpaperpreview-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppRadioSetting-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppRadioSetting-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppRadioSetting-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.LaunchThroughSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppRadioSetting-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GeneralSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppRadioSetting-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.KeyboardSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppRadioSetting-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.BTSettingDialog
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.debug.App_Debug_MainMenu-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppSettingPrefenrence
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_NEW_TASK  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.debug.App_Debug_MainMenu-->jp.pioneer.mbg.appradio.AppRadioLauncher.debug.BindedAppListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_NEW_TASK  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.debug.App_Debug_MainMenu-->jp.pioneer.mbg.appradio.AppRadioLauncher.debug.HDMIMatchSetting
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_NEW_TASK  
+
+jp.pioneer.mbg.appradio.Photo.DrivingResistantActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.wallpaper-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.wallpaper-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.Wallpaperpreview
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningMessage
+flag:finish
+
+jp.pioneer.mbg.appradio.map.MapRouteListActivity-->jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+jp.pioneer.mbg.appradio.map.MapRouteListActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.contacts.AccountSettingActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.Photo.PhotoGridViewActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.Photo.PhotoGridViewActivity-->jp.pioneer.mbg.appradio.Photo.PhotoShowActivity
+flag:
+
+jp.pioneer.mbg.appradio.Photo.PhotoGridViewActivity-->jp.pioneer.mbg.appradio.Photo.DrivingResistantActivity
+flag:
+
+jp.pioneer.mbg.appradio.Photo.PhotoGridViewActivity-->jp.pioneer.mbg.appradio.Photo.SettingPreference
+flag:
+
+jp.pioneer.mbg.appradio.map.searchlistActivity-->jp.pioneer.mbg.appradio.map.MapPinInfoActivity
+flag:finish
+
+jp.pioneer.mbg.appradio.map.searchlistActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.contacts.GroupListActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.contacts.GroupListActivity-->jp.pioneer.mbg.appradio.contacts.AccountSettingActivity
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.BTDialog-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.contacts.ContactsListActivity
+flag:
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.map.bookmark.BookmarkRecentsActivity
+flag:
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.map.MapRouteListActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.map.MapPinInfoActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.map.searchlistActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.map.searchlistActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.map.MapRouteListActivity
+flag:
+
+jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity-->jp.pioneer.mbg.appradio.map.MapPinInfoActivity
+flag:finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningMessage-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+jp.pioneer.mbg.appradio.recommend.ApplicationDetail-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.recommend.ApplicationDetail-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.recommend.ApplicationDetail-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.app.touchball-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+jp.pioneer.mbg.appradio.calender.Day-->jp.pioneer.mbg.appradio.calender.EventActivity
+flag:
+
+jp.pioneer.mbg.appradio.calender.Day-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.PhotoAlbumSelect-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.wallpaper
+flag:
+
+jp.pioneer.mbg.appradio.contacts.MailAddressListActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.recommend.CategoryListLocal-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.recommend.CategoryListLocal-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.recommend.CategoryListLocal-->jp.pioneer.mbg.appradio.recommend.ApplicationDetailLocal
+flag:
+
+jp.pioneer.mbg.appradio.SNS.SNSSetting-->jp.pioneer.mbg.appradio.SNS.UnlinkActivity
+flag:
+
+jp.pioneer.mbg.appradio.SNS.SNSSetting-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:
+
+jp.pioneer.mbg.appradio.calender.Days-->jp.pioneer.mbg.appradio.calender.Day
+flag:
+
+jp.pioneer.mbg.appradio.calender.Days-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.Photo.PhotoGroupActivity-->jp.pioneer.mbg.appradio.Photo.PhotoGridViewActivity
+flag:
+
+jp.pioneer.mbg.appradio.Photo.PhotoGroupActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.BTSettingDialog-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.contacts.ContactsInfoActivity-->jp.pioneer.mbg.appradio.contacts.MailAddressListActivity
+flag:
+
+jp.pioneer.mbg.appradio.contacts.ContactsInfoActivity-->jp.pioneer.mbg.appradio.contacts.AccountSettingActivity
+flag:
+
+jp.pioneer.mbg.appradio.contacts.ContactsInfoActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.contacts.ContactsListActivity-->jp.pioneer.mbg.appradio.contacts.ContactsInfoActivity
+flag:
+
+jp.pioneer.mbg.appradio.contacts.ContactsListActivity-->jp.pioneer.mbg.appradio.contacts.AccountSettingActivity
+flag:
+
+jp.pioneer.mbg.appradio.contacts.ContactsListActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.contacts.ContactsListActivity-->jp.pioneer.mbg.appradio.contacts.GroupListActivity
+flag:
+
+jp.pioneer.mbg.appradio.recommend.CategoryList-->jp.pioneer.mbg.appradio.recommend.ApplicationDetail
+flag:
+
+jp.pioneer.mbg.appradio.recommend.CategoryList-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.recommend.CategoryList-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.ServiceControl_Activity-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.LogCatViewer
+flag:
+
+jp.pioneer.mbg.appradio.map.MapPinInfoActivity-->jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+jp.pioneer.mbg.appradio.map.MapPinInfoActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.map.MapPinInfoActivity-->jp.pioneer.mbg.appradio.map.searchlistActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GeneralSetting-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.NotificationStatusSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GeneralSetting-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.PhotoAlbumSelect
+flag:
+
+jp.pioneer.mbg.appradio.map.bookmark.BookmarkRecentsActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.map.bookmark.BookmarkRecentsActivity-->jp.pioneer.mbg.appradio.map.AndroidStyleMainMapActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.LaunchThroughSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppRadioSetting
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.AppRadioLauncher.debug.App_Debug_MainMenu
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.BTDialog
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.recommend.CategoryListLocal
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppSettingPrefenrence-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.ServiceDetailsPreference
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_NEW_TASK  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppSettingPrefenrence-->jp.pioneer.mbg.appradio.AppRadioLauncher.debug.App_Debug_MainMenu
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppSettingPrefenrence-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.ServiceControl_Activity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.screen.AppSettingPrefenrence-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.LogCatViewer
+flag:
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.app.AccessoryActivity-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+jp.pioneer.mbg.appradio.recommend.ApplicationDetailLocal-->jp.pioneer.mbg.appradio.AppRadioLauncher.app.OpeningActivity
+flag:
+
+jp.pioneer.mbg.appradio.recommend.ApplicationDetailLocal-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+jp.pioneer.mbg.appradio.recommend.ApplicationDetailLocal-->jp.pioneer.mbg.appradio.SNS.SNSSetting
+flag:
+
+jp.pioneer.mbg.appradio.Photo.SettingPreference-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+jp.pioneer.mbg.appradio.Photo.SettingPreference-->jp.pioneer.mbg.appradio.AppRadioLauncher.screen.GateWayConnect
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

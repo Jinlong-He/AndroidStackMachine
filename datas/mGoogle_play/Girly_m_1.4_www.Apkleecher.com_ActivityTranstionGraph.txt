@@ -1,0 +1,15 @@
+com.girly.beautiful.activities.ActivitySplash-->com.girly.beautiful.activities.MainActivity
+flag:finish
+
+com.girly.beautiful.activities.ActivityWallpaperByCategory-->com.girly.beautiful.activities.ActivitySlideImage
+flag:
+
+com.girly.beautiful.activities.ActivitySlideImage-->com.girly.beautiful.activities.ActivitySetAsWallpaper
+flag:
+
+com.girly.beautiful.activities.ActivitySlideImage-->com.girly.beautiful.activities.ActivityPinchZoom
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

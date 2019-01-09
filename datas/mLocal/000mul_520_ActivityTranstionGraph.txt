@@ -1,0 +1,12 @@
+com.miui.camera.Camera-->com.miui.camera.ui.CameraPreferenceActivity
+flag:
+
+com.miui.camera.Camera-->com.miui.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+
+com.miui.camera.VideoCamera-->com.miui.camera.ui.VideoQualityPreferenceActivity
+flag:
+
+com.miui.camera.VideoCamera-->com.miui.camera.Camera
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_FORWARD_RESULT  
+

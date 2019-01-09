@@ -1,0 +1,27 @@
+com.aerlingus.profile.ProfileActivity-->com.aerlingus.signin.SignInActivity
+flag:
+
+com.worklight.wlclient.ui.UIActivity-->com.aerlingus.signin.SignInActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.aerlingus.signin.SignInActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.aerlingus.MainActivity-->com.aerlingus.signin.SignInActivity
+flag:
+
+com.aerlingus.MainActivity-->com.usabilla.sdk.ubform.ui.FeedbackFormActivity
+flag:
+
+com.xtify.rn.RichNotifInboxActivity-->com.xtify.rn.RichNotifActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.aerlingus.signin.SignInActivity-->com.aerlingus.signin.SignInActivity
+flag:
+
+com.xtify.rn.RichNotifActivity-->com.aerlingus.signin.SignInActivity
+flag:
+

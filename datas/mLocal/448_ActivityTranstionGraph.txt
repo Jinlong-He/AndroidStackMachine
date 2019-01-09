@@ -1,0 +1,21 @@
+com.huawei.android.pushselfshow.permission.RequestPermissionsActivity-->com.huawei.android.pushselfshow.permission.RequestPermissionsActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+video.vue.android.ui.activity.SplashActivity-->video.vue.android.ui.MainActivity
+flag:finish
+
+video.vue.android.ui.activity.SplashActivity-->video.vue.android.ui.onboard.OnboardActivity
+flag:
+
+video.vue.android.ui.activity.SettingsActivity-->video.vue.android.ui.onboard.OnboardActivity
+flag:
+
+video.vue.android.ui.activity.SettingsActivity-->video.vue.android.ui.activity.ManageUploadedVideosActivity
+flag:
+
+video.vue.android.ui.activity.SettingsActivity-->video.vue.android.ui.activity.AddStampActivity
+flag:
+
+video.vue.android.ui.widget.picker.VideoImagePickerActivity-->video.vue.android.ui.video.clip.VideoClipActivity
+flag:
+

@@ -1,0 +1,12 @@
+com.baidu.android.pushservice.richmedia.MediaViewActivity-->com.mapbar.android.MainActivity
+flag:
+
+com.umeng.fb.ConversationActivity-->com.umeng.fb.ContactActivity
+flag:
+
+com.baidu.android.pushservice.richmedia.MediaListActivity-->com.baidu.android.pushservice.richmedia.MediaListActivity
+flag:
+
+com.baidu.android.pushservice.richmedia.MediaListActivity-->com.baidu.android.pushservice.richmedia.MediaViewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

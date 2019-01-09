@@ -1,0 +1,3 @@
+.SettingsActivity-->.BatteryInfoActivity
+flag:finish
+

@@ -1,0 +1,9 @@
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.HelpActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.google.zxing.client.android.encode.EncodeActivity-->com.google.zxing.client.android.CaptureActivity
+flag:finish
+
+com.google.zxing.client.android.HelpActivity-->com.google.zxing.client.android.HelpActivity
+flag:
+

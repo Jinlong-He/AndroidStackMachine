@@ -1,0 +1,12 @@
+de.arnowelzel.android.periodical.MainActivity-->de.arnowelzel.android.periodical.ListActivity
+flag:
+
+de.arnowelzel.android.periodical.MainActivity-->de.arnowelzel.android.periodical.OptionsActivity
+flag:
+
+de.arnowelzel.android.periodical.MainActivity-->de.arnowelzel.android.periodical.HelpActivity
+flag:
+
+de.arnowelzel.android.periodical.MainActivity-->de.arnowelzel.android.periodical.AboutActivity
+flag:
+

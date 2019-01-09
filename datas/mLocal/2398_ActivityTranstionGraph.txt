@@ -1,0 +1,126 @@
+com.netease.gamebox.ui.QrCodeScanResultActivity-->com.netease.gamebox.ui.AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.ArticleActivity-->com.netease.gamebox.ui.DiscussActivity
+flag:
+
+com.tencent.connect.common.AssistActivity-->com.netease.gamebox.ui.AdActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.netease.gamebox.ui.AdActivity
+flag:finish
+
+com.netease.gamebox.ui.AnswerActivity-->com.netease.gamebox.ui.SearchActivity
+flag:
+
+com.netease.gamebox.ui.AdActivity-->com.netease.gamebox.ui.LauncherActivity
+flag:finish
+
+com.netease.gamebox.ui.UserInfoActivity-->com.netease.gamebox.ui.RecommendAvatarActivity
+flag:
+
+com.netease.gamebox.ui.AccountManageActivity-->com.netease.gamebox.ui.BindUrsActivity
+flag:
+
+com.netease.gamebox.ui.AccountManageActivity-->com.netease.gamebox.ui.InitUserInfoActivity
+flag:
+
+com.netease.gamebox.ui.AccountManageActivity-->com.netease.gamebox.ui.MainPagerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.MainPagerActivity-->com.netease.gamebox.ui.QrCodeScanActivity
+flag:
+
+com.netease.gamebox.ui.QrCodeScanActivity-->com.netease.gamebox.ui.QrCodeScanResultActivity
+flag:
+
+com.netease.gamebox.ui.QrCodeScanActivity-->com.netease.gamebox.ui.ConfirmLoginActivity
+flag:finish
+
+com.netease.gamebox.ui.BindUrsActivity-->com.netease.gamebox.ui.WebLinksActivity
+flag:
+
+com.netease.gamebox.ui.BindUrsActivity-->com.netease.gamebox.ui.AccountVerifyActivity
+flag:
+
+com.netease.gamebox.ui.BindUrsActivity-->com.netease.gamebox.ui.InitUserInfoActivity
+flag:finish
+
+com.netease.gamebox.ui.BindUrsActivity-->com.netease.gamebox.ui.MainPagerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.AnnouncementActivity-->com.netease.gamebox.ui.DiscussActivity
+flag:
+
+com.netease.gamebox.ui.LauncherActivity-->com.netease.gamebox.ui.WebLinksActivity
+flag:
+
+com.netease.gamebox.ui.LauncherActivity-->com.netease.gamebox.ui.MainPagerActivity
+flag:finish
+
+com.netease.gamebox.ui.LauncherActivity-->com.netease.gamebox.ui.LauncherAfterActivity
+flag:finish
+
+com.netease.gamebox.ui.LauncherActivity-->com.netease.gamebox.ui.AdActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.LauncherActivity-->com.netease.gamebox.ui.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.MailBoxActivity-->com.netease.gamebox.ui.WebLinksActivity
+flag:
+
+com.netease.gamebox.ui.MailBoxActivity-->com.netease.gamebox.ui.AdActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.MailBoxActivity-->com.netease.gamebox.ui.LauncherActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.SecuritySettingActivity-->com.netease.gamebox.ui.GestureLockActivity
+flag:
+
+com.netease.gamebox.ui.SecuritySettingActivity-->com.netease.gamebox.ui.VerifyTimeActivity
+flag:
+
+com.netease.ps.gamecenter.GameDetailsActivity-->com.netease.gamebox.ui.AdActivity
+flag:
+
+com.netease.gamebox.ui.ConfirmLoginActivity-->com.netease.gamebox.ui.AccountVerifyActivity
+flag:
+
+com.netease.gamebox.ui.ConfirmLoginActivity-->com.netease.gamebox.ui.WebLinksActivity
+flag:
+
+com.netease.gamebox.ui.LauncherAfterActivity-->com.netease.gamebox.ui.BindUrsActivity
+flag:
+
+com.netease.gamebox.ui.LauncherAfterActivity-->com.netease.gamebox.ui.InitUserInfoActivity
+flag:finish
+
+com.netease.gamebox.ui.LauncherAfterActivity-->com.netease.gamebox.ui.MainPagerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.AboutActivity-->com.netease.gamebox.ui.WebLinksActivity
+flag:
+
+com.netease.gamebox.ui.ConfirmLockActivity-->com.netease.gamebox.ui.AdActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.netease.gamebox.ui.InitUserInfoActivity-->com.netease.gamebox.ui.MainPagerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.netease.gamebox.ui.SettingActivity-->com.netease.gamebox.ui.SecuritySettingActivity
+flag:
+
+com.netease.gamebox.ui.SettingActivity-->com.netease.gamebox.ui.AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.netease.gamebox.ui.SettingActivity-->com.netease.gamebox.ui.AboutActivity
+flag:
+
+com.netease.gamebox.ui.SettingActivity-->com.netease.gamebox.ui.AdActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

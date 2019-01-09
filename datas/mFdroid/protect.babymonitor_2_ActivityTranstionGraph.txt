@@ -1,0 +1,9 @@
+protect.babymonitor.DiscoverActivity-->protect.babymonitor.ListenActivity
+flag:
+
+protect.babymonitor.StartActivity-->protect.babymonitor.DiscoverActivity
+flag:
+
+protect.babymonitor.StartActivity-->protect.babymonitor.MonitorActivity
+flag:
+

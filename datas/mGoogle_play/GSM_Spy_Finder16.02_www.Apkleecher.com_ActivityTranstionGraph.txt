@@ -1,0 +1,24 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.unity3d.ads.android.view.UnityAdsFullscreenActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+kz.galan.antispy.SplashActivity-->kz.galan.antispy.MapsActivity
+flag:
+
+com.vungle.publisher.FullScreenAdActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.inmobi.rendering.InMobiAdActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

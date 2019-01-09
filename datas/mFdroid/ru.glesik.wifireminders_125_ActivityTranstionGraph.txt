@@ -1,0 +1,6 @@
+ru.glesik.wifireminders.RemindersListActivity-->ru.glesik.wifireminders.SettingsActivity
+flag:
+
+ru.glesik.wifireminders.RemindersListActivity-->ru.glesik.wifireminders.AddReminderActivity
+flag:
+

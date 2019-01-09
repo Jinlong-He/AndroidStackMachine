@@ -1,0 +1,6 @@
+com.modstudio.housemap.MainActivity-->com.modstudio.housemap.InfoActivity
+flag:
+
+com.modstudio.housemap.MainActivity-->com.modstudio.housemap.DownloadActivity
+flag:
+

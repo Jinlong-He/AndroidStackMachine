@@ -1,0 +1,14 @@
+#MAIN
+activity:me.jakelane.wrapperforfacebook.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:me.jakelane.wrapperforfacebook.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.facebook.FacebookActivity
+LaunchMode:std
+TaskAffinity:null
+

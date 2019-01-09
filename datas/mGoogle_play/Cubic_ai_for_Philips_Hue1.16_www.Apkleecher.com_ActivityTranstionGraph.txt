@@ -1,0 +1,6 @@
+ai.cubic.cubicthings.OnboardingActivity-->ai.cubic.cubicthings.LoadingActivity
+flag:
+
+ai.cubic.cubicthings.LoadingActivity-->ai.cubic.cubicthings.OnboardingActivity
+flag:
+

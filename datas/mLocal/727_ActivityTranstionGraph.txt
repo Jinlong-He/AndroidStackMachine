@@ -1,0 +1,15 @@
+.AppMain-->com.motionportrait.VampireBooth.InfoAct
+flag:
+
+.AppMain-->com.motionportrait.VampireBooth.CameraAct
+flag:
+
+com.tapjoy.TJAdUnitView-->com.tapjoy.TJCOffersWebView
+flag:
+
+com.tapjoy.TJAdUnitView-->com.tapjoy.TJCOffersWebView
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.tapjoy.TapjoyVideoView-->com.tapjoy.TJAdUnitView
+flag:
+

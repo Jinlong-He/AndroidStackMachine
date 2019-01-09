@@ -1,0 +1,6 @@
+#MAIN
+activity:com.ionicframework.sqmobile302915.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

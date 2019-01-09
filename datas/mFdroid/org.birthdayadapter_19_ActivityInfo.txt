@@ -1,0 +1,14 @@
+#MAIN
+activity:org.birthdayadapter.ui.BaseActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.birthdayadapter.ui.CreateAccountActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.birthdayadapter.ui.ShowContactActivity
+LaunchMode:std
+TaskAffinity:null
+

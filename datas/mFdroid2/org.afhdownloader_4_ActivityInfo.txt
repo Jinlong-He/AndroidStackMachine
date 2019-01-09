@@ -1,0 +1,14 @@
+#MAIN
+activity:org.afhdownloader.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.afhdownloader.DirectoryPicker
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.afhdownloader.SetPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

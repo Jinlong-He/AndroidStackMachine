@@ -1,0 +1,10 @@
+#MAIN
+activity:com.shkmishra.lyrically.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.shkmishra.lyrically.PreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

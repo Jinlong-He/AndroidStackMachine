@@ -1,0 +1,6 @@
+#MAIN
+activity:it.faerb.crond.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

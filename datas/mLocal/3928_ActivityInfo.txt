@@ -1,0 +1,10 @@
+#MAIN
+activity:cn.thoughtshouyii.nxgfuc.MyActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.entertainmentreader.common.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

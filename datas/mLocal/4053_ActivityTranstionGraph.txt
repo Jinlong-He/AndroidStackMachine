@@ -1,0 +1,3 @@
+com.androidesk.livewallpaper.activity.SplashActivity-->com.androidesk.livewallpaper.activity.MainActivity
+flag:finish
+

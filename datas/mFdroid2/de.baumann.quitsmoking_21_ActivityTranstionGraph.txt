@@ -1,0 +1,15 @@
+de.baumann.quitsmoking.UserSettingsActivity-->de.baumann.quitsmoking.about.About_activity
+flag:
+
+de.baumann.quitsmoking.UserSettingsActivity-->de.baumann.quitsmoking.helper.Activity_intro
+flag:
+
+de.baumann.quitsmoking.UserSettingsActivity-->de.baumann.quitsmoking.MainActivity
+flag:finish
+
+de.baumann.quitsmoking.helper.Activity_EditNote-->de.baumann.quitsmoking.helper.Activity_files
+flag:
+
+de.baumann.quitsmoking.MainActivity-->de.baumann.quitsmoking.UserSettingsActivity
+flag:finish
+

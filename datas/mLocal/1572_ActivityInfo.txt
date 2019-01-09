@@ -1,0 +1,14 @@
+#MAIN
+activity:.UnrarPro
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:Expired
+LaunchMode:std
+TaskAffinity:null
+
+activity:SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

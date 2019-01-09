@@ -1,0 +1,15 @@
+.TP_AMActivity-->pt.isec.tp.am.Help
+flag:
+
+.TP_AMActivity-->pt.isec.tp.am.About
+flag:
+
+.TP_AMActivity-->pt.isec.tp.am.MyPreferencesActivity
+flag:
+
+.TP_AMActivity-->pt.isec.tp.am.Score
+flag:
+
+.TP_AMActivity-->pt.isec.tp.am.GameActivity
+flag:
+

@@ -1,0 +1,12 @@
+org.primftpd.ReceiveShareActivity-->com.nononsenseapps.filepicker.FilePickerActivity
+flag:
+
+org.primftpd.PrimitiveFtpdActivity-->unknown
+flag:
+
+org.primftpd.PrimitiveFtpdActivity-->org.primftpd.prefs.AboutActivity
+flag:
+
+org.primftpd.PrimitiveFtpdActivity-->org.primftpd.PrimitiveFtpdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

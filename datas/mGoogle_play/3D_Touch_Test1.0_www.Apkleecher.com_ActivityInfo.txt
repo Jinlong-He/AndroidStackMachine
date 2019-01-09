@@ -1,0 +1,10 @@
+#MAIN
+activity:uk.co.etdevelopment.touchtest.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:uk.co.etdevelopment.touchtest.DetailActivity
+LaunchMode:std
+TaskAffinity:null
+

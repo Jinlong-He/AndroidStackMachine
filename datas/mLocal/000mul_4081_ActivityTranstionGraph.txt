@@ -1,0 +1,6 @@
+.LockScreenPreferenceActivity-->com.cooee.lock.net.cooeelocker.SetCodeActivity
+flag:
+
+.LockScreenPreferenceActivity-->com.cooee.lock.net.cooeelocker.VisualSetScreen
+flag:
+

@@ -1,0 +1,15 @@
+com.nicedayapps.iss_free.activies.MainActivity-->com.nicedayapps.iss_free.activies.PassesActivity
+flag:
+
+com.nicedayapps.iss_free.activies.MainActivity-->com.nicedayapps.iss_free.activies.PreferencesActivity
+flag:
+
+com.nicedayapps.iss_free.activies.MainActivity-->com.nicedayapps.iss_free.activies.HelpActivity
+flag:
+
+com.nicedayapps.iss_free.activies.SplashActivity-->com.nicedayapps.iss_free.activies.MainActivity
+flag:finish
+
+com.nicedayapps.iss_free.activies.SignInActivity-->com.nicedayapps.iss_free.activies.MainActivity
+flag:finish
+

@@ -1,0 +1,18 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.mixpanel.android.surveys.SurveyActivity-->com.fitnessmeals.fitnessmealplanner.MainActivity
+flag:finish
+
+com.adobe.phonegap.push.PushHandlerActivity-->com.fitnessmeals.fitnessmealplanner.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_FROM_BACKGROUND  
+
+com.adobe.phonegap.push.PushHandlerActivity-->com.fitnessmeals.fitnessmealplanner.MainActivity
+flag:
+
+de.appplant.cordova.plugin.localnotification.ClickActivity-->com.fitnessmeals.fitnessmealplanner.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+de.appplant.cordova.plugin.notification.ClickActivity-->com.fitnessmeals.fitnessmealplanner.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+

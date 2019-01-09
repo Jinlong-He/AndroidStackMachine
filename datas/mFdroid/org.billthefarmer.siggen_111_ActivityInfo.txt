@@ -1,0 +1,14 @@
+#MAIN
+activity:org.billthefarmer.siggen.Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.billthefarmer.siggen.Input
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.billthefarmer.siggen.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

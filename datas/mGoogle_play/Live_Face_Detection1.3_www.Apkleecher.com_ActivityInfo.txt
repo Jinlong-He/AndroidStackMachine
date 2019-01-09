@@ -1,0 +1,6 @@
+#MAIN
+activity:com.livefacedetection.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

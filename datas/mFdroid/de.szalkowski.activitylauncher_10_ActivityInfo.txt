@@ -1,0 +1,6 @@
+#MAIN
+activity:de.szalkowski.activitylauncher.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

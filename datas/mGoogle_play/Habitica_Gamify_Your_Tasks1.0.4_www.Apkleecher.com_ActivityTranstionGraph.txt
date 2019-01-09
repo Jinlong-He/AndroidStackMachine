@@ -1,0 +1,27 @@
+com.habitrpg.android.habitica.ui.activities.ChallengeDetailActivity-->com.habitrpg.android.habitica.ui.activities.CreateChallengeActivity
+flag:
+
+com.habitrpg.android.habitica.ui.activities.GemPurchaseActivity-->com.playseeds.android.sdk.inappmessaging.RichMediaActivity
+flag:
+
+com.habitrpg.android.habitica.ui.activities.CreateChallengeActivity-->com.habitrpg.android.habitica.ui.activities.TaskFormActivity
+flag:
+
+com.habitrpg.android.habitica.ui.activities.MainActivity-->com.habitrpg.android.habitica.ui.activities.FullProfileActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.habitrpg.android.habitica.ui.activities.SetupActivity-->com.habitrpg.android.habitica.ui.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.habitrpg.android.habitica.ui.activities.IntroActivity-->com.habitrpg.android.habitica.ui.activities.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.habitrpg.android.habitica.ui.activities.LoginActivity-->com.habitrpg.android.habitica.ui.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.habitrpg.android.habitica.ui.activities.LoginActivity-->com.habitrpg.android.habitica.ui.activities.SetupActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+

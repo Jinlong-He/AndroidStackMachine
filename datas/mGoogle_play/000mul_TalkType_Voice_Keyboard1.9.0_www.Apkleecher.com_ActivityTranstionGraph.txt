@@ -1,0 +1,33 @@
+com.android.inputmethod.latin.setup.SetupWizardActivity-->com.android.inputmethod.latin.settings.SettingsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.inputmethod.latin.setup.SetupWizardActivity-->com.android.inputmethod.latin.setup.SetupWizardActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.inputmethod.latin.settings.SettingsActivity-->com.android.inputmethod.latin.settings.SettingsActivity
+flag:
+
+com.baidu.research.talktype.app.SetupActivity-->com.baidu.research.talktype.app.EnableKeyboardDialogActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.baidu.research.talktype.app.SetupActivity-->com.baidu.research.talktype.app.SetupActivity
+flag:
+
+com.baidu.research.talktype.app.SetupActivity-->com.baidu.research.talktype.app.TryItOutActivity
+flag:finish
+
+com.baidu.research.talktype.app.SetupActivity-->com.android.inputmethod.latin.settings.SettingsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.android.inputmethod.latin.setup.SetupActivity-->com.android.inputmethod.latin.setup.SetupWizardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.baidu.research.talktype.app.TourFragmentActivity-->com.baidu.research.talktype.app.TryItOutActivity
+flag:finish
+
+com.baidu.research.talktype.app.TryItOutActivity-->com.android.inputmethod.latin.settings.SettingsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.android.inputmethod.latin.permissions.PermissionsActivity-->com.android.inputmethod.latin.permissions.PermissionsActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,12 @@
+allen.com.rsstest.view.movie.MovieActivity-->allen.com.rsstest.view.movie.SearchMovieActivity
+flag:
+
+allen.com.rsstest.view.movie.MovieDetailActivity-->allen.com.rsstest.view.movie.MovieDetailActivity
+flag:
+
+allen.com.rsstest.view.main.MainActivity-->allen.com.rsstest.view.movie.MovieActivity
+flag:
+
+allen.com.rsstest.view.main.MainActivity-->allen.com.rsstest.view.AboutActivity
+flag:
+

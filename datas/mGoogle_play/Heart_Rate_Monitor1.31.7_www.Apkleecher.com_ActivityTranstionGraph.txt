@@ -1,0 +1,3 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.supersimpleapps.heart_rate_monitor_newui.TabHostActivity
+flag:
+

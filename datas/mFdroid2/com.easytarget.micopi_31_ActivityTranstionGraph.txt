@@ -1,0 +1,6 @@
+org.eztarget.micopi.ui.WelcomeActivity-->org.eztarget.micopi.ui.ContactActivity
+flag:
+
+org.eztarget.micopi.ui.WelcomeActivity-->org.eztarget.micopi.ui.BatchActivity
+flag:
+

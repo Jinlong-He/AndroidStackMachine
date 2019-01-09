@@ -1,0 +1,4 @@
+activity:org.schabi.svgredirect.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

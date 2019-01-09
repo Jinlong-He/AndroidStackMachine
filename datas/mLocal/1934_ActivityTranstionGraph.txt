@@ -1,0 +1,15 @@
+com.baidu.appx.ui.BDInnerBrowser-->com.baidu.appx.ui.BDInnerBrowser
+flag:
+
+com.example.imageswitcher.Main-->com.example.imageswitcher.MainActivity
+flag:
+
+com.baidu.autoupdatesdk.ConfirmDialoigActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.example.imageswitcher.WelcomeActivity-->com.example.imageswitcher.Main
+flag:finish
+
+com.example.imageswitcher.MainActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

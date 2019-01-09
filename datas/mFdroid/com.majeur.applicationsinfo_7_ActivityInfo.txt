@@ -1,0 +1,14 @@
+#MAIN
+activity:com.majeur.applicationsinfo.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.majeur.applicationsinfo.DetailActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.majeur.applicationsinfo.ViewManifestActivity
+LaunchMode:std
+TaskAffinity:null
+

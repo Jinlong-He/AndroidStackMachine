@@ -1,0 +1,81 @@
+com.blablaapp.launcher.activity.PrivacyDetectionActivity-->com.blablaapp.launcher.activity.MessageBoxActivity
+flag:
+
+com.blablaapp.launcher.activity.PrivacyDetectionActivity-->com.blablaapp.launcher.activity.LauncherActivity
+flag:
+
+com.blablaapp.launcher.activity.PrivacyDetectionActivity-->com.blablaapp.launcher.activity.LauncherActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.blablaapp.launcher.activity.media.LauncherMediaActivity-->com.blablaapp.launcher.activity.media.MediaSelectActivity
+flag:
+
+com.blablaapp.launcher.activity.media.LauncherMediaActivity-->com.blablaapp.launcher.activity.media.UserDialogActivity
+flag:
+
+com.blablaapp.launcher.activity.FeedBackDialogActivity-->com.blablaapp.launcher.activity.FeedBackActivity
+flag:finish
+
+com.blablaapp.launcher.activity.LauncherActivity-->com.blablaapp.launcher.activity.LauncherSettingsActivity
+flag:
+
+com.blablaapp.launcher.activity.LauncherActivity-->unknown
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+com.blablaapp.launcher.activity.LauncherActivity-->com.blablaapp.launcher.activity.LauncherActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.blablaapp.launcher.activity.LauncherActivity-->com.blablaapp.launcher.activity.uninstall.UserUninstallerActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.blablaapp.launcher.activity.LauncherActivity-->com.blablaapp.launcher.activity.LauncherActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.StdResolverActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.StdResolverActivity
+flag:finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.LGResolverActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.LGResolverActivity
+flag:finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.MZResolverActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.MZResolverActivity
+flag:finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.GineeResolverActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.account.util.setdefault.resolver.GineeResolverActivity
+flag:finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.activity.LauncherActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blablaapp.launcher.account.util.setdefault.DefaultLauncherResolver-->com.blablaapp.launcher.activity.LauncherActivity
+flag:finish
+
+com.blablaapp.launcher.activity.WeatherSettingsActivity-->com.blablaapp.launcher.activity.WeatherCityActivity
+flag:
+
+com.blablaapp.launcher.activity.WallpaperPickerActivity-->com.blablaapp.launcher.activity.LauncherActivity
+flag:
+
+com.blablaapp.launcher.activity.uninstall.UserUninstallerActivity-->com.blablaapp.launcher.activity.uninstall.UninstallAppProgress
+flag:finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.blablaapp.launcher.activity.WeatherActivity-->unknown
+flag:
+

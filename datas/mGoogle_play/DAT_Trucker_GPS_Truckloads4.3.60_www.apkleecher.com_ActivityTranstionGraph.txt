@@ -1,0 +1,114 @@
+com.dat.common.views.activities.LogViewActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dat.trucker.components.DatActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.DatActivity-->com.dat.trucker.components.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dat.trucker.components.MainActivity-->com.dat.trucker.components.FindLoadsActivity
+flag:
+
+com.dat.trucker.components.MainActivity-->com.dat.trucker.components.TutorialActivity
+flag:
+
+com.dat.trucker.components.MainActivity-->com.dat.trucker.components.PlaceDetailActivity
+flag:
+
+com.dat.trucker.components.MainActivity-->com.dat.trucker.components.DeveloperSettingsActivity
+flag:
+
+com.dat.trucker.components.MainActivity-->com.dat.trucker.components.ProfileActivity
+flag:
+
+com.dat.trucker.components.MainActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.DatListActivity-->com.dat.trucker.components.LoginActivity
+flag:
+
+com.dat.trucker.components.DatListActivity-->com.dat.trucker.components.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dat.trucker.components.PlaceDetailActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.FindLoadsActivity-->com.dat.trucker.components.ProfileActivity
+flag:
+
+com.dat.common.views.activities.BaseDeveloperSettingsActivity-->com.dat.common.views.activities.LogViewActivity
+flag:
+
+com.dat.common.views.activities.BaseDeveloperSettingsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dat.common.views.activities.BaseActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dat.common.views.activities.BaseActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dat.trucker.components.ForgotPasswordActivity-->com.dat.trucker.components.EmailLoginActivity
+flag:
+
+com.dat.trucker.components.ForgotPasswordActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.DeveloperSettingsActivity-->com.dat.trucker.components.LogViewActivity
+flag:
+
+com.dat.trucker.components.DeveloperSettingsActivity-->com.dat.trucker.components.ManageDatabaseActivity
+flag:
+
+com.dat.trucker.components.DeveloperSettingsActivity-->com.dat.trucker.components.LocationActivity
+flag:
+
+com.dat.trucker.components.DeveloperSettingsActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.SignUpActivity-->com.dat.trucker.components.ForgotPasswordActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.dat.trucker.components.SignUpActivity-->com.dat.trucker.components.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dat.trucker.components.SignUpActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.LocationActivity-->com.dat.trucker.components.LoginActivity
+flag:
+
+com.dat.trucker.components.AppRatingActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.SocialLoginActivity-->com.dat.trucker.components.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dat.trucker.components.SocialLoginActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.ProfileActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.EmailLoginActivity-->com.dat.trucker.components.ForgotPasswordActivity
+flag:
+
+com.dat.trucker.components.EmailLoginActivity-->com.dat.trucker.components.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dat.trucker.components.EmailLoginActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.dat.trucker.components.LoginActivity-->com.dat.trucker.components.SignUpActivity
+flag:
+
+com.dat.trucker.components.LoginActivity-->com.dat.trucker.components.EmailLoginActivity
+flag:
+
+com.dat.trucker.components.LoginActivity-->com.dat.trucker.components.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dat.trucker.components.LoginActivity-->com.dat.trucker.components.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

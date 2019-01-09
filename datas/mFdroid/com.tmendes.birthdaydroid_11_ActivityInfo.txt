@@ -1,0 +1,6 @@
+#MAIN
+activity:com.tmendes.birthdaydroid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

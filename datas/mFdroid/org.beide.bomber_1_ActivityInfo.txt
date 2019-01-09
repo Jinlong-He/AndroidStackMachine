@@ -1,0 +1,10 @@
+#MAIN
+activity:BomberActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:BomberPreferences
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.lwallpaperseries.catholicbabynames.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,39 @@
+com.intuition.newadvantagenx.AdvantageNxHandsetActivity-->com.intuition.newadvantagenx.certificates.CertificatesActivity
+flag:
+
+com.intuition.newadvantagenx.AdvantageNxHandsetActivity-->com.intuition.newadvantagenx.discovery.DetailHandsetActivity
+flag:
+
+com.intuition.newadvantagenx.AdvantageNxHandsetActivity-->com.intuition.newadvantagenx.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.intuition.newadvantagenx.AdvantageNxHandsetActivity-->com.intuition.newadvantagenx.ItemViewActivity
+flag:
+
+com.intuition.newadvantagenx.disclaimer.DisclaimerActivity-->com.intuition.newadvantagenx.disclaimer.DisclaimerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.intuition.newadvantagenx.offline.OfflineActivity-->com.intuition.newadvantagenx.discovery.DetailHandsetActivity
+flag:
+
+com.intuition.newadvantagenx.ItemViewActivity-->com.intuition.newadvantagenx.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.intuition.newadvantagenx.login.forget.ForgetPasswordActivity-->com.intuition.newadvantagenx.login.forget.ForgetPasswordActivity
+flag:
+
+com.intuition.newadvantagenx.SplashActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.intuition.newadvantagenx.SplashActivity-->unknown
+flag:
+
+com.intuition.newadvantagenx.AdvantageMainNxTabletActivity-->com.intuition.newadvantagenx.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.intuition.newadvantagenx.login.PinCodeActivity-->com.intuition.newadvantagenx.login.PinCodeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.intuition.newadvantagenx.login.PinCodeActivity-->com.intuition.newadvantagenx.login.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

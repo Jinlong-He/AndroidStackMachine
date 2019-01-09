@@ -1,0 +1,14 @@
+#MAIN
+activity:ru.glesik.wifireminders.RemindersListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ru.glesik.wifireminders.AddReminderActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ru.glesik.wifireminders.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

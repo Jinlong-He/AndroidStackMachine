@@ -1,0 +1,9 @@
+com.application.animefacechanger.Splash_Activity-->com.application.animefacechanger.Main_Activity
+flag:finish
+
+com.application.animefacechanger.Main_Activity-->com.application.animefacechanger.About_Activity
+flag:
+
+com.application.animefacechanger.Main_Activity-->com.application.animefacechanger.FaceChange_Activity
+flag:
+

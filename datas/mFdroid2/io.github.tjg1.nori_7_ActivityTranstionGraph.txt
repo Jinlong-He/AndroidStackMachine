@@ -1,0 +1,6 @@
+io.github.tjg1.nori.SearchActivity-->io.github.tjg1.nori.ImageViewerActivity
+flag:
+
+io.github.tjg1.nori.SearchActivity-->io.github.tjg1.nori.SettingsActivity
+flag:
+

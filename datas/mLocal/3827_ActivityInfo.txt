@@ -1,0 +1,14 @@
+#MAIN
+activity:.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+com.lowestmed.lowestmed.activity.ModalActivity-->unknown
+flag:
+
+com.lowestmed.lowestmed.activity.TabbedContainerActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.lowestmed.lowestmed.activity.TabbedContainerActivity-->unknown
+flag:
+

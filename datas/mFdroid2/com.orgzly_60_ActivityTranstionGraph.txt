@@ -1,0 +1,12 @@
+com.orgzly.android.ui.MainActivity-->com.orgzly.android.ui.ReposActivity
+flag:
+
+com.orgzly.android.ui.ReposActivity-->com.dropbox.core.android.AuthActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.orgzly.android.ui.ReposActivity-->com.dropbox.core.android.AuthActivity
+flag:
+
+com.dropbox.core.android.AuthActivity-->com.dropbox.core.android.AuthActivity
+flag:
+

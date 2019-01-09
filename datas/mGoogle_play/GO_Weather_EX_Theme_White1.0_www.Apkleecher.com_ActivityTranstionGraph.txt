@@ -1,0 +1,3 @@
+com.gau.go.weatherex.framework.RecommendWeatherEx-->com.gau.go.weatherex.framework.ForSearch
+flag:
+

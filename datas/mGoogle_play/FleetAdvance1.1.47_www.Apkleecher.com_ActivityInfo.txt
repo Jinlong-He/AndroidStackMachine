@@ -1,0 +1,10 @@
+#MAIN
+activity:.DriverAdvance
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.worklight.common.WLPreferences
+LaunchMode:std
+TaskAffinity:null
+

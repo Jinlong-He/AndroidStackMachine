@@ -1,0 +1,10 @@
+#MAIN
+activity:com.example.bluetoothunity.BlueToothActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.unity3d.player.VideoPlayer
+LaunchMode:std
+TaskAffinity:null
+

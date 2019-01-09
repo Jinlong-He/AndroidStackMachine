@@ -1,0 +1,3 @@
+com.nxy.mobilebank.service.pay.FaceToFaceActivity-->com.nxy.mobilebank.service.pay.GeneralCaptureFaceToFaceActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.xiafy.magictricks.ui.activities.HomeActivity-->com.xiafy.magictricks.ui.activities.SettingsActivity
+flag:
+

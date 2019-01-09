@@ -1,0 +1,14 @@
+#MAIN
+activity:com.zlamanit.blood.pressure.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.zlamanit.blood.pressure.reminder.NotificationPopupActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+de.sigfood.SigfoodActivity-->de.sigfood.MealActivity
+flag:
+
+de.sigfood.SigfoodActivity-->de.sigfood.SigfoodSettings
+flag:
+

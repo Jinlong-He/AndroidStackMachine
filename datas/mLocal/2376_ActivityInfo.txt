@@ -1,0 +1,14 @@
+#MAIN
+activity:.DKEWM
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.Update
+LaunchMode:std
+TaskAffinity:null
+
+activity:.TWebDlg
+LaunchMode:std
+TaskAffinity:null
+

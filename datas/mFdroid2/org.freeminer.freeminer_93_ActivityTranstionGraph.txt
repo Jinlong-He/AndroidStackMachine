@@ -1,0 +1,6 @@
+.MtNativeActivity-->org.freeminer.freeminer.freeminerTextEntry
+flag:
+
+.MtNativeActivity-->org.freeminer.freeminer.freeminerAssetCopy
+flag:
+

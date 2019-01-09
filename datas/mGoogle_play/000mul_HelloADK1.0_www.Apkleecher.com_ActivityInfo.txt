@@ -1,0 +1,6 @@
+#MAIN
+activity:.HelloADKActivity
+LaunchMode:sit
+TaskAffinity:
+NIAM#
+

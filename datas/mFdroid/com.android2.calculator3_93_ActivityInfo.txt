@@ -1,0 +1,14 @@
+#MAIN
+activity:com.xlythe.calculator.material.Calculator
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.xlythe.calculator.material.floating.FloatingCalculatorCreateShortCutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.xlythe.calculator.material.floating.FloatingCalculatorOpenShortCutActivity
+LaunchMode:sit
+TaskAffinity:null
+

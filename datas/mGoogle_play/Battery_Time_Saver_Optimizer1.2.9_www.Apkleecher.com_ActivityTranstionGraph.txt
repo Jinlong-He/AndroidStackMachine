@@ -1,0 +1,12 @@
+com.google.android.gms.tagmanager.PreviewActivity-->com.liquidum.batterysaver.ui.activity.MainActivity
+flag:
+
+com.liquidum.batterysaver.ui.activity.MainActivity-->com.liquidum.batterysaver.ui.activity.MessageCenterActivity
+flag:
+
+com.liquidum.batterysaver.ui.activity.MainActivity-->com.liquidum.batterysaver.ui.activity.SettingsActivity
+flag:
+
+com.liquidum.batterysaver.ui.activity.MainActivity-->com.liquidum.batterysaver.ui.activity.MainActivity
+flag:
+

@@ -1,0 +1,9 @@
+.SplashActivity-->unknown
+flag:
+
+.DecisionMakerActivity-->eu.veldsoft.vitoshadm.HelpActivity
+flag:
+
+.DecisionMakerActivity-->eu.veldsoft.vitoshadm.AboutActivity
+flag:
+

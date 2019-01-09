@@ -1,0 +1,10 @@
+activity:no.mobitroll.kahoot.android.MainActivity
+launchMode:stp
+TaskAffinity:null
+
+#MAIN
+activity:no.mobitroll.kahoot.android.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

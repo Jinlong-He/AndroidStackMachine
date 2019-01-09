@@ -1,0 +1,3 @@
+com.ithouge.crackedscreen.MainActivity-->com.ithouge.crackedscreen.PrefsSettings
+flag:
+

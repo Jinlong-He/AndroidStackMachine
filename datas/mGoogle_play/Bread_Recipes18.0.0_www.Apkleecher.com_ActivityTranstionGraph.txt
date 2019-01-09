@@ -1,0 +1,9 @@
+com.cookware.breadrecipes.SplashActivity-->com.cookware.breadrecipes.MainActivity
+flag:finish
+
+com.cookware.breadrecipes.MainActivity-->com.cookware.breadrecipes.MainActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.cookware.breadrecipes.MainActivity
+flag:
+

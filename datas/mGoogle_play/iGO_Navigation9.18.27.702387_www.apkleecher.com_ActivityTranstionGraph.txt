@@ -1,0 +1,3 @@
+com.navngo.igo.javaclient.InsertSDCard-->com.navngo.igo.javaclient.InsertSDCard
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+

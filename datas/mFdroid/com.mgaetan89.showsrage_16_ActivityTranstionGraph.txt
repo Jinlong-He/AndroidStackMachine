@@ -1,0 +1,12 @@
+com.mgaetan89.showsrage.activity.AddShowActivity-->com.mgaetan89.showsrage.activity.ShowsActivity
+flag:
+
+com.mgaetan89.showsrage.activity.ShowsActivity-->com.mgaetan89.showsrage.activity.ShowActivity
+flag:
+
+com.mgaetan89.showsrage.activity.ShowsActivity-->com.mgaetan89.showsrage.activity.SettingsActivity
+flag:
+
+com.mgaetan89.showsrage.activity.ShowActivity-->com.mgaetan89.showsrage.activity.EpisodeActivity
+flag:
+

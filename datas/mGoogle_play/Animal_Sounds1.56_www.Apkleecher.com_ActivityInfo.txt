@@ -1,0 +1,6 @@
+#MAIN
+activity:net.fagames.android.playkids.animals.activity.main.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

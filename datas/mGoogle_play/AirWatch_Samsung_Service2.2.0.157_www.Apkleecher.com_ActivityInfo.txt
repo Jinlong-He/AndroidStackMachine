@@ -1,0 +1,6 @@
+#MAIN
+activity:com.airwatch.admin.samsung.SamsungActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

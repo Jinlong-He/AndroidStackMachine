@@ -1,0 +1,9 @@
+org.smc.inputmethod.indic.setup.SetupWizardActivity-->org.smc.inputmethod.indic.settings.SettingsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP  
+
+org.smc.inputmethod.indic.setup.SetupWizardActivity-->org.smc.inputmethod.indic.setup.SetupWizardActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+org.smc.inputmethod.indic.setup.SetupActivity-->org.smc.inputmethod.indic.setup.SetupWizardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+

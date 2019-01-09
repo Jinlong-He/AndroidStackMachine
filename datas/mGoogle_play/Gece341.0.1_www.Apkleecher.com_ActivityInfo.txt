@@ -1,0 +1,6 @@
+#MAIN
+activity:net.biomedya.gece34.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

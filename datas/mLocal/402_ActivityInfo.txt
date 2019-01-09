@@ -1,0 +1,14 @@
+#MAIN
+activity:.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.SettingActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.mediav.ads.sdk.act.MVLandingPage
+LaunchMode:std
+TaskAffinity:null
+

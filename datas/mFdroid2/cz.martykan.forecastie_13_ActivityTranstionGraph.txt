@@ -1,0 +1,3 @@
+cz.martykan.forecastie.MainActivity-->cz.martykan.forecastie.SettingsActivity
+flag:
+

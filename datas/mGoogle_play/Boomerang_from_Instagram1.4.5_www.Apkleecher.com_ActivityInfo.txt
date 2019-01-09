@@ -1,0 +1,10 @@
+#MAIN
+activity:com.instagram.boomerang.BoomerangActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.instagram.common.bugreport.GenericBugReporterActivity
+LaunchMode:std
+TaskAffinity:null
+

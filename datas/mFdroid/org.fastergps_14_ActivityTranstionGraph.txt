@@ -1,0 +1,6 @@
+org.fastergps.ui.BaseActivity-->org.fastergps.ui.HelpActivity
+flag:
+
+org.fastergps.ui.BaseActivity-->org.fastergps.ui.AdvancedSettingsActivity
+flag:
+

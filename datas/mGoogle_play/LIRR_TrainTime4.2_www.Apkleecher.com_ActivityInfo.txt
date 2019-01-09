@@ -1,0 +1,14 @@
+#MAIN
+activity:org.lirr.portal.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.lirr.portal.TTDateTimeActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:io.github.lonamiwebs.klooni.AndroidLauncher
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

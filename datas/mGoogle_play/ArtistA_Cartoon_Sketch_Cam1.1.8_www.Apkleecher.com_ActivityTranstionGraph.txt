@@ -1,0 +1,9 @@
+camera.RuntimePermissionActivity-->camera.RuntimePermissionActivity
+flag:
+
+com.lyrebirdstudio.neurallib.UCropActivity-->com.lyrebirdstudio.neurallib.NeuralActivity
+flag:
+
+camera.CameraActivity-->com.lyrebirdstudio.neurallib.PreferenceActivity
+flag:
+

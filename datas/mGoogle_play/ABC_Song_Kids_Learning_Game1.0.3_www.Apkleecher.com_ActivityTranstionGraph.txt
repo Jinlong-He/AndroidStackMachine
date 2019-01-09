@@ -1,0 +1,6 @@
+com.flurry.android.FlurryFullscreenTakeoverActivity-->com.apportable.activity.VerdeActivity
+flag:
+
+com.chartboost.sdk.CBImpressionActivity-->com.chartboost.sdk.CBImpressionActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.NaimDev.SnapPhotoFilters.SplashActivity-->com.NaimDev.SnapPhotoFilters.MainActivity
+flag:
+

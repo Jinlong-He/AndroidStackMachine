@@ -1,0 +1,6 @@
+#MAIN
+activity:Hospital2
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

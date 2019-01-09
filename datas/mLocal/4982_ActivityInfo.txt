@@ -1,0 +1,14 @@
+#MAIN
+activity:com.netease.protecteyes.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.netease.protecteyes.PRISActivityUpdate
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.netease.protecteyes.DAActivity
+LaunchMode:std
+TaskAffinity:null
+

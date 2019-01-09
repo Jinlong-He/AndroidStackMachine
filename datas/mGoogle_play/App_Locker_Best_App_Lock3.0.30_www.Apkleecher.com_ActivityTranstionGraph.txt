@@ -1,0 +1,36 @@
+com.martianmode.applock.activities.StartUpActivity-->com.martianmode.applock.activities.ResetPINActivity
+flag:
+
+com.martianmode.applock.activities.StartUpActivity-->com.martianmode.applock.locksystem.lockpattern.LockPatternActivity
+flag:
+
+com.martianmode.applock.activities.StartUpActivity-->com.martianmode.applock.activities.PermissionCheckerActivity
+flag:finish
+
+com.martianmode.applock.activities.StartUpActivity-->com.martianmode.applock.activities.StartUpActivity
+flag:finish
+
+com.martianmode.applock.locksystem.lockpattern.LockPatternActivity-->com.martianmode.applock.activities.ResetPatternActivity
+flag:
+
+com.martianmode.applock.locksystem.lockpattern.LockPatternActivity-->com.martianmode.applock.activities.StartUpActivity
+flag:
+
+com.martianmode.applock.activities.MainActivity-->com.martianmode.applock.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.martianmode.applock.activities.ResetPatternActivity-->com.martianmode.applock.locksystem.lockpattern.LockPatternActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.martianmode.applock.activities.PermissionCheckerActivity-->com.martianmode.applock.activities.PermissionCheckerActivity
+flag:finish
+
+com.martianmode.applock.activities.PermissionCheckerActivity-->com.martianmode.applock.activities.MainActivity
+flag:finish
+
+com.martianmode.applock.activities.PermissionCheckerActivity-->com.martianmode.applock.engine.lock.ForegroundMonitor
+flag:FLAG_ACTIVITY_NEW_TASK  
+

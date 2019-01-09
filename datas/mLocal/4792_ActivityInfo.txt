@@ -1,0 +1,10 @@
+#MAIN
+activity:com.pfu.monster.MonsterLink
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.baidu.autoupdatesdk.ConfirmDialoigActivity
+LaunchMode:std
+TaskAffinity:null
+

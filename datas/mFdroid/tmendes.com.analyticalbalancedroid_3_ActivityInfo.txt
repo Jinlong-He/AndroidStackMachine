@@ -1,0 +1,6 @@
+#MAIN
+activity:tmendes.com.analyticalbalancedroid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

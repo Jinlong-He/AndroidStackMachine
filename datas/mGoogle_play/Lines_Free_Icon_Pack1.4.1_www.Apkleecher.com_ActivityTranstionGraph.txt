@@ -1,0 +1,12 @@
+com.natewren.dashboard.SplashScreen-->com.natewren.dashboard.MainActivity
+flag:finish
+
+com.natewren.dashboard.MainActivity-->com.natewren.dashboard.tutorial.TutorialActivity
+flag:
+
+com.natewren.libs.embedded_apk_installer.activities.ActivityEmbeddedApkInstaller-->com.natewren.dashboard.MainActivity
+flag:
+
+haibison.android.fad7.ActivityWithFragments-->com.natewren.dashboard.MainActivity
+flag:
+

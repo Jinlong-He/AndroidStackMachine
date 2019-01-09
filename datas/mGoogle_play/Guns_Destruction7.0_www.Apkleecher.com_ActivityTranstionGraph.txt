@@ -1,0 +1,9 @@
+com.kauf.marketing.Kaufcom-->com.kauf.marketing.Kaufcom
+flag:
+
+com.unity3d.player.UnityPlayerProxyActivity-->com.unity3d.player.UnityPlayerActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.kauf.marketing.YuMe-->com.kauf.marketing.YuMe
+flag:
+

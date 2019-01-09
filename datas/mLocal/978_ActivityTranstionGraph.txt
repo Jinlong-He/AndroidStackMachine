@@ -1,0 +1,9 @@
+com.qsjl.p1yg.MyViewPager-->com.qsjl.p1yg.MainActivity
+flag:finish
+
+cn.jpush.android.ui.PushActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.qsjl.p1yg.MainActivity-->cn.jpush.android.ui.PushActivity
+flag:
+

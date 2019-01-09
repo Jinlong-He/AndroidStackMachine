@@ -1,0 +1,6 @@
+#MAIN
+activity:com.quaap.audiometer.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

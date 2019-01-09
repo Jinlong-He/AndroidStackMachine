@@ -1,0 +1,6 @@
+de.appplant.cordova.plugin.localnotification.ClickActivity-->org.iilab.openmentoring.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+de.appplant.cordova.plugin.notification.ClickActivity-->org.iilab.openmentoring.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+

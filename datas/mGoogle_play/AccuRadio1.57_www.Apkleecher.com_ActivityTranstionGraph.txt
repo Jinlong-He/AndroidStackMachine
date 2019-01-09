@@ -1,0 +1,69 @@
+com.slipstream.accuradio.Navigator-->com.slipstream.accuradio.DeepLinkRouter
+flag:
+
+com.slipstream.accuradio.Navigator-->com.slipstream.accuradio.ChannelsActivity
+flag:
+
+com.slipstream.accuradio.Navigator-->com.slipstream.accuradio.LoginActivity
+flag:finish
+
+com.slipstream.accuradio.Navigator-->com.slipstream.accuradio.Player
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.slipstream.accuradio.Player-->com.slipstream.accuradio.Navigator
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.slipstream.accuradio.Player-->com.slipstream.accuradio.BannedContent
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NO_HISTORY  
+
+com.slipstream.accuradio.Player-->com.slipstream.accuradio.AccuRadioService
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.slipstream.accuradio.Player-->com.slipstream.accuradio.ChannelsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.slipstream.accuradio.ChannelsActivity-->com.slipstream.accuradio.Player
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.slipstream.accuradio.ChannelsActivity-->com.slipstream.accuradio.ChannelsActivity
+flag:
+
+com.slipstream.accuradio.ChannelsActivity-->com.slipstream.accuradio.Player
+flag:
+
+com.slipstream.accuradio.ChannelsActivity-->com.slipstream.accuradio.Navigator
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.slipstream.accuradio.RegisterActivity-->com.slipstream.accuradio.Navigator
+flag:finish
+
+com.slipstream.accuradio.RegisterActivity-->com.slipstream.accuradio.Navigator
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.slipstream.accuradio.BannedContent-->com.slipstream.accuradio.Player
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.slipstream.accuradio.LoginActivity-->com.slipstream.accuradio.Navigator
+flag:finish
+
+com.slipstream.accuradio.LoginActivity-->com.slipstream.accuradio.ForgotPasswordActivity
+flag:
+
+com.slipstream.accuradio.LoginActivity-->com.slipstream.accuradio.Navigator
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.slipstream.accuradio.LoginActivity-->com.slipstream.accuradio.RegisterActivity
+flag:
+
+com.slipstream.accuradio.ForgotPasswordActivity-->com.slipstream.accuradio.Navigator
+flag:
+
+com.slipstream.accuradio.DeepLinkRouter-->com.slipstream.accuradio.LoginActivity
+flag:
+
+com.slipstream.accuradio.DeepLinkRouter-->com.slipstream.accuradio.Navigator
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.slipstream.accuradio.DeepLinkRouter-->com.slipstream.accuradio.Player
+flag:
+

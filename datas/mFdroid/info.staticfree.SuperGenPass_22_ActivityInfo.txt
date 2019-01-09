@@ -1,0 +1,14 @@
+#MAIN
+activity:info.staticfree.SuperGenPass.Super_Gen_Pass
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:info.staticfree.SuperGenPass.SuperGenPassShare
+LaunchMode:std
+TaskAffinity:null
+
+activity:info.staticfree.SuperGenPass.SgpPreferencesActivity
+launchMode:stp
+TaskAffinity:null
+

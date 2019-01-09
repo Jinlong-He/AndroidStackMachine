@@ -1,0 +1,6 @@
+com.aidinhut.simpletextcrypt.LockActivity-->com.aidinhut.simpletextcrypt.MainActivity
+flag:
+
+com.aidinhut.simpletextcrypt.MainActivity-->com.aidinhut.simpletextcrypt.SettingsActivity
+flag:
+

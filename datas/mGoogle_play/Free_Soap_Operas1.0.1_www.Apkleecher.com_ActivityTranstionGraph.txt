@@ -1,0 +1,6 @@
+.SplashScreen-->com.vermitele.novela.Vermitelenovela
+flag:finish
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

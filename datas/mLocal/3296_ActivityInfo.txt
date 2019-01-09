@@ -1,0 +1,14 @@
+#MAIN
+activity:jp.co.se.android.ppzzll.puzzle011.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:jp.co.cayto.appc.sdk.android.AppCAgreementActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:jp.co.cayto.appc.sdk.android.AppCWebActivity
+LaunchMode:std
+TaskAffinity:null
+

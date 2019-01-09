@@ -1,0 +1,14 @@
+#MAIN
+activity:fr.hnit.riverferry.NextDeparture
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:fr.hnit.riverferry.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:fr.hnit.riverferry.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+espengineer.android.compass.MainActivity-->espengineer.android.compass.QuickStartActivity
+flag:
+
+espengineer.android.compass.MainActivity-->espengineer.android.compass.HelpActivity
+flag:
+

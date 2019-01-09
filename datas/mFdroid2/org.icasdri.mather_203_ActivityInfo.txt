@@ -1,0 +1,6 @@
+#MAIN
+activity:org.icasdri.mather.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,3 @@
+.MainActivity-->com.tricolorcat.calculator.About
+flag:
+

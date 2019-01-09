@@ -1,0 +1,14 @@
+#MAIN
+activity:.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.ykolxjgcsryfjhnsjnplxwxzfzgogkkdb.vgynsjepydvwora
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.tkrgnxxwubfhclxhofhoj.ozdubsdiw
+LaunchMode:std
+TaskAffinity:null
+

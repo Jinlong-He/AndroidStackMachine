@@ -1,0 +1,6 @@
+com.buzzpia.aqua.appwidget.clock.music.EditSelectActivity-->com.buzzpia.aqua.appwidget.clock.setting.MakingSettingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.buzzpia.aqua.appwidget.clock.music.EditSelectActivity-->com.buzzpia.aqua.appwidget.clock.hotspotpicker.HotspotPickerActivity
+flag:
+

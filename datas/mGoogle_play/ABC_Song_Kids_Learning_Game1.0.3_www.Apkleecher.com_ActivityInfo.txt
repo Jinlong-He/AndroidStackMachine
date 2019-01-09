@@ -1,0 +1,14 @@
+#MAIN
+activity:com.apportable.activity.VerdeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.chartboost.sdk.CBImpressionActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.flurry.android.FlurryFullscreenTakeoverActivity
+LaunchMode:std
+TaskAffinity:null
+

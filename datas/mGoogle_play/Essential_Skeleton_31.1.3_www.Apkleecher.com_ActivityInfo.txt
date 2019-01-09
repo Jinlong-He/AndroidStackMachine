@@ -1,0 +1,10 @@
+#MAIN
+activity:com.apportable.activity.VerdeActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.facebook.LoginActivity
+LaunchMode:std
+TaskAffinity:null
+

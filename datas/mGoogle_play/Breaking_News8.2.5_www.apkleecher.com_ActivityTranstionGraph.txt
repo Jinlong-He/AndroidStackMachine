@@ -1,0 +1,6 @@
+com.iavian.newspush.MainActivity-->com.iavian.newspush.NewsSourceActivity
+flag:
+
+com.iavian.newspush.MainActivity-->com.iavian.newspush.DetailActivity
+flag:
+

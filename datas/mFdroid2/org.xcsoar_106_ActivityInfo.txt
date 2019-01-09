@@ -1,0 +1,6 @@
+#MAIN
+activity:.XCSoar
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

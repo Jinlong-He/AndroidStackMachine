@@ -1,0 +1,6 @@
+#MAIN
+activity:com.originatorkids.EndlessAlphabet.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

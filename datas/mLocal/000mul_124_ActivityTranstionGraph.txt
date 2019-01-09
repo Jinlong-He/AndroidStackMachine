@@ -1,0 +1,303 @@
+com.yiyou.ga.client.chatting.ChattingActivity-->com.yiyou.ga.client.contact.ChattingAtSomeoneActivity
+flag:
+
+com.yiyou.ga.client.chatting.ChattingActivity-->com.yiyou.ga.client.user.setting.NoDisturbActivity
+flag:
+
+com.yiyou.ga.client.chatting.ChattingActivity-->com.yiyou.ga.client.guild.notice.manager.GuildNoticeCreateActivity
+flag:
+
+com.yiyou.ga.client.chatting.ChattingActivity-->com.yiyou.ga.client.guild.circle.GuildCircleTopicPostActivity
+flag:
+
+com.yiyou.ga.client.guild.notice.GuildNoticeActivity-->com.yiyou.ga.client.guild.circle.GuildCircleTopicPostActivity
+flag:
+
+com.yiyou.ga.client.guild.notice.GuildNoticeActivity-->com.yiyou.ga.client.guild.notice.manager.GuildNoticeCreateActivity
+flag:
+
+com.yiyou.ga.client.guild.album.GuildAlbumPhotoDetailActivity-->com.yiyou.ga.client.guild.album.GuildAlbumUploadPhotoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.album.GuildAlbumPhotoDetailActivity-->com.yiyou.ga.client.guild.album.GuildAlbumActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.invite.InviteJoinGuildActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.app.InkActivity-->com.yiyou.ga.app.InkActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NO_USER_ACTION  FLAG_ACTIVITY_NO_HISTORY  
+
+com.yiyou.ga.client.guild.album.GuildAlbumUploadPhotoActivity-->com.yiyou.ga.client.guild.album.GuildAlbumSelectActivity
+flag:
+
+com.yiyou.ga.client.guild.album.GuildAlbumUploadPhotoActivity-->com.yiyou.ga.client.guild.album.GuildAlbumPhotoDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.album.GuildAlbumUploadPhotoActivity-->com.yiyou.ga.client.guild.album.GuildAlbumActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.gamecircles.topic.GameCircleDetailActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.game.GuildGameListActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.contact.NewContactActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.giftpackage.RedGiftPackageDetailActivity-->com.yiyou.ga.client.guild.giftpackage.RedGiftPackageFetchDetailActivity
+flag:
+
+com.yiyou.ga.client.guild.giftpackage.RedGiftPackageDetailActivity-->com.yiyou.ga.client.chatting.ChattingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.user.info.FeedBackActivity-->com.yiyou.ga.client.chatting.ChattingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.chatting.GuildAssistantActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.BlankActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.user.signin.LoginActivity
+flag:finish
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.BlankActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.user.gamecircles.GameCircleActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.gamecircles.topic.GameCircleDetailActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.gamecircles.TopGameActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.user.info.UserInfoActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.user.setting.VoiceBallSettingActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.gamecircles.detail.GameCircleItemDetailActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.guild.search.GuildSearchDetailActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.guild.giftbox.GiftBoxActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.goddess.GoddessSignUpActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.web.WebGameActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.plugin.PluginNavigationActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.web.TTWebViewActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.guild.card.GuildCardActivity
+flag:
+
+com.yiyou.ga.client.splash.SplashActivity-->com.yiyou.ga.client.channel.ChannelChattingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.group.interest.InterestGroupListActivity-->com.yiyou.ga.client.group.interest.info.InterestGroupInfoActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.guild.game.GuildGameListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.gamecircles.TopGameActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.user.download.DownloadActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.contact.NewContactActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.guidepage.HomePageGuidePageActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.splash.SplashActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.user.signin.LoginActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.WelcomeActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.gamecircles.MainPageGameCirclesMessageActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.gamecircles.topic.GameCircleDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.guild.giftpackage.RedGiftPackageDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.chatting.ChattingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.BlankActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.user.gamecircles.GameCircleActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.gamecircles.topic.GameCircleDetailActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.gamecircles.TopGameActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.user.info.UserInfoActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.user.setting.VoiceBallSettingActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.gamecircles.detail.GameCircleItemDetailActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.guild.search.GuildSearchDetailActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.guild.giftbox.GiftBoxActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.goddess.GoddessSignUpActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.web.WebGameActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.plugin.PluginNavigationActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.web.TTWebViewActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.guild.card.GuildCardActivity
+flag:
+
+com.yiyou.ga.client.BlankActivity-->com.yiyou.ga.client.channel.ChannelChattingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.user.download.DownloadActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.rights.manage.GuildInfoManagerActivity-->com.yiyou.ga.client.guild.rights.manage.GuildBriefModifyActivity
+flag:
+
+com.yiyou.ga.client.guild.rights.manage.GuildInfoManagerActivity-->com.yiyou.ga.client.BlankActivity
+flag:
+
+com.yiyou.ga.client.group.interest.InterestGroupSearchActivity-->com.yiyou.ga.client.group.interest.info.InterestGroupInfoActivity
+flag:
+
+com.yiyou.ga.client.guild.game.main.GuildMainGameManageActivity-->com.yiyou.ga.client.web.TTWebViewActivity
+flag:
+
+com.yiyou.ga.client.guild.rights.manage.GuildPositionManageActivity-->com.yiyou.ga.client.guild.rights.manage.GuildPositionEditActivity
+flag:
+
+com.yiyou.ga.client.channel.ChannelChattingActivity-->com.yiyou.ga.client.channel.convene.ConveneMemberDetailActivity
+flag:
+
+com.yiyou.ga.client.guild.album.GuildAlbumActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.wxapi.WXEntryActivity-->com.yiyou.ga.client.BlankActivity
+flag:
+
+com.yiyou.ga.client.contact.MemberSearchActivity-->com.yiyou.ga.client.guild.group.manager.PermissionGroupActivity
+flag:
+
+com.yiyou.ga.client.contact.MemberSearchActivity-->com.yiyou.ga.client.chatting.ChattingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.gamecircles.notice.GameCircleMessageActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.contact.GroupContactActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.user.gamecircles.GameCircleActivity-->com.yiyou.ga.client.user.gamecircles.GameCircleTopicMessageActivity
+flag:
+
+com.yiyou.ga.client.user.gamecircles.GameCircleActivity-->com.yiyou.ga.client.user.gamecircles.GameCircleSearchActivity
+flag:
+
+com.yiyou.ga.client.gamecircles.TopGameActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.user.setting.FloatVoiceActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.member.star.GuildMemberStarDetailActivity-->com.yiyou.ga.client.web.TTWebViewActivity
+flag:
+
+com.yiyou.ga.client.group.interest.InterestGroupRecommendActivity-->com.yiyou.ga.client.group.interest.InterestGroupSearchActivity
+flag:
+
+com.yiyou.ga.client.group.interest.InterestGroupRecommendActivity-->com.yiyou.ga.client.group.interest.InterestGroupCreateActivity
+flag:
+
+com.yiyou.ga.client.guild.group.GuildGroupManageListActivity-->com.yiyou.ga.client.guild.group.EditGuildGroupManageListActivity
+flag:
+
+com.yiyou.ga.client.guild.home.GuildGroupListActivity-->com.yiyou.ga.client.guild.group.GuildGroupCreateActivity
+flag:
+
+com.yiyou.ga.client.user.setting.SettingActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.plugin.PluginNavigationActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.guild.member.detail.GuildMemberDetailActivity-->com.yiyou.ga.client.guild.rights.manage.GuildPositionEditActivity
+flag:
+
+com.yiyou.ga.client.guild.member.detail.GuildMemberDetailActivity-->com.yiyou.ga.client.guild.member.title.GuildMemberTitleSetActivity
+flag:
+
+com.yiyou.ga.client.group.temp.TempGroupAddActivity-->com.yiyou.ga.client.chatting.ChattingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.yiyou.ga.client.user.info.UserInfoActivity-->com.yiyou.ga.client.user.info.UserHeadIconActivity
+flag:
+
+com.yiyou.ga.client.user.info.UserInfoActivity-->com.yiyou.ga.client.user.info.UserInfoQrcodeActivity
+flag:
+
+com.yiyou.ga.client.user.info.UserInfoActivity-->com.yiyou.ga.client.user.info.ModifySigntureActivity
+flag:
+
+com.yiyou.ga.client.user.info.UserInfoActivity-->com.yiyou.ga.client.BlankActivity
+flag:
+
+com.yiyou.ga.client.contact.SearchContactActivity-->com.yiyou.ga.client.home.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

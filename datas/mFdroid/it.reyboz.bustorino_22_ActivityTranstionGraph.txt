@@ -1,0 +1,15 @@
+it.reyboz.bustorino.ActivityFavorites-->it.reyboz.bustorino.ActivityMain
+flag:FLAG_ACTIVITY_PREVIOUS_IS_TOP  finish
+
+it.reyboz.bustorino.ActivityFavorites-->it.reyboz.bustorino.ActivityMain
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+it.reyboz.bustorino.ActivityMain-->it.reyboz.bustorino.ActivityMain
+flag:
+
+it.reyboz.bustorino.ActivityMain-->it.reyboz.bustorino.ActivityFavorites
+flag:
+
+it.reyboz.bustorino.ActivityMain-->it.reyboz.bustorino.ActivityAbout
+flag:
+

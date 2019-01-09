@@ -1,0 +1,6 @@
+app.MainActivity-->app.SolutionActivity
+flag:
+
+app.MainActivity-->app.AccountActivity
+flag:
+

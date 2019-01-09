@@ -1,0 +1,6 @@
+disasterAlert.PDC.activities.MainActivity-->disasterAlert.PDC.activities.LoginActivity
+flag:finish
+
+disasterAlert.PDC.activities.LoginActivity-->disasterAlert.PDC.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

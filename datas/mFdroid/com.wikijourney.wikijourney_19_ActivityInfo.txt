@@ -1,0 +1,6 @@
+#MAIN
+activity:com.wikijourney.wikijourney.HomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

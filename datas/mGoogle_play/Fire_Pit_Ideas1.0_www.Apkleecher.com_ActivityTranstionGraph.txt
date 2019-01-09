@@ -1,0 +1,15 @@
+.FirePitIdeas-->com.zalebox.fire.pit.ideas.FirePitIdeasGallery1
+flag:
+
+.FirePitIdeas-->com.zalebox.fire.pit.ideas.FirePitIdeasGallery2
+flag:
+
+.FirePitIdeas-->com.zalebox.fire.pit.ideas.FirePitIdeasGallery3
+flag:
+
+.FirePitIdeas-->com.zalebox.fire.pit.ideas.FirePitIdeasGallery4
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

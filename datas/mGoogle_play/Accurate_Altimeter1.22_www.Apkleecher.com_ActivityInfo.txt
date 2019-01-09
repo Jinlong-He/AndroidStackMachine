@@ -1,0 +1,14 @@
+#MAIN
+activity:com.arlabsmobile.altimeter.AltimeterActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.arlabsmobile.altimeter.CreditsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

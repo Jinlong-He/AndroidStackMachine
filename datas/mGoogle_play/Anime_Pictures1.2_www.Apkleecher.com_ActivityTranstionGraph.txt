@@ -1,0 +1,9 @@
+com.solodroid.materialwallpaper.Activity_CategoryItem-->com.solodroid.materialwallpaper.SlideImageActivity
+flag:
+
+com.solodroid.materialwallpaper.SlideImageActivity-->com.solodroid.materialwallpaper.SetAsWallpaperActivity
+flag:
+
+com.solodroid.materialwallpaper.SlideImageActivity-->com.solodroid.materialwallpaper.PinchZoom
+flag:
+

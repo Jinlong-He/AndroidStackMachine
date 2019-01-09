@@ -1,0 +1,10 @@
+#MAIN
+activity:com.termux.window.TermuxFloatActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.termux.window.TermuxFloatPermissionActivity
+LaunchMode:std
+TaskAffinity:null
+

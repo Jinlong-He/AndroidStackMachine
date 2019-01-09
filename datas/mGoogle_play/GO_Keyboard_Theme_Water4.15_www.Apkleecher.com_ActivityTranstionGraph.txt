@@ -1,0 +1,6 @@
+com.jiubang.commerce.chargelocker.component.web.ChargeWebActivity-->com.jiubang.commerce.chargelocker.component.web.ChargeWebActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.jiubang.commerce.ad.h5.H5AdActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

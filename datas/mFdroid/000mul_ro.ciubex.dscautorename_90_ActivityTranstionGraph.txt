@@ -1,0 +1,6 @@
+ro.ciubex.dscautorename.activity.SettingsActivity-->ro.ciubex.dscautorename.activity.InfoActivity
+flag:
+
+ro.ciubex.dscautorename.activity.SettingsActivity-->ro.ciubex.dscautorename.activity.RenameDlgActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+

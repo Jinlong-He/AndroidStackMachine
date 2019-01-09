@@ -1,0 +1,15 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+westport.andrewirwin.com.drivesafe.infoPage-->westport.andrewirwin.com.drivesafe.MainActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->westport.andrewirwin.com.drivesafe.MainActivity
+flag:
+
+westport.andrewirwin.com.drivesafe.MainActivity-->westport.andrewirwin.com.drivesafe.infoPage
+flag:
+
+westport.andrewirwin.com.drivesafe.MainActivity-->westport.andrewirwin.com.drivesafe.MainActivity
+flag:
+

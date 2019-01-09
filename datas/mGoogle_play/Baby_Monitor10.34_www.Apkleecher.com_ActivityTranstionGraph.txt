@@ -1,0 +1,6 @@
+com.weebly.faebir.safebabymontrial.MainActivity-->com.weebly.faebir.safebabymontrial.SettingsActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.weebly.faebir.safebabymontrial.MainActivity-->com.weebly.faebir.safebabymontrial.SettingsFragmentActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+

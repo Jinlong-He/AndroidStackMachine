@@ -1,0 +1,3 @@
+com.MarcosDiez.shareviahttp.activities.MainActivity-->com.MarcosDiez.shareviahttp.activities.SendFileActivity
+flag:
+

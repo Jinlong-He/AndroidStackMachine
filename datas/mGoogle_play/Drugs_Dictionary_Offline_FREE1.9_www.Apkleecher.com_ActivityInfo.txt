@@ -1,0 +1,14 @@
+#MAIN
+activity:DrugsListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:DrugsDisplayerActivity
+LaunchMode:std
+TaskAffinity:null
+

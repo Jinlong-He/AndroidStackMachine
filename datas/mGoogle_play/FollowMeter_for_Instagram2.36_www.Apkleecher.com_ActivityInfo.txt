@@ -1,0 +1,14 @@
+#MAIN
+activity:com.beakerapps.instameter2.LogInActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.beakerapps.instameter2.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

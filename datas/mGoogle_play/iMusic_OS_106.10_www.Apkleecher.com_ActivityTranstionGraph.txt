@@ -1,0 +1,6 @@
+imusicpro.mediaplayer.applemusicios.screensiosmusic.PlaylistIMusicActivity-->imusicpro.mediaplayer.applemusicios.screensiosmusic.MusicEffects
+flag:
+
+imusicpro.mediaplayer.applemusicios.screensiosmusic.SettingIMusicActivity-->imusicpro.mediaplayer.applemusicios.screensiosmusic.PlaylistIMusicActivity
+flag:
+

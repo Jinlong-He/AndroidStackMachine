@@ -1,0 +1,33 @@
+com.riatech.cookbook.Activities.SplashScreen-->com.riatech.cookbook.Activities.MainActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.riatech.cookbook.Activities.MainActivity
+flag:
+
+com.thefinestartist.ytpa.YouTubePlayerActivity-->com.riatech.cookbook.Activities.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.riatech.cookbook.Activities.MainActivity-->com.riatech.cookbook.Activities.MainActivity
+flag:
+
+com.riatech.cookbook.Activities.MainActivity-->com.riatech.cookbook.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.riatech.cookbook.Activities.MainActivity-->com.thefinestartist.ytpa.YouTubePlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.riatech.cookbook.Activities.MainActivity-->com.riatech.cookbook.imageSubmission.MainActivity
+flag:
+
+com.riatech.cookbook.Activities.MainActivity-->com.riatech.cookbook.Activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.riatech.cookbook.imageSubmission.MainActivity-->com.riatech.cookbook.imageSubmission.ImageUploadActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

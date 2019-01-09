@@ -1,0 +1,60 @@
+com.facebook.unity.FBUnityCreateGameGroupActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.facebook.unity.AppInviteDialogActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.facebook.unity.FBUnityDialogsActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.yousician.YousicianPlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.MessageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.inapp.WebActivity-->com.yousician.YousicianPlayerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.pushwoosh.inapp.WebActivity-->com.yousician.YousicianPlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.unity.FBUnityJoinGameGroupActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.prime31.WebViewActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.pushwoosh.internal.utils.PermissionActivity-->com.pushwoosh.internal.utils.PermissionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.unity.FBUnityGameRequestActivity-->com.yousician.YousicianPlayerActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.pushwoosh.richpages.RichPageActivity-->com.yousician.YousicianPlayerActivity
+flag:finish
+

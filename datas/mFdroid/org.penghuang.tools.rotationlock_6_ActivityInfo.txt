@@ -1,0 +1,6 @@
+#MAIN
+activity:.RotationLockActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

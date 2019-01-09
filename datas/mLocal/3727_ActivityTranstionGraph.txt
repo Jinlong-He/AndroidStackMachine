@@ -1,0 +1,12 @@
+com.dxbox.app.activity.DXBoxActivity-->com.dxbox.app.activity.SplashScreenActivity
+flag:
+
+com.dxbox.app.activity.DXBoxActivity-->com.dxbox.app.update.DownloadAskActivity
+flag:
+
+com.dxbox.app.activity.DXBoxActivity-->com.dxbox.app.update.DownloadAskActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.dxbox.app.update.DownloadAskActivity-->com.dxbox.app.activity.DXBoxActivity
+flag:finish
+

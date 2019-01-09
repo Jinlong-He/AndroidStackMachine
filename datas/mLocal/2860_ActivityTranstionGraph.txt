@@ -1,0 +1,6 @@
+com.shijia.zzbus.MainActivity-->com.shijia.zzbus.other.Car_info
+flag:
+
+com.shijia.zzbus.HomeActivity-->com.shijia.zzbus.MainActivity
+flag:finish
+

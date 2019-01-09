@@ -1,0 +1,27 @@
+com.surgeapp.grizzly.activity.OnboardingActivity-->com.surgeapp.grizzly.activity.MainActivity
+flag:finish
+
+com.surgeapp.grizzly.activity.WelcomeActivity-->com.surgeapp.grizzly.activity.MainActivity
+flag:
+
+com.surgeapp.grizzly.activity.FingerprintActivity-->com.surgeapp.grizzly.activity.MainActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.surgeapp.grizzly.activity.FilterLocationPickerActivity-->com.surgeapp.grizzly.activity.MainActivity
+flag:
+
+com.surgeapp.grizzly.activity.FilterActivity-->com.surgeapp.grizzly.activity.MainActivity
+flag:
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.surgeapp.grizzly.activity.MainActivity
+flag:
+
+com.surgeapp.grizzly.activity.ChatActivity-->com.surgeapp.grizzly.activity.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

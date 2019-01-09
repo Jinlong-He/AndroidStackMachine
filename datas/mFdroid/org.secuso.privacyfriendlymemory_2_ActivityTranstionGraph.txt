@@ -1,0 +1,12 @@
+org.secuso.privacyfriendlymemory.ui.MainActivity-->org.secuso.privacyfriendlymemory.ui.MemoActivity
+flag:
+
+org.secuso.privacyfriendlymemory.ui.MainActivity-->org.secuso.privacyfriendlymemory.ui.navigation.HelpActivity
+flag:
+
+org.secuso.privacyfriendlymemory.ui.SplashActivity-->org.secuso.privacyfriendlymemory.ui.MainActivity
+flag:finish
+
+org.secuso.privacyfriendlymemory.ui.MemoActivity-->org.secuso.privacyfriendlymemory.ui.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

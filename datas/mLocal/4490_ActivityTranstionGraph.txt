@@ -1,0 +1,3 @@
+.SplashActivity-->com.sinovoice.hcicloudasrandtts.MainActivity
+flag:finish
+

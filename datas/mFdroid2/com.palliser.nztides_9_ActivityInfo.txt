@@ -1,0 +1,6 @@
+#MAIN
+activity:com.palliser.nztides.NZTides
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

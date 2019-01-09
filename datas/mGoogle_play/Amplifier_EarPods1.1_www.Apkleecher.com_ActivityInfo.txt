@@ -1,0 +1,14 @@
+#MAIN
+activity:neondeveloper.com.earamplifier.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:neondeveloper.com.earamplifier.EqualizeerActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:neondeveloper.com.earamplifier.PrivacyActivity
+LaunchMode:std
+TaskAffinity:null
+

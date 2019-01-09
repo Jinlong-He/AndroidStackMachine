@@ -1,0 +1,21 @@
+com.mopub.mobileads.MoPubActivity-->com.paltalk.tinychat.activities.MainActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+io.intercom.android.sdk.activities.IntercomPostActivity-->com.paltalk.tinychat.activities.MainActivity
+flag:
+
+io.intercom.android.sdk.activities.IntercomNoteActivity-->com.paltalk.tinychat.activities.MainActivity
+flag:
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.paltalk.tinychat.activities.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.mopub.mobileads.MraidActivity-->com.paltalk.tinychat.activities.MainActivity
+flag:
+

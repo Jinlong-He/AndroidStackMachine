@@ -1,0 +1,9 @@
+com.happysun.lovepicture.ActSplash-->com.happysun.lovepicture.ActHome
+flag:finish
+
+com.happysun.lovepicture.ActHome-->com.happysun.lovepicture.ActFeature
+flag:
+
+com.happysun.lovepicture.ActFeature-->com.happysun.lovepicture.ActHome
+flag:finish
+

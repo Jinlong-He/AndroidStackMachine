@@ -1,0 +1,27 @@
+com.winterbird.tomato.MainActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.baidu.autoupdatesdk.ConfirmDialoigActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.winterbird.tomato.WebBrowserActivity-->com.winterbird.tomato.InitActivity
+flag:finish
+
+cn.jpush.android.ui.PushActivity-->com.winterbird.tomato.DealPushActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.winterbird.tomato.DealPushActivity-->com.winterbird.tomato.WebBrowserActivity
+flag:
+
+com.winterbird.tomato.InitActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.winterbird.tomato.LoginActivity-->com.winterbird.tomato.RegisterActivity
+flag:
+
+com.winterbird.tomato.LoginActivity-->com.winterbird.tomato.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

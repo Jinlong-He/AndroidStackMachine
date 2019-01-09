@@ -1,0 +1,15 @@
+com.simplemobiletools.musicplayer.activities.SettingsActivity-->com.simplemobiletools.commons.activities.CustomizationActivity
+flag:
+
+com.simplemobiletools.musicplayer.activities.SplashActivity-->com.simplemobiletools.musicplayer.activities.MainActivity
+flag:finish
+
+com.simplemobiletools.musicplayer.activities.MainActivity-->com.simplemobiletools.musicplayer.activities.SettingsActivity
+flag:
+
+com.simplemobiletools.musicplayer.activities.MainActivity-->com.simplemobiletools.commons.activities.AboutActivity
+flag:
+
+com.simplemobiletools.commons.activities.AboutActivity-->com.simplemobiletools.commons.activities.LicenseActivity
+flag:
+

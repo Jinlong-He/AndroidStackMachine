@@ -1,0 +1,12 @@
+com.xray.scanner.simulator.joke.pro.SelectActivity-->com.xray.scanner.simulator.joke.pro.ScanCameraActivity
+flag:
+
+com.ironsource.mobilcore.InterstitialVideoActivity-->com.ironsource.mobilcore.InterstitialVideoActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.xray.scanner.simulator.joke.pro.ScanCameraActivity-->com.xray.scanner.simulator.joke.pro.ResultActivity
+flag:finish
+
+com.xray.scanner.simulator.joke.pro.MainActivity-->com.xray.scanner.simulator.joke.pro.SelectActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.smartpcx.diccionario.VentanaPrincipal
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.smartpcx.diccionario.Principal
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

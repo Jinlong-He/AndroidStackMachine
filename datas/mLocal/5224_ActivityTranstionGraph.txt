@@ -1,0 +1,93 @@
+com.janyun.jyou.watch.activity.CameraActivity-->com.umeng.qq.tencent.AuthActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.janyun.jyou.watch.activity.setting.SettingRemindSettingActivity-->com.janyun.jyou.watch.activity.setting.SettingEditDetail
+flag:
+
+com.tencent.android.tpush.XGPushActivity-->com.umeng.qq.tencent.AuthActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tencent.android.tpush.XGPushActivity-->com.umeng.qq.tencent.AuthActivity
+flag:finish
+
+com.janyun.jyou.watch.activity.AuthActivity-->com.umeng.qq.tencent.AuthActivity
+flag:
+
+com.janyun.rank.MainRankActivity-->com.janyun.rank.StepTimeActivity
+flag:
+
+com.janyun.rank.MainRankActivity-->com.janyun.rank.HBDescribeActivity
+flag:
+
+com.umeng.qq.tencent.AuthActivity-->com.umeng.qq.tencent.AuthActivity
+flag:finish
+
+com.umeng.qq.tencent.AuthActivity-->com.umeng.qq.tencent.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.janyun.jyou.watch.activity.setting.SettingUserInfoActivity-->com.janyun.jyou.watch.activity.setting.SettingChangeUserInfo
+flag:
+
+com.jd.jdadsdk.JDAdBrowser-->com.jd.jdadsdk.JDAdBrowser
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.jd.jdadsdk.JDAdBrowser-->com.jd.jdadsdk.JDAdBrowser
+flag:
+
+com.jd.jdadsdk.JDAdBrowser-->com.umeng.qq.tencent.AuthActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.jd.jdadsdk.JDAdBrowser-->com.umeng.qq.tencent.AuthActivity
+flag:
+
+com.janyun.jyou.watch.activity.login.LoginActivity-->com.janyun.jyou.watch.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.janyun.jyou.watch.activity.login.LoginActivity-->com.janyun.jyou.watch.activity.login.ForgetActivity
+flag:
+
+com.janyun.jyou.watch.activity.setting.AboutJanYouActivity-->com.umeng.qq.tencent.AuthActivity
+flag:
+
+com.janyun.jyou.watch.activity.login.ForgetActivity-->com.janyun.jyou.watch.activity.login.LoginActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.qq.tencent.AssistActivity-->com.umeng.qq.tencent.AuthActivity
+flag:finish
+
+com.janyun.jyou.watch.activity.MainActivity-->com.janyun.rank.MainRankActivity
+flag:
+
+com.janyun.jyou.watch.activity.MainActivity-->com.janyun.gps.GPSMainActivity
+flag:
+
+com.janyun.jyou.watch.activity.MainActivity-->com.janyun.jyou.watch.service.androidService.JYouNormalDataSyncService
+flag:
+
+com.janyun.jyou.watch.activity.MainActivity-->com.janyun.jyou.watch.activity.login.LoginActivity
+flag:
+
+com.janyun.jyou.watch.activity.MainActivity-->com.umeng.qq.tencent.AuthActivity
+flag:
+
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.janyun.jyou.watch.activity.WelcomeActivity-->com.janyun.jyou.watch.activity.login.LoginActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.janyun.jyou.watch.activity.WelcomeActivity-->com.janyun.jyou.watch.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.janyun.jyou.watch.activity.WelcomeActivity-->com.janyun.jyou.watch.activity.NavigationActivity
+flag:finish
+
+cn.jpush.android.ui.PushActivity-->com.umeng.qq.tencent.AuthActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.janyun.jyou.watch.activity.MainChooseActivity-->com.janyun.jyou.watch.activity.login.LoginActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.janyun.jyou.watch.activity.MainChooseActivity-->com.janyun.jyou.watch.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

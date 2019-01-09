@@ -1,0 +1,6 @@
+#MAIN
+activity:md5746447f22ffc51340628c6774d4d6939.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

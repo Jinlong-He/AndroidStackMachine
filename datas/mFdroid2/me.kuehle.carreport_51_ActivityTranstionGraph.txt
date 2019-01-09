@@ -1,0 +1,15 @@
+me.kuehle.carreport.gui.FirstStartActivity-->me.kuehle.carreport.gui.DataDetailActivity
+flag:
+
+me.kuehle.carreport.gui.FirstStartActivity-->me.kuehle.carreport.gui.PreferencesActivity
+flag:
+
+com.dropbox.core.android.AuthActivity-->com.dropbox.core.android.AuthActivity
+flag:
+
+me.kuehle.carreport.gui.MainActivity-->com.dropbox.core.android.AuthActivity
+flag:
+
+me.kuehle.carreport.gui.MainActivity-->me.kuehle.carreport.gui.FirstStartActivity
+flag:
+

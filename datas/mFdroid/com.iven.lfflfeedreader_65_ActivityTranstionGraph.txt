@@ -1,0 +1,12 @@
+com.iven.lfflfeedreader.mainact.SplashActivity-->com.iven.lfflfeedreader.mainact.ListActivity
+flag:finish
+
+com.iven.lfflfeedreader.infoact.InfoActivity-->com.iven.lfflfeedreader.mainact.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.iven.lfflfeedreader.mainact.ListActivity-->com.iven.lfflfeedreader.infoact.AboutActivity
+flag:
+
+com.iven.lfflfeedreader.mainact.ListActivity-->com.iven.lfflfeedreader.infoact.InfoActivity
+flag:
+

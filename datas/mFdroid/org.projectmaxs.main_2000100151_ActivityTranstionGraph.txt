@@ -1,0 +1,9 @@
+.activities.MainActivity-->org.projectmaxs.main.activities.Modules
+flag:
+
+.activities.MainActivity-->org.projectmaxs.main.activities.ImportExportSettings
+flag:
+
+.activities.MainActivity-->org.projectmaxs.main.activities.AdvancedSettings
+flag:
+

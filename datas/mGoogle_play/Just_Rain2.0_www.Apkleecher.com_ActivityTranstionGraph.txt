@@ -1,0 +1,3 @@
+com.ansca.corona.CoronaActivity-->com.ansca.corona.CameraActivity
+flag:
+

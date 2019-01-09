@@ -1,0 +1,12 @@
+io.github.tjg1.nori.SearchActivity-->io.github.tjg1.nori.ImageViewerActivity
+flag:
+
+io.github.tjg1.nori.SearchActivity-->io.github.tjg1.nori.SearchActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+io.github.tjg1.nori.SearchActivity-->io.github.tjg1.nori.DonationActivity
+flag:
+
+io.github.tjg1.nori.SearchActivity-->io.github.tjg1.nori.SettingsActivity
+flag:
+

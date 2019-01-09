@@ -1,0 +1,10 @@
+#MAIN
+activity:com.byagowi.persiancalendar.view.activity.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.byagowi.persiancalendar.view.activity.AthanActivity
+launchMode:stp
+TaskAffinity:null
+

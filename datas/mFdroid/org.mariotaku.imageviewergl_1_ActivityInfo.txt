@@ -1,0 +1,4 @@
+activity:org.mariotaku.gallery3d.app.ImageViewerGLActivity
+launchMode:stp
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:.ShareMyPosition
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.ShareByWidgetConfigure
+LaunchMode:std
+TaskAffinity:null
+

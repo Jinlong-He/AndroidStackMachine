@@ -1,0 +1,15 @@
+com.tobykurien.webapps.activity.WebAppActivity-->com.tobykurien.webapps.activity.WebAppActivity
+flag:
+
+com.tobykurien.webapps.activity.WebAppActivity-->com.tobykurien.webapps.activity.Preferences
+flag:
+
+com.tobykurien.webapps.activity.WebAppActivity-->com.tobykurien.webapps.activity.WebAppActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.tobykurien.webapps.activity.MainActivity-->com.tobykurien.webapps.activity.Preferences
+flag:
+
+com.tobykurien.webapps.activity.MainActivity-->com.tobykurien.webapps.activity.WebAppActivity
+flag:
+

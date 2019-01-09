@@ -1,0 +1,9 @@
+ca.mimic.apphangar.Settings-->ca.mimic.apphangar.Instructions
+flag:
+
+ca.mimic.apphangar.Settings-->ca.mimic.apphangar.AppsWidgetSettings
+flag:
+
+ca.mimic.apphangar.Settings-->ca.mimic.apphangar.StatsWidgetSettings
+flag:
+

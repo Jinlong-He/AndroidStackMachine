@@ -1,0 +1,10 @@
+#MAIN
+activity:.BacterialVaginosisSymptoms
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.phonegap.DroidGap
+LaunchMode:std
+TaskAffinity:null
+

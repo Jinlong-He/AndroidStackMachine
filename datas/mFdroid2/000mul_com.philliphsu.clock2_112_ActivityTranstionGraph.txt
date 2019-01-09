@@ -1,0 +1,3 @@
+com.philliphsu.clock2.MainActivity-->com.philliphsu.clock2.settings.SettingsActivity
+flag:
+

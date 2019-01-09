@@ -1,0 +1,14 @@
+#MAIN
+activity:de.kromke.andreas.unpopmusicplayerfree.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:de.kromke.andreas.unpopmusicplayerfree.TracksOfAlbumActivity
+launchMode:stp
+TaskAffinity:null
+
+activity:de.kromke.andreas.unpopmusicplayerfree.UserSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+activity:de.k3b.android.activity.ACalendar2IcsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.k3b.android.activity.ACalendar2IcalActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.k3b.android.activity.Ics2ACalendarActivity
+LaunchMode:std
+TaskAffinity:null
+

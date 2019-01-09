@@ -1,0 +1,6 @@
+#MAIN
+activity:org.michaelevans.nightmodeenabler.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

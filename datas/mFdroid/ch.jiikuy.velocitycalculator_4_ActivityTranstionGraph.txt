@@ -1,0 +1,6 @@
+ch.jiikuy.velocitycalculator.MainActivity-->ch.jiikuy.velocitycalculator.CalculateActivity
+flag:
+
+ch.jiikuy.velocitycalculator.MainActivity-->ch.jiikuy.velocitycalculator.CalibrationActivity
+flag:
+

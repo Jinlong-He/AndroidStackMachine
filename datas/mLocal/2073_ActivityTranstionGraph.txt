@@ -1,0 +1,1203 @@
+cn.buding.martin.activity.RedirectActivity-->cn.buding.martin.activity.RedirectActivity
+flag:finish
+
+cn.buding.martin.activity.oil.pay.OilOrderFailActivity-->cn.buding.martin.activity.SafePointActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.OilOrderFailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilOrderFailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.membership.SpecialCarDriverProofScreenshotActivity-->cn.buding.martin.activity.violation.vehicle.SelectLicenceDialog
+flag:
+
+cn.buding.martin.activity.account.membership.SpecialCarDriverProofScreenshotActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.membership.SpecialCarDriverProofScreenshotActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.membership.SpecialCarDriverProofScreenshotActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.settings.ResetTradePasswordActivity-->cn.buding.martin.activity.account.settings.SetTradePasswordActivity
+flag:
+
+cn.buding.martin.activity.account.settings.ResetTradePasswordActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.settings.ResetTradePasswordActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.station.OilStationDetailActivity-->cn.buding.martin.activity.account.login.LoginDispatchActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationDetailActivity-->cn.buding.martin.activity.account.membership.MyMembershipActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationDetailActivity-->cn.buding.martin.activity.oil.pay.OilEasyPayActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationDetailActivity-->cn.buding.martin.activity.oil.station.OilStationCommentActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationDetailActivity-->cn.buding.martin.activity.oil.pay.RefuelOrderActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationDetailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationDetailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.OilEasyPayActivity-->cn.buding.martin.activity.oil.pay.RefuelOrderActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilEasyPayActivity-->cn.buding.martin.activity.oil.pay.OilScannerActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilEasyPayActivity-->cn.buding.martin.activity.oil.pay.EasyPayGuideActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilEasyPayActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilEasyPayActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.ticket.TicketEditActivity-->cn.buding.martin.mvp.presenter.ChooseCityActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketEditActivity-->cn.buding.martin.mvp.presenter.ticket.TicketPayActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketEditActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketEditActivity-->cn.buding.martin.mvp.presenter.ticket.TicketCouponActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketEditActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketEditActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.GuideActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.GuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.pay.ViolationPayActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPayActivity-->cn.buding.martin.activity.violation.pay.ViolationPaySuccessActivity
+flag:finish
+
+cn.buding.martin.activity.violation.pay.ViolationPayActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPayActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.VehicleInspectionRemindActivity-->cn.buding.martin.mvp.presenter.VehicleInspectionCalculateActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInspectionRemindActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInspectionRemindActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInspectionRemindActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.paysinopec.RechargeCardOrderActivity-->cn.buding.martin.activity.oil.paysinopec.RechargeCardSuccessActivity
+flag:
+
+cn.buding.martin.activity.oil.paysinopec.RechargeCardOrderActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.paysinopec.RechargeCardOrderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.paysinopec.RechargeCardSuccessActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.paysinopec.RechargeCardSuccessActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.VehicleRemindGuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.VehicleRemindGuideActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.taillimit.AddTailLimitVehicleActivity-->cn.buding.martin.mvp.presenter.ChooseCityActivity
+flag:
+
+cn.buding.martin.activity.life.taillimit.AddTailLimitVehicleActivity-->cn.buding.martin.activity.violation.vehicle.ChooseProvinceAlias
+flag:
+
+cn.buding.martin.activity.life.taillimit.AddTailLimitVehicleActivity-->cn.buding.martin.activity.life.taillimit.TailLimitRemindActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.life.taillimit.AddTailLimitVehicleActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.taillimit.AddTailLimitVehicleActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.quote.InterestingVehicleActivity-->cn.buding.martin.activity.life.quote.QuoteModelListActivity
+flag:
+
+cn.buding.martin.activity.life.quote.InterestingVehicleActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.InterestingVehicleActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.recharge.RechargeActivity-->cn.buding.martin.activity.account.recharge.RechargeSuccessActivity
+flag:finish
+
+cn.buding.martin.activity.account.recharge.RechargeActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.recharge.RechargeActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.recharge.RechargeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.LicensePointLoginActivity-->unknown
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.mvp.presenter.LicensePointLoginActivity-->unknown
+flag:finish
+
+cn.buding.martin.mvp.presenter.LicensePointLoginActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.web.WebViewActivity-->cn.buding.martin.activity.life.article.ArticleCommentActivity
+flag:
+
+cn.buding.martin.activity.web.WebViewActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.web.WebViewActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.web.WebViewActivity-->cn.buding.martin.activity.account.login.LoginActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelOrderActivity-->cn.buding.martin.activity.account.login.LoginDispatchActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelOrderActivity-->cn.buding.martin.activity.oil.pay.RefuelCouponActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelOrderActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelOrderActivity-->cn.buding.martin.activity.oil.pay.RefuelInfoSettingActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelOrderActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelOrderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.ShakeActivity-->cn.buding.martin.activity.life.onroad.ShakeResultActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  
+
+cn.buding.martin.activity.life.onroad.ShakeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.ShakeActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteModelListActivity-->cn.buding.martin.mvp.presenter.VehicleQuoteInquiryActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteModelListActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteModelListActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.membership.DriverInfoActivity-->cn.buding.martin.activity.account.membership.SpecialCarDriverProofScreenshotActivity
+flag:
+
+cn.buding.martin.activity.account.membership.DriverInfoActivity-->cn.buding.martin.activity.violation.vehicle.VehicleLicenceActivity
+flag:
+
+cn.buding.martin.activity.account.membership.DriverInfoActivity-->cn.buding.martin.activity.violation.vehicle.ChooseProvinceAlias
+flag:
+
+cn.buding.martin.activity.account.membership.DriverInfoActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.membership.DriverInfoActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.OilScannerActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilScannerActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.OilScannerActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentUnavailableActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentUnavailableActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.pay.PaymentUnavailableActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleQuoteInquiryActivity-->cn.buding.martin.activity.life.quote.InterestingVehicleActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleQuoteInquiryActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleQuoteInquiryActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.widget.CommentDialog-->cn.buding.martin.activity.account.login.LoginActivity
+flag:
+
+cn.buding.martin.widget.CommentDialog-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.UpdateAddrDialog-->cn.buding.martin.activity.life.onroad.UpdateAddrDetailDialog
+flag:
+
+cn.buding.martin.activity.life.onroad.UpdateAddrDialog-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.UpdateAddrDialog-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.OnRoadStartPage-->cn.buding.martin.activity.life.onroad.TimeLineActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.OnRoadStartPage-->cn.buding.martin.activity.life.recorder.DrvRecorder
+flag:
+
+cn.buding.martin.activity.life.onroad.OnRoadStartPage-->cn.buding.martin.activity.life.onroad.OnRoadGuideActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.OnRoadStartPage-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.OnRoadStartPage-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.OnRoadStartPage-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.AddVehicleActivity-->cn.buding.martin.activity.violation.vio.ViolationListActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.AddVehicleActivity-->cn.buding.martin.activity.violation.vehicle.AlarmDialogActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.AddVehicleActivity-->cn.buding.martin.activity.violation.vehicle.ChooseProvinceAlias
+flag:
+
+cn.buding.martin.activity.violation.vehicle.AddVehicleActivity-->cn.buding.martin.mvp.presenter.ChooseCityActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.AddVehicleActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.AddVehicleActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.AddVehicleActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInspectionCalculateActivity-->cn.buding.martin.mvp.presenter.VehicleInspectionRemindActivity
+flag:finish
+
+cn.buding.martin.mvp.presenter.VehicleInspectionCalculateActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInspectionCalculateActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.LoginActivity-->cn.buding.martin.activity.account.login.RegistActivity
+flag:
+
+cn.buding.martin.activity.account.login.LoginActivity-->cn.buding.martin.activity.account.login.ResetPasswordActivity
+flag:
+
+cn.buding.martin.activity.account.login.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.LoginActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.UpdateAddrDetailDialog-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.UpdateAddrDetailDialog-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.EditInsuranceActivity-->cn.buding.martin.mvp.presenter.VehicleInsuranceRemindActivity
+flag:finish
+
+cn.buding.martin.mvp.presenter.EditInsuranceActivity-->cn.buding.martin.mvp.presenter.InsuranceCompanyListActivity
+flag:
+
+cn.buding.martin.mvp.presenter.EditInsuranceActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.EditInsuranceActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.membership.MyMembershipActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.membership.MyMembershipActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.membership.MyMembershipActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.activity.violation.pay.VehicleOwnerInfoActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.activity.violation.vehicle.EditVehicleActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.mvp.presenter.MainActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.activity.violation.vio.ViolationShareActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.activity.violation.pay.PaymentUnavailableActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.activity.violation.pay.ViolationPaymentActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationListActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.recorder.DrvRecorder-->cn.buding.martin.activity.life.recorder.DrvRecorderGallery
+flag:
+
+cn.buding.martin.activity.life.recorder.DrvRecorder-->cn.buding.martin.activity.life.recorder.DrvRecorderPreference
+flag:
+
+cn.buding.martin.activity.life.recorder.DrvRecorder-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.recorder.DrvRecorder-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.RefuelInfoSettingActivity-->cn.buding.martin.activity.violation.vehicle.ChooseProvinceAlias
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelInfoSettingActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.RefuelInfoSettingActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.ChangeLoginPasswordActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.ChangeLoginPasswordActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.balance.BalanceDetailActivity-->cn.buding.martin.activity.account.recharge.RechargeActivity
+flag:
+
+cn.buding.martin.activity.account.balance.BalanceDetailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.balance.BalanceDetailActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.balance.BalanceDetailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.emergency.EmergencyPhoneActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.emergency.EmergencyPhoneActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.settings.importwechat.ImportWechatBalance-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.settings.importwechat.ImportWechatBalance-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.StationAddressDetailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.StationAddressDetailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.ticketsmap.TicketsMapActivity-->cn.buding.martin.activity.violation.vio.ShareDialogActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+cn.buding.martin.activity.life.ticketsmap.TicketsMapActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.ticketsmap.TicketsMapActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.UpdateModeDialog-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.UpdateModeDialog-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.CarQuoteOrderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.quote.CarQuoteOrderActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ChooseCityActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.ChooseCityActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilOrderSuccessActivity-->cn.buding.martin.activity.SafePointActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.OilOrderSuccessActivity-->cn.buding.martin.activity.oil.pay.GoodsOrderSuccessActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilOrderSuccessActivity-->cn.buding.martin.activity.account.settings.SetTradePasswordActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilOrderSuccessActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilOrderSuccessActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.OilOrderSuccessActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.RemindSwitchActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.RemindSwitchActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.RemindSwitchActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.SplashActivity-->cn.buding.martin.mvp.presenter.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  
+
+cn.buding.martin.activity.SplashActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.SplashActivity-->cn.buding.martin.activity.RedirectActivity
+flag:finish
+
+cn.buding.martin.activity.SplashActivity-->cn.buding.martin.activity.GuideActivity
+flag:finish
+
+cn.buding.martin.activity.SplashActivity-->cn.buding.martin.mvp.presenter.ChooseCityActivity
+flag:
+
+cn.buding.martin.activity.SplashActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.article.ArticleGuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.article.ArticleGuideActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.mvp.presenter.ChooseCityActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.account.settings.FeedbackActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.account.settings.ResetTradePasswordActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.account.settings.SetTradePasswordActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.account.settings.importwechat.ImportWechatBalance
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.account.settings.AboutUsActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.account.login.LoginDispatchActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.settings.MoreActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.recorder.DrvRecorderGallery-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.recorder.DrvRecorderGallery-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.settings.FeedbackActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.settings.FeedbackActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentVehicleActivity-->cn.buding.martin.activity.account.login.LoginDispatchActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentVehicleActivity-->cn.buding.martin.activity.violation.pay.ViolationPaymentActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentVehicleActivity-->cn.buding.martin.activity.violation.pay.PaymentUnavailableActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentVehicleActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentVehicleActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.PaymentVehicleActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.message.MessageBoxActivity-->cn.buding.martin.activity.account.message.MessageListActivity
+flag:
+
+cn.buding.martin.activity.account.message.MessageBoxActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.AlarmDialogActivity-->cn.buding.martin.activity.violation.vehicle.AddVehicleActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.AlarmDialogActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.recorder.DrvRecorderPreference-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.MainActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.MainActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.pay.VehicleOwnerInfoActivity-->cn.buding.martin.activity.violation.vehicle.VehicleLicenceActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.VehicleOwnerInfoActivity-->cn.buding.martin.activity.violation.vehicle.IdCardActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.VehicleOwnerInfoActivity-->cn.buding.martin.mvp.presenter.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.pay.VehicleOwnerInfoActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.VehicleOwnerInfoActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.InsuranceCompanyListActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.InsuranceCompanyListActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.CompleteVehicleActivity-->cn.buding.martin.activity.violation.vehicle.ChooseVehicleBrandCompatActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.CompleteVehicleActivity-->cn.buding.martin.activity.violation.vehicle.VehicleLicenceActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.CompleteVehicleActivity-->cn.buding.martin.activity.violation.vio.ViolationListActivity
+flag:finish
+
+cn.buding.martin.activity.violation.vehicle.CompleteVehicleActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.CompleteVehicleActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.CompleteVehicleActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.web.YouZanWebViewActivity-->cn.buding.martin.activity.account.login.LoginDispatchActivity
+flag:
+
+cn.buding.martin.activity.web.YouZanWebViewActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.web.YouZanWebViewActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.RecommendationActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.RecommendationActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.EditVioAddressActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vio.EditVioAddressActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.DriverLicenseInquiryPointActivity-->cn.buding.martin.mvp.presenter.CollectDriverLicenseActivity
+flag:finish
+
+cn.buding.martin.mvp.presenter.DriverLicenseInquiryPointActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.DriverLicenseInquiryPointActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.DriverLicenseInquiryPointActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.dev.DevActivity-->unknown
+flag:
+
+cn.buding.martin.activity.dev.DevActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.dev.DevActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.dev.DevTestWebviewActivity-->cn.buding.martin.activity.web.VideoSupportWebViewActivity
+flag:
+
+cn.buding.martin.activity.dev.DevTestWebviewActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.dev.DevTestWebviewActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.recharge.RechargeSuccessActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.recharge.RechargeSuccessActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleCustomRemindDetailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.VehicleCustomRemindDetailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.ConfirmRefuelOrderActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.ConfirmRefuelOrderActivity-->cn.buding.martin.activity.SafePointActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.ConfirmRefuelOrderActivity-->cn.buding.martin.activity.oil.pay.OilOrderSuccessActivity
+flag:finish
+
+cn.buding.martin.activity.oil.pay.ConfirmRefuelOrderActivity-->cn.buding.martin.activity.oil.pay.OilOrderFailActivity
+flag:finish
+
+cn.buding.martin.activity.oil.pay.ConfirmRefuelOrderActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.ConfirmRefuelOrderActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.station.OilStationAddressDetailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationAddressDetailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.OnRoadFeedbackActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.OnRoadFeedbackActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.ChooseVehicleBrandCompatActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.ChooseVehicleBrandCompatActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationCommentActivity-->cn.buding.martin.widget.CommentDialog
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationCommentActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationCommentActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.TimeLineGuideActivity-->cn.buding.martin.activity.life.onroad.OppoGuideActivity
+flag:finish
+
+cn.buding.martin.activity.account.login.BindOrAlterAccountActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.login.BindOrAlterAccountActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.BindOrAlterAccountActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.IdCardActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.IdCardActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleRemindActivity-->cn.buding.martin.mvp.presenter.VehicleInspectionRemindActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleRemindActivity-->cn.buding.martin.mvp.presenter.VehicleInspectionCalculateActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleRemindActivity-->cn.buding.martin.mvp.presenter.VehicleInsuranceRemindActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleRemindActivity-->cn.buding.martin.mvp.presenter.EditInsuranceActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleRemindActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.SafePointActivity-->unknown
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketPayActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketPayActivity-->cn.buding.martin.mvp.presenter.ticket.TickPaySuccessActivity
+flag:finish
+
+cn.buding.martin.mvp.presenter.ticket.TicketPayActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TicketPayActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.EasyPayGuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.EasyPayGuideActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentGuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentGuideActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationsActivity-->cn.buding.martin.mvp.presenter.OilStationMessageListActivity
+flag:
+
+cn.buding.martin.activity.oil.station.OilStationsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.station.OilStationsActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TickPaySuccessActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TickPaySuccessActivity-->cn.buding.martin.activity.SafePointActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.ticket.TickPaySuccessActivity-->cn.buding.martin.mvp.presenter.ticket.TicketEditActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.buding.martin.mvp.presenter.ticket.TickPaySuccessActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.ticket.TickPaySuccessActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->cn.buding.martin.mvp.presenter.ChooseCityActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->cn.buding.martin.activity.violation.vio.ViolationListActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->cn.buding.martin.activity.violation.vehicle.VehicleLicenceActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->cn.buding.martin.activity.violation.vehicle.ChooseProvinceAlias
+flag:
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->cn.buding.martin.activity.violation.vehicle.ChooseVehicleBrandCompatActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.EditVehicleActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.login.RegistActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.login.RegistActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.RegistActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.PreviewPhotoActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.PreviewPhotoActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.login.ConfirmPhoneAccountInfoActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.login.ConfirmPhoneAccountInfoActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.ConfirmPhoneAccountInfoActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.dev.DevShowDbTablesActivity-->cn.buding.martin.activity.dev.DevShowTableContentsActivity
+flag:
+
+cn.buding.martin.activity.dev.DevShowDbTablesActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.settings.AboutUsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.settings.AboutUsActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.article.ArticleDetailActivity-->cn.buding.martin.widget.CommentDialog
+flag:
+
+cn.buding.martin.activity.life.article.ArticleDetailActivity-->cn.buding.martin.activity.life.article.ArticleCommentActivity
+flag:
+
+cn.buding.martin.activity.life.article.ArticleDetailActivity-->cn.buding.martin.activity.account.login.LoginActivity
+flag:
+
+cn.buding.martin.activity.life.article.ArticleDetailActivity-->cn.buding.martin.mvp.presenter.MainActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+cn.buding.martin.activity.life.article.ArticleDetailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.article.ArticleDetailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.pay.ViolationPaySuccessActivity-->cn.buding.martin.mvp.presenter.MyOrderActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaySuccessActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaySuccessActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaySuccessActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.TakePhotoActivity-->cn.buding.martin.activity.violation.vehicle.PreviewPhotoActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.TakePhotoActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInsuranceRemindActivity-->cn.buding.martin.mvp.presenter.EditInsuranceActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInsuranceRemindActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInsuranceRemindActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.VehicleInsuranceRemindActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.article.ArticleCommentActivity-->cn.buding.martin.widget.CommentDialog
+flag:
+
+cn.buding.martin.activity.life.article.ArticleCommentActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.article.ArticleCommentActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.taillimit.TailLimitRemindActivity-->cn.buding.martin.activity.life.taillimit.AddTailLimitVehicleActivity
+flag:
+
+cn.buding.martin.activity.life.taillimit.TailLimitRemindActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.taillimit.TailLimitRemindActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.CollectDriverLicenseActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.CollectDriverLicenseActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.dev.DevDirectoryActivity-->cn.buding.martin.activity.dev.DevShowDbTablesActivity
+flag:
+
+cn.buding.martin.activity.dev.DevDirectoryActivity-->cn.buding.martin.activity.dev.DevXmlActivity
+flag:
+
+cn.buding.martin.activity.dev.DevDirectoryActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.dev.DevDirectoryActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.settings.SetTradePasswordActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.settings.SetTradePasswordActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.station.NoviceTaskActivity-->cn.buding.martin.activity.account.recharge.RechargeActivity
+flag:
+
+cn.buding.martin.activity.oil.station.NoviceTaskActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.login.AlterPhoneOrWeixinActivity-->cn.buding.martin.activity.account.login.ConfirmPhoneAccountInfoActivity
+flag:
+
+cn.buding.martin.activity.account.login.AlterPhoneOrWeixinActivity-->cn.buding.martin.activity.account.login.BindOrAlterAccountActivity
+flag:
+
+cn.buding.martin.activity.account.login.AlterPhoneOrWeixinActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.login.AlterPhoneOrWeixinActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.MyOrderActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.MyOrderActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.account.message.MessageListActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.account.message.MessageListActivity-->cn.buding.martin.activity.account.message.MessageDetails
+flag:
+
+cn.buding.martin.activity.account.message.MessageListActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteActivity-->cn.buding.martin.activity.life.quote.QuoteGarageActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.AddVehicleGuideActivity-->cn.buding.martin.activity.violation.vehicle.AddVehicleActivity
+flag:finish
+
+cn.buding.martin.activity.AddVehicleGuideActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.AddVehicleGuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.SelectLicenceDialog-->cn.buding.martin.activity.violation.vehicle.TakePhotoActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.SelectLicenceDialog-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.SelectLicenceDialog-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.OnRoadGuideActivity-->cn.buding.martin.activity.life.onroad.OnRoadStartPage
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.OnRoadGuideActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.OnRoadGuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.mvp.presenter.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.activity.violation.vio.EditVioAddressActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.activity.violation.pay.PaymentUnavailableActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.activity.violation.pay.ViolationPaymentActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.activity.violation.vio.ViolationListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.activity.violation.vio.ShareDialogActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vio.ViolationDetailActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.GoodsOrderSuccessActivity-->cn.buding.martin.activity.SafePointActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.oil.pay.GoodsOrderSuccessActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.oil.pay.GoodsOrderSuccessActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.alipay.sdk.auth.AuthActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentActivity-->cn.buding.martin.activity.violation.pay.ViolationPaymentGuideActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentActivity-->cn.buding.martin.mvp.presenter.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentActivity-->cn.buding.martin.activity.violation.pay.ViolationCouponActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentActivity-->cn.buding.martin.activity.violation.pay.VehicleOwnerInfoActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.pay.ViolationPaymentActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.mvp.presenter.OilStationMessageListActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.mvp.presenter.OilStationMessageListActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteGarageActivity-->cn.buding.martin.mvp.presenter.VehicleQuoteInquiryActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteGarageActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.quote.QuoteGarageActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.DrivingDetailsActivity-->cn.buding.martin.activity.life.onroad.OnRoadFeedbackActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.DrivingDetailsActivity-->cn.buding.martin.activity.life.onroad.UpdateAddrDialog
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+cn.buding.martin.activity.life.onroad.DrivingDetailsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.life.onroad.DrivingDetailsActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.DrivingDetailsActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->cn.buding.martin.activity.life.onroad.TimeLineGuideActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->cn.buding.martin.activity.life.onroad.ShakeActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->cn.buding.martin.activity.life.onroad.OnRoadFeedbackActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->cn.buding.martin.activity.life.recorder.DrvRecorder
+flag:
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->cn.buding.martin.activity.life.onroad.OnRoadStartPage
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->cn.buding.martin.activity.web.WebViewActivity
+flag:
+
+cn.buding.martin.activity.life.onroad.TimeLineActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.violation.vehicle.VehicleLicenceActivity-->cn.buding.martin.activity.violation.vehicle.SelectLicenceDialog
+flag:
+
+cn.buding.martin.activity.violation.vehicle.VehicleLicenceActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+
+cn.buding.martin.activity.violation.vehicle.VehicleLicenceActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.LoginDispatchActivity-->unknown
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  finish
+
+cn.buding.martin.activity.account.login.LoginDispatchActivity-->unknown
+flag:finish
+
+cn.buding.martin.activity.account.login.LoginDispatchActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.buding.martin.activity.account.login.LoginDispatchActivity-->cn.buding.martin.activity.RedirectActivity
+flag:
+

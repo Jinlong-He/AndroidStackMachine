@@ -1,0 +1,14 @@
+#MAIN
+activity:krasilnikov.alexey.cryptopass.v8.StartActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:krasilnikov.alexey.cryptopass.v8.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:krasilnikov.alexey.cryptopass.v14.StartActivity
+LaunchMode:std
+TaskAffinity:null
+

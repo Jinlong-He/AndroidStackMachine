@@ -1,0 +1,147 @@
+com.dramafever.large.offline.playback.OfflineVideoActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.offline.playback.OfflineVideoActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.seriesbyactor.SeriesByActorActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.seriesbyactor.SeriesByActorActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.browse.BrowseDetailActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.browse.BrowseDetailActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.zendesk.sdk.support.ViewArticleActivity-->com.dramafever.large.activity.DeepLinkActivity
+flag:
+
+com.zendesk.sdk.support.ViewArticleActivity-->com.dramafever.large.activity.LaunchActivity
+flag:
+
+com.zendesk.sdk.support.ViewArticleActivity-->com.zendesk.sdk.support.ViewArticleActivity
+flag:
+
+com.dramafever.large.forceupgrade.ForceUpgradeActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.forceupgrade.ForceUpgradeActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.myaccount.MyAccountActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.dramafever.large.activity.LaunchActivity
+flag:
+
+com.zendesk.sdk.support.SupportActivity-->com.dramafever.large.activity.LaunchActivity
+flag:
+
+com.zendesk.sdk.support.SupportActivity-->com.zendesk.sdk.requests.RequestActivity
+flag:
+
+com.zendesk.sdk.support.SupportActivity-->com.zendesk.sdk.feedback.ui.ContactZendeskActivity
+flag:
+
+com.dramafever.large.history.HistoryActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.history.HistoryActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.actors.ActorsActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.actors.ActorsActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.search.SearchActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.search.SearchActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.zendesk.sdk.requests.RequestActivity-->com.zendesk.sdk.requests.RequestActivity
+flag:
+
+com.zendesk.sdk.requests.RequestActivity-->com.zendesk.sdk.feedback.ui.ContactZendeskActivity
+flag:
+
+com.dramafever.large.video.VideoActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.video.VideoActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.dramafever.large.home.HomeActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.home.HomeActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.bootstrap.RunBootstrapActivity-->com.dramafever.large.activity.LaunchActivity
+flag:
+
+com.dramafever.large.activity.DeepLinkActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.activity.DeepLinkActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.activity.NotLoggedInActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.activity.LaunchActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.premium.ManagedProductActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.premium.ManagedProductActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.offline.WatchOfflineActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.offline.WatchOfflineActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.watchlist.WatchlistActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.watchlist.WatchlistActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.chromecast.activity.CastControllerActivity-->com.dramafever.large.activity.LaunchActivity
+flag:
+
+com.rhythmone.ad.sdk.RhythmOneAdActivity-->com.dramafever.large.activity.DeepLinkActivity
+flag:
+
+com.rhythmone.ad.sdk.RhythmOneAdActivity-->com.rhythmone.ad.sdk.RhythmOneAdActivity
+flag:
+
+com.dramafever.large.browse.LoadBrowseActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.zendesk.sdk.feedback.ui.ContactZendeskActivity-->com.zendesk.sdk.feedback.ui.ContactZendeskActivity
+flag:
+
+com.dramafever.large.premium.PremiumActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.premium.PremiumActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+
+com.dramafever.large.series.SeriesActivity-->com.dramafever.large.activity.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.dramafever.large.series.SeriesActivity-->com.dramafever.large.activity.LaunchActivity
+flag:finish
+

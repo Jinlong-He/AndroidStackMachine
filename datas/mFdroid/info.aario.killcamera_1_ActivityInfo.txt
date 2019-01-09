@@ -1,0 +1,6 @@
+#MAIN
+activity:info.aario.killcamera.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

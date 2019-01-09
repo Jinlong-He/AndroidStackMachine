@@ -1,0 +1,12 @@
+com.android.inputmethod.latin.setup.SetupActivity-->com.android.inputmethod.latin.setup.SetupWizardActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.android.inputmethod.latin.setup.SetupWizardActivity-->com.android.inputmethod.latin.settings.SettingsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP  
+
+com.android.inputmethod.latin.setup.SetupWizardActivity-->com.android.inputmethod.latin.setup.SetupWizardActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.inputmethod.latin.permissions.PermissionsActivity-->com.android.inputmethod.latin.permissions.PermissionsActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+

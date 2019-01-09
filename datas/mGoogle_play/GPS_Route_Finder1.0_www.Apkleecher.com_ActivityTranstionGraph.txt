@@ -1,0 +1,6 @@
+com.snaptools.gps.routefinder.Menu-->com.snaptools.gps.routefinder.NearActivity
+flag:
+
+com.snaptools.gps.routefinder.Menu-->com.snaptools.gps.routefinder.GridViewExampleActivity
+flag:
+

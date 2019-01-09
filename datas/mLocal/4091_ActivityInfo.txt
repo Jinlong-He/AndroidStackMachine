@@ -1,0 +1,6 @@
+#MAIN
+activity:com.Dean.skinPackage.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

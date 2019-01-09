@@ -1,0 +1,3 @@
+com.kdmfxsgg.novel.wxapi.WXEntryActivity-->com.readtech.hmreader.common.base.MainActivity_
+flag:
+

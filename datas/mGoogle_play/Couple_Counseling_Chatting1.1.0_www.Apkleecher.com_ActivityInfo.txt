@@ -1,0 +1,14 @@
+#MAIN
+activity:Couples
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.plugin.gcm.PushHandlerActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.appplant.cordova.plugin.localnotification.ReceiverActivity
+LaunchMode:sit
+TaskAffinity:null
+

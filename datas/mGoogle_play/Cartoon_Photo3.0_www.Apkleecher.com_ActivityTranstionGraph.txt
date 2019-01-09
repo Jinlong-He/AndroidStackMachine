@@ -1,0 +1,36 @@
+com.gamebrain.cartoon.VideoActivity-->com.gamebrain.cartoon.ImageviewActivity
+flag:
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:
+
+com.gamebrain.cartoon.PhotoFilterActivity-->com.gamebrain.cartoon.CameraActivity
+flag:
+
+com.gamebrain.cartoon.PhotoFilterActivity-->com.gamebrain.cartoon.ImageviewActivity
+flag:
+
+com.gamebrain.cartoon.PhotoFilterActivity-->com.gamebrain.cartoon.VideoActivity
+flag:
+
+com.gamebrain.cartoon.PhotoFilterActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.gamebrain.cartoon.ImageviewActivity-->com.gamebrain.cartoon.ImageviewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.gamebrain.cartoon.CameraActivity-->com.gamebrain.cartoon.VideoActivity
+flag:
+
+com.gamebrain.cartoon.CameraActivity-->com.gamebrain.cartoon.ImageviewActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.gamebrain.cartoon.SDCardImagesActivity-->com.gamebrain.cartoon.ImageviewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

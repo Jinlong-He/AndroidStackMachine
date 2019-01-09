@@ -1,0 +1,10 @@
+#MAIN
+activity:com.ljezny.pencilcamera.lib.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.ljezny.pencilcamera.lib.PencilCameraActivity
+LaunchMode:std
+TaskAffinity:null
+

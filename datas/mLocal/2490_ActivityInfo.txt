@@ -1,0 +1,10 @@
+activity:com.ctrip.izuche.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+
+#MAIN
+activity:com.ctrip.izuche.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

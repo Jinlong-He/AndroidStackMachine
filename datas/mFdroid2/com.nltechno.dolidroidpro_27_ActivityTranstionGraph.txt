@@ -1,0 +1,9 @@
+com.nltechno.dolidroidpro.MainActivity-->com.nltechno.dolidroidpro.SecondActivity
+flag:
+
+com.nltechno.dolidroidpro.MainActivity-->com.nltechno.dolidroidpro.AboutActivity
+flag:
+
+com.nltechno.dolidroidpro.SecondActivity-->com.nltechno.dolidroidpro.AboutActivity
+flag:
+

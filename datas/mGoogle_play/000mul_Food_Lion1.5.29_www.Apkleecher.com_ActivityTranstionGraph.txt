@@ -1,0 +1,15 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.foodlion.mobile.MainActivity
+flag:
+
+com.worklight.wlclient.ui.UIActivity-->com.foodlion.mobile.MainActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.gigya.socialize.android.login.providers.WebLoginActivity-->com.foodlion.mobile.MainActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.gigya.socialize.android.ui.HostActivity-->com.gigya.socialize.android.ui.HostActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

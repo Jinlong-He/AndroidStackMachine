@@ -1,0 +1,9 @@
+com.crazyhitty.chdev.ks.munch.ui.activities.ArticleActivity-->com.crazyhitty.chdev.ks.munch.ui.activities.HomeActivity
+flag:finish
+
+com.crazyhitty.chdev.ks.munch.ui.activities.SplashActivity-->unknown
+flag:
+
+com.crazyhitty.chdev.ks.munch.ui.activities.HomeActivity-->unknown
+flag:
+

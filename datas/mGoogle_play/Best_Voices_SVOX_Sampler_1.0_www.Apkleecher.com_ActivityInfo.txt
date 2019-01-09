@@ -1,0 +1,10 @@
+#MAIN
+activity:.MainTabActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.VoicesActivity
+LaunchMode:std
+TaskAffinity:null
+

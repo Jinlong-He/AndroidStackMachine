@@ -1,0 +1,9 @@
+com.gordonqiu.MainActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.photoselector.ui.PhotoSelectorActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.gordonqiu.AboutActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+

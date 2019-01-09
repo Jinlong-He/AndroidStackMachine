@@ -1,0 +1,12 @@
+com.dhqsolutions.funnyphoto.EditFrames-->com.dhqsolutions.funnyphoto.Results
+flag:finish
+
+com.dhqsolutions.funnyphoto.EditFrames-->com.dhqsolutions.funnyphoto.Welcome
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dhqsolutions.funnyphoto.Results-->com.dhqsolutions.funnyphoto.Welcome
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.dhqsolutions.funnyphoto.Welcome-->com.dhqsolutions.funnyphoto.EditFrames
+flag:
+

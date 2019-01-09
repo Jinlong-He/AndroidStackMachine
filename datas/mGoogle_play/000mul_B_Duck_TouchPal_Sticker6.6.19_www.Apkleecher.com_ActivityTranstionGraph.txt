@@ -1,0 +1,15 @@
+com.cootek.smartinputv5.sticker.keyboard_sticker_dummy.LauncherActivity-->com.cootek.smartinputv5.sticker.keyboard_sticker_dummy.ApplyActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.cootek.smartinputv5.sticker.keyboard_sticker_dummy.ApplyActivity-->com.cootek.smartinputv5.sticker.keyboard_sticker_dummy.RecommendedActivity
+flag:
+
+com.cootek.smartinputv5.sticker.keyboard_sticker_dummy.ApplyActivity-->com.cloudtech.ads.view.InnerWebLandingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.cootek.smartinputv5.sticker.keyboard_sticker_dummy.ApplyActivity-->com.cloudtech.ads.view.InnerWebLandingActivity
+flag:
+
+com.yandex.mobile.ads.AdActivity-->com.yandex.mobile.ads.AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

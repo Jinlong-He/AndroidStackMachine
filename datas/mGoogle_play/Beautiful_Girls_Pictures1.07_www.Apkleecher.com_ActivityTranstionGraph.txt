@@ -1,0 +1,9 @@
+com.sowar.jamilat.SplashActivity-->com.sowar.jamilat.MainActivity
+flag:finish
+
+com.sowar.jamilat.MainActivity-->com.sowar.jamilat.MainActivity
+flag:finish
+
+com.sowar.jamilat.MainActivity-->com.sowar.jamilat.AlbumViewActivity
+flag:
+

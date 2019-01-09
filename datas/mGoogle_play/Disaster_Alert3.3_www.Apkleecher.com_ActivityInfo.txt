@@ -1,0 +1,14 @@
+#MAIN
+activity:disasterAlert.PDC.activities.LoginActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:disasterAlert.PDC.activities.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.facebook.LoginActivity
+LaunchMode:std
+TaskAffinity:null
+

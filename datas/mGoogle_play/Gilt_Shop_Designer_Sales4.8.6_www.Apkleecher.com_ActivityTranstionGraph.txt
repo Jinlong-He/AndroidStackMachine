@@ -1,0 +1,48 @@
+com.gilt.android.sales.SaleDetailsActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+com.gilt.android.category.ShopByCategoryActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+com.gilt.android.search.ui.SearchActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.gilt.android.stores.StoresActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+com.gilt.android.login.LoginActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.gilt.android.brand.ui.BrandActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+com.gilt.android.brand.ui.BrandActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.gilt.android.checkout.CheckoutReceiptActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.gilt.android.category.CategoryDetailsActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+io.card.payment.CardIOActivity-->io.card.payment.DataEntryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NO_HISTORY  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.gilt.android.product.ui.pdp.ProductDetailActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+com.gilt.android.city.CityOfferActivity-->com.gilt.android.util.deeplink.AppDeepLinkActivity
+flag:
+
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

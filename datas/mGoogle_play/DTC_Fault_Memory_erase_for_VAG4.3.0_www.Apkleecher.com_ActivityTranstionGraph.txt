@@ -1,0 +1,12 @@
+com.bluetooth.vagerasedtcall.MainActivity-->com.bluetooth.vagerasedtcall.BluetoothDeviceActivity
+flag:
+
+com.bluetooth.vagerasedtcall.MainActivity-->com.bluetooth.vagerasedtcall.ECUListActivity
+flag:
+
+com.bluetooth.vagerasedtcall.MainActivity-->com.bluetooth.vagerasedtcall.PreferencesActivity
+flag:
+
+com.bluetooth.vagerasedtcall.ECUListActivity-->com.bluetooth.vagerasedtcall.DtcListActivity
+flag:
+

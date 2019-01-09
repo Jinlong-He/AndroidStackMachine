@@ -1,0 +1,6 @@
+#MAIN
+activity:gomokuActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

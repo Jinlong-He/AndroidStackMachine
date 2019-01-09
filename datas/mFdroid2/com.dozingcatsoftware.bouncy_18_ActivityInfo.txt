@@ -1,0 +1,14 @@
+#MAIN
+activity:.BouncyActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:AboutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:BouncyPreferences
+LaunchMode:std
+TaskAffinity:null
+

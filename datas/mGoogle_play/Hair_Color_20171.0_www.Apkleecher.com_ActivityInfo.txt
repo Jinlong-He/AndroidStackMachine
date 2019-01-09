@@ -1,0 +1,14 @@
+#MAIN
+activity:haircolor2017
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.haircolor2017.alfdigital.AdsActivity
+LaunchMode:std
+TaskAffinity:null
+

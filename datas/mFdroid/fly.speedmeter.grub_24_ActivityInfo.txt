@@ -1,0 +1,14 @@
+#MAIN
+activity:fly.speedmeter.grub.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:fly.speedmeter.grub.Settings
+LaunchMode:std
+TaskAffinity:null
+
+activity:android.support.v7.widget.TestActivity
+LaunchMode:std
+TaskAffinity:null
+

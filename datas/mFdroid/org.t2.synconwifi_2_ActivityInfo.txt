@@ -1,0 +1,14 @@
+#MAIN
+activity:org.t2.synconwifi.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.t2.synconwifi.AccountActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.t2.synconwifi.SsidActivity
+LaunchMode:std
+TaskAffinity:null
+

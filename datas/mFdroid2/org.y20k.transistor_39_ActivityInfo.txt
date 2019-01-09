@@ -1,0 +1,14 @@
+#MAIN
+activity:org.y20k.transistor.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:org.y20k.transistor.InfosheetActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.y20k.transistor.PlayerActivity
+LaunchMode:std
+TaskAffinity:null
+

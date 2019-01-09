@@ -1,0 +1,12 @@
+com.microsoft.azure.engagement.reach.activity.EngagementWebAnnouncementActivity-->com.chanel.mode.core.ChanelActivity
+flag:
+
+com.microsoft.azure.engagement.reach.activity.EngagementWebAnnouncementActivity-->com.microsoft.azure.engagement.reach.activity.EngagementLoadingActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.microsoft.azure.engagement.reach.activity.EngagementPollActivity-->com.microsoft.azure.engagement.reach.activity.EngagementLoadingActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.chanel.mode.core.ChanelActivity-->com.chanel.mode.core.ChanelActivity
+flag:
+

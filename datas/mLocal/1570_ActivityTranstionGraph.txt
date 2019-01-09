@@ -1,0 +1,15 @@
+com.oozhushou.activity.MoreActivity-->com.oozhushou.activity.ToolsActivity
+flag:
+
+com.oozhushou.activity.MoreActivity-->com.oozhushou.activity.FeedbackActivity
+flag:
+
+com.oozhushou.activity.MoreActivity-->com.oozhushou.activity.AboutActivity
+flag:
+
+com.oozhushou.activity.AppOrPlgDetailActivity-->com.oozhushou.activity.CommonPluginCfgActivity
+flag:
+
+com.oozhushou.activity.AppOrPlgDetailActivity-->com.oozhushou.activity.AppOrPlgDetailActivity
+flag:
+

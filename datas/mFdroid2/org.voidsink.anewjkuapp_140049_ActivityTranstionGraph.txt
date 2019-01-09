@@ -1,0 +1,9 @@
+org.voidsink.anewjkuapp.activity.MainActivity-->org.voidsink.anewjkuapp.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+org.voidsink.anewjkuapp.activity.MainActivity-->org.voidsink.anewjkuapp.activity.SettingsActivity
+flag:
+
+org.voidsink.anewjkuapp.activity.MainActivity-->org.voidsink.anewjkuapp.activity.AboutActivity
+flag:
+

@@ -1,0 +1,6 @@
+com.startapp.android.publish.list3d.List3DActivity-->ep.jke.sf.snkj.m.MSurface
+flag:finish
+
+ep.jke.sf.snkj.dax.MainActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

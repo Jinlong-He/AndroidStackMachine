@@ -1,0 +1,6 @@
+#MAIN
+activity:.LinuxDayOSMActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

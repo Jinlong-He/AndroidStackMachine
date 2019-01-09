@@ -1,0 +1,9 @@
+com.ifeng.hospital.ui.MainActivity-->com.ifeng.hospital.ui.H5Activity
+flag:
+
+com.ifeng.hospital.ui.MainActivity-->com.ifeng.hospital.ui.NoTitleWebActivity
+flag:
+
+com.ifeng.hospital.ui.SplashActivity-->com.ifeng.hospital.ui.MainActivity
+flag:finish
+

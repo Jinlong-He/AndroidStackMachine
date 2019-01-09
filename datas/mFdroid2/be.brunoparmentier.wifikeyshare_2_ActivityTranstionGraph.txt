@@ -1,0 +1,9 @@
+be.brunoparmentier.wifikeyshare.ui.activities.WifiNetworkActivity-->be.brunoparmentier.wifikeyshare.ui.activities.SettingsActivity
+flag:
+
+be.brunoparmentier.wifikeyshare.ui.activities.WifiNetworkActivity-->be.brunoparmentier.wifikeyshare.ui.activities.ConfirmConnectToWifiNetworkActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity-->be.brunoparmentier.wifikeyshare.ui.activities.SettingsActivity
+flag:
+

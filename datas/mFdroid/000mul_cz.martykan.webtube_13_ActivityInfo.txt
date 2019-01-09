@@ -1,0 +1,10 @@
+#MAIN
+activity:cz.martykan.webtube.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:cz.martykan.webtube.NotificationCloser
+LaunchMode:std
+TaskAffinity:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:tuxpaintActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.ConfigActivity
+LaunchMode:std
+TaskAffinity:null
+

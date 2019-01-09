@@ -1,0 +1,15 @@
+com.example.mandotv2.MainActivity-->com.example.mandotv2.Inform
+flag:
+
+com.example.mandotv2.MainActivity-->com.example.mandotv2.Setting
+flag:
+
+com.example.mandotv2.SplashScreen-->com.example.mandotv2.MainActivity
+flag:finish
+
+com.example.mandotv2.SplashScreen-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+

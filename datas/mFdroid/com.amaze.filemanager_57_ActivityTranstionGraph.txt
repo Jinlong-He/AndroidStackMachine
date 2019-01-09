@@ -1,0 +1,12 @@
+com.amaze.filemanager.activities.Preferences-->com.amaze.filemanager.activities.MainActivity
+flag:finish
+
+com.amaze.filemanager.activities.MainActivity-->com.amaze.filemanager.activities.Preferences
+flag:finish
+
+com.amaze.filemanager.activities.MainActivity-->com.amaze.filemanager.activities.DbViewer
+flag:
+
+com.amaze.filemanager.activities.AboutActivity-->com.amaze.filemanager.activities.MainActivity
+flag:
+

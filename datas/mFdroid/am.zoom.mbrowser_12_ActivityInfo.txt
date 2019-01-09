@@ -1,0 +1,6 @@
+#MAIN
+activity:am.zoom.mbrowser.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

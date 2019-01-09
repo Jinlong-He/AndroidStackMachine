@@ -1,0 +1,3 @@
+no.mobitroll.kahoot.android.SplashActivity-->no.mobitroll.kahoot.android.MainActivity
+flag:finish
+

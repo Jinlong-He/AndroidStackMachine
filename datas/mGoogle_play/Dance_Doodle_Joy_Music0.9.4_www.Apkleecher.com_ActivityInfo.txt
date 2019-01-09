@@ -1,0 +1,10 @@
+#MAIN
+activity:com.drawapp.dancedoodle.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.drawapp.dancedoodle.DrawBoard
+LaunchMode:std
+TaskAffinity:null
+

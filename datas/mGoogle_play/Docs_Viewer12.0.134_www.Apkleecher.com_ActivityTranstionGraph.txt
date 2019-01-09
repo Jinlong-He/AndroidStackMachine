@@ -1,0 +1,3 @@
+com.meltingsource.DocsViewer.MainActivity-->com.meltingsource.DocsViewer.MainActivity
+flag:
+

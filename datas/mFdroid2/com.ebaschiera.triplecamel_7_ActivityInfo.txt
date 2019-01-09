@@ -1,0 +1,10 @@
+#MAIN
+activity:com.ebaschiera.triplecamel.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.ebaschiera.triplecamel.ShareActivity
+LaunchMode:std
+TaskAffinity:null
+

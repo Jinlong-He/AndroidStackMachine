@@ -1,0 +1,6 @@
+com.infokombinat.hairstyle2.MainActivity-->com.infokombinat.hairstyle2.SelectionActivity
+flag:
+
+com.infokombinat.hairstyle2.SelectionActivity-->com.infokombinat.hairstyle2.TutorialActivity
+flag:
+

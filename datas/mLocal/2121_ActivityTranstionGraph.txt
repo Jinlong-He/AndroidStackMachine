@@ -1,0 +1,6 @@
+com.andromeda.androbench2.Result-->com.andromeda.androbench2.Ranking
+flag:
+
+com.andromeda.androbench2.main-->com.andromeda.androbench2.Setting
+flag:
+

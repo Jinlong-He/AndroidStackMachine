@@ -1,0 +1,9 @@
+de.srlabs.snoopsnitch.StartupActivity-->de.srlabs.snoopsnitch.DashboardActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.srlabs.snoopsnitch.DashboardActivity-->de.srlabs.snoopsnitch.LocalMapActivity
+flag:
+
+de.srlabs.snoopsnitch.DashboardActivity-->de.srlabs.snoopsnitch.DetailChartActivity
+flag:
+

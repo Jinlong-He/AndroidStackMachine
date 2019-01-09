@@ -1,0 +1,10 @@
+#MAIN
+activity:me.dbarnett.acastus.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:me.dbarnett.acastus.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

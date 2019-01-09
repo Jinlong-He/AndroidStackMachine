@@ -1,0 +1,6 @@
+#MAIN
+activity:eu.faircode.finegeotag.ActivitySettings
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

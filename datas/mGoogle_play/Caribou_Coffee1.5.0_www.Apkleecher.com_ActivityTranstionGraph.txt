@@ -1,0 +1,66 @@
+com.cashstar.ui.activity.ImportActivity-->com.cashstar.ui.activity.DetailsImportActivity
+flag:
+
+com.cashstar.ui.activity.plastic.PlasticAmountActivity-->.CaribouCoffeeActivity
+flag:
+
+com.cashstar.ui.activity.plastic.PlasticAmountActivity-->com.cashstar.ui.activity.plastic.PlasticContactsActivity
+flag:
+
+com.cashstar.ui.activity.PaymentActivity-->com.cashstar.ui.activity.PreviewActivity
+flag:
+
+com.cashstar.ui.activity.PaymentActivity-->com.paypal.android.sdk.payments.PaymentActivity
+flag:
+
+com.cashstar.ui.activity.PaymentActivity-->com.cashstar.ui.activity.ConfirmationActivity
+flag:
+
+com.cashstar.ui.activity.plastic.PlasticConfirmationActivity-->com.cashstar.ui.activity.CashStarHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cashstar.ui.activity.plastic.PlasticConfirmationActivity-->com.cashstar.ui.activity.plastic.PlasticAmountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cashstar.ui.activity.DesignAmountActivity-->com.cashstar.ui.activity.PersonalizeCardActivity
+flag:
+
+com.cashstar.ui.activity.ContactsActivity-->com.cashstar.ui.activity.PaymentActivity
+flag:
+
+com.cashstar.ui.activity.CashStarHomeActivity-->com.cashstar.ui.activity.DesignAmountActivity
+flag:
+
+com.cashstar.ui.activity.CashStarHomeActivity-->com.cashstar.ui.activity.AddCardActivity
+flag:
+
+com.cashstar.ui.activity.CashStarHomeActivity-->com.cashstar.ui.activity.ContactsActivity
+flag:
+
+com.cashstar.ui.activity.CashStarHomeActivity-->com.cashstar.ui.activity.DetailsActivity
+flag:
+
+com.cashstar.ui.activity.ConfirmationActivity-->com.cashstar.ui.activity.DesignAmountActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cashstar.ui.activity.ConfirmationActivity-->com.cashstar.ui.activity.CashStarHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cashstar.ui.activity.PersonalizeCardActivity-->com.cashstar.ui.activity.ContactsActivity
+flag:
+
+com.cashstar.ui.activity.PersonalizeCardActivity-->.CaribouCoffeeActivity
+flag:
+
+com.cashstar.ui.activity.plastic.PlasticPaymentActivity-->com.paypal.android.sdk.payments.PaymentActivity
+flag:
+
+com.cashstar.ui.activity.plastic.PlasticPaymentActivity-->com.cashstar.ui.activity.plastic.PlasticConfirmationActivity
+flag:
+
+com.cashstar.ui.activity.plastic.PlasticContactsActivity-->com.cashstar.ui.activity.plastic.PlasticPaymentActivity
+flag:
+
+com.cashstar.ui.activity.DetailsImportActivity-->com.cashstar.ui.activity.CashStarHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

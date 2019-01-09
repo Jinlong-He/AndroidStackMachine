@@ -1,0 +1,6 @@
+#MAIN
+activity:com.emmaguy.cleanstatusbar.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

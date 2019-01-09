@@ -1,0 +1,15 @@
+joelosteen.android.phone.JOMApp.SplashActivity-->joelosteen.android.phone.JOMApp.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+joelosteen.android.phone.JOMApp.SplashActivity-->joelosteen.android.phone.JOMApp.JOMAppActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+joelosteen.android.phone.JOMApp.MainActivity-->joelosteen.android.phone.JOMApp.YouTubePlayerActivity
+flag:
+
+joelosteen.android.phone.JOMApp.MainActivity-->joelosteen.android.phone.JOMApp.VideoPlayerActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+joelosteen.android.phone.JOMApp.MainActivity-->joelosteen.android.phone.JOMApp.TutorialActivity
+flag:
+

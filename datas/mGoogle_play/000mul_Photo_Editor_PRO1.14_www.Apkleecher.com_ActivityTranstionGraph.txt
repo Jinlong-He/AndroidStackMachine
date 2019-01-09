@@ -1,0 +1,3 @@
+com.adobe.creativesdk.foundation.internal.base.AdobeTOUHandlerActivity-->com.adobe.creativesdk.foundation.internal.auth.AdobeAuthContinuableEventActivity
+flag:
+

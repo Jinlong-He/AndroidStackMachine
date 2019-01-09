@@ -1,0 +1,6 @@
+kjv.study.bible.SplashActivity-->kjv.study.bible.MainActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

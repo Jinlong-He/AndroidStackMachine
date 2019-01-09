@@ -1,0 +1,9 @@
+com.mde.potdroid.LauncherActivity-->com.mde.potdroid.BoardActivity
+flag:finish
+
+com.mde.potdroid.LauncherActivity-->com.mde.potdroid.BookmarkActivity
+flag:finish
+
+com.mde.potdroid.LauncherActivity-->com.mde.potdroid.ForumActivity
+flag:finish
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.yunduo.nighttools.activity.TransitActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.yunduo.nighttools.activity.GuideActivity
+launchMode:stp
+TaskAffinity:null
+

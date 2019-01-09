@@ -1,0 +1,6 @@
+andrei.brusentcov.eye_exercises.free.MainActivity-->andrei.brusentcov.smartads.SmartinterstitialActivity
+flag:
+
+andrei.brusentcov.eye_exercises.AlarmActivity-->unknown
+flag:finish
+

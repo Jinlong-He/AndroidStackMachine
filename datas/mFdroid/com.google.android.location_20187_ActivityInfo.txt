@@ -1,0 +1,14 @@
+#MAIN
+activity:org.microg.nlp.ui.SettingsLauncherActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.microg.nlp.ui.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.microg.nlp.api.MPermissionHelperActivity
+LaunchMode:std
+TaskAffinity:null
+

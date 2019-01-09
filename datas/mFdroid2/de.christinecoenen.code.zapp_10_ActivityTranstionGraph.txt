@@ -1,0 +1,9 @@
+de.christinecoenen.code.zapp.ChannelDetailActivity-->de.christinecoenen.code.zapp.ChannelSelectionActivity
+flag:
+
+de.christinecoenen.code.zapp.AboutActivity-->de.christinecoenen.code.zapp.ChannelSelectionActivity
+flag:
+
+de.christinecoenen.code.zapp.ChannelListActivity-->de.christinecoenen.code.zapp.ChannelSelectionActivity
+flag:
+

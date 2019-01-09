@@ -1,0 +1,15 @@
+com.github.yeriomin.yalpstore.CategoryAppsActivity-->com.github.yeriomin.yalpstore.CategoryAppsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.github.yeriomin.yalpstore.DirectDownloadActivity-->com.github.yeriomin.yalpstore.DetailsActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.yeriomin.yalpstore.SearchResultActivity-->com.github.yeriomin.yalpstore.DetailsActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.yeriomin.yalpstore.DetailsActivity-->com.github.yeriomin.yalpstore.DetailsActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.yeriomin.yalpstore.AboutActivity-->com.github.yeriomin.yalpstore.DetailsActivity
+flag:
+

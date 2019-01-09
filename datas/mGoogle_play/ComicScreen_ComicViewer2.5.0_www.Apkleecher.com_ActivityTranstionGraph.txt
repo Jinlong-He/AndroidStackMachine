@@ -1,0 +1,27 @@
+com.viewer.comicscreen.ExtLinkActivity-->com.viewer.comicscreen.ImgActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.viewer.comicscreen.ImgActivity-->com.viewer.comicscreen.CropActivity
+flag:
+
+com.viewer.comicscreen.ImgActivity-->com.viewer.comicscreen.ImgActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+
+com.viewer.comicscreen.SettingActivity-->com.viewer.comicscreen.AboutActivity
+flag:
+
+com.viewer.comicscreen.SettingActivity-->com.viewer.comicscreen.ListActivity
+flag:finish
+
+com.viewer.comicscreen.ListActivity-->com.viewer.comicscreen.ImgActivity
+flag:
+
+com.viewer.comicscreen.ListActivity-->com.viewer.comicscreen.DialogInfoActivity
+flag:
+
+com.viewer.comicscreen.ListActivity-->com.viewer.comicscreen.SettingActivity
+flag:finish
+
+com.viewer.comicscreen.ShareLinkActivity-->com.viewer.comicscreen.ListActivity
+flag:finish
+

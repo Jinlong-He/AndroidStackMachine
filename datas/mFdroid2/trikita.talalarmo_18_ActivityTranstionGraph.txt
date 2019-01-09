@@ -1,0 +1,3 @@
+trikita.talalarmo.MainActivity-->trikita.talalarmo.SettingsActivity
+flag:
+

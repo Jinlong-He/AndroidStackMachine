@@ -1,0 +1,6 @@
+#MAIN
+activity:com.pjuu.droidotter.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

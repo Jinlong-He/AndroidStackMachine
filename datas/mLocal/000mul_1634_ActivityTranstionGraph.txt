@@ -1,0 +1,12 @@
+com.baidu.rom.flash.ui.main.MainFlashActivity-->com.baidu.rom.flash.ui.main.ManageDownloadActivity
+flag:
+
+com.baidu.rom.flash.ui.ROMDownloadingActivity-->com.baidu.rom.flash.lightrom.ui.FakeLauncherActivity
+flag:
+
+com.baidu.rom.flash.ui.ROMSelectionActivity-->com.baidu.rom.flash.ui.ROMDownloadingActivity
+flag:
+
+com.baidu.rom.flash.ui.main.ManageDownloadActivity-->com.baidu.rom.flash.lightrom.ui.FakeLauncherActivity
+flag:
+

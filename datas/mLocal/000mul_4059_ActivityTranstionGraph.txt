@@ -1,0 +1,6 @@
+com.iphone.launcher.LauncherActivity-->com.iphone.launcher.LauncherActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.iphone.launcher.LauncherActivity-->com.iphone.launcher.LauncherActivity
+flag:
+

@@ -1,0 +1,9 @@
+com.kankan.tv.KankanActivity-->unknown
+flag:
+
+com.kankan.tv.homepage.MainActivity-->unknown
+flag:
+
+com.kankan.tv.homepage.StartupActivity-->com.kankan.tv.homepage.MainActivity
+flag:finish
+

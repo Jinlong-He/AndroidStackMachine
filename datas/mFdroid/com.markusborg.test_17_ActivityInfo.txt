@@ -1,0 +1,14 @@
+#MAIN
+activity:com.markusborg.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.markusborg.ui.GhostingActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.markusborg.ui.ResultsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+org.intermountainhealthcare.consumerlauncher.MainActivity-->org.intermountainhealthcare.consumerlauncher.MoreLinksActivity
+flag:
+
+org.intermountainhealthcare.consumerlauncher.MainActivity-->org.intermountainhealthcare.consumerlauncher.WebViewActivity
+flag:
+

@@ -1,0 +1,9 @@
+fr.hnit.riverferry.NextDeparture-->fr.hnit.riverferry.HelpActivity
+flag:
+
+fr.hnit.riverferry.NextDeparture-->fr.hnit.riverferry.AboutActivity
+flag:
+
+fr.hnit.riverferry.NextDeparture-->fr.hnit.riverferry.SettingsActivity
+flag:
+

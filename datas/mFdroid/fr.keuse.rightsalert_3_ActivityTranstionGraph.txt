@@ -1,0 +1,3 @@
+.activity.ApplistActivity-->fr.keuse.rightsalert.preference.RightsalertPreference
+flag:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.yubico.yubioath.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.journeyapps.barcodescanner.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

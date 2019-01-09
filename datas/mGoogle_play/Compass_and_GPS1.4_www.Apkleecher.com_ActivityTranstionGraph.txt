@@ -1,0 +1,12 @@
+cps.mmxi.smartcompass2.Compass-->cps.mmxi.smartcompass2.Compass
+flag:finish
+
+cps.mmxi.smartcompass2.Compass-->cps.mmxi.smartcompass2.Ayuda
+flag:
+
+cps.mmxi.smartcompass2.Compass-->cps.mmxi.smartcompass2.Preferencias
+flag:
+
+cps.mmxi.smartcompass2.Compass-->cps.mmxi.smartcompass2.GestorPuntos
+flag:
+

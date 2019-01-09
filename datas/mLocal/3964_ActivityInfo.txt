@@ -1,0 +1,14 @@
+#MAIN
+activity:com.mywallpaper.lolwallpaper.MainActivity1
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.mywallpaper.lolwallpaper.WallpaperInfoActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.umeng.update.UpdateDialogActivity
+LaunchMode:std
+TaskAffinity:null
+

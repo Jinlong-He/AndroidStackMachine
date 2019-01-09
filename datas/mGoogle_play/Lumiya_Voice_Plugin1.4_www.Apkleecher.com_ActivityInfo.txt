@@ -1,0 +1,4 @@
+activity:com.lumiyaviewer.lumiya.voice.VoicePermissionRequestActivity
+LaunchMode:std
+TaskAffinity:null
+

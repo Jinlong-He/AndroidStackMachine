@@ -1,0 +1,12 @@
+at.linuxtage.companion.activities.MainActivity-->at.linuxtage.companion.activities.SettingsActivity
+flag:
+
+at.linuxtage.companion.activities.TrackScheduleActivity-->at.linuxtage.companion.activities.TrackScheduleEventActivity
+flag:
+
+at.linuxtage.companion.activities.SearchResultActivity-->at.linuxtage.companion.activities.EventDetailsActivity
+flag:finish
+
+at.linuxtage.companion.activities.EventDetailsActivity-->at.linuxtage.companion.activities.TrackScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

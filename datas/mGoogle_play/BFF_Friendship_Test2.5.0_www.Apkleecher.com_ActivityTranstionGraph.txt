@@ -1,0 +1,24 @@
+dh3games.bfffriendshiptest.MainActivity-->dh3games.bfffriendshiptest.MainQuestions
+flag:
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.millennialmedia.internal.MMIntentWrapperActivity
+flag:
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:
+
+com.tapjoy.TJContentActivity-->com.tapjoy.TJContentActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+dh3games.bfffriendshiptest.End-->dh3games.bfffriendshiptest.MainActivity
+flag:
+
+dh3games.bfffriendshiptest.MainQuestions-->dh3games.bfffriendshiptest.End
+flag:
+
+dh3games.bfffriendshiptest.MainQuestions-->dh3games.bfffriendshiptest.MainActivity
+flag:
+

@@ -1,0 +1,15 @@
+com.india.onlineshoppingapp.DealsOfDayActivity-->com.india.onlineshoppingapp.CommonActivity
+flag:
+
+com.india.onlineshoppingapp.NewsActivity-->com.india.onlineshoppingapp.ReferralNewsActivity
+flag:
+
+com.india.onlineshoppingapp.MainActivity-->com.india.onlineshoppingapp.DealsOfDayActivity
+flag:
+
+com.india.onlineshoppingapp.MainActivity-->com.india.onlineshoppingapp.ReferralActivity
+flag:
+
+com.india.onlineshoppingapp.MainActivity-->com.india.onlineshoppingapp.NewsActivity
+flag:
+

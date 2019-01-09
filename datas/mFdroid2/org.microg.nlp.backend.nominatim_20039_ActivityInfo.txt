@@ -1,0 +1,10 @@
+#MAIN
+activity:org.microg.nlp.backend.nominatim.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.microg.nlp.api.MPermissionHelperActivity
+LaunchMode:std
+TaskAffinity:null
+

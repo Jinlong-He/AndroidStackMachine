@@ -1,0 +1,9 @@
+.activity.AVPhotamatePreviewActivity-->com.acoustiguide.avengers.activity.AVPhotomatePreviewEditActivity
+flag:
+
+.activity.AVPhotomatePreviewEditActivity-->com.acoustiguide.avengers.activity.AVPhotomatePreviewEditActivity
+flag:
+
+.activity.AVInterfaceActivity-->com.acoustiguide.avengers.activity.AVInterfaceActivity
+flag:
+

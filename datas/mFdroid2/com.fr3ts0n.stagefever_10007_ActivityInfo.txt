@@ -1,0 +1,10 @@
+#MAIN
+activity:com.fr3ts0n.stagefever.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

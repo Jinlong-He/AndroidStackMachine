@@ -1,0 +1,6 @@
+#MAIN
+activity:.CACertManagerActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

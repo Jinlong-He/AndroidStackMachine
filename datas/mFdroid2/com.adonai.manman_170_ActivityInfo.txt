@@ -1,0 +1,10 @@
+#MAIN
+activity:com.adonai.manman.MainPagerActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.adonai.manman.preferences.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+

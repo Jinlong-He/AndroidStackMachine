@@ -1,0 +1,3 @@
+com.vincent.drivemode.activities.MyActivity-->com.vincent.drivemode.settings.SettingsActivity
+flag:
+

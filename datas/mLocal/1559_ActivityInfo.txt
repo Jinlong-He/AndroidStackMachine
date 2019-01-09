@@ -1,0 +1,6 @@
+#MAIN
+activity:com.mmbox.xbrowser.BrowserActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

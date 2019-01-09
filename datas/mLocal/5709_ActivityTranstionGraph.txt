@@ -1,0 +1,9 @@
+.DispatchActivity-->com.duomi.ring.LauncherActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.duomi.ring.LauncherActivity-->com.duomi.ring.RMainActivity
+flag:finish
+
+com.duomi.ring.RMainActivity-->com.duomi.ring.RMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

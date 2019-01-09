@@ -1,0 +1,3 @@
+com.informaticalab.stexteditor.STextEditor-->com.informaticalab.stexteditor.SettingsActivity
+flag:
+

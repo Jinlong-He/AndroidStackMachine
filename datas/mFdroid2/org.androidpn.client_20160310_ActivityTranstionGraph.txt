@@ -1,0 +1,3 @@
+org.androidpn.client.MainActivity-->org.androidpn.client.SetPreferenceActivity
+flag:
+

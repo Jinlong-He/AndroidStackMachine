@@ -1,0 +1,6 @@
+info.datingadvice.freegaydatechatapp.MenuActivity-->info.datingadvice.freegaydatechatapp.WebViewActivity
+flag:
+
+info.datingadvice.freegaydatechatapp.MainActivity-->info.datingadvice.freegaydatechatapp.MenuActivity
+flag:
+

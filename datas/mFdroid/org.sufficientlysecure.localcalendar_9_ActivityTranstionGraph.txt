@@ -1,0 +1,9 @@
+org.sufficientlysecure.localcalendar.ui.PreferencesActivity-->org.sufficientlysecure.localcalendar.ui.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.sufficientlysecure.localcalendar.ui.MainActivity-->org.sufficientlysecure.localcalendar.ui.EditActivity
+flag:
+
+org.sufficientlysecure.localcalendar.ui.MainActivity-->org.sufficientlysecure.localcalendar.ui.PreferencesActivity
+flag:
+

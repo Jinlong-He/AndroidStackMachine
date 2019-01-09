@@ -1,0 +1,6 @@
+#MAIN
+activity:.AutoAnswerPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

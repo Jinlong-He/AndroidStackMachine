@@ -1,0 +1,12 @@
+.DiskUsage-->com.google.android.diskusage.DeleteActivity
+flag:
+
+.DiskUsage-->com.google.android.diskusage.FilterActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.SelectActivity-->unknown
+flag:
+
+.SelectActivity-->com.google.android.diskusage.ShowHideMountPointsActivity
+flag:
+

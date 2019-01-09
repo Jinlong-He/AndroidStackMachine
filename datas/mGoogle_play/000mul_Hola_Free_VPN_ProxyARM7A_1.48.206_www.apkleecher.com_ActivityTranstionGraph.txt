@@ -1,0 +1,27 @@
+.browser_activity-->org.hola.settings_activity
+flag:
+
+.browser_activity-->org.hola.translate_activity
+flag:
+
+.browser_activity-->org.hola.unblock_activity
+flag:
+
+.browser_activity-->org.hola.settings
+flag:
+
+.browser_activity-->.browser_activity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.unblock_activity-->.browser_activity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.peer_status-->org.hola.browser_activity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+float_activity-->org.hola.float_activity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+acr.browser.lightning.LicenseActivity-->.browser_activity
+flag:finish
+

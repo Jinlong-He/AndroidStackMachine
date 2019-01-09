@@ -1,0 +1,21 @@
+com.ma.viste.chicas.Menu1_chicas-->com.ma.viste.chicas.Menu2_mesa
+flag:finish
+
+com.ma.viste.chicas.Menu1_chicas-->com.ma.viste.chicas.Splash
+flag:finish
+
+com.ma.viste.chicas.Splash-->com.ma.viste.chicas.Menu1_chicas
+flag:finish
+
+com.ma.viste.chicas.Menu2_mesa-->com.ma.viste.chicas.Menu3_final
+flag:
+
+com.ma.viste.chicas.Menu2_mesa-->com.ma.viste.chicas.Menu1_chicas
+flag:finish
+
+com.ma.viste.chicas.Menu3_final-->com.ma.viste.chicas.Splash
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

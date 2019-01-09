@@ -1,0 +1,12 @@
+com.cmh_data.pdrlampa.SplashScreen-->com.cmh_data.pdrlampa.start_screen
+flag:finish
+
+com.cmh_data.pdrlampa.start_screen-->com.cmh_data.pdrlampa.MapsActivity
+flag:
+
+com.cmh_data.pdrlampa.start_screen-->com.cmh_data.pdrlampa.web_activity
+flag:
+
+com.cmh_data.pdrlampa.start_screen-->com.cmh_data.pdrlampa.LampActivity
+flag:
+

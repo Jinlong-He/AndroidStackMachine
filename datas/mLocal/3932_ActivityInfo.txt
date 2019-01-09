@@ -1,0 +1,10 @@
+#MAIN
+activity:com.appvv.v8launcher.Launcher
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:luo.zhang.ion.siyav
+LaunchMode:sit
+TaskAffinity:null
+

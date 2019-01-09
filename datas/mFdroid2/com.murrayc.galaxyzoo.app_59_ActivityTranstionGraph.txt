@@ -1,0 +1,6 @@
+com.murrayc.galaxyzoo.app.QuestionHelpActivity-->com.murrayc.galaxyzoo.app.ListActivity
+flag:
+
+com.murrayc.galaxyzoo.app.ListActivity-->unknown
+flag:
+

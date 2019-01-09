@@ -1,0 +1,14 @@
+#MAIN
+activity:com.insomniacookies.insomnia.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.adobe.phonegap.push.PushHandlerActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

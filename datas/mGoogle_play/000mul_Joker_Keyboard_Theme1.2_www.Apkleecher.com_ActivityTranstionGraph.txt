@@ -1,0 +1,15 @@
+gt.keybord.KeyBoardActivity-->gt.keybord.ThemesListActivity
+flag:
+
+gt.keybord.KeyBoardActivity-->gt.keybord.CustomeThemesActivity
+flag:
+
+gt.keybord.KeyBoardActivity-->gt.keybord.Crope
+flag:
+
+gt.keybord.CustomeThemesActivity-->gt.keybord.ThemesBackgroundActivity
+flag:
+
+gt.keybord.CustomeThemesActivity-->gt.keybord.Crope
+flag:
+

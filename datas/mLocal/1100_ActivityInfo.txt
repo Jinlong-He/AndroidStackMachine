@@ -1,0 +1,6 @@
+#MAIN
+activity:com.uzmap.pkg.EntranceActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

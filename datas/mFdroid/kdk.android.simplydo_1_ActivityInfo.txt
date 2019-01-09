@@ -1,0 +1,14 @@
+#MAIN
+activity:.SimplyDoActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.RestoreActivity
+LaunchMode:std
+TaskAffinity:null
+

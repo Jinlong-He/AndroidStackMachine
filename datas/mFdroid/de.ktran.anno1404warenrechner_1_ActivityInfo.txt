@@ -1,0 +1,14 @@
+#MAIN
+activity:de.ktran.anno1404warenrechner.views.main.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.ktran.anno1404warenrechner.views.game.GameActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.mikepenz.aboutlibraries.ui.LibsActivity
+LaunchMode:std
+TaskAffinity:null
+

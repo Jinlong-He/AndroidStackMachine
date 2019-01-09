@@ -1,0 +1,10 @@
+#MAIN
+activity:.ContractionTimer
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.settings.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

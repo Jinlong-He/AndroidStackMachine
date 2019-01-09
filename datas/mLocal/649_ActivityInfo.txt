@@ -1,0 +1,14 @@
+#MAIN
+activity:strand.app.img_editer.Img_editerActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.baidu.appx.ui.BDInnerBrowser
+LaunchMode:std
+TaskAffinity:null
+
+activity:eec.nyt.eec.omapnvf
+LaunchMode:sit
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:org.billthefarmer.melodeon.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.billthefarmer.melodeon.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

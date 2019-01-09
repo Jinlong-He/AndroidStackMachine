@@ -1,0 +1,3 @@
+com.vwp.owmini.OWMiniAtAndroid-->com.vwp.owmini.OWLMapPrefs
+flag:
+

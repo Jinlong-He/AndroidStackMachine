@@ -1,0 +1,6 @@
+com.freepay.sdk.activities.PayMainActivity-->com.freepay.sdk.activities.PaymentCardActivity
+flag:
+
+com.freepay.sdk.activities.PayEntryActivity-->com.freepay.sdk.activities.PayMainActivity
+flag:finish
+

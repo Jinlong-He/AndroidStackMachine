@@ -1,0 +1,21 @@
+.OutCallActivity-->com.mapbar.android.gpsnavi.MapViewActivity
+flag:finish
+
+com.umeng.fb.ui.FeedbackConversations-->com.umeng.fb.ui.FeedbackConversation
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversations-->com.umeng.fb.ui.SendFeedback
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversation-->com.umeng.fb.ui.SendFeedback
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.FeedbackConversation-->com.umeng.fb.ui.FeedbackConversations
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.umeng.fb.ui.SendFeedback-->com.umeng.fb.ui.FeedbackConversations
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+.MapViewActivity-->.MapViewActivity
+flag:finish
+

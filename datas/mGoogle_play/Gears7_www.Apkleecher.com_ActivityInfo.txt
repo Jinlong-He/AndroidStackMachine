@@ -1,0 +1,10 @@
+#MAIN
+activity:.GearsES2eclair
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.GearsES2eclairAbout
+LaunchMode:std
+TaskAffinity:null
+

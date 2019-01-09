@@ -1,0 +1,21 @@
+com.mentormate.android.inboxdollars.ui.activities.LoginActivity-->com.mentormate.android.inboxdollars.ui.activities.StartActivity
+flag:finish
+
+com.mentormate.android.inboxdollars.ui.activities.AutoLoginActivity-->com.mentormate.android.inboxdollars.ui.activities.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.mentormate.android.inboxdollars.ui.activities.NotificationRedirectActivity-->com.mentormate.android.inboxdollars.ui.activities.MainActivity
+flag:finish
+
+com.mentormate.android.inboxdollars.ui.activities.NotificationRedirectActivity-->com.mentormate.android.inboxdollars.ui.activities.StartActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.mentormate.android.inboxdollars.ui.activities.StartActivity-->com.mentormate.android.inboxdollars.ui.activities.LoginActivity
+flag:
+
+com.mentormate.android.inboxdollars.ui.activities.StartActivity-->com.mentormate.android.inboxdollars.ui.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mentormate.android.inboxdollars.ui.activities.StartActivity-->com.mentormate.android.inboxdollars.ui.activities.SignUpActivity
+flag:finish
+

@@ -1,0 +1,51 @@
+.ui.index.MalwareAlertActivity-->com.qihoo.mkiller.ui.index.SafeNetSettingActivity
+flag:finish
+
+.ui.index.AppEnterActivity-->com.qihoo.mkiller.ui.index.SplashScreen
+flag:finish
+
+.ui.index.LicenseActivity-->com.qihoo.mkiller.ui.index.LicenseActivity
+flag:
+
+.ui.index.ExternalScanActivity-->com.qihoo.mkiller.ui.index.AppEnterActivity
+flag:finish
+
+.ui.index.SettingActivity-->com.qihoo.mkiller.downloader.SystemUpdateDialog
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+.ui.index.SettingActivity-->com.qihoo.mkiller.downloader.SystemUpdateCheckDialog
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+.ui.index.SettingActivity-->com.qihoo.mkiller.ui.index.SuperProtectionActivity
+flag:
+
+.ui.index.SettingActivity-->com.qihoo.mkiller.ui.index.SafeNetSettingActivity
+flag:
+
+.ui.index.SettingActivity-->com.qihoo.mkiller.ui.index.sms.SMSInterceptActivity
+flag:
+
+.ui.index.SuperProtectionActivity-->com.qihoo.mkiller.ui.index.SuperProtectionFirstStepDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  
+
+com.qihoo.mkiller.downloader.ContinueDownloadDialog-->com.qihoo.mkiller.downloader.SystemUpdateDialog
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.qihoo.mkiller.downloader.ContinueDownloadDialog-->com.qihoo.mkiller.downloader.SystemUpdateCheckDialog
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.ui.index.SafeNetSettingActivity-->com.qihoo.mkiller.ui.index.OpenVPNActivity
+flag:
+
+.ui.index.FixFailureActivity-->com.qihoo.mkiller.ui.index.FixFailureActivity
+flag:
+
+.ui.index.AboutActivity-->com.qihoo.mkiller.ui.index.LicenseActivity
+flag:
+
+.ui.index.PromptActivity-->com.qihoo.mkiller.ui.index.MainActivity
+flag:finish
+
+.ui.index.PromptActivity-->com.qihoo.mkiller.ui.index.LicenseActivity
+flag:
+

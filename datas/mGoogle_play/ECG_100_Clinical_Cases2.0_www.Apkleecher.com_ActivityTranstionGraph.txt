@@ -1,0 +1,12 @@
+com.doctor.ecgclinicalcases.Main2Activity-->com.doctor.ecgclinicalcases.Visor
+flag:
+
+com.doctor.ecgclinicalcases.Main2Activity-->com.doctor.ecgclinicalcases.Main2Activity
+flag:
+
+com.doctor.ecgclinicalcases.MainActivity-->com.doctor.ecgclinicalcases.Main2Activity
+flag:
+
+com.doctor.ecgclinicalcases.MainActivity-->com.doctor.ecgclinicalcases.Visor
+flag:
+

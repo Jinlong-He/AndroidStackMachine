@@ -1,0 +1,10 @@
+#MAIN
+activity:MagiaDNI
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:Texto
+LaunchMode:std
+TaskAffinity:null
+

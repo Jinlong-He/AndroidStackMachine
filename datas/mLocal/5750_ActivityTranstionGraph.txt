@@ -1,0 +1,6 @@
+com.yiting.classic.SplashActivity-->com.yiting.classic.MainActivity
+flag:finish
+
+com.yiting.classic.ui.PlayActivity-->com.yiting.classic.MainActivity
+flag:finish
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.mobmud.facetest.GameActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.youmi.android.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

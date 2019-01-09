@@ -1,0 +1,15 @@
+com.geecko.QuickLyric.SettingsActivity-->com.geecko.QuickLyric.SettingsActivity
+flag:finish
+
+com.geecko.QuickLyric.MainActivity-->com.geecko.QuickLyric.AboutActivity
+flag:
+
+com.geecko.QuickLyric.MainActivity-->com.geecko.QuickLyric.SettingsActivity
+flag:
+
+com.geecko.QuickLyric.MainActivity-->com.geecko.QuickLyric.SearchActivity
+flag:
+
+com.geecko.QuickLyric.MainActivity-->com.geecko.QuickLyric.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+

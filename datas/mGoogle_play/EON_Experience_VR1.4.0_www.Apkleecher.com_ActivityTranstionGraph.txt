@@ -1,0 +1,12 @@
+com.eonreality.android.eemobileplayer.BrowserActivity-->com.eonreality.android.eemobileplayer.SettingsActivity
+flag:
+
+com.eonreality.android.eemobileplayer.BrowserActivity-->com.eonreality.android.eemobileplayer.DownloadActivity
+flag:
+
+com.eonreality.android.eemobileplayer.BrowserActivity-->com.eonreality.android.eonviewer.EONViewer
+flag:
+
+com.eonreality.android.eemobileplayer.DownloadActivity-->com.eonreality.android.eonviewer.EONViewer
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

@@ -1,0 +1,6 @@
+com.scores365.ui.Feedback-->com.scores365.ui.ChangeServerDataActivity
+flag:
+
+com.scores365.gameCenter.GameCenterBaseActivity-->com.scores365.ui.NotificationListActivity
+flag:finish
+

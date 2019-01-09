@@ -1,0 +1,96 @@
+com.blizzard.bma.ui.welcome.SplashActivity-->com.blizzard.bma.ui.welcome.WelcomeActivity
+flag:finish
+
+com.blizzard.bma.ui.welcome.SplashActivity-->com.blizzard.bma.ui.code.ViewCodeActivity
+flag:finish
+
+com.blizzard.bma.ui.welcome.SplashActivity-->com.blizzard.bma.ui.setup.SetupOrRestoreActivity
+flag:finish
+
+com.blizzard.bma.ui.alerts.ResetAlertActivity-->com.blizzard.bma.ui.misc.ResettingActivity
+flag:
+
+com.blizzard.bma.ui.welcome.SMSProtectSignupActivity-->com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity
+flag:
+
+com.blizzard.bma.ui.welcome.SMSProtectSignupActivity-->com.blizzard.bma.ui.restore.RestorationSuccessfulActivity
+flag:
+
+com.blizzard.bma.ui.restore.RestoreWebViewActivity-->com.blizzard.bma.ui.restore.manual.ManualRestorationActivity
+flag:
+
+com.blizzard.bma.ui.restore.RestoreWebViewActivity-->com.blizzard.bma.ui.welcome.SMSProtectSignupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blizzard.bma.ui.restore.RestoreWebViewActivity-->com.blizzard.bma.ui.restore.RestorationSuccessfulActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blizzard.bma.ui.restore.RestoreWebViewActivity-->com.blizzard.bma.ui.misc.WebErrorActivity
+flag:finish
+
+com.blizzard.bma.ui.restore.RestoreWebViewActivity-->com.blizzard.bma.ui.restore.DetachAuthenticatorActivity
+flag:finish
+
+com.blizzard.bma.ui.setup.SetupOrRestoreActivity-->com.blizzard.bma.ui.restore.RestoreWebViewActivity
+flag:
+
+com.blizzard.bma.ui.smsprotect.HaveSMSProtectActivity-->com.blizzard.bma.ui.code.ViewCodeActivity
+flag:finish
+
+com.blizzard.bma.ui.welcome.WelcomeActivity-->com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity
+flag:
+
+com.blizzard.bma.ui.welcome.WelcomeActivity-->com.blizzard.bma.ui.code.ViewCodeActivity
+flag:finish
+
+com.blizzard.bma.ui.welcome.WelcomeActivity-->com.blizzard.bma.ui.setup.SetupOrRestoreActivity
+flag:finish
+
+com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity-->com.blizzard.bma.ui.restore.RestorationSuccessfulActivity
+flag:finish
+
+com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity-->com.blizzard.bma.ui.smsprotect.HaveSMSProtectActivity
+flag:finish
+
+com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity-->com.blizzard.bma.ui.misc.WebErrorActivity
+flag:finish
+
+com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity-->com.blizzard.bma.ui.restore.RestorationSuccessfulActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity-->com.blizzard.bma.ui.code.ViewCodeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity-->com.blizzard.bma.ui.restore.DetachAuthenticatorActivity
+flag:finish
+
+com.blizzard.bma.ui.misc.HelpActivity-->com.blizzard.bma.ui.misc.HelpDetailActivity
+flag:
+
+com.blizzard.bma.ui.restore.RestorationSuccessfulActivity-->com.blizzard.bma.ui.code.ViewCodeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blizzard.bma.ui.restore.manual.ManualRestoreSuccessActivity-->com.blizzard.bma.ui.smsprotect.SMSProtectWebViewActivity
+flag:
+
+com.blizzard.bma.ui.restore.manual.ManualRestoreSuccessActivity-->com.blizzard.bma.ui.code.ViewCodeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.blizzard.bma.ui.restore.manual.ManualRestorationActivity-->com.blizzard.bma.ui.misc.WebErrorActivity
+flag:
+
+com.blizzard.bma.ui.restore.manual.ManualRestorationActivity-->com.blizzard.bma.ui.misc.ChineseVersionErrorActivity
+flag:
+
+com.blizzard.bma.ui.restore.manual.ManualRestorationActivity-->com.blizzard.bma.ui.restore.manual.RestoreActivity
+flag:
+
+com.blizzard.bma.ui.code.ViewCodeActivity-->com.blizzard.bma.ui.misc.HelpDetailActivity
+flag:
+
+com.blizzard.bma.ui.restore.manual.RestoreActivity-->com.blizzard.bma.ui.restore.manual.ManualRestoreSuccessActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.blizzard.bma.ui.misc.ResettingActivity-->com.blizzard.bma.ui.setup.SetupOrRestoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

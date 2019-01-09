@@ -1,0 +1,12 @@
+com.kamila.hairstylesalon.MainActivity-->com.kamila.hairstylesalon.GridViewActivity
+flag:
+
+com.kamila.hairstylesalon.MultiTouch-->com.kamila.hairstylesalon.GridViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.kamila.hairstylesalon.GridViewActivity-->com.kamila.hairstylesalon.MultiTouch
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.kamila.hairstylesalon.GridViewActivity-->com.kamila.hairstylesalon.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

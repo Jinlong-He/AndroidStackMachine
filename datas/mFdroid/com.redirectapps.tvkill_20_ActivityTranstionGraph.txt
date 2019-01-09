@@ -1,0 +1,3 @@
+com.redirectapps.tvkill.MainActivity-->com.redirectapps.tvkill.Preferences
+flag:
+

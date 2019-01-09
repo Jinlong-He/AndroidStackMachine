@@ -1,0 +1,6 @@
+#MAIN
+activity:com.eneko.hexcolortimewallpaper.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.mantz_it.rfanalyzer.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.mantz_it.rfanalyzer.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

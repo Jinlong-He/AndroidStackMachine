@@ -1,0 +1,14 @@
+activity:com.langrengame.tt.activity.GameActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.langrengame.tt.activity.PrepareActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.langrengame.tt.activity.LoadingActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

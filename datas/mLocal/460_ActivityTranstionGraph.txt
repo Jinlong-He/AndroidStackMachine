@@ -1,0 +1,12 @@
+com.cooliris.media.CropImage-->com.cooliris.media.CropImage
+flag:
+
+com.cooliris.media.Photographs-->com.cooliris.media.CropImage
+flag:
+
+com.cooliris.media.Photographs-->com.cooliris.media.MovieView
+flag:
+
+com.cooliris.media.PhotoAppWidgetConfigure-->com.cooliris.media.MovieView
+flag:finish
+

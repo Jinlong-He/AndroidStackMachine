@@ -1,0 +1,36 @@
+com.mentisco.freewificonnect.activity.toolbox.NetworkScannerActivity-->com.mentisco.freewificonnect.activity.toolbox.DeviceDetailActivity
+flag:
+
+com.mentisco.freewificonnect.activity.toolbox.NetworkScannerActivity-->com.mentisco.freewificonnect.activity.toolbox.FilePickerActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.mentisco.freewificonnect.activity.toolbox.FilePickerActivity
+flag:
+
+com.mentisco.freewificonnect.activity.SplashActivity-->com.mentisco.freewificonnect.activity.HomeActivity
+flag:finish
+
+com.mentisco.freewificonnect.activity.SplashActivity-->com.mentisco.freewificonnect.activity.toolbox.FilePickerActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.mentisco.freewificonnect.activity.WifiDetailActivity-->com.mentisco.freewificonnect.activity.toolbox.FilePickerActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.mentisco.freewificonnect.activity.HomeActivity-->com.mentisco.freewificonnect.activity.BlockedActivity
+flag:
+
+com.mentisco.freewificonnect.activity.HomeActivity-->com.mentisco.activity.AboutActivity
+flag:
+
+com.mentisco.freewificonnect.activity.HomeActivity-->com.mentisco.freewificonnect.activity.LoginActivity
+flag:
+
+com.mentisco.freewificonnect.activity.HomeActivity-->com.mentisco.freewificonnect.activity.toolbox.FilePickerActivity
+flag:
+

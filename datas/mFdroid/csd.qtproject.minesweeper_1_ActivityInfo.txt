@@ -1,0 +1,6 @@
+#MAIN
+activity:org.qtproject.qt5.android.bindings.QtActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

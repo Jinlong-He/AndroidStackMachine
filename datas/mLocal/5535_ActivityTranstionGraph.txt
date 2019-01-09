@@ -1,0 +1,99 @@
+com.ensight.android.radioalarmclock.MyChannelAddActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.SelectRadioChannelActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+SimpleWebViewActivity-->com.FMradio.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+SimpleWebViewActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+SimpleWebViewActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+SimpleWebViewActivity-->com.FMradio.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.SettingsAlarmNameActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.SettingsSelectTimerSoundActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.SettingsSelectTimerSoundActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+com.ensight.android.radioalarmclock.SettingsAlarmActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.SettingsAlarmActivity-->com.ensight.android.radioalarmclock.SettingsAlarmNameActivity
+flag:
+
+com.ensight.android.radioalarmclock.SettingsAlarmActivity-->com.ensight.android.radioalarmclock.SettingsSelectTimerSoundActivity
+flag:
+
+com.ensight.android.radioalarmclock.AboutActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.AboutActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.WebViewActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.WebViewActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.FAQActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.FAQActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.FullVersionGuideActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.SettingsTabActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.StartActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:finish
+
+com.ensight.android.radioalarmclock.ThemeSelectorActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.ThemeSelectorActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.MyChannelListActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.MyChannelListActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.SettingsAlarmEditListActivity-->com.ensight.android.radioalarmclock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.ensight.android.radioalarmclock.SettingsAlarmEditListActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.MainActivity-->com.ensight.android.radioalarmclock.SettingsTabActivity
+flag:
+
+com.ensight.android.radioalarmclock.MainActivity-->com.ensight.android.radioalarmclock.SelectRadioChannelActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.ensight.android.radioalarmclock.MainActivity-->com.ensight.android.radioalarmclock.SettingsTabActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.ensight.android.radioalarmclock.MainActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ensight.android.radioalarmclock.SnsShareActivity-->com.ensight.android.radioalarmclock.NotifyAlarmActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

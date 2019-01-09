@@ -1,0 +1,12 @@
+com.narvii.manager.ManagerActivity-->com.narvii.app.ForwardActivity
+flag:
+
+com.narvii.media.MediaGalleryActivity-->com.narvii.app.ForwardActivity
+flag:
+
+com.narvii.app.ForwardActivity-->com.narvii.manager.ManagerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.narvii.app.ForwardActivity-->com.narvii.app.ForwardActivity
+flag:
+

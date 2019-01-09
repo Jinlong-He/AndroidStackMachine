@@ -1,0 +1,12 @@
+com.howe.apphibernation.view.setting.SettingsActivity-->com.howe.apphibernation.view.feedback.FeedbackActivity
+flag:
+
+com.howe.apphibernation.view.splash.SplashActivity-->com.howe.apphibernation.view.quick_start.QuickStartActivity
+flag:finish
+
+com.howe.apphibernation.view.splash.SplashActivity-->com.howe.apphibernation.view.main.MainActivity
+flag:finish
+
+com.howe.apphibernation.view.main.MainActivity-->com.howe.apphibernation.view.setting.SettingsActivity
+flag:
+

@@ -1,0 +1,4 @@
+activity:com.pixiv.muzei.pixivsource.settings.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

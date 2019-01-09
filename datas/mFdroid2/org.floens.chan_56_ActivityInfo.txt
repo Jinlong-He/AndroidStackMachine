@@ -1,0 +1,10 @@
+#MAIN
+activity:org.floens.chan.ui.activity.BoardActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.floens.chan.test.TestActivity
+LaunchMode:std
+TaskAffinity:null
+

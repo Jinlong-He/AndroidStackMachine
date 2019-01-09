@@ -1,0 +1,14 @@
+#MAIN
+activity:org.ethack.orwall.TabbedMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.ethack.orwall.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.ethack.orwall.WizardActivity
+LaunchMode:std
+TaskAffinity:null
+

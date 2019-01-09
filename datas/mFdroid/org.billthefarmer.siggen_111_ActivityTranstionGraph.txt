@@ -1,0 +1,6 @@
+org.billthefarmer.siggen.Main-->org.billthefarmer.siggen.SettingsActivity
+flag:
+
+org.billthefarmer.siggen.Main-->org.billthefarmer.siggen.Input
+flag:
+

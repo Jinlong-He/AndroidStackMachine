@@ -1,0 +1,6 @@
+.ui.MainActivity-->net.metaquotes.metatrader5.ui.LoadErrorActivity
+flag:finish
+
+.ui.MainActivity-->net.metaquotes.metatrader5.ui.OldClientActivity
+flag:finish
+

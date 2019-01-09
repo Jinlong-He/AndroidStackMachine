@@ -1,0 +1,6 @@
+#MAIN
+activity:io.gresse.hugo.anecdote.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

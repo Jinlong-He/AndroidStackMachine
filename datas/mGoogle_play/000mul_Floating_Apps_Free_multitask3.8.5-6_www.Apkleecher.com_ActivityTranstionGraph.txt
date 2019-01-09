@@ -1,0 +1,30 @@
+com.lwi.android.flapps.afrags.ActivityHiddenAppsConfig-->com.lwi.android.flapps.afrags.ActivityHiddenAppsConfig
+flag:
+
+com.lwi.android.flapps.afrags.ActivityHiddenAppsConfig-->com.lwi.android.flapps.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.lwi.android.flapps.afrags.ActivityAppDetail-->com.lwi.android.flapps.afrags.ActivityFmenuConfig
+flag:
+
+com.lwi.android.flapps.afrags.ActivityAppDetail-->com.lwi.android.flapps.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.lwi.android.flapps.MainActivity-->com.lwi.android.flapps.TutorialActivity
+flag:
+
+com.lwi.android.flapps.MainActivity-->com.lwi.android.flapps.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.lwi.android.flapps.afrags.ActivityFmenuConfig-->com.lwi.android.flapps.afrags.ActivityFmenuConfig
+flag:
+
+com.lwi.android.flapps.afrags.ActivityFmenuConfig-->com.lwi.android.flapps.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lwi.android.flapps.QuickLaunchOpenURL-->com.lwi.android.flapps.BrowserActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,3 @@
+org.billthefarmer.accordion.MainActivity-->org.billthefarmer.accordion.SettingsActivity
+flag:
+

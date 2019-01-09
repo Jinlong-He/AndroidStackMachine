@@ -1,0 +1,6 @@
+community.peers.license.activity.MainActivity-->community.peers.license.activity.LicenseActivity
+flag:
+
+community.peers.license.activity.MainActivity-->community.peers.license.activity.AboutActivity
+flag:
+

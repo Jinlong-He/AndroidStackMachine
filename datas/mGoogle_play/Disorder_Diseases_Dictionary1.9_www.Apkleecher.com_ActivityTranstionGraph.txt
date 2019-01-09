@@ -1,0 +1,9 @@
+ufo.com.disease.ItemListActivity-->ufo.com.disease.ItemListActivity
+flag:finish
+
+ufo.com.disease.ItemListActivity-->ufo.com.disease.Setting
+flag:
+
+ufo.com.disease.ItemListActivity-->ufo.com.disease.FavoritesActivity
+flag:
+

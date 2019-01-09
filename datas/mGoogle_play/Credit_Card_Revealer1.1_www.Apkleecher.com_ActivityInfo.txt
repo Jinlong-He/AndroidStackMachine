@@ -1,0 +1,6 @@
+#MAIN
+activity:.CreditCardReavealer
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

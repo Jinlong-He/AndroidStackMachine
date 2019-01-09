@@ -1,0 +1,12 @@
+com.example.kwang.myapplication.MainActivity-->com.example.kwang.myapplication.kwang3
+flag:
+
+com.example.kwang.myapplication.MainActivity-->com.example.kwang.myapplication.kwang1
+flag:
+
+com.example.kwang.myapplication.MainActivity-->com.example.kwang.myapplication.kwang2
+flag:
+
+com.example.kwang.myapplication.MainActivity-->com.example.kwang.myapplication.kwang4
+flag:
+

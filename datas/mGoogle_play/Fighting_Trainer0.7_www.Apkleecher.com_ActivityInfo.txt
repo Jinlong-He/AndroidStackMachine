@@ -1,0 +1,6 @@
+#MAIN
+activity:com.unity3d.player.UnityPlayerActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

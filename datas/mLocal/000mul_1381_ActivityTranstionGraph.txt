@@ -1,0 +1,9 @@
+.update.SystemUpdateDownloadDialog-->com.google.android.gsf.update.SystemUpdateDownloadDialog
+flag:FLAG_ACTIVITY_NO_USER_ACTION FLAG_ACTIVITY_NEW_TASK  
+
+.update.SystemUpdateInstallDialog-->com.google.android.gsf.update.SystemUpdateActivity
+flag:finish
+
+.update.SystemUpdateInstallDialog-->com.google.android.gsf.update.SystemUpdateInstallDialog
+flag:FLAG_ACTIVITY_NO_USER_ACTION FLAG_ACTIVITY_NEW_TASK  
+

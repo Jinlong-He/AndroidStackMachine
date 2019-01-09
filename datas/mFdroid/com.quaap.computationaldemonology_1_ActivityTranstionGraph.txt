@@ -1,0 +1,3 @@
+com.quaap.computationaldemonology.MainActivity-->com.quaap.computationaldemonology.GraphicDemonActivity
+flag:
+

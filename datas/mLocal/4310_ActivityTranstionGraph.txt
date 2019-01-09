@@ -1,0 +1,3 @@
+com.east.offcnapp.activity.LiveSimpleActivity-->com.east.offcnapp.activity.FullDocAndVideoActivity
+flag:
+

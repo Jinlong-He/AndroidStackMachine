@@ -1,0 +1,15 @@
+com.sololearn.app.ViewActivity-->com.sololearn.app.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.sololearn.app.MainActivity-->com.sololearn.app.MainActivity
+flag:finish
+
+com.sololearn.app.MainActivity-->com.sololearn.app.ViewActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.sololearn.app.ViewActivity
+flag:
+
+com.sololearn.app.ProfileActivity-->com.sololearn.app.ProfileActivity
+flag:finish
+

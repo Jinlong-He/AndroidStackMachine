@@ -1,0 +1,21 @@
+com.geekslab.qrbarcodescanner.SettingsActivity-->com.geekslab.qrbarcodescanner.CaptureActivity
+flag:
+
+com.geekslab.qrbarcodescanner.CaptureActivity-->com.geekslab.qrbarcodescanner.CaptureActivity
+flag:
+
+com.geekslab.qrbarcodescanner.CaptureActivity-->com.geekslab.qrbarcodescanner.CaptureActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.geekslab.qrbarcodescanner.CaptureActivity-->com.geekslab.commonlib.ui.AppWallListActivity
+flag:
+
+com.geekslab.qrbarcodescanner.share.ShareActivity-->com.geekslab.qrbarcodescanner.encode.EncodeActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.geekslab.qrbarcodescanner.encode.EncodeActivity-->com.geekslab.qrbarcodescanner.CaptureActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.geekslab.commonlib.ui.AppWallListActivity-->com.geekslab.qrbarcodescanner.CaptureActivity
+flag:
+

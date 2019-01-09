@@ -1,0 +1,10 @@
+#MAIN
+activity:at.bitfire.nophonespam.BlacklistActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:at.bitfire.nophonespam.EditNumberActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+com.valvesoftware.android.steam.community.activity.MainActivity-->com.valvesoftware.android.steam.community.activity.PaypalUriActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.valvesoftware.android.steam.community.activity.PaypalUriActivity
+flag:
+

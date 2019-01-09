@@ -1,0 +1,6 @@
+#MAIN
+activity:org.schabi.kiba.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

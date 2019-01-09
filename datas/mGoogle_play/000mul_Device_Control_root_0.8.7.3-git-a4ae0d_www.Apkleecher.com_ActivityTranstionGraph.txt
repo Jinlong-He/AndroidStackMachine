@@ -1,0 +1,9 @@
+org.namelessrom.devicecontrol.MainActivity-->org.namelessrom.devicecontrol.modules.preferences.PreferencesActivity
+flag:
+
+org.namelessrom.devicecontrol.MainActivity-->org.namelessrom.devicecontrol.MainActivity
+flag:finish
+
+org.namelessrom.devicecontrol.activities.RequestFileActivity-->org.namelessrom.devicecontrol.MainActivity
+flag:
+

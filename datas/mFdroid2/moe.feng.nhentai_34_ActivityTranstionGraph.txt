@@ -1,0 +1,42 @@
+moe.feng.nhentai.ui.SettingsActivity-->moe.feng.nhentai.ui.SettingsActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK  
+
+moe.feng.nhentai.ui.BookDetailsActivity-->moe.feng.nhentai.ui.BookDetailsActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_MULTIPLE_TASK  
+
+moe.feng.nhentai.ui.BookDetailsActivity-->moe.feng.nhentai.ui.BookDetailsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+moe.feng.nhentai.ui.BookDetailsActivity-->moe.feng.nhentai.ui.CategoryActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+moe.feng.nhentai.ui.BookDetailsActivity-->moe.feng.nhentai.ui.GalleryActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK  
+
+moe.feng.nhentai.ui.HomeActivity-->moe.feng.nhentai.ui.SettingsActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK  
+
+moe.feng.nhentai.ui.RandomActivity-->moe.feng.nhentai.ui.RandomActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+moe.feng.nhentai.ui.RandomActivity-->moe.feng.nhentai.ui.BookDetailsActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_MULTIPLE_TASK  
+
+moe.feng.nhentai.ui.RandomActivity-->moe.feng.nhentai.ui.BookDetailsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+moe.feng.nhentai.ui.SearchActivity-->moe.feng.nhentai.ui.BookDetailsActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_MULTIPLE_TASK  
+
+moe.feng.nhentai.ui.SearchActivity-->moe.feng.nhentai.ui.BookDetailsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+moe.feng.nhentai.ui.SearchActivity-->moe.feng.nhentai.ui.SearchActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK  
+
+moe.feng.nhentai.ui.CategoryActivity-->moe.feng.nhentai.ui.CategoryActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+moe.feng.nhentai.ui.GalleryActivity-->moe.feng.nhentai.ui.GalleryActivity
+flag:FLAG_ACTIVITY_MULTIPLE_TASK  
+

@@ -1,0 +1,15 @@
+com.pcinpact.ListeArticlesActivity-->com.pcinpact.ArticleActivity
+flag:
+
+com.pcinpact.ListeArticlesActivity-->com.pcinpact.OptionsActivity
+flag:
+
+com.pcinpact.ListeArticlesActivity-->com.pcinpact.AboutActivity
+flag:
+
+com.pcinpact.ListeArticlesActivity-->com.pcinpact.DebugActivity
+flag:
+
+com.pcinpact.ArticleActivity-->com.pcinpact.CommentairesActivity
+flag:
+

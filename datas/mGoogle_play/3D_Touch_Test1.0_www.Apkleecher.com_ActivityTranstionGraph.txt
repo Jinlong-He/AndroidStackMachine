@@ -1,0 +1,6 @@
+uk.co.etdevelopment.touchtest.DetailActivity-->uk.co.etdevelopment.touchtest.DetailActivity
+flag:
+
+uk.co.etdevelopment.touchtest.MainActivity-->uk.co.etdevelopment.touchtest.DetailActivity
+flag:
+

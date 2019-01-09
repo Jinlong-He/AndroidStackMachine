@@ -1,0 +1,6 @@
+co.lvdou.livewallpaper.ld453755.ActSetting-->co.lvdou.livewallpaper.ld453755.advice.ActAdvice
+flag:
+
+co.lvdou.livewallpaper.ld453755.ActSettingInWallPaper-->co.lvdou.livewallpaper.ld453755.advice.ActAdvice
+flag:
+

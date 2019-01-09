@@ -1,0 +1,3 @@
+com.local.singles.dating.chat.app.mobile.Main2Activity-->com.local.singles.dating.chat.app.mobile.MainActivity
+flag:
+

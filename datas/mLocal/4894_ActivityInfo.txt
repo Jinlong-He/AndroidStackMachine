@@ -1,0 +1,6 @@
+#MAIN
+activity:.main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

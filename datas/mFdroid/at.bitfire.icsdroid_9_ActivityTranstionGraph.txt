@@ -1,0 +1,12 @@
+at.bitfire.icsdroid.ui.CalendarListActivity-->at.bitfire.icsdroid.ui.EditCalendarActivity
+flag:
+
+at.bitfire.icsdroid.ui.CalendarListActivity-->at.bitfire.icsdroid.ui.AddCalendarActivity
+flag:
+
+at.bitfire.icsdroid.ui.CalendarListActivity-->at.bitfire.icsdroid.ui.InfoActivity
+flag:
+
+at.bitfire.icsdroid.ui.InfoActivity-->at.bitfire.icsdroid.ui.AddCalendarActivity
+flag:
+

@@ -1,0 +1,15 @@
+.ui.QQPowerManagerActivity-->com.tencent.powermanager.ui.SettingsActivity
+flag:
+
+.ui.SettingsActivity-->com.tencent.powermanager.ui.ChargeSelectActivity
+flag:
+
+.ui.SettingsActivity-->com.tencent.powermanager.ui.AboutActivity
+flag:
+
+.ui.ChargeSelectActivity-->com.tencent.powermanager.ui.ChargeDetailActivity
+flag:
+
+.ui.GuideActivity-->com.tencent.powermanager.ui.QQPowerManagerActivity
+flag:finish
+

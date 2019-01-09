@@ -1,0 +1,3 @@
+com.vlath.beheexplorer.activity.SettingsActivity-->com.vlath.beheexplorer.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

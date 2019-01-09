@@ -1,0 +1,6 @@
+#MAIN
+activity:KegsMain
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

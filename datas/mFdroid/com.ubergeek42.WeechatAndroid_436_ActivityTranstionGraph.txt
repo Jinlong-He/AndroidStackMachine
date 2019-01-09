@@ -1,0 +1,12 @@
+com.ubergeek42.WeechatAndroid.WeechatActivity-->com.ubergeek42.WeechatAndroid.PreferencesActivity
+flag:
+
+com.ubergeek42.WeechatAndroid.PreferencesActivity-->com.ubergeek42.WeechatAndroid.WeechatAboutActivity
+flag:
+
+com.ubergeek42.WeechatAndroid.PreferencesActivity-->com.ubergeek42.WeechatAndroid.PreferencesActivity
+flag:
+
+com.ubergeek42.WeechatAndroid.ShareTextActivity-->com.ubergeek42.WeechatAndroid.WeechatActivity
+flag:
+

@@ -1,0 +1,9 @@
+com.font.pay.fontmaker.Main-->com.font.pay.fontmaker.ChangeFontSizeActivity
+flag:
+
+com.font.pay.fontmaker.Main-->com.font.pay.fontmaker.ContactUsActivity
+flag:
+
+com.font.pay.fontmaker.Main-->com.font.pay.fontmaker.HelpActivity
+flag:
+

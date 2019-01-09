@@ -1,0 +1,726 @@
+com.control4.security.activity.SecurityBypassActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.SecurityBypassActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.SecurityBypassActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.BrowseCdActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.BrowseCdActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.PoolListActivity-->com.control4.lightingandcomfort.activity.PoolActivity
+flag:
+
+com.control4.lightingandcomfort.activity.PoolListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.lightingandcomfort.activity.PoolListActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.lightingandcomfort.activity.PoolListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.PoolListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.commonui.activity.ContactDevicesActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.commonui.activity.ContactDevicesActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.commonui.activity.ContactDevicesActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.commonui.activity.ContactDevicesActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.AlbumsActivity-->com.control4.listenandwatch.ui.AlbumActivity
+flag:
+
+com.control4.listenandwatch.ui.AlbumsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.AlbumsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.AboutWebViewActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.mediaservice.activity.NowPlayingActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.mediaservice.activity.NowPlayingActivity-->com.control4.listenandwatch.ui.mediaservice.activity.MediaServiceActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.control4.listenandwatch.ui.mediaservice.activity.NowPlayingActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.mediaservice.activity.NowPlayingActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.mediaservice.activity.NowPlayingActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.PlaylistsListActivity-->com.control4.listenandwatch.ui.PlaylistActivity
+flag:
+
+com.control4.listenandwatch.ui.PlaylistsListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.PlaylistsListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.WhatsNewActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.LockUserActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.security.activity.LockUserActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.LockUserActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.LockUserActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.SecurityDeviceActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.security.activity.SecurityDeviceActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.SecurityDeviceActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.SecurityDeviceActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.AboutActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.app.activity.AboutActivity-->com.control4.app.activity.SettingsActivity
+flag:
+
+com.control4.app.activity.AboutActivity-->com.control4.app.activity.AboutWebViewActivity
+flag:
+
+com.control4.app.activity.AboutActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.EditLightingSceneActivity-->com.control4.lightingandcomfort.activity.LightsActivity
+flag:
+
+com.control4.lightingandcomfort.activity.EditLightingSceneActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SystemsActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.app.activity.SystemsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SystemsActivity-->com.control4.app.activity.AboutActivity
+flag:
+
+com.control4.app.activity.SystemsActivity-->com.control4.app.activity.SettingsActivity
+flag:
+
+com.control4.app.activity.SystemsActivity-->com.control4.app.activity.WelcomeActivity
+flag:
+
+com.control4.app.activity.SystemsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.DialogHelperActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.SecurityPanelActivity-->com.control4.security.activity.SecurityBypassActivity
+flag:
+
+com.control4.security.activity.SecurityPanelActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.security.activity.SecurityPanelActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.SecurityPanelActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.SecurityPanelActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SettingsViewLogsActivity-->com.control4.app.activity.HomeActivity
+flag:finish
+
+com.control4.app.activity.SettingsViewLogsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MovieActorsActivity-->com.control4.listenandwatch.ui.MoviesGridActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieActorsActivity-->com.control4.listenandwatch.ui.MoviesActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieActorsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.MovieActorsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.BlindsActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.lightingandcomfort.activity.BlindsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.lightingandcomfort.activity.BlindsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SystemAddActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SystemAddActivity-->com.control4.app.activity.HomeActivity
+flag:finish
+
+com.control4.app.activity.SystemAddActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.commonui.activity.ActionBarTestActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.commonui.activity.ActionBarTestActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.commonui.activity.ActionBarTestActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MovieGenresActivity-->com.control4.listenandwatch.ui.MoviesGridActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieGenresActivity-->com.control4.listenandwatch.ui.MoviesActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieGenresActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.MovieGenresActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MusicNowPlayingActivity-->com.control4.listenandwatch.ui.QueueActivity
+flag:
+
+com.control4.listenandwatch.ui.MusicNowPlayingActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.MusicNowPlayingActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.MusicNowPlayingActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MusicNowPlayingActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.GenresListActivity-->com.control4.listenandwatch.ui.ArtistsListActivity
+flag:
+
+com.control4.listenandwatch.ui.GenresListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.GenresListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.iPodActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.iPodActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.iPodActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.iPodActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SettingsAdvancedActivity-->com.control4.app.activity.AboutActivity
+flag:
+
+com.control4.app.activity.SettingsAdvancedActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.app.activity.SettingsAdvancedActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MyMusicActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.MyMusicActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.GuestServicesActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.hospitality.activity.GuestServicesActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.GuestServicesActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SystemInfoActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SystemInfoActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.CameraActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.security.activity.CameraActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.CameraActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.CameraActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.ConfigActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.control4.app.activity.ConfigActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.app.activity.ConfigActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.app.activity.ConfigActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.ConfigActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.PartitionsActivity-->com.control4.security.activity.SecurityPanelActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.control4.listenandwatch.ui.MoviesGridActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.MoviesGridActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.intercom.activity.IntercomActivity-->com.control4.intercom.activity.session.CallUnavailableActivity
+flag:
+
+com.control4.intercom.activity.IntercomActivity-->com.control4.intercom.activity.IntercomSettingsActivity
+flag:
+
+com.control4.intercom.activity.IntercomActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.intercom.activity.IntercomActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.intercom.activity.IntercomActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MovieDirectorsActivity-->com.control4.listenandwatch.ui.MoviesGridActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieDirectorsActivity-->com.control4.listenandwatch.ui.MoviesActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieDirectorsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.MovieDirectorsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MovieRatingsActivity-->com.control4.listenandwatch.ui.MoviesGridActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieRatingsActivity-->com.control4.listenandwatch.ui.MoviesActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieRatingsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.MovieRatingsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.ListenListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.ListenListActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.ListenListActivity-->com.control4.commonui.activity.ContactDevicesActivity
+flag:
+
+com.control4.listenandwatch.ui.ListenListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.ListenListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.AlbumActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.AlbumActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.AlbumActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.AlbumActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MyMoviesActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.LightsActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.lightingandcomfort.activity.LightsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.lightingandcomfort.activity.LightsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.LightsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.SecurityListActivity-->com.control4.security.activity.SecurityPanelActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.control4.security.activity.SecurityListActivity-->com.control4.security.activity.PartitionsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.control4.security.activity.SecurityListActivity-->com.control4.security.activity.SecurityDeviceActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.control4.security.activity.SecurityListActivity-->com.control4.security.activity.CameraListActivity
+flag:
+
+com.control4.security.activity.SecurityListActivity-->com.control4.security.activity.CameraActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.control4.security.activity.SecurityListActivity-->com.control4.commonui.activity.ContactDevicesActivity
+flag:
+
+com.control4.security.activity.SecurityListActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.SecurityListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.security.activity.SecurityListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.SecurityListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.mediaservice.activity.SearchActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.mediaservice.activity.SearchActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.CameraListActivity-->com.control4.security.activity.CameraActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.control4.security.activity.CameraListActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.CameraListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.security.activity.CameraListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.CameraListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.QueueActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.QueueActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.QueueActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.QueueActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.LockActivity-->com.control4.security.activity.LockUserActivity
+flag:
+
+com.control4.security.activity.LockActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.security.activity.LockActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.security.activity.LockActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.security.activity.LockActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.WatchListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.WatchListActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.WatchListActivity-->com.control4.commonui.activity.ContactDevicesActivity
+flag:
+
+com.control4.listenandwatch.ui.WatchListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.WatchListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SettingsPinCodeActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.WelcomeActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.app.activity.WelcomeActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.AlbumsGridActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.AlbumsGridActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.transport.TVActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.transport.TVActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.ReceiverActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.ReceiverActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.WakeupSettingsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.hospitality.activity.WakeupSettingsActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.hospitality.activity.WakeupSettingsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.WakeupSettingsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.DialogHelperActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.PoolActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.lightingandcomfort.activity.PoolActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.lightingandcomfort.activity.PoolActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.intercom.activity.session.IntercomSessionActivity-->com.control4.intercom.activity.session.IntercomSessionActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.hospitality.activity.WakeupGoodnightMenuActivity-->com.control4.hospitality.activity.WakeupSettingsActivity
+flag:
+
+com.control4.hospitality.activity.WakeupGoodnightMenuActivity-->com.control4.hospitality.activity.GoodnightSettingsActivity
+flag:
+
+com.control4.hospitality.activity.WakeupGoodnightMenuActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.hospitality.activity.WakeupGoodnightMenuActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.hospitality.activity.WakeupGoodnightMenuActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.WakeupGoodnightMenuActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.PlaylistActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.PlaylistActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.PlaylistActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.TVChannelsListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.TVChannelsListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.WMBActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.hospitality.activity.WMBActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.WMBActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.transport.TunerActivity-->com.control4.listenandwatch.ui.transport.TunerPresetListActivity
+flag:
+
+com.control4.listenandwatch.ui.transport.TunerActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.transport.TunerActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.transport.TunerActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.transport.TunerActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.MoreActivity-->com.control4.app.activity.SystemsActivity
+flag:
+
+com.control4.app.activity.MoreActivity-->com.control4.app.activity.SettingsActivity
+flag:
+
+com.control4.app.activity.MoreActivity-->com.control4.app.activity.AboutActivity
+flag:
+
+com.control4.app.activity.MoreActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MoviesActivity-->com.control4.listenandwatch.ui.MovieActivity
+flag:
+
+com.control4.listenandwatch.ui.MoviesActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.MoviesActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.ThermostatActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.lightingandcomfort.activity.ThermostatActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.lightingandcomfort.activity.ThermostatActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.ThermostatActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.WakeupControlsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.lightingandcomfort.activity.WakeupControlsActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.lightingandcomfort.activity.WakeupControlsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.lightingandcomfort.activity.WakeupControlsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.commonui.activity.ApplicationRestart-->com.control4.commonui.activity.ApplicationRestart
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.control4.commonui.activity.ApplicationRestart-->com.control4.app.activity.HomeActivity
+flag:finish
+
+com.control4.listenandwatch.ui.MovieActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.MovieActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.MovieActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.app.activity.SettingsActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.app.activity.SettingsActivity-->com.control4.app.activity.AboutActivity
+flag:
+
+com.control4.app.activity.SettingsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.intercom.activity.IntercomSettingsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.zones.activity.ZonesListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.zones.activity.ZonesListActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.listenandwatch.ui.zones.activity.ZonesListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.zones.activity.ZonesListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.ArtistsListActivity-->com.control4.listenandwatch.ui.AlbumsGridActivity
+flag:
+
+com.control4.listenandwatch.ui.ArtistsListActivity-->com.control4.listenandwatch.ui.AlbumsActivity
+flag:
+
+com.control4.listenandwatch.ui.ArtistsListActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.ArtistsListActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.PlaylistSubTabActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.listenandwatch.ui.PlaylistSubTabActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.GoodnightSettingsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.control4.hospitality.activity.GoodnightSettingsActivity-->com.control4.app.activity.HomeActivity
+flag:
+
+com.control4.hospitality.activity.GoodnightSettingsActivity-->com.control4.app.activity.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.hospitality.activity.GoodnightSettingsActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.control4.listenandwatch.ui.mediaservice.activity.MediaServiceActivity-->com.control4.listenandwatch.ui.mediaservice.activity.SearchActivity
+flag:
+
+com.control4.listenandwatch.ui.mediaservice.activity.MediaServiceActivity-->com.control4.listenandwatch.ui.mediaservice.activity.NowPlayingActivity
+flag:finish
+
+com.control4.listenandwatch.ui.mediaservice.activity.MediaServiceActivity-->com.control4.app.activity.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

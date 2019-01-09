@@ -1,0 +1,9 @@
+eu.thedarken.sdm.tools.clutter.report.ReportActivity-->eu.thedarken.sdm.tools.clutter.report.ReportActivity
+flag:
+
+eu.thedarken.sdm.SDMMainActivity-->eu.thedarken.sdm.BusyBoxErrorActivity
+flag:
+
+eu.thedarken.sdm.exclusions.ui.ExcludeActivity-->eu.thedarken.sdm.exclusions.ui.ExcludeActivity
+flag:
+

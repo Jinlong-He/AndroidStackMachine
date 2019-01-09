@@ -1,0 +1,27 @@
+com.lge.p2p.ui.main.P2pMainActivity-->com.lge.p2p.ui.main.GuestActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.lge.p2pclients.call.settings.P2PCallEditDeclineMsg-->com.lge.p2pclients.call.settings.P2PCallDeclineMsgList
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.lge.p2p.ui.general.SocialSettingsGuide-->com.lge.p2p.ui.general.GeneralSettingsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.lge.p2p.ui.utils.DialogActivity-->com.lge.p2p.ui.main.P2pMainActivity
+flag:
+
+com.lge.p2p.ui.utils.DialogActivity-->com.lge.p2p.ui.main.P2pMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.lge.p2pclients.call.settings.P2PCallDeclineMsgMultiSelectionList-->com.lge.p2pclients.call.settings.P2PCallEditDeclineMsg
+flag:
+
+com.lge.p2pclients.call.settings.P2PCallDeclineMsgList-->com.lge.p2p.ui.main.P2pMainActivity
+flag:
+
+com.lge.p2pclients.call.settings.P2PCallDeclineMsgList-->com.lge.p2pclients.call.settings.P2PCallEditDeclineMsg
+flag:
+
+com.lge.p2pclients.call.settings.P2PCallDeclineMsgList-->com.lge.p2pclients.call.settings.P2PCallDeclineMsgMultiSelectionList
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.earthview.map.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.earthview.map.CallerNameTalker
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

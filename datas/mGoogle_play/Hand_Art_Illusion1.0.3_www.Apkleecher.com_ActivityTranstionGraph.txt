@@ -1,0 +1,6 @@
+com.tanager.handartillusion.MainActivity-->com.tanager.handartillusion.AboutActivity
+flag:
+
+com.tanager.handartillusion.SplashActivity-->com.tanager.handartillusion.MainActivity
+flag:finish
+

@@ -1,0 +1,12 @@
+com.akura.anime.activities.MP3Genres-->com.akura.anime.activities.MP3Loader
+flag:finish
+
+com.akura.anime.activities.MP3Loader-->com.akura.anime.activities.MP3Main
+flag:finish
+
+com.akura.anime.activities.MP3Intro-->com.akura.anime.activities.MP3Loader
+flag:finish
+
+com.akura.anime.activities.MP3Ad-->com.akura.anime.activities.MP3Loader
+flag:finish
+

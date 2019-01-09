@@ -1,0 +1,6 @@
+com.fancypush.pushnotifications.FancyPushHandlerActivity-->com.fancypush.pushnotifications.FancyPushMessageActivity
+flag:
+
+com.fancypush.pushnotifications.FancyPushHandlerActivity-->com.fancypush.pushnotifications.FancyPushMessageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,12 @@
+com.b44t.ui.LaunchActivity-->com.b44t.ui.IntroActivity
+flag:finish
+
+com.b44t.ui.LaunchActivity-->com.b44t.ui.LaunchActivity
+flag:
+
+com.b44t.ui.IntroActivity-->com.b44t.ui.LaunchActivity
+flag:finish
+
+com.b44t.messenger.OpenChatReceiver-->com.b44t.ui.LaunchActivity
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:org.openobservatory.ooniprobe.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.openobservatory.ooniprobe.activity.InformedConsentActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.openobservatory.ooniprobe.activity.ResultActivity
+LaunchMode:std
+TaskAffinity:null
+

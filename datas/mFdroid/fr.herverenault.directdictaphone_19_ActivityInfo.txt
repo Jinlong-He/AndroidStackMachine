@@ -1,0 +1,14 @@
+#MAIN
+activity:fr.herverenault.directdictaphone.DirectDictaphone
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.NotesList
+LaunchMode:std
+TaskAffinity:null
+
+activity:Preferences
+LaunchMode:std
+TaskAffinity:null
+

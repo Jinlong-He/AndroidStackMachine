@@ -1,0 +1,12 @@
+com.baidu.autoupdatesdk.ConfirmDialoigActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.vlife.WrapperOnlineActivity-->com.vlife.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.vlife.GuideActivity-->com.vlife.SplashActivity
+flag:
+
+com.vlife.LActivity-->com.vlife.SplashActivity
+flag:
+

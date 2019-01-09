@@ -1,0 +1,30 @@
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->md5db9d8f41f74287dd680aa721184f3df3.ProjectMainActivity
+flag:
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.richpages.RichPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->md5db9d8f41f74287dd680aa721184f3df3.ProjectMainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.PushHandlerActivity-->com.pushwoosh.MessageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.pushwoosh.inapp.WebActivity-->md5db9d8f41f74287dd680aa721184f3df3.ProjectMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.pushwoosh.internal.utils.PermissionActivity-->com.pushwoosh.internal.utils.PermissionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

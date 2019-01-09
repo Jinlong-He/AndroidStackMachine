@@ -1,0 +1,48 @@
+io.card.payment.CardIOActivity-->io.card.payment.DataEntryActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.reuseReceipt.ReuseReceiptActivity-->com.shopmium.sdk.features.submit.ErrorInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.reuseReceipt.ReuseReceiptActivity-->com.shopmium.sdk.features.proofCapture.ProofCaptureInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.reuseReceipt.ReuseReceiptActivity-->com.shopmium.sdk.features.submit.SubmitInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.scanner.ScanInterstitialActivity-->com.shopmium.sdk.features.scanner.ScanActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.shopmium.sdk.features.proofCapture.ProofCaptureInterstitialActivity-->com.shopmium.sdk.features.reuseReceipt.ReuseReceiptActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.proofCapture.ProofCaptureInterstitialActivity-->com.coupons.ciapp.NCActivity
+flag:
+
+com.shopmium.sdk.features.proofCapture.ProofCaptureInterstitialActivity-->com.coupons.ciapp.NCActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.scanner.VerifyActiviy-->com.shopmium.sdk.features.scanner.ScanResultInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.scanner.CrescendoInterstitialActivity-->com.shopmium.sdk.features.scanner.ScanActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.scanner.CrescendoInterstitialActivity-->com.shopmium.sdk.features.proofCapture.ProofCaptureInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.shopmium.sdk.features.proofCapture.ProofCaptureActivity-->com.shopmium.sdk.features.proofCapture.ProofCaptureInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.shopmium.sdk.features.proofCapture.ProofCaptureActivity-->com.shopmium.sdk.features.submit.ErrorInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.shopmium.sdk.features.proofCapture.ProofCaptureActivity-->com.shopmium.sdk.features.submit.SubmitInterstitialActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.shopmium.sdk.features.scanner.ScanActivity-->unknown
+flag:FLAG_ACTIVITY_NO_HISTORY  
+

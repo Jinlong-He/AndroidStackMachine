@@ -1,0 +1,9 @@
+com.ogsdroid.TabbedActivity-->com.ogsdroid.SettingsActivity
+flag:
+
+com.ogsdroid.TabbedActivity-->com.ogsdroid.LoginActivity
+flag:finish
+
+com.ogsdroid.LoginActivity-->com.ogsdroid.TabbedActivity
+flag:finish
+

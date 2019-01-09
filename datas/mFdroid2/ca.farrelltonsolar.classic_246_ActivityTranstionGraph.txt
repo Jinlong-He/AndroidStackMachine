@@ -1,0 +1,3 @@
+ca.farrelltonsolar.classic.MonitorActivity-->ca.farrelltonsolar.classic.Settings
+flag:
+

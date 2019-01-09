@@ -1,0 +1,15 @@
+org.libreoffice.storage.external.BrowserSelectorActivity-->org.libreoffice.storage.external.DirectoryBrowserActivity
+flag:
+
+org.libreoffice.ui.LibreOfficeUIActivity-->org.libreoffice.SettingsActivity
+flag:
+
+org.libreoffice.ui.LibreOfficeUIActivity-->org.libreoffice.storage.DocumentProviderSettingsActivity
+flag:
+
+org.libreoffice.LibreOfficeMainActivity-->org.libreoffice.SettingsActivity
+flag:
+
+org.libreoffice.storage.DocumentProviderSettingsActivity-->org.libreoffice.storage.external.BrowserSelectorActivity
+flag:
+

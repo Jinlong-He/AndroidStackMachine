@@ -1,0 +1,93 @@
+com.great.clean.fast.boost.main.ScanningFinishActivity-->com.great.clean.fast.boost.main.MainActivity
+flag:finish
+
+com.great.clean.fast.boost.main.ScanningFinishActivity-->com.great.clean.fast.boost.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.great.clean.fast.boost.main.StartupActivity-->com.great.clean.fast.boost.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.great.clean.fast.boost.main.StartupActivity-->com.great.clean.fast.boost.pb.BoostActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.great.clean.fast.boost.main.StartupActivity-->com.great.clean.fast.boost.jc.JunkCollectionActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.great.clean.fast.boost.main.StartupActivity-->com.great.clean.fast.boost.main.MainActivity
+flag:finish
+
+com.great.clean.fast.boost.main.StartupActivity-->com.great.clean.fast.boost.jc.JunkCollectionActivity
+flag:finish
+
+com.great.clean.fast.boost.main.StartupActivity-->com.great.clean.fast.boost.pb.BoostActivity
+flag:finish
+
+com.great.clean.fast.boost.applock.AppLockActivity-->com.great.clean.fast.boost.applock.SettingLockActivity
+flag:
+
+com.great.clean.fast.boost.jc.JunkCollectionActivity-->com.great.clean.fast.boost.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.great.clean.fast.boost.jc.JunkCollectionActivity-->unknown
+flag:finish
+
+com.great.clean.fast.boost.main.ScanningActivity-->com.great.clean.fast.boost.main.MainActivity
+flag:finish
+
+com.great.clean.fast.boost.pb.BoostActivity-->com.great.clean.fast.boost.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.great.clean.fast.boost.pb.BoostActivity-->com.great.clean.fast.boost.pb.PBFinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.great.clean.fast.boost.lock.LockActivity-->com.great.clean.fast.boost.lock.LockCloseActivity
+flag:
+
+com.great.clean.fast.boost.lock.LockActivity-->com.great.clean.fast.boost.pb.BoostActivity
+flag:finish
+
+com.great.clean.fast.boost.lock.LockActivity-->com.great.clean.fast.boost.jc.JunkCollectionActivity
+flag:finish
+
+com.great.clean.fast.boost.lock.LockActivity-->com.great.clean.fast.boost.main.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MoPubActivity-->com.great.clean.fast.boost.pb.FreeMemoryAnimActivity
+flag:
+
+com.great.clean.fast.boost.applock.SettingLockActivity-->com.great.clean.fast.boost.applock.PasswordSetActivity
+flag:
+
+com.great.clean.fast.boost.other.InstallOrUninstallActivity-->com.great.clean.fast.boost.pb.FreeMemoryAnimActivity
+flag:finish
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.great.clean.fast.boost.pb.FreeMemoryAnimActivity
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.great.clean.fast.boost.pb.FreeMemoryAnimActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.more.AboutActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.main.ScanningActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.pb.BoostActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.jc.JunkCollectionActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.applock.GestureEditActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.applock.GestureVerifyActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.applock.PasswordSetActivity
+flag:
+
+com.great.clean.fast.boost.main.MainActivity-->com.great.clean.fast.boost.applock.PasswordEnterActivity
+flag:
+

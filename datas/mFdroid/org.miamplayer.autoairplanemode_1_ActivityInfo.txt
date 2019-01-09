@@ -1,0 +1,10 @@
+#MAIN
+activity:org.miamplayer.autoairplanemode.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.miamplayer.autoairplanemode.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

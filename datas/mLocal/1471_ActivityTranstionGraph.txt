@@ -1,0 +1,12 @@
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.ookla.speedtest.softfacade.MainActivity
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.ookla.speedtest.softfacade.MainActivity
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.ookla.speedtest.softfacade.MainActivity
+flag:
+
+com.inmobi.androidsdk.IMBrowserActivity-->com.ookla.speedtest.softfacade.MainActivity
+flag:
+

@@ -1,0 +1,9 @@
+.VideoEditorActivity-->net.brillientapp.videoeditor.ProjectsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.ProjectsActivity-->net.brillientapp.videoeditor.VideoEditorActivity
+flag:
+
+.OverlayTitleEditor-->net.brillientapp.videoeditor.OverlayTitleTemplatePicker
+flag:
+

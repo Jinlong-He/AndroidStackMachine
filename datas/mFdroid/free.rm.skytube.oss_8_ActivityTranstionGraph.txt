@@ -1,0 +1,9 @@
+free.rm.skytube.gui.activities.MainActivity-->free.rm.skytube.gui.activities.FragmentHolderActivity
+flag:
+
+free.rm.skytube.gui.activities.MainActivity-->free.rm.skytube.gui.activities.PreferencesActivity
+flag:
+
+free.rm.skytube.gui.activities.MainActivity-->free.rm.skytube.gui.activities.YouTubePlayerActivity
+flag:
+

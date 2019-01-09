@@ -1,0 +1,10 @@
+#MAIN
+activity:com.vwp.owmap.OWMapAtAndroid
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.vwp.owmap.OWLMapPrefs
+LaunchMode:std
+TaskAffinity:null
+

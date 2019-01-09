@@ -1,0 +1,12 @@
+secondStepActivity-->com.emojismartneonkeyboard.NewMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+SplashActivity-->com.emojismartneonkeyboard.FirstStepActivity
+flag:finish
+
+FirstStepActivity-->com.emojismartneonkeyboard.NewMainActivity
+flag:finish
+
+FirstStepActivity-->com.emojismartneonkeyboard.secondStepActivity
+flag:finish
+

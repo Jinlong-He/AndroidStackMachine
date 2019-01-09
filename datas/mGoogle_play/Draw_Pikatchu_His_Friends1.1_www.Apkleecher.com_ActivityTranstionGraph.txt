@@ -1,0 +1,15 @@
+com.pikatchu.animdraw.app.rasem_Activity-->com.pikatchu.animdraw.app.AboutActivity
+flag:
+
+com.pikatchu.animdraw.app.MainActivity-->com.pikatchu.animdraw.app.rasem_Activity
+flag:
+
+com.pikatchu.animdraw.app.Splash_Activity-->com.pikatchu.animdraw.app.Main
+flag:finish
+
+com.pikatchu.animdraw.app.Main-->com.pikatchu.animdraw.app.MainActivity
+flag:
+
+com.pikatchu.animdraw.app.Main-->com.pikatchu.animdraw.app.Privacy_Policy
+flag:
+

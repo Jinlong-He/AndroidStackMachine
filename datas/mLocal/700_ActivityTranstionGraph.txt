@@ -1,0 +1,9 @@
+.activity.SplashActivity-->com.Wedanzh.Dinosaurs.activity.MainActivity
+flag:finish
+
+.activity.MainActivity-->com.Wedanzh.Dinosaurs.activity.ListActivity
+flag:
+
+.activity.ListActivity-->com.Wedanzh.Dinosaurs.activity.PreviewActivity
+flag:
+

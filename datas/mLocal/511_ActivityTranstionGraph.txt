@@ -1,0 +1,27 @@
+com.alipay.sdk.auth.AuthActivity-->com.umeng.qq.tencent.AuthActivity
+flag:
+
+com.wecut.lolicam.WebActivity-->com.wecut.lolicam.WebActivity
+flag:
+
+com.wecut.lolicam.CutpasteActivity-->com.wecut.lolicam.CutpasteActivity
+flag:
+
+com.wecut.lolicam.SettingActivity-->com.wecut.lolicam.SettingActivity
+flag:
+
+com.wecut.lolicam.FeedbackActivity-->com.wecut.lolicam.FeedbackActivity
+flag:
+
+com.umeng.qq.tencent.AssistActivity-->com.wecut.lolicam.WBShareActivity
+flag:finish
+
+com.umeng.qq.tencent.AuthActivity-->com.wecut.lolicam.WBShareActivity
+flag:finish
+
+com.umeng.qq.tencent.AuthActivity-->com.umeng.qq.tencent.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.wecut.lolicam.PaymentActivity-->com.wecut.lolicam.PaymentActivity
+flag:
+

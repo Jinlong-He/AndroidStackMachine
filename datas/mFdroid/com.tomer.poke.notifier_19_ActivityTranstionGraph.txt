@@ -1,0 +1,15 @@
+com.tomer.poke.notifier.plus.Activities.MainActivity-->com.tomer.poke.notifier.plus.Activities.MainActivity
+flag:finish
+
+com.tomer.poke.notifier.plus.Activities.MainActivity-->com.tomer.poke.notifier.plus.Activities.TeamPicker
+flag:finish
+
+com.tomer.poke.notifier.plus.Activities.MainActivity-->com.tomer.poke.notifier.plus.Activities.ReporterActivity
+flag:
+
+com.tomer.poke.notifier.plus.Activities.ChromeTabActivity-->com.tomer.poke.notifier.plus.Activities.MainActivity
+flag:finish
+
+com.tomer.poke.notifier.plus.Activities.TeamPicker-->com.tomer.poke.notifier.plus.Activities.MainActivity
+flag:finish
+

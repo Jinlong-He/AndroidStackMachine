@@ -1,0 +1,87 @@
+com.supper.battery.activity.ModeSwitchActivity-->com.supper.battery.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.supper.battery.activity.BatterySaverActivity-->com.supper.battery.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.supper.battery.activity.BatterySaverActivity-->com.supper.battery.accessi.AccesGuideDialog
+flag:
+
+com.supper.battery.activity.BatterySaverActivity-->com.supper.battery.activity.SaverResultActivity
+flag:finish
+
+com.supper.battery.activity.MainActivity-->com.supper.battery.activity.PowerModeActivity
+flag:
+
+com.supper.battery.activity.MainActivity-->com.supper.battery.activity.SettingActivity
+flag:
+
+com.supper.battery.activity.MainActivity-->com.supper.battery.activity.GiftActivity
+flag:
+
+com.supper.battery.activity.MainActivity-->com.supper.battery.activity.ChargeActivity
+flag:
+
+com.supper.battery.activity.MainActivity-->com.supper.battery.activity.BatterySaverActivity
+flag:
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.PowerModeActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.ChargeActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.BatterySaverActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.MainActivity
+flag:finish
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.CoolingActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.BatterySaverActivity
+flag:finish
+
+com.supper.battery.activity.SplashActivity-->com.supper.battery.activity.GiftActivity
+flag:
+
+com.supper.battery.activity.SettingActivity-->com.supper.battery.activity.AboutActivity
+flag:
+
+com.supper.battery.activity.SettingActivity-->com.supper.battery.activity.ShortcutActivity
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.supper.battery.activity.ShortcutActivity
+flag:
+
+com.supper.battery.activity.CoolingResultActivity-->com.supper.battery.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.supper.battery.activity.CoolingActivity-->com.supper.battery.activity.CoolingResultActivity
+flag:finish
+
+com.supper.battery.activity.CoolingActivity-->com.supper.battery.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.supper.battery.activity.PowerModeActivity-->com.supper.battery.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.supper.battery.appclean.AppCleanActivity-->com.supper.battery.appclean.APKCleanFinishActivity
+flag:finish
+
+com.supper.battery.activity.SaverResultActivity-->com.supper.battery.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.supper.battery.activity.ShortcutActivity
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.supper.battery.activity.ShortcutActivity
+flag:
+
+com.supper.battery.activity.ChargeActivity-->com.supper.battery.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

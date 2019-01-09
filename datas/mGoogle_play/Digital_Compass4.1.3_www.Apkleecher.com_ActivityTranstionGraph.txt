@@ -1,0 +1,6 @@
+com.vincentlee.compass.MainActivity-->com.vincentlee.compass.MapActivity
+flag:
+
+com.vincentlee.compass.MainActivity-->com.vincentlee.compass.SettingsActivity
+flag:
+

@@ -1,0 +1,9 @@
+fr.unix_experience.owncloud_sms.activities.MainActivity-->fr.unix_experience.owncloud_sms.activities.remote_account.AccountListActivity
+flag:
+
+fr.unix_experience.owncloud_sms.activities.MainActivity-->fr.unix_experience.owncloud_sms.activities.OCSMSSettingsActivity
+flag:
+
+fr.unix_experience.owncloud_sms.activities.remote_account.AccountActionsActivity-->fr.unix_experience.owncloud_sms.activities.remote_account.RestoreMessagesActivity
+flag:
+

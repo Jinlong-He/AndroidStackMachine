@@ -1,0 +1,10 @@
+#MAIN
+activity:com.compelson.optimizer.Optimizer
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.compelson.optimizer.logging.DirectoryPicker
+LaunchMode:std
+TaskAffinity:null
+

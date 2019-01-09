@@ -1,0 +1,10 @@
+#MAIN
+activity:com.auntieannes.pretzelperks.TriframeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.auntieannes.pretzelperks.DetailsActivity
+LaunchMode:std
+TaskAffinity:null
+

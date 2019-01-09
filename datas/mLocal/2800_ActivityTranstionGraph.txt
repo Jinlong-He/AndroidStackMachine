@@ -1,0 +1,9 @@
+com.fakegps.mock.activities.MainActivity-->com.fakegps.mock.activities.BasePreferencesActivity
+flag:
+
+com.fakegps.mock.activities.BasePreferencesActivity-->com.fakegps.mock.activities.OldPreferencesActivity
+flag:finish
+
+com.fakegps.mock.activities.NewMainActivity-->com.fakegps.mock.activities.MainActivity
+flag:finish
+

@@ -1,0 +1,12 @@
+com.jchowstudio.artpokewallpaper.SplashActivity-->com.jchowstudio.artpokewallpaper.MainActivity
+flag:finish
+
+com.jchowstudio.artpokewallpaper.MainActivity-->com.jchowstudio.artpokewallpaper.ImagePagerActivity
+flag:
+
+com.jchowstudio.artpokewallpaper.MainActivity-->com.jchowstudio.artpokewallpaper.AppygenActivity
+flag:
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

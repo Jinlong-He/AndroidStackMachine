@@ -1,0 +1,6 @@
+com.itbenefit.android.calendar.SettingsActivity-->com.itbenefit.android.calendar.FAQActivity
+flag:
+
+com.itbenefit.android.calendar.SettingsActivity-->com.itbenefit.android.calendar.SettingsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,3 @@
+raele.concurseiro.ui.activity.RecordStudyActivity-->raele.concurseiro.ui.activity.TopicSelectionActivity
+flag:finish
+

@@ -1,0 +1,33 @@
+org.yaxim.androidclient.MainWindow-->org.yaxim.androidclient.preferences.AccountPrefs
+flag:
+
+org.yaxim.androidclient.MainWindow-->org.yaxim.androidclient.MainWindow
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_NO_HISTORY  
+
+org.yaxim.androidclient.MainWindow-->org.yaxim.androidclient.preferences.MainPrefs
+flag:
+
+org.yaxim.androidclient.MainWindow-->org.yaxim.androidclient.MainWindow
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.yaxim.androidclient.MainWindow-->org.yaxim.androidclient.chat.MUCChatWindow
+flag:
+
+org.yaxim.androidclient.MainWindow-->org.yaxim.androidclient.chat.ChatWindow
+flag:
+
+org.yaxim.androidclient.preferences.AccountPrefs-->org.yaxim.androidclient.preferences.MainPrefs
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.yaxim.androidclient.preferences.MainPrefs-->org.yaxim.androidclient.MainWindow
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.yaxim.androidclient.chat.ChatWindow-->org.yaxim.androidclient.MainWindow
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.yaxim.androidclient.chat.MUCChatWindow-->org.yaxim.androidclient.chat.MUCChatWindow
+flag:
+
+org.yaxim.androidclient.chat.MUCChatWindow-->org.yaxim.androidclient.chat.ChatWindow
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.appforWechat.makepicwithnums.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.appforWechat.makepicwithnums.GeneratePicActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.appforWechat.cropimage.CropImage
+LaunchMode:std
+TaskAffinity:null
+

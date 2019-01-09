@@ -1,0 +1,15 @@
+.SplashScreen-->com.q2developer.q2developercreateyourownmusic.Main
+flag:finish
+
+.Main-->com.q2developer.q2developercreateyourownmusic.RecordList
+flag:finish
+
+.Main-->.Main
+flag:finish
+
+.RecordList-->.Main
+flag:finish
+
+.RecordList-->com.q2developer.q2developercreateyourownmusic.Main
+flag:finish
+

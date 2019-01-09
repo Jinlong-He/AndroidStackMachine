@@ -1,0 +1,3 @@
+.SplashActivity-->cn.wanli.lightweb.pianfang.HomeActivity
+flag:finish
+

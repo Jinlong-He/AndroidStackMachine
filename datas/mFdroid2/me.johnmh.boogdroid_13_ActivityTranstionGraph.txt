@@ -1,0 +1,6 @@
+me.johnmh.boogdroid.ui.ActivityServerManager-->me.johnmh.boogdroid.ui.ActivityRegister
+flag:
+
+me.johnmh.boogdroid.ui.ActivityServer-->me.johnmh.boogdroid.ui.ActivityServerManager
+flag:
+

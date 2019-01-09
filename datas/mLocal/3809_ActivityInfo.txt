@@ -1,0 +1,14 @@
+#MAIN
+activity:.MascotWalk
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.yicha.android.ads.VPActivity
+LaunchMode:std
+TaskAffinity:null
+

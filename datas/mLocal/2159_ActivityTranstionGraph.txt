@@ -1,0 +1,6 @@
+com.mdeveloper.mremote_wifi.Mremote-->com.mdeveloper.mremote_wifi.Purchase
+flag:
+
+com.mdeveloper.mremote_wifi.Mremote-->com.mdeveloper.mremote_wifi.HelpPage
+flag:
+

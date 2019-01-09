@@ -1,0 +1,14 @@
+#MAIN
+activity:com.simon.october.fifteen.luhandongtai.wan.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.simon.october.fifteen.luhandongtai.wan.LiveWallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.notname.wallpaper.SimonCka
+LaunchMode:sit
+TaskAffinity:null
+

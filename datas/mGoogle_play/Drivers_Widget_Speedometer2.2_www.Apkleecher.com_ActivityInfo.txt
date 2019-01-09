@@ -1,0 +1,10 @@
+#MAIN
+activity:.ConfigureDialog
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.LauncherActivity
+LaunchMode:std
+TaskAffinity:null
+

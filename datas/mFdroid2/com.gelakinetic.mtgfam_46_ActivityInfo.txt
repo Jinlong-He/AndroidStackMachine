@@ -1,0 +1,10 @@
+#MAIN
+activity:com.gelakinetic.mtgfam.FamiliarActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.gelakinetic.mtgfam.MtgAppWidgetConfigure
+LaunchMode:std
+TaskAffinity:null
+

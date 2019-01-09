@@ -1,0 +1,9 @@
+tkj.android.homecontrol.mythmote.MythMotePreferences-->tkj.android.homecontrol.mythmote.GestureBuilderActivity
+flag:
+
+tkj.android.homecontrol.mythmote.MythMotePreferences-->tkj.android.homecontrol.mythmote.LocationEditor
+flag:
+
+tkj.android.homecontrol.mythmote.MythMote-->tkj.android.homecontrol.mythmote.MythMotePreferences
+flag:
+

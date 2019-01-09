@@ -1,0 +1,6 @@
+.MyLocationActivity-->net.mypapit.mobile.myposition.SettingsActivity
+flag:
+
+.MyLocationActivity-->net.mypapit.mobile.myposition.ConverterActivity
+flag:
+

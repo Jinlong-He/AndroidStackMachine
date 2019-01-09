@@ -1,0 +1,6 @@
+#MAIN
+activity:com.bamless.chromiumsweupdater.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,6 @@
+de.appplant.cordova.plugin.localnotification.ClickActivity-->com.amadeus.cmt.client.android.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+de.appplant.cordova.plugin.notification.ClickActivity-->com.amadeus.cmt.client.android.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+

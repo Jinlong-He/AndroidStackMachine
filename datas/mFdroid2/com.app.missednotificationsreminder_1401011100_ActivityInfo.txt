@@ -1,0 +1,14 @@
+#MAIN
+activity:com.app.missednotificationsreminder.ui.activity.SettingsActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.app.missednotificationsreminder.ui.activity.ApplicationsSelectionActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.tbruyelle.rxpermissions.ShadowActivity
+launchMode:stp
+TaskAffinity:null
+

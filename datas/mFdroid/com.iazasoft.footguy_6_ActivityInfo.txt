@@ -1,0 +1,10 @@
+activity:com.iazasoft.footguy.Prefs
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.iazasoft.footguy.FootHelp
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

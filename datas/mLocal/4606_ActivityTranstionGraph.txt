@@ -1,0 +1,3 @@
+com.baidu.autoupdatesdk.ConfirmDialoigActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

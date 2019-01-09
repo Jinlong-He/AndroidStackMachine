@@ -1,0 +1,14 @@
+#MAIN
+activity:.GameActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.annabluecomicreader.AndroidLauncher
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,15 @@
+com.gingerl.ui.main.MainActivity-->com.gingerl.ui.inbox.WinkWizardActivity
+flag:
+
+com.gingerl.ui.profile.edit.EditProfileActivity-->com.gingerl.app.images.PhotoPickerActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.gingerl.ui.profile.detail.ProfileActivity-->com.gingerl.ui.main.MainActivity
+flag:
+
+com.gingerl.app.images.PhotoPickerActivity-->com.gingerl.ui.main.MainActivity
+flag:
+

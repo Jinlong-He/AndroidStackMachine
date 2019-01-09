@@ -1,0 +1,6 @@
+#MAIN
+activity:.PariActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

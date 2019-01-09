@@ -1,0 +1,15 @@
+.BabyRoomIdeas-->com.zalebox.baby.room.ideas.g1.BabyRoomIdeasGallery1
+flag:
+
+.BabyRoomIdeas-->com.zalebox.baby.room.ideas.g1.BabyRoomIdeasGallery2
+flag:
+
+.BabyRoomIdeas-->com.zalebox.baby.room.ideas.g1.BabyRoomIdeasGallery3
+flag:
+
+.BabyRoomIdeas-->com.zalebox.baby.room.ideas.g1.BabyRoomIdeasGallery4
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

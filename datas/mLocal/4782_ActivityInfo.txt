@@ -1,0 +1,10 @@
+#MAIN
+activity:com.wordtiger.babyGoFish.FishActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+

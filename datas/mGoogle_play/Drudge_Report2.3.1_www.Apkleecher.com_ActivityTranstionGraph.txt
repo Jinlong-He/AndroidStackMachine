@@ -1,0 +1,39 @@
+.MiscListViewActivity-->net.solomob.android.drudgely.ArticleViewActivity
+flag:
+
+.MiscListViewActivity-->net.solomob.android.drudgely.RssActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.ChannelListActivity-->net.solomob.android.drudgely.RssActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.ChannelListActivity-->net.solomob.android.drudgely.Preferences
+flag:
+
+.ChannelListActivity-->net.solomob.android.drudgely.InformationActivity
+flag:
+
+.Preferences-->net.solomob.android.drudgely.RssActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.Preferences-->net.solomob.android.drudgely.RssActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.ArticleViewActivity-->net.solomob.android.drudgely.RssActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+.ArticleViewActivity-->net.solomob.android.drudgely.ArticleWebViewActivity
+flag:
+
+.RssActivity-->net.solomob.android.drudgely.MiscListViewActivity
+flag:
+
+.RssActivity-->net.solomob.android.drudgely.Preferences
+flag:
+
+.RssActivity-->net.solomob.android.drudgely.InformationActivity
+flag:
+
+.RssActivity-->net.solomob.android.drudgely.ArticleViewActivity
+flag:
+

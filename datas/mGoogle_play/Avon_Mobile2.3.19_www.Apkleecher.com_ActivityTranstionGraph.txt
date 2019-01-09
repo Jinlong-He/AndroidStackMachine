@@ -1,0 +1,3 @@
+com.urbanairship.actions.ActionActivity-->.AppEntry
+flag:
+

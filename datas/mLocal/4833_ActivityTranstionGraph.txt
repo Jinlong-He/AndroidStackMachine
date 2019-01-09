@@ -1,0 +1,12 @@
+.ui.SplashActivity-->com.hlit.babystudy.ui.LeftAndRightActivity
+flag:finish
+
+com.baidu.mobads.AppActivity-->.ui.AppStoreActivity
+flag:finish
+
+.ui.LeftAndRightActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.baidu.autoupdatesdk.ConfirmDialoigActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

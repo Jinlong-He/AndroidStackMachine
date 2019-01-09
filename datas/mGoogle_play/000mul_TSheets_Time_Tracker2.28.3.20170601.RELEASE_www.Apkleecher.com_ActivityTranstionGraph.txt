@@ -1,0 +1,54 @@
+com.tsheets.android.hammerhead.SplashActivity-->com.tsheets.android.hammerhead.FirstSyncSpinnerActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.tsheets.android.hammerhead.SplashActivity-->com.tsheets.android.TSMTabBarController
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.tsheets.android.hammerhead.SplashActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:finish
+
+com.tsheets.android.hammerhead.SplashActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.userzoom.sdk.intercept.InvitationLinkActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:finish
+
+com.tsheets.android.hammerhead.FirstSyncSpinnerActivity-->com.tsheets.android.TSMTabBarController
+flag:
+
+com.tsheets.android.hammerhead.FirstSyncSpinnerActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tsheets.android.hammerhead.FirstSyncSpinnerActivity-->com.tsheets.android.mainFragments.ViewCurrentTimesheetFragment
+flag:
+
+com.tsheets.android.hammerhead.FirstSyncSpinnerActivity-->com.tsheets.android.mainFragments.ClockInFragment
+flag:
+
+com.tsheets.android.hammerhead.ProfileActivity-->unknown
+flag:
+
+com.tsheets.android.hammerhead.LoginActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:
+
+com.tsheets.android.hammerhead.LoginActivity-->com.tsheets.android.hammerhead.FirstSyncSpinnerActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  
+
+com.tsheets.android.hammerhead.LoginActivity-->com.tsheets.android.TSMTabBarController
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.tsheets.android.hammerhead.LoginActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.tsheets.android.hammerhead.LoginActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.tsheets.android.hammerhead.ContactTSheetsSupportActivity-->com.tsheets.android.hammerhead.ReportAProblemActivity
+flag:
+
+com.tsheets.android.hammerhead.ContactTSheetsSupportActivity-->com.tsheets.android.modules.ContactSupport.GiveFeedbackActivity
+flag:
+
+com.tsheets.android.hammerhead.ContactTSheetsSupportActivity-->com.tsheets.android.hammerhead.LoginActivity
+flag:
+

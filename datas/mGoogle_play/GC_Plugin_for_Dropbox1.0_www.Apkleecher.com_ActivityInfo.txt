@@ -1,0 +1,4 @@
+activity:com.dropbox.client2.android.AuthActivity
+LaunchMode:stk
+TaskAffinity:null
+

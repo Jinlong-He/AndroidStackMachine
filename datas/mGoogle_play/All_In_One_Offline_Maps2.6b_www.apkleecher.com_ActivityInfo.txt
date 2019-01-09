@@ -1,0 +1,14 @@
+activity:net.psyberia.mb.activities.mbFullscreenProfileActivity
+launchMode:stp
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:net.psyberia.offlinemaps.OfflineMapsActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:.wifi
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.wifi2
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.nd.dianjin.activity.OfferAppActivity
+LaunchMode:stk
+TaskAffinity:null
+

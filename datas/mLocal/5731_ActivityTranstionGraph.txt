@@ -1,0 +1,15 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.appsverse.photon.PhotonBrowser
+flag:
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.appsverse.photon.PhotonBrowser
+flag:
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.appsverse.photon.PhotonBrowser
+flag:
+
+com.mopub.mobileads.MoPubActivity-->com.appsverse.photon.PhotonBrowser
+flag:
+
+com.mopub.mobileads.MraidActivity-->com.appsverse.photon.PhotonBrowser
+flag:
+

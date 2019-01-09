@@ -1,0 +1,12 @@
+ch.bitspin.timely.alarm.IntentHandlingActivity_-->ch.bitspin.timely.activity.MainActivity_
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+ch.bitspin.timely.activity.MainActivity_-->ch.bitspin.timely.activity.MainActivity_
+flag:finish
+
+ch.bitspin.timely.activity.MainActivity_-->ch.bitspin.timely.alarm.IntentHandlingActivity_
+flag:
+
+ch.bitspin.timely.activity.boilerplate.SnoozeActivityLauncher-->ch.bitspin.timely.activity.SnoozeActivity_
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

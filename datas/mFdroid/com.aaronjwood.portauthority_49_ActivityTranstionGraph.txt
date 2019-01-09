@@ -1,0 +1,12 @@
+com.aaronjwood.portauthority.activity.MainActivity-->com.aaronjwood.portauthority.activity.WanHostActivity
+flag:
+
+com.aaronjwood.portauthority.activity.MainActivity-->com.aaronjwood.portauthority.activity.DnsActivity
+flag:
+
+com.aaronjwood.portauthority.activity.MainActivity-->com.aaronjwood.portauthority.activity.LanHostActivity
+flag:
+
+com.aaronjwood.portauthority.activity.MainActivity-->com.aaronjwood.portauthority.activity.PreferencesActivity
+flag:
+

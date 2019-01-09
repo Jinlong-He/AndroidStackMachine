@@ -1,0 +1,12 @@
+com.SkyDivers.asteroids3d.ui.DetailActivity-->com.SkyDivers.asteroids3d.ui.GalleryActivity
+flag:
+
+com.SkyDivers.asteroids3d.ui.DetailActivity-->com.appnext.core.AdsService
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.SkyDivers.asteroids3d.FreeAppsActivity-->com.appnext.core.AdsService
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.SkyDivers.asteroids3d.ui.NewDetailActivity-->com.SkyDivers.asteroids3d.ui.SuperActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

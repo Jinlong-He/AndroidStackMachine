@@ -1,0 +1,12 @@
+mobi.thinkchange.android.fingerscannercn.CourseActivity-->mobi.thinkchange.android.fingerscannercn.InitSettingsActivity
+flag:finish
+
+mobi.thinkchange.android.fingerscannercn.InitSettingsActivity-->mobi.thinkchange.android.fingerscannercn.MainActivity
+flag:finish
+
+mobi.thinkchange.android.fingerscannercn.InitSettingsActivity-->mobi.thinkchange.android.fingerscannercn.FloatingTipActivity
+flag:
+
+mobi.thinkchange.android.fingerscannercn.SplashActivity-->unknown
+flag:finish
+

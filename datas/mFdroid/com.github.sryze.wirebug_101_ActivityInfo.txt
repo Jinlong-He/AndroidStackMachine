@@ -1,0 +1,10 @@
+#MAIN
+activity:com.github.sryze.wirebug.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.github.sryze.wirebug.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

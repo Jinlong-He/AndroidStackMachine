@@ -1,0 +1,15 @@
+.SettingsActivity-->com.voidcode.diasporawebclient.MainActivity
+flag:finish
+
+.ShareActivity-->com.voidcode.diasporawebclient.SettingsActivity
+flag:finish
+
+.ShareActivity-->com.voidcode.diasporawebclient.SetupInternetActivity
+flag:finish
+
+.MainActivity-->com.voidcode.diasporawebclient.SettingsActivity
+flag:finish
+
+.MainActivity-->com.voidcode.diasporawebclient.SetupInternetActivity
+flag:finish
+

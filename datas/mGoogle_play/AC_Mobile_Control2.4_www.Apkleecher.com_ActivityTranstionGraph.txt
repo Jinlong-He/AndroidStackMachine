@@ -1,0 +1,27 @@
+.OptionsActivity-->com.infigate.accontrol.billing.BillingActivity
+flag:
+
+.OptionsActivity-->com.infigate.accontrol.HelpActivity
+flag:
+
+.ConnectionTypeActivity-->com.infigate.accontrol.OptionsActivity
+flag:
+
+.ConnectionTypeActivity-->com.infigate.accontrol.DeviceDetailsActivity
+flag:
+
+.ConnectionTypeActivity-->com.infigate.accontrol.DeviceGridActivity
+flag:
+
+.DeviceGridActivity-->com.infigate.accontrol.ConnectionTypeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+.DeviceDetailsActivity-->com.infigate.accontrol.HelpActivity
+flag:
+
+.DeviceDetailsActivity-->com.infigate.accontrol.ConnectionTypeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.infigate.accontrol.billing.BillingActivity-->com.infigate.accontrol.ConnectionTypeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

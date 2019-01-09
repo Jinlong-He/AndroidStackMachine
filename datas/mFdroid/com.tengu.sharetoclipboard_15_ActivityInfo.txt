@@ -1,0 +1,10 @@
+activity:com.tengu.sharetoclipboard.ShareToClipboardActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.tengu.sharetoclipboard.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

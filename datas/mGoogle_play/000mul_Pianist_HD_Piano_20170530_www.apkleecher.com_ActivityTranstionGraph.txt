@@ -1,0 +1,258 @@
+com.rubycell.pianisthd.soundIntro.SoundIntroListErrorActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.uservoice.uservoicesdk.activity.TopicActivity-->com.uservoice.uservoicesdk.activity.ContactActivity
+flag:
+
+com.rubycell.pianisthd.TripleRowActivity-->com.facebook.CustomTabActivity
+flag:finish
+
+com.rubycell.pianisthd.TripleRowActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.TripleRowActivity-->com.rubycell.pianisthd.dialog.DialogSaveRecord
+flag:
+
+com.rubycell.pianisthd.TripleRowActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirm
+flag:
+
+com.rubycell.pianisthd.TripleRowActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirmWithAds
+flag:
+
+com.rubycell.pianisthd.dialog.DialogPermissionDetailsActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.uservoice.uservoicesdk.activity.PortalActivity-->com.uservoice.uservoicesdk.activity.ContactActivity
+flag:
+
+com.rubycell.pianisthd.FinishActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.rubycell.pianisthd.dialog.DialogCheckCancel_OK-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.DialogBuyRuby-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.DownloadInstrumentActivity-->com.rubycell.pianisthd.dialog.DialogCancel_OK
+flag:
+
+com.rubycell.pianisthd.dialog.DialogConfirmPostSocial-->com.rubycell.twitter.TwitterHandler
+flag:
+
+com.rubycell.pianisthd.dialog.DialogConfirmPostSocial-->com.rubycell.pianisthd.dialog.DialogConfirmPostFace
+flag:
+
+com.rubycell.pianisthd.dialog.DialogConfirmPostSocial-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.changelog.DialogChangeLogActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.SoundIntroDialogConfirmErr-->com.rubycell.pianisthd.dialog.DialogCancel_OK
+flag:
+
+com.rubycell.pianisthd.dialog.DialogQuitConfirmWithAds-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.DialogConfirmPostFace-->com.rubycell.pianisthd.dialog.DialogConfirmPostFace
+flag:
+
+com.rubycell.pianisthd.DoubleClassicModeActivity-->com.facebook.CustomTabActivity
+flag:finish
+
+com.rubycell.pianisthd.DoubleClassicModeActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.DoubleClassicModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirm
+flag:
+
+com.rubycell.pianisthd.DoubleClassicModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirmWithAds
+flag:
+
+com.rubycell.pianisthd.GeneralActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.GeneralActivity-->com.facebook.CustomTabActivity
+flag:
+
+com.rubycell.pianisthd.GeneralActivity-->com.rubycell.pianisthd.dialog.DialogPermissionDetailsActivity
+flag:
+
+com.rubycell.pianisthd.PerformModeActivity-->com.facebook.CustomTabActivity
+flag:finish
+
+com.rubycell.pianisthd.PerformModeActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.PerformModeActivity-->com.rubycell.pianisthd.dialog.DialogSaveRecord
+flag:
+
+com.rubycell.pianisthd.PerformModeActivity-->com.rubycell.pianisthd.dialog.DialogCancel_OK
+flag:
+
+com.rubycell.pianisthd.PerformModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirm
+flag:
+
+com.rubycell.pianisthd.PerformModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirmWithAds
+flag:
+
+com.rubycell.pianisthd.dialog.DialogCancel_OK-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.DialogQuitConfirm-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.auth.FirebaseAuthDialog-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.uservoice.uservoicesdk.activity.ForumActivity-->com.uservoice.uservoicesdk.activity.PostIdeaActivity
+flag:
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.rubycell.pianisthd.PracticeModeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.rubycell.pianisthd.DoubleClassicModeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.rubycell.pianisthd.DoubleMirrorModeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.rubycell.pianisthd.TripleRowActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.rubycell.pianisthd.PerformModeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.rubycell.pianisthd.SheetMusicModeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.SimpleSettingsActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.rubycell.pianisthd.DoubleMirrorModeActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.facebook.CustomTabActivity
+flag:
+
+com.rubycell.pianisthd.virtualgoods.ActivityShop-->com.rubycell.pianisthd.dialog.DialogCancel_OK
+flag:
+
+com.rubycell.pianisthd.virtualgoods.ActivityShop-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.DialogNoticeLoginSocial-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.MidiFileHandlerActivity-->com.rubycell.pianisthd.PracticeModeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.rubycell.pianisthd.MidiFileHandlerActivity-->com.rubycell.pianisthd.dialog.DialogCancel_OK
+flag:
+
+com.rubycell.pianisthd.dialog.DialogRateConfirm-->com.rubycell.pianisthd.dialog.DialogRateConfirm
+flag:
+
+com.rubycell.pianisthd.soundIntro.FixSoundProblemActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.DialogCheckUpdate-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.DialogCheckUpdate-->com.facebook.CustomTabActivity
+flag:
+
+com.uservoice.uservoicesdk.activity.ArticleActivity-->com.uservoice.uservoicesdk.activity.ContactActivity
+flag:
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.MidiFileHandlerActivity
+flag:finish
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.PracticeModeActivity
+flag:finish
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.DoubleClassicModeActivity
+flag:finish
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.DoubleMirrorModeActivity
+flag:finish
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.TripleRowActivity
+flag:finish
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.PerformModeActivity
+flag:finish
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.SheetMusicModeActivity
+flag:finish
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.StartupActivity-->com.rubycell.pianisthd.demo.StartupDialog
+flag:
+
+com.rubycell.pianisthd.SongListActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.SongListActivity-->com.rubycell.pianisthd.dialog.DialogPermissionDetailsActivity
+flag:
+
+com.rubycell.pianisthd.PracticeModeActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.PracticeModeActivity-->com.facebook.CustomTabActivity
+flag:
+
+com.rubycell.pianisthd.PracticeModeActivity-->com.rubycell.pianisthd.dialog.DialogCancel_OK
+flag:
+
+com.rubycell.pianisthd.PracticeModeActivity-->com.rubycell.pianisthd.dialog.DialogSaveRecord
+flag:
+
+com.rubycell.pianisthd.PracticeModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirm
+flag:
+
+com.rubycell.pianisthd.PracticeModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirmWithAds
+flag:
+
+com.rubycell.pianisthd.InstrumentBuyActivity-->com.rubycell.pianisthd.virtualgoods.ActivityShop
+flag:finish
+
+com.tapjoy.TJContentActivity-->com.tapjoy.TJContentActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.rubycell.pianisthd.SheetMusicModeActivity-->com.facebook.CustomTabActivity
+flag:finish
+
+com.rubycell.pianisthd.SheetMusicModeActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.SheetMusicModeActivity-->com.rubycell.pianisthd.dialog.DialogSaveRecord
+flag:
+
+com.rubycell.pianisthd.SheetMusicModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirm
+flag:
+
+com.rubycell.pianisthd.SheetMusicModeActivity-->com.rubycell.pianisthd.dialog.DialogQuitConfirmWithAds
+flag:
+
+com.rubycell.pianisthd.dialog.DialogDescriptionNewSoundEngine-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.InstrumentActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.rubycell.pianisthd.InstrumentActivity-->com.facebook.CustomTabActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.rubycell.pianisthd.dialog.DialogSaveRecord-->com.rubycell.pianisthd.dialog.DialogCancel_OK
+flag:
+
+com.rubycell.pianisthd.PracticeBothHandActivity-->com.rubycell.pianisthd.FinishActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

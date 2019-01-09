@@ -1,0 +1,14 @@
+#MAIN
+activity:com.hayaisoftware.launcher.activities.SearchActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.hayaisoftware.launcher.activities.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.hayaisoftware.launcher.activities.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

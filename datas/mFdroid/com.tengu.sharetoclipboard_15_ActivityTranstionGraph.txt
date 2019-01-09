@@ -1,0 +1,3 @@
+com.tengu.sharetoclipboard.MainActivity-->com.tengu.sharetoclipboard.ShareToClipboardActivity
+flag:
+

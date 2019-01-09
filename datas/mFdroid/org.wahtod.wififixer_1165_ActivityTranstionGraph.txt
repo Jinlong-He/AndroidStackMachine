@@ -1,0 +1,6 @@
+org.wahtod.wififixer.ui.MainActivity-->org.wahtod.wififixer.ui.HelpActivity
+flag:
+
+org.wahtod.wififixer.ui.PrefActivity-->org.wahtod.wififixer.ui.MainActivity
+flag:
+

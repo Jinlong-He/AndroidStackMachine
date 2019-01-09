@@ -1,0 +1,12 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+me.zeeroooo.materialfb.Activities.SettingsActivity-->me.zeeroooo.materialfb.Activities.MainActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+me.zeeroooo.materialfb.Activities.MainActivity-->me.zeeroooo.materialfb.Activities.SettingsActivity
+flag:
+

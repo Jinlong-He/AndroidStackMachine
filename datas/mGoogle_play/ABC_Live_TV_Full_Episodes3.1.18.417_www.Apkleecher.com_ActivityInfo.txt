@@ -1,0 +1,14 @@
+#MAIN
+activity:com.disney.abc.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.facebook.FacebookActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.facebook.CustomTabActivity
+LaunchMode:std
+TaskAffinity:null
+

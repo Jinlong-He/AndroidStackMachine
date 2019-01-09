@@ -1,0 +1,6 @@
+com.zenlabs.challenge.activity.MainActivity-->com.zenlabs.challenge.activity.MoreAppsActivity
+flag:
+
+com.zenlabs.challenge.activity.SplashActivity-->com.zenlabs.challenge.activity.MainActivity
+flag:finish
+

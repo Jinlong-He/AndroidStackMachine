@@ -1,0 +1,15 @@
+org.secuso.privacyfriendlynetmonitor.Activities.TutorialActivity-->org.secuso.privacyfriendlynetmonitor.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.secuso.privacyfriendlynetmonitor.Activities.SplashActivity-->org.secuso.privacyfriendlynetmonitor.Activities.TutorialActivity
+flag:finish
+
+org.secuso.privacyfriendlynetmonitor.Activities.SettingsActivity-->org.secuso.privacyfriendlynetmonitor.Activities.SettingsActivity
+flag:
+
+org.secuso.privacyfriendlynetmonitor.Activities.MainActivity-->org.secuso.privacyfriendlynetmonitor.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.secuso.privacyfriendlynetmonitor.Activities.MainActivity-->org.secuso.privacyfriendlynetmonitor.Activities.ReportDetailActivity
+flag:
+

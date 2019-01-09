@@ -1,0 +1,14 @@
+activity:com.lockcuijinokn.android.activity.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+
+activity:com.lockcuijinokn.android.activity.Splash
+LaunchMode:sit
+TaskAffinity:null
+
+#MAIN
+activity:com.lockcuijinokn.android.activity.LocationActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

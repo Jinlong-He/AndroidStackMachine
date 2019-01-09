@@ -1,0 +1,15 @@
+.SectionActivity-->com.android.glj.activity.ChapterDetailActivity
+flag:
+
+.LoadingActivity-->com.android.glj.activity.MainActivity
+flag:finish
+
+.ChapterActivity-->com.android.glj.activity.SectionActivity
+flag:
+
+.AboutActivity-->com.android.glj.activity.WebPageActivity
+flag:
+
+.NoteActivity-->com.android.glj.activity.ChapterDetailActivity
+flag:
+

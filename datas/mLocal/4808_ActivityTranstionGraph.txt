@@ -1,0 +1,9 @@
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+
+.HomeActivity-->com.hxl.android.ImageShowActivity
+flag:
+
+.ImageShowActivity-->com.hxl.android.DetailSpage
+flag:
+

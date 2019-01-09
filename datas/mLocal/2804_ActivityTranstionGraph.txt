@@ -1,0 +1,9 @@
+com.example.iphonemap.MainActivity-->com.example.iphonemap.MapActivity
+flag:
+
+com.example.iphonemap.MainActivity-->com.example.iphonemap.TrackActivity
+flag:
+
+com.example.iphonemap.MainActivity-->com.example.iphonemap.LocationNetworkActivity
+flag:
+

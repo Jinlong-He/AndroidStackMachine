@@ -1,0 +1,6 @@
+#MAIN
+activity:org.zephyrsoft.checknetwork.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

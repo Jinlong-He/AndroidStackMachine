@@ -1,0 +1,6 @@
+aws.apps.usbDeviceEnumerator.ui.main.MainActivity-->aws.apps.usbDeviceEnumerator.ui.debug.DebugActivity
+flag:
+
+aws.apps.usbDeviceEnumerator.ui.main.MainActivity-->aws.apps.usbDeviceEnumerator.ui.usbinfo.UsbInfoActivity
+flag:
+

@@ -1,0 +1,9 @@
+org.bienvenidoainternet.app.MainActivity-->org.bienvenidoainternet.app.SettingsActivity
+flag:
+
+org.bienvenidoainternet.app.MainActivity-->org.bienvenidoainternet.app.LicensesActivity
+flag:
+
+org.bienvenidoainternet.app.MainActivity-->org.bienvenidoainternet.app.ResponseActivity
+flag:
+

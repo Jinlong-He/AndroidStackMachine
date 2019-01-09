@@ -1,0 +1,6 @@
+#MAIN
+activity:.CoolReader
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

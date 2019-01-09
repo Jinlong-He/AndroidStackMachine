@@ -1,0 +1,6 @@
+#MAIN
+activity:click.dummer.funphonepuppet.FaceActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

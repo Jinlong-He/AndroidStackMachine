@@ -1,0 +1,6 @@
+com.gigya.socialize.android.GSWebViewActivity-->.HomesComActivity
+flag:
+
+com.gigya.socialize.android.GSWebViewActivity-->com.gigya.socialize.android.GSWebViewActivity
+flag:
+

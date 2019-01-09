@@ -1,0 +1,9 @@
+io.github.powerinside.syncplay.MainActivity-->io.github.powerinside.syncplay.videoPlayer
+flag:
+
+io.github.powerinside.syncplay.MainActivity-->io.github.powerinside.syncplay.privacypolicy
+flag:
+
+io.github.powerinside.syncplay.MainActivity-->io.github.powerinside.syncplay.AboutActivity
+flag:
+

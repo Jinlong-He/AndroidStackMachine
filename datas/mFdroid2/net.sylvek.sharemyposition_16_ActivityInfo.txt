@@ -1,0 +1,6 @@
+#MAIN
+activity:.ShareMyPosition
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

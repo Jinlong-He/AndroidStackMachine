@@ -1,0 +1,14 @@
+#MAIN
+activity:designcont2
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.containerhosue.anonymais.AdsActivity
+LaunchMode:std
+TaskAffinity:null
+

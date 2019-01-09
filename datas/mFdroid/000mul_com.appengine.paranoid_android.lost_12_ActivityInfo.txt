@@ -1,0 +1,10 @@
+#MAIN
+activity:.InfoSetup
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.LockScreenUpdater
+LaunchMode:stk
+TaskAffinity:com.appengine.paranoid_android.lost.LockScreenUpdater
+

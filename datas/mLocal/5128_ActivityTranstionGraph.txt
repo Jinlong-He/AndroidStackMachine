@@ -1,0 +1,9 @@
+com.ci123.ciborn.About-->com.ci123.ciborn.Recommend
+flag:
+
+com.ci123.ciborn.About-->com.umeng.fb.ConversationActivity
+flag:
+
+com.ci123.ciborn.MainActivity-->com.ci123.ciborn.About
+flag:
+

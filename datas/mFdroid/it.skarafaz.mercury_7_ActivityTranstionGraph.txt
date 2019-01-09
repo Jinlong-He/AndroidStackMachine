@@ -1,0 +1,6 @@
+it.skarafaz.mercury.activity.MainActivity-->it.skarafaz.mercury.activity.HelpActivity
+flag:
+
+it.skarafaz.mercury.activity.MainActivity-->it.skarafaz.mercury.activity.LogActivity
+flag:
+

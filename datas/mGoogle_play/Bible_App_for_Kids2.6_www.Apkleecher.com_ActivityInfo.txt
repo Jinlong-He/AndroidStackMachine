@@ -1,0 +1,6 @@
+#MAIN
+activity:com.bible.kids.BibleJunior
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

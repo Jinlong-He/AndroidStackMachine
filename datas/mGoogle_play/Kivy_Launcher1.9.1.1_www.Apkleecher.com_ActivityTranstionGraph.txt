@@ -1,0 +1,3 @@
+org.renpy.android.ProjectChooser-->org.renpy.android.PythonActivity
+flag:finish
+

@@ -1,0 +1,10 @@
+activity:org.xphnx.iconsubmit.RequestActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:org.xphnx.iconsubmit.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

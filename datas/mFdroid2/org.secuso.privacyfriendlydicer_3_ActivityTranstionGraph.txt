@@ -1,0 +1,9 @@
+org.secuso.privacyfriendlydicer.MainActivity-->org.secuso.privacyfriendlydicer.SettingsActivity
+flag:
+
+org.secuso.privacyfriendlydicer.MainActivity-->org.secuso.privacyfriendlydicer.HelpActivity
+flag:
+
+org.secuso.privacyfriendlydicer.MainActivity-->org.secuso.privacyfriendlydicer.AboutActivity
+flag:
+

@@ -1,0 +1,3 @@
+virtualgs.kidspaint.KidsPaint-->virtualgs.kidspaint.Preference
+flag:
+

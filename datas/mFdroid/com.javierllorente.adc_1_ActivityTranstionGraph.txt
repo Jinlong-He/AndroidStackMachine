@@ -1,0 +1,6 @@
+com.javierllorente.adc.MainActivity-->com.javierllorente.adc.SettingsActivity
+flag:
+
+com.javierllorente.adc.SettingsActivity-->com.javierllorente.adc.SettingsActivity
+flag:
+

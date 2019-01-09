@@ -1,0 +1,12 @@
+com.ikmultimediaus.android.ezvoice.activity.EZVoiceActivity-->com.ikmultimediaus.android.globalmenu.GlobalMenuActivity
+flag:
+
+com.ikmultimediaus.android.globalmenu.GlobalMenuActivity-->com.ikmultimediaus.android.globalmenu.QuickStartGuideActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.ikmultimediaus.android.globalmenu.GlobalMenuActivity-->com.ikmultimediaus.android.globalmenu.SettingsActivity
+flag:
+
+com.ikmultimediaus.android.ezvoice.activity.SplashScreen-->com.ikmultimediaus.android.ezvoice.activity.EZVoiceActivity
+flag:finish
+

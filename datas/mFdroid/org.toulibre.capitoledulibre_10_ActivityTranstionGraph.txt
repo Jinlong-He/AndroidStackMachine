@@ -1,0 +1,12 @@
+org.toulibre.capitoledulibre.activities.EventDetailsActivity-->org.toulibre.capitoledulibre.activities.TrackScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.toulibre.capitoledulibre.activities.SearchResultActivity-->org.toulibre.capitoledulibre.activities.SearchResultActivity
+flag:finish
+
+org.toulibre.capitoledulibre.activities.MainActivity-->org.toulibre.capitoledulibre.activities.SettingsActivity
+flag:
+
+org.toulibre.capitoledulibre.activities.TrackScheduleActivity-->org.toulibre.capitoledulibre.activities.TrackScheduleEventActivity
+flag:
+

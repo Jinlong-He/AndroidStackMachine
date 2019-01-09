@@ -1,0 +1,15 @@
+.Home-->com.aldygame.cheap.hotels.flights.booking.dohop.Train
+flag:
+
+.Home-->com.aldygame.cheap.hotels.flights.booking.dohop.Hotels
+flag:
+
+.Home-->com.aldygame.cheap.hotels.flights.booking.dohop.Flight
+flag:
+
+.Home-->com.aldygame.cheap.hotels.flights.booking.dohop.Info
+flag:
+
+.SplashActivity-->com.aldygame.cheap.hotels.flights.booking.dohop.Home
+flag:finish
+

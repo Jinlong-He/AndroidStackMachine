@@ -1,0 +1,10 @@
+#MAIN
+activity:com.workSPACE.Fraksl.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.unity.purchasing.googleplay.PurchaseActivity
+LaunchMode:std
+TaskAffinity:null
+

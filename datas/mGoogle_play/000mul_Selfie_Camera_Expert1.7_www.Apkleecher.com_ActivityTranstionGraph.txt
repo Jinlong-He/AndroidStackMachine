@@ -1,0 +1,9 @@
+com.outthinking.selfie_camera.MainActivity-->com.outthinking.selfie_camera.Preview
+flag:
+
+com.outthinking.selfie_camera.Preview-->com.photo.sharekit.Photoshare
+flag:
+
+com.adobe.creativesdk.foundation.internal.base.AdobeTOUHandlerActivity-->com.adobe.creativesdk.foundation.internal.auth.AdobeAuthContinuableEventActivity
+flag:
+

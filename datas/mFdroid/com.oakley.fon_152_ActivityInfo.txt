@@ -1,0 +1,10 @@
+#MAIN
+activity:.AndroidWISPr
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.PreferencesAdvanced
+LaunchMode:std
+TaskAffinity:null
+

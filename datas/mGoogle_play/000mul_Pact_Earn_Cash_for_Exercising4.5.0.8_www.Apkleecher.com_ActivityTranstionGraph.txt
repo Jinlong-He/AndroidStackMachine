@@ -1,0 +1,9 @@
+com.pact.android.health.ClaimsListActivity_-->com.pact.android.activity.MainTabActivity_
+flag:
+
+com.pact.android.health.BankAccountListActivity_-->com.pact.android.activity.MainTabActivity_
+flag:
+
+com.pact.android.activity.StartActivity_-->com.pact.android.activity.MainTabActivity_
+flag:
+

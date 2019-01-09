@@ -1,0 +1,57 @@
+com.djit.bassboost.ui.activities.StoreActivity-->com.djit.bassboost.ui.activities.StoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.bassboost.ui.activities.StoreActivity-->com.djit.bassboost.ui.activities.StoreActivity
+flag:
+
+com.djit.bassboost.ui.activities.MainActivity-->com.djit.bassboost.ui.activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.bassboost.ui.activities.MainActivity-->com.djit.bassboost.ui.activities.ColorSelectionActivity
+flag:
+
+com.djit.bassboost.ui.activities.MainActivity-->com.djit.bassboost.ui.activities.MainActivity
+flag:
+
+com.djit.bassboost.ui.activities.MainActivity-->com.djit.android.sdk.support.SupportActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.bassboost.ui.activities.MainActivity-->com.djit.android.sdk.support.SupportActivity
+flag:
+
+com.djit.bassboost.ui.activities.MainActivity-->com.tapjoy.TJAdUnitActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.android.sdk.end.djitads.InterstitialAdActivity-->com.djit.android.sdk.end.djitads.InterstitialAdActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.android.sdk.support.SupportActivity-->com.djit.android.sdk.support.SupportActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.android.sdk.support.SupportActivity-->com.djit.android.sdk.support.SupportActivity
+flag:
+
+com.apptracker.android.module.AppModuleActivity-->com.apptracker.android.module.AppModuleActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.bassboost.ui.activities.ColorEditionActivity-->com.djit.bassboost.ui.activities.ColorEditionActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.djit.bassboost.ui.activities.MainActivity
+flag:
+
+com.tapjoy.TJContentActivity-->com.tapjoy.TJContentActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.bassboost.ui.activities.ColorSelectionActivity-->com.djit.bassboost.ui.activities.ColorEditionActivity
+flag:
+
+com.djit.bassboost.ui.activities.ColorSelectionActivity-->com.djit.bassboost.ui.activities.StoreActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.djit.bassboost.ui.activities.ColorSelectionActivity-->com.djit.bassboost.ui.activities.StoreActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.djit.bassboost.ui.activities.MainActivity
+flag:
+

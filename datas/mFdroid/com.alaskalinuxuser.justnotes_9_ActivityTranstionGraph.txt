@@ -1,0 +1,9 @@
+com.alaskalinuxuser.justnotes.MainActivity-->com.alaskalinuxuser.justnotes.writenote
+flag:
+
+com.alaskalinuxuser.justnotes.MainActivity-->com.alaskalinuxuser.justnotes.SettingsActivity
+flag:
+
+com.alaskalinuxuser.justnotes.MainActivity-->com.alaskalinuxuser.justnotes.about
+flag:
+

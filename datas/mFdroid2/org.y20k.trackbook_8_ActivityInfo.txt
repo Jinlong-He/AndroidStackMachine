@@ -1,0 +1,10 @@
+#MAIN
+activity:org.y20k.trackbook.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:org.y20k.trackbook.InfosheetActivity
+LaunchMode:std
+TaskAffinity:null
+

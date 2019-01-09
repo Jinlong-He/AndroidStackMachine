@@ -1,0 +1,14 @@
+activity:com.baidu.mobads.AppActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:aiwuxia1.mianfei.haohao.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:aiwuxia1.mianfei.haohao.RSplashActivity
+LaunchMode:std
+TaskAffinity:null
+

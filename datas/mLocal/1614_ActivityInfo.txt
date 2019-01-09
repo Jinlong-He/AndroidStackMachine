@@ -1,0 +1,6 @@
+#MAIN
+activity:com.wuxianlin.xposedinstaller.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

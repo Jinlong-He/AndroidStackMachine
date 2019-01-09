@@ -1,0 +1,9 @@
+org.sensors2.osc.activities.StartUpActivity-->org.sensors2.osc.activities.SettingsActivity
+flag:
+
+org.sensors2.osc.activities.StartUpActivity-->org.sensors2.osc.activities.GuideActivity
+flag:
+
+org.sensors2.osc.activities.StartUpActivity-->org.sensors2.osc.activities.AboutActivity
+flag:
+

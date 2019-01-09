@@ -1,0 +1,10 @@
+activity:com.hooktv.hook.LokiActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.hooktv.hook.StartScreenPagerActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

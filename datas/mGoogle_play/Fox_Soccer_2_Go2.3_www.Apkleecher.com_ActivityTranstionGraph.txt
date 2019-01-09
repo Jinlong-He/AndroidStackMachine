@@ -1,0 +1,12 @@
+ptv.sociallib.SocialNetworking-->com.twitter.android.TwitterOAuthActivity
+flag:finish
+
+com.twitter.android.TwitterOAuthActivity-->com.twitter.android.TwitterOAuthActivity
+flag:FLAG_FROM_BACKGROUND FLAG_ACTIVITY_SINGLE_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+ptv.apps.foxsoccer2go.ui.SplashScreen-->ptv.apps.foxsoccer2go.ui.HomeFragmentActivity
+flag:finish
+
+ptv.apps.foxsoccer2go.ui.HomeFragmentActivity-->ptv.apps.foxsoccer2go.ui.SplashScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

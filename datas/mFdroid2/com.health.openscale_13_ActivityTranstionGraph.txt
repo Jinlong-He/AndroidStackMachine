@@ -1,0 +1,6 @@
+com.health.openscale.gui.MainActivity-->com.health.openscale.gui.activities.UserSettingsActivity
+flag:
+
+com.health.openscale.gui.MainActivity-->com.health.openscale.gui.activities.SettingsActivity
+flag:
+

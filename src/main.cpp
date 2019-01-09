@@ -140,11 +140,14 @@ int main(int argc, const char * argv[]) {
     cout << "reading..." << endl;
     ofstream successfile;
     ofstream allfile;
+    ofstream mostTrue;
+    ofstream truefile;
+    ofstream falsefile;
     successfile.open("success.txt", ios::app);
     allfile.open("all.txt", ios::app);
-    cout << argv[2] << endl;
-    allfile << argv[2] << endl;
-    allfile.close();
+    mostTrue.open("mostTrue.txt", ios::app);
+    truefile.open("true.txt", ios::app);
+    falsefile.open("f.txt", ios::app);
     string commond = argv[1];
     string infoFile = argv[2];
     string transFile = argv[3];
@@ -155,9 +158,24 @@ int main(int argc, const char * argv[]) {
     ofstream outfile;
     string fileName = argv[2];
     writeFile(outfile, fileName);
+    cout << fileName << endl;
+    allfile << fileName << endl;
+    allfile.close();
     if (commond == "-b") {
         ATM a (parse);
         a.mkConfig("", window);
+        cout << a.getRes() << endl;
+        if (a.getRes() == 1)
+            truefile << fileName << endl;
+        if (a.getRes() > 0)
+            mostTrue << fileName << endl;
+        if (a.getRes() == 0)
+            falsefile<< fileName << endl;
+        if (!a.isBounded())
+            successfile << fileName << endl;
+        truefile.close();
+        mostTrue.close();
+        falsefile.close();
         ATMSolver solver(&a);
         solver.init();
         if (! a.isBounded()) {
@@ -167,6 +185,7 @@ int main(int argc, const char * argv[]) {
                 multiCalculation(datas, i);
             getLoop(datas, outfile);
         }
+        exit(1);
         VerificationDatas datas;
         string targetName = argv[5];
         for (Activity* act : solver.getActivities()) {

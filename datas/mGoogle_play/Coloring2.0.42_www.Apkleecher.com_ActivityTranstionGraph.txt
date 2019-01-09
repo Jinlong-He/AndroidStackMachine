@@ -1,0 +1,24 @@
+com.jirbo.adcolony.AdColonyBrowser-->com.amazon.identity.auth.device.workflow.WorkflowActivity
+flag:
+
+com.teazel.colouring.Splash-->com.teazel.colouring.PackActivity
+flag:finish
+
+com.teazel.colouring.PackActivity-->com.theartofdev.edmodo.cropper.CropImageActivity
+flag:
+
+com.teazel.colouring.PackActivity-->com.amazon.identity.auth.device.workflow.WorkflowActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.teazel.colouring.PackActivity-->com.amazon.identity.auth.device.workflow.WorkflowActivity
+flag:
+
+com.teazel.colouring.PackActivity-->com.teazel.colouring.PackActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.inmobi.rendering.InMobiAdActivity-->com.amazon.identity.auth.device.workflow.WorkflowActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.amazon.identity.auth.device.workflow.WorkflowActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

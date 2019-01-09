@@ -1,0 +1,15 @@
+wei.xin.wxjl.PermissionCheckActivity-->wei.xin.wxjl.MainActivity
+flag:finish
+
+wei.xin.wxjl.ShareActivity-->wei.xin.wxjl.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.baidu.autoupdatesdk.ConfirmDialoigActivity-->com.baidu.autoupdatesdk.ConfirmDialoigActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+wei.xin.wxjl.MainActivity-->wei.xin.wxjl.JfActivity
+flag:
+
+wei.xin.wxjl.JfActivity-->wei.xin.wxjl.EditorActivity
+flag:
+

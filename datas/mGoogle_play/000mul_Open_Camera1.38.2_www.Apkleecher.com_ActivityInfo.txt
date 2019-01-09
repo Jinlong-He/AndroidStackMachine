@@ -1,0 +1,10 @@
+#MAIN
+activity:net.sourceforge.opencamera.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:net.sourceforge.opencamera.TakePhoto
+LaunchMode:std
+TaskAffinity:
+

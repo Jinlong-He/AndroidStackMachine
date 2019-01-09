@@ -1,0 +1,4 @@
+activity:com.lucasdnd.decimaltimeclockwidget.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

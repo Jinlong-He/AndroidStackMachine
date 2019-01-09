@@ -1,0 +1,15 @@
+de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs-->de.kugihan.dictionaryformids.hmi_android.Preferences
+flag:
+
+de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs-->de.kugihan.dictionaryformids.hmi_android.HelpScreen
+flag:
+
+de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs-->de.kugihan.dictionaryformids.hmi_android.AboutScreen
+flag:
+
+de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs-->de.kugihan.dictionaryformids.hmi_android.StarredWordsList
+flag:
+
+de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs-->de.kugihan.dictionaryformids.hmi_android.ChooseDictionary
+flag:
+

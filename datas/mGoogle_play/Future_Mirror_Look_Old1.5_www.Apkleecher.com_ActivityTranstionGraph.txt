@@ -1,0 +1,18 @@
+com.freeappshouse.oldage.futuremirror.lookold.SkinToneSelection-->com.freeappshouse.oldage.futuremirror.lookold.MainActivity
+flag:finish
+
+com.freeappshouse.oldage.futuremirror.lookold.WelcomeActivity-->com.freeappshouse.oldage.futuremirror.lookold.FrontActivity
+flag:
+
+com.freeappshouse.oldage.futuremirror.lookold.WelcomeActivity-->com.freeappshouse.oldage.futuremirror.lookold.DisplayGalleryActivity
+flag:
+
+com.freeappshouse.oldage.futuremirror.lookold.WelcomeActivity-->com.startapp.android.publish.AppWallActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NO_HISTORY  
+
+com.freeappshouse.oldage.futuremirror.lookold.FrontActivity-->com.freeappshouse.oldage.futuremirror.lookold.SkinToneSelection
+flag:
+
+com.freeappshouse.oldage.futuremirror.lookold.DisplayGalleryActivity-->com.freeappshouse.oldage.futuremirror.lookold.GallImgPrev
+flag:
+

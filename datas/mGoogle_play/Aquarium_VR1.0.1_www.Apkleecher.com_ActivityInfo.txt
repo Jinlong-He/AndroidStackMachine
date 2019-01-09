@@ -1,0 +1,6 @@
+#MAIN
+activity:com.eonreality.android.eonviewer.EONViewer
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

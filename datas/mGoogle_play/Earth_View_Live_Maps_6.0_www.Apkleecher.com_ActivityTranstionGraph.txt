@@ -1,0 +1,3 @@
+com.earthview.map.MainActivity-->com.earthview.map.Splashscreen
+flag:finish
+

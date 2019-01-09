@@ -1,0 +1,3 @@
+roblox.guideforroblox.SplashActivity-->roblox.guideforroblox.MainActivity
+flag:
+

@@ -1,0 +1,6 @@
+com.freesubway.surfertips.HomeActivity-->com.freesubway.surfertips.AboutActivity
+flag:
+
+com.freesubway.surfertips.SplashActivity-->com.freesubway.surfertips.HomeActivity
+flag:
+

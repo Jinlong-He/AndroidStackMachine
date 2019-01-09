@@ -1,0 +1,10 @@
+#MAIN
+activity:org.legtux.m_316k.fortune.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.legtux.m_316k.fortune.ConfigActivity
+LaunchMode:std
+TaskAffinity:null
+

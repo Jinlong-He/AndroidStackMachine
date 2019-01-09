@@ -1,0 +1,3 @@
+com.morega.wifihack.ScanWiFiActivity-->com.morega.wifihack.SuggestActivity
+flag:
+

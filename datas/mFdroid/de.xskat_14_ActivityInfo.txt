@@ -1,0 +1,6 @@
+#MAIN
+activity:de.xskat.XSkat
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

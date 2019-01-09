@@ -1,0 +1,27 @@
+il.co.smedia.callrecorder.yoni.activities.MainActivity-->il.co.smedia.callrecorder.yoni.activities.SettingsActivity
+flag:
+
+il.co.smedia.callrecorder.yoni.activities.MainActivity-->il.co.smedia.callrecorder.yoni.activities.TotalUsageActivity
+flag:
+
+il.co.smedia.callrecorder.yoni.activities.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+il.co.smedia.callrecorder.yoni.activities.SettingsActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+il.co.smedia.callrecorder.yoni.activities.SettingsActivity-->il.co.smedia.callrecorder.yoni.activities.WhitelistActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->io.presage.activities.PresageActivity
+flag:
+
+il.co.smedia.callrecorder.yoni.activities.TotalUsageActivity-->il.co.smedia.callrecorder.yoni.activities.SettingsActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+il.co.smedia.callrecorder.yoni.activities.SplashActivity-->il.co.smedia.callrecorder.yoni.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+

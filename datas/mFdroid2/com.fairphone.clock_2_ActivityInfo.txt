@@ -1,0 +1,6 @@
+#MAIN
+activity:com.fairphone.clock.CentralActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

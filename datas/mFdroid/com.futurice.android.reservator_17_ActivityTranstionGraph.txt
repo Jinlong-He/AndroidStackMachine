@@ -1,0 +1,15 @@
+com.futurice.android.reservator.LoginActivity-->com.futurice.android.reservator.AccountSelection
+flag:
+
+com.futurice.android.reservator.LobbyActivity-->com.futurice.android.reservator.SettingsActivity
+flag:
+
+com.futurice.android.reservator.RoomActivity-->com.futurice.android.reservator.RoomActivity
+flag:
+
+com.futurice.android.reservator.RoomActivity-->com.futurice.android.reservator.SettingsActivity
+flag:
+
+com.futurice.android.reservator.AccountSelection-->com.futurice.android.reservator.LobbyActivity
+flag:
+

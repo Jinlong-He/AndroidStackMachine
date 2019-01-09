@@ -1,0 +1,33 @@
+com.alexcruz.papuhwalls.SettingsActivity-->com.alexcruz.papuhwalls.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.alexcruz.papuhwalls.Papuh-->com.alexcruz.papuhwalls.MainActivity
+flag:
+
+com.alexcruz.papuhwalls.MainActivity-->com.alexcruz.papuhwalls.Slides
+flag:finish
+
+com.alexcruz.papuhwalls.MainActivity-->com.alexcruz.papuhwalls.SettingsActivity
+flag:
+
+com.alexcruz.papuhwalls.MainActivity-->com.alexcruz.papuhwalls.Settings
+flag:
+
+com.alexcruz.papuhwalls.MainActivity-->com.alexcruz.papuhwalls.Live.Settings
+flag:
+
+com.alexcruz.papuhwalls.Live.Settings-->com.alexcruz.papuhwalls.Live.MyWallsManager
+flag:
+
+com.alexcruz.papuhwalls.Live.Settings-->com.alexcruz.papuhwalls.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.alexcruz.papuhwalls.Live.Settings-->com.alexcruz.papuhwalls.MainActivity
+flag:
+
+cat.ereza.customactivityoncrash.activity.DefaultErrorActivity-->com.alexcruz.papuhwalls.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.alexcruz.papuhwalls.Slides-->com.alexcruz.papuhwalls.MainActivity
+flag:finish
+

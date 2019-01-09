@@ -23,7 +23,6 @@ RegularExp.hpp
 /res
 /verify
 /test
-*.txt
 *.smv
 
 # Executables

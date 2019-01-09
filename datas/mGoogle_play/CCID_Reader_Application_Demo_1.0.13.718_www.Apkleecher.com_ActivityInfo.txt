@@ -1,0 +1,6 @@
+#MAIN
+activity:com.cg.ccid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

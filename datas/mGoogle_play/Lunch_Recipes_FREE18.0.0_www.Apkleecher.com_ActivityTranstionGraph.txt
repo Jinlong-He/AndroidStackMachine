@@ -1,0 +1,9 @@
+com.cookware.lunchrecipes.MainActivity-->com.cookware.lunchrecipes.MainActivity
+flag:
+
+com.cookware.lunchrecipes.SplashActivity-->com.cookware.lunchrecipes.MainActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.cookware.lunchrecipes.MainActivity
+flag:
+

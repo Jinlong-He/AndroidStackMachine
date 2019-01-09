@@ -1,0 +1,10 @@
+#MAIN
+activity:com.khuttun.notificationnotes.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.khuttun.notificationnotes.AddNoteActivity
+LaunchMode:std
+TaskAffinity:null
+

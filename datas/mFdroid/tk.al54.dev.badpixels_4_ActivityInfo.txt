@@ -1,0 +1,6 @@
+#MAIN
+activity:tk.al54.dev.badpixels.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

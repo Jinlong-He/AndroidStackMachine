@@ -1,0 +1,9 @@
+.activities.Preferences-->com.citc.aag.activities.Terms
+flag:
+
+.activities.Albums-->com.citc.aag.activities.Preferences
+flag:
+
+.activities.Albums-->com.citc.aag.activities.ManualSearch
+flag:
+

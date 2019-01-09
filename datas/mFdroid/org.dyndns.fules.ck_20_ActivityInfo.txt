@@ -1,0 +1,8 @@
+activity:CompassKeyboardSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:FilePicker
+LaunchMode:std
+TaskAffinity:null
+

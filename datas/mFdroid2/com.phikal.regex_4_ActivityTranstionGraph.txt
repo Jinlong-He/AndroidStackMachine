@@ -1,0 +1,12 @@
+com.phikal.regex.Activities.Settings.MainSettingsActivity-->com.phikal.regex.Activities.HelloActivity
+flag:
+
+com.phikal.regex.Activities.Settings.MainSettingsActivity-->com.phikal.regex.Activities.Settings.GameModeSettingsActivity
+flag:
+
+com.phikal.regex.Activities.GameActivity-->com.phikal.regex.Activities.Settings.MainSettingsActivity
+flag:
+
+com.phikal.regex.Activities.GameActivity-->com.phikal.regex.Activities.HelloActivity
+flag:
+

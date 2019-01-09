@@ -1,0 +1,14 @@
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.yundile.gbaby.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.yundile.gbaby.GameActivity
+LaunchMode:std
+TaskAffinity:null
+

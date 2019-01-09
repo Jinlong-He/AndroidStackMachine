@@ -1,0 +1,6 @@
+pl.librus.client.ui.LoginActivity-->pl.librus.client.ui.MainActivity
+flag:finish
+
+pl.librus.client.ui.MainActivity-->pl.librus.client.ui.LoginActivity
+flag:
+

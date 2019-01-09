@@ -1,0 +1,6 @@
+com.howtodraw.robertpokemon.Splash-->com.howtodraw.robertpokemon.ListPage
+flag:finish
+
+com.howtodraw.robertpokemon.ListPage-->com.howtodraw.robertpokemon.DetailPage
+flag:
+

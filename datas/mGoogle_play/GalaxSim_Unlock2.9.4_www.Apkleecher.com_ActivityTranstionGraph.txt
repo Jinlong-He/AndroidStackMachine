@@ -1,0 +1,30 @@
+com.spocky.galaxsimunlock.MainActivity-->com.spocky.galaxsimunlock.FirstRunActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.spocky.galaxsimunlock.MainActivity-->com.spocky.galaxsimunlock.DeviceDetectActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+com.spocky.galaxsimunlock.MainActivity-->com.spocky.galaxsimunlock.GSUPreferenceActivity
+flag:
+
+com.spocky.galaxsimunlock.MainActivity-->com.spocky.galaxsimunlock.WebActivity
+flag:
+
+com.spocky.galaxsimunlock.FirstRunActivity-->com.spocky.galaxsimunlock.DeviceDetectActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.spocky.galaxsimunlock.GSUPreferenceActivity-->com.spocky.galaxsimunlock.GSUPreferenceActivity
+flag:
+
+com.spocky.galaxsimunlock.GSUPreferenceActivity-->com.spocky.galaxsimunlock.WebActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.spocky.galaxsimunlock.GSUPreferenceActivity-->com.spocky.galaxsimunlock.WebActivity
+flag:
+
+com.spocky.galaxsimunlock.WebActivity-->com.spocky.galaxsimunlock.WebActivity
+flag:
+
+com.spocky.galaxsimunlock.DeviceDetectActivity-->com.spocky.galaxsimunlock.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+

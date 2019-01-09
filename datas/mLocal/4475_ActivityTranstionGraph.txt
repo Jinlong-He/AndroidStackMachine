@@ -1,0 +1,36 @@
+com.lldd.cwwang.activity.SplashActivity-->com.weixinpay.PayWxActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lldd.cwwang.activity.TwjluActivity-->com.lldd.cwwang.activity.MytwenDetailActivity
+flag:
+
+com.lldd.cwwang.activity.TwjluActivity-->com.lldd.cwwang.activity.AnserActivity
+flag:
+
+com.lldd.cwwang.activity.LoginActivity-->com.lldd.cwwang.activity.RegActivity
+flag:finish
+
+com.lldd.cwwang.activity.Tiwen1Activity-->com.weixinpay.PayWxActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lldd.cwwang.activity.RegActivity-->com.weixinpay.PayWxActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.lldd.cwwang.activity.MoreActivity-->com.lldd.cwwang.activity.WebViewActivity
+flag:
+
+com.lldd.cwwang.activity.MoreActivity-->com.weixinpay.PayWxActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.payeco.android.plugin.PayecoOrderDetailActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.payeco.android.plugin.PayecoPluginLoadingActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.payeco.android.plugin.PayecoRiskControlActivity-->unknown
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.lldd.cwwang.wxapi.WXEntryActivity-->com.weixinpay.PayWxActivity
+flag:
+

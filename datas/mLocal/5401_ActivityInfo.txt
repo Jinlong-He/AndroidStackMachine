@@ -1,0 +1,10 @@
+#MAIN
+activity:com.adobe.flashplayer.SettingsManager
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.adobe.flashplayer.FlashExpandableFileChooser
+LaunchMode:std
+TaskAffinity:null
+

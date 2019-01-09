@@ -1,0 +1,3 @@
+com.secuso.torchlight2.SplashActivity-->com.secuso.torchlight2.MainActivity
+flag:finish
+

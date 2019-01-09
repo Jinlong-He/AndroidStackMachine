@@ -1,0 +1,24 @@
+com.tencent.connect.common.AssistActivity-->com.rn.pofi.MainActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.rn.pofi.MainActivity
+flag:finish
+
+com.rn.pofi.MainActivity-->com.rn.pofi.MainActivity
+flag:
+
+com.rn.pofi.MainActivity-->com.tencent.connect.common.AssistActivity
+flag:
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.sina.weibo.sdk.component.WeiboSdkBrowser
+flag:
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.rn.pofi.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.astricstore.imageandvideopicker.AndroidPickerActivity-->eu.janmuller.android.simplecropimage.CropImage
+flag:
+

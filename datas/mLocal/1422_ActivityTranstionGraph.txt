@@ -1,0 +1,9 @@
+com.onexuan.coolify.flat.CoolifyFlatActivity-->com.onexuan.coolify.flat.CoolifyFlatActivity
+flag:finish
+
+com.onexuan.coolify.flat.CoolifyFlatActivity-->com.onexuan.coolify.flat.gui.HistoryActivity
+flag:
+
+com.onexuan.coolify.flat.CoolifyFlatActivity-->com.onexuan.coolify.flat.gui.SettingsActivity
+flag:
+

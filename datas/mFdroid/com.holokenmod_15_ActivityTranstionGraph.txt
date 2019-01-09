@@ -1,0 +1,9 @@
+com.holokenmod.MainActivity-->com.holokenmod.SaveGameListActivity
+flag:
+
+com.holokenmod.MainActivity-->com.holokenmod.StatsActivity
+flag:
+
+com.holokenmod.MainActivity-->com.holokenmod.SettingsActivity
+flag:
+

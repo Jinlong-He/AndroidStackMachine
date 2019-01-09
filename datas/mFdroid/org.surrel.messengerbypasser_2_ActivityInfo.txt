@@ -1,0 +1,4 @@
+activity:org.surrel.messengerbypasser.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

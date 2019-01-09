@@ -1,0 +1,15 @@
+com.puremoondeep.stpbystp.MainActivity-->com.puremoondeep.stpbystp.menu2
+flag:
+
+com.puremoondeep.stpbystp.MainActivity-->com.puremoondeep.stpbystp.menu4
+flag:
+
+com.puremoondeep.stpbystp.MainActivity-->com.puremoondeep.stpbystp.menu1
+flag:
+
+com.puremoondeep.stpbystp.MainActivity-->com.puremoondeep.stpbystp.menu3
+flag:
+
+com.puremoondeep.stpbystp.MainActivity-->com.puremoondeep.stpbystp.menu5
+flag:
+

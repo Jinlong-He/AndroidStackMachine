@@ -1,0 +1,9 @@
+com.monotype.android.font.handwritefontstylefree.MainActivity-->com.monotype.android.font.handwritefontstylefree.FontFlipActivity
+flag:
+
+com.monotype.android.font.handwritefontstylefree.SplashScreen-->com.monotype.android.font.handwritefontstylefree.frontpage
+flag:finish
+
+com.monotype.android.font.handwritefontstylefree.frontpage-->com.monotype.android.font.handwritefontstylefree.MainActivity
+flag:
+

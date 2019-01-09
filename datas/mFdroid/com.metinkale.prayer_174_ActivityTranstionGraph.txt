@@ -1,0 +1,30 @@
+com.metinkale.prayerapp.settings.BackupRestoreActivity-->com.metinkale.prayerapp.vakit.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.metinkale.prayerapp.vakit.MainStart-->com.metinkale.prayerapp.vakit.Main
+flag:finish
+
+com.metinkale.prayerapp.settings.Settings-->com.metinkale.prayerapp.settings.BackupRestoreActivity
+flag:
+
+com.metinkale.prayerapp.settings.Settings-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.metinkale.prayerapp.about.AboutAct-->com.metinkale.prayerapp.hadis.Main
+flag:
+
+com.metinkale.prayerapp.vakit.AddCityLegacy-->com.metinkale.prayerapp.vakit.AddCity
+flag:finish
+
+com.metinkale.prayerapp.vakit.Main-->com.metinkale.prayerapp.vakit.AddCity
+flag:
+
+com.metinkale.prayerapp.compass.Main-->com.metinkale.prayerapp.compass.LocationPicker
+flag:
+
+com.metinkale.prayerapp.vakit.AddCity-->com.metinkale.prayerapp.vakit.AddCityLegacy
+flag:finish
+
+com.metinkale.prayerapp.calendar.Main-->com.metinkale.prayerapp.calendar.WebViewActivity
+flag:
+

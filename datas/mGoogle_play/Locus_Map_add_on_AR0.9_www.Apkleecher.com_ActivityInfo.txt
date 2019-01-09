@@ -1,0 +1,4 @@
+activity:com.asamm.locus.addon.ar.MainActivity
+LaunchMode:std
+TaskAffinity:null
+

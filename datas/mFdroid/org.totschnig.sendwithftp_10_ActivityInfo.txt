@@ -1,0 +1,10 @@
+#MAIN
+activity:.UriList
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.FtpTransfer
+LaunchMode:std
+TaskAffinity:null
+

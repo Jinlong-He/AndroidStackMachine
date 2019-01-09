@@ -1,0 +1,10 @@
+#MAIN
+activity:com.mustafaali.sensorssandbox.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.mustafaali.sensorssandbox.activity.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

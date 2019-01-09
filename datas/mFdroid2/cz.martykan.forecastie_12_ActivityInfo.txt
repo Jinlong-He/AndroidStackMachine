@@ -1,0 +1,10 @@
+#MAIN
+activity:cz.martykan.forecastie.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:cz.martykan.forecastie.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

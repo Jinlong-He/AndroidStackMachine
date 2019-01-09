@@ -1,0 +1,6 @@
+.About-->com.Moco.Play
+flag:finish
+
+.MocoTruthOrDare-->com.Moco.Play
+flag:
+

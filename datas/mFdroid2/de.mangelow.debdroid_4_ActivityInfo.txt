@@ -1,0 +1,14 @@
+#MAIN
+activity:de.mangelow.debdroid.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.mangelow.debdroid.DetailsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.mangelow.debdroid.OptionsActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,9 @@
+com.novitap.backgrounds3d.activities.SplashActivity-->com.novitap.backgrounds3d.activities.MainActivity
+flag:finish
+
+com.novitap.backgrounds3d.activities.MainActivity-->com.novitap.backgrounds3d.activities.BundlePreviewActivity
+flag:
+
+com.novitap.backgrounds3d.activities.MainActivity-->com.novitap.backgrounds3d.activities.InfoActivity
+flag:
+

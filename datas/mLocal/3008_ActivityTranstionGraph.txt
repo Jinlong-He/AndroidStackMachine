@@ -1,0 +1,9 @@
+.lma-->cn.com.landray.imagecrop.CropImage
+flag:
+
+cn.com.landray.kits.UpdateActivity-->cn.com.landray.kits.DownLoadActivity
+flag:finish
+
+cn.com.landray.kits.LMSoftwareVersion-->cn.com.landray.kits.UpdateActivity
+flag:
+

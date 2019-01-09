@@ -1,0 +1,10 @@
+#MAIN
+activity:com.prhlt.aemus.Read4SpeechExperiments.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.prhlt.aemus.Read4SpeechExperiments.settings
+LaunchMode:std
+TaskAffinity:null
+

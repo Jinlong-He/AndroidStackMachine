@@ -1,0 +1,3 @@
+com.jensdriller.contentproviderhelper.ui.activity.MainActivity-->com.jensdriller.contentproviderhelper.ui.activity.ResultActivity
+flag:
+

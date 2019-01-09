@@ -1,0 +1,6 @@
+ca.rmen.android.frcwidget.FRCPopupActivity-->ca.rmen.android.frccommon.FRCAboutActivity
+flag:finish
+
+ca.rmen.android.frccommon.FRCConverterActivity-->ca.rmen.android.frccommon.prefs.FRCPreferenceActivity
+flag:
+

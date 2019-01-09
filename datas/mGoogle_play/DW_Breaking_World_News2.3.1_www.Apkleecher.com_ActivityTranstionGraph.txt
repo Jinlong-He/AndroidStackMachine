@@ -1,0 +1,87 @@
+de.dw.mobile.activities.CastDeepLinkActivity-->de.dw.mobile.activities.SplashActivity
+flag:finish
+
+de.dw.mobile.activities.CastDeepLinkActivity-->de.dw.mobile.activities.DetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+de.dw.mobile.activities.CastDeepLinkActivity-->de.dw.mobile.activities.MediaActivity
+flag:finish
+
+de.dw.mobile.activities.FullscreenImageActivity-->de.dw.mobile.activities.FullscreenImageActivity
+flag:
+
+de.dw.mobile.activities.SplashActivity-->de.dw.mobile.activities.HomeActivity
+flag:finish
+
+de.dw.mobile.activities.SplashActivity-->de.dw.mobile.activities.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+de.dw.mobile.activities.MediaActivity-->de.dw.mobile.activities.HomeActivity
+flag:
+
+de.dw.mobile.activities.SearchActivity-->de.dw.mobile.activities.DetailActivity
+flag:
+
+de.dw.mobile.activities.SearchActivity-->de.dw.mobile.activities.SearchFilterActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+de.dw.mobile.activities.SearchActivity-->de.dw.mobile.activities.SearchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.HomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  FLAG_ACTIVITY_TASK_ON_HOME  finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.HomeActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.HomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_TASK_ON_HOME  finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.HomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.HomeActivity
+flag:FLAG_ACTIVITY_TASK_ON_HOME  finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.DetailActivity
+flag:finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.DeeplinkActivity
+flag:finish
+
+de.dw.mobile.activities.DeeplinkActivity-->de.dw.mobile.activities.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+de.dw.mobile.activities.FullscreenGalleryActivity-->de.dw.mobile.activities.FullscreenGalleryActivity
+flag:
+
+de.dw.mobile.activities.SearchFilterActivity-->de.dw.mobile.activities.SearchActivity
+flag:
+
+de.dw.mobile.activities.HomeActivity-->de.dw.mobile.activities.DetailActivity
+flag:
+
+de.dw.mobile.activities.HomeActivity-->de.dw.mobile.activities.DeeplinkActivity
+flag:
+
+de.dw.mobile.activities.HomeActivity-->de.dw.mobile.activities.FileUploadActivity
+flag:
+
+de.dw.mobile.activities.HomeActivity-->de.dw.mobile.activities.FileUploadInfoActivity
+flag:
+
+de.dw.mobile.activities.HomeActivity-->unknown
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+de.dw.mobile.activities.WebViewActivity-->de.dw.mobile.activities.HomeActivity
+flag:
+
+de.dw.mobile.activities.WebViewActivity-->de.dw.mobile.activities.WebViewActivity
+flag:
+
+de.dw.mobile.activities.DetailActivity-->de.dw.mobile.activities.HomeActivity
+flag:
+
+de.dw.mobile.activities.DetailActivity-->de.dw.mobile.activities.DeeplinkActivity
+flag:
+

@@ -1,0 +1,3 @@
+org.sufficientlysecure.ical.ui.MainActivity-->org.sufficientlysecure.ical.ui.SettingsActivity
+flag:
+

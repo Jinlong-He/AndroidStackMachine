@@ -1,0 +1,3 @@
+com.yubico.yubioath.MainActivity-->com.yubico.yubioath.MainActivity
+flag:
+

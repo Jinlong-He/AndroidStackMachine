@@ -1,0 +1,6 @@
+.setOPActivity-->com.Feng.LingCodeLockLockScreen.GameActivity
+flag:
+
+.LingCodeLockLockScreen-->com.Feng.LingCodeLockLockScreen.setOPActivity
+flag:
+

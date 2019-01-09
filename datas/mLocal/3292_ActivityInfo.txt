@@ -1,0 +1,14 @@
+#MAIN
+activity:com.meimei20091013.CADShiYongJiQiao20121113.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.meimei20091013.CADShiYongJiQiao20121113.ContentActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

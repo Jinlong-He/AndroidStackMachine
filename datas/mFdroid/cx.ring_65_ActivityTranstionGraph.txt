@@ -1,0 +1,18 @@
+cx.ring.client.ConversationActivity-->cx.ring.client.HomeActivity
+flag:finish
+
+cx.ring.client.HomeActivity-->cx.ring.client.ConversationActivity
+flag:
+
+cx.ring.client.HomeActivity-->cx.ring.client.AccountWizard
+flag:
+
+cx.ring.client.HomeActivity-->cx.ring.client.CallActivity
+flag:
+
+cx.ring.client.QRCodeScannerActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_DOCUMENT  
+
+cx.ring.client.CallActivity-->cx.ring.client.HomeActivity
+flag:
+

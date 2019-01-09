@@ -1,0 +1,10 @@
+#MAIN
+activity:de.meonwax.soundboard.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.meonwax.soundboard.activity.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

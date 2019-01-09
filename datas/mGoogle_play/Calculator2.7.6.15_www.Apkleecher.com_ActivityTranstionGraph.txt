@@ -1,0 +1,75 @@
+ContactsSMS-->CN.MyPrivateMessages.CalculatorS
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+SMSChat-->.CalculatorS
+flag:
+
+SMSChat-->CN.MyPrivateMessages.CalculatorS
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.CalculatorS-->CN.MyPrivateMessages.Main
+flag:finish
+
+.CalculatorS-->CN.MyPrivateMessages.Setting.ResetPasswordDialog
+flag:
+
+.CalculatorS-->CN.MyPrivateMessages.Setting.APasswordDialog
+flag:
+
+SMSSend-->CN.MyPrivateMessages.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+SMSSend-->CN.MyPrivateMessages.CalculatorS
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.Setting.InputPasswordDialog-->CN.MyPrivateMessages.Main
+flag:
+
+.MMSCreate-->CN.MyPrivateMessages.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+QuickHelp-->CN.MyPrivateMessages.CalculatorS
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+QuickHelp-->CN.MyPrivateMessages.Service.MMSService
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED  finish
+
+QuickHelp-->CN.MyPrivateMessages.CalculatorS
+flag:finish
+
+.Setting.SettingDialog-->CN.MyPrivateMessages.CalculatorS
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+.Calculator-->CN.MyPrivateMessages.Main
+flag:finish
+
+.Calculator-->CN.MyPrivateMessages.Setting.ResetPasswordDialog
+flag:
+
+.Calculator-->CN.MyPrivateMessages.Setting.APasswordDialog
+flag:
+
+.Setting.EditRuleDialog-->.CalculatorS
+flag:
+
+Main-->CN.MyPrivateMessages.QuickHelp
+flag:
+
+Main-->CN.MyPrivateMessages.CalculatorS
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  finish
+
+Main-->CN.MyPrivateMessages.Setting.EditRuleDialog
+flag:
+
+Main-->CN.MyPrivateMessages.SMSChat
+flag:
+
+Main-->CN.MyPrivateMessages.CalculatorS
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+MMSChat-->.CalculatorS
+flag:
+
+MMSChat-->CN.MyPrivateMessages.ShowMMS
+flag:
+

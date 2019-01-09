@@ -1,0 +1,15 @@
+org.mistergroup.muzutozvednout.activities.splash.SplashScreenActivity-->org.mistergroup.muzutozvednout.activities.welcome.WelcomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.mistergroup.muzutozvednout.activities.splash.SplashScreenActivity-->org.mistergroup.muzutozvednout.activities.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.mistergroup.muzutozvednout.activities.number_detail.NumberDetailActivity-->org.mistergroup.muzutozvednout.activities.number_rating.NumberRatingActivity
+flag:
+
+org.mistergroup.muzutozvednout.activities.welcome.WelcomeActivity-->org.mistergroup.muzutozvednout.activities.main.MainActivity
+flag:finish
+
+org.mistergroup.muzutozvednout.activities.promo.PromoActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

@@ -1,0 +1,21 @@
+com.ypyproductions.martplayer.SplashActivity-->com.ypyproductions.martplayer.MainActivity
+flag:finish
+
+com.ypyproductions.martplayer.SplashActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:
+
+com.ypyproductions.martplayer.ShowUrlActivity-->com.ypyproductions.martplayer.SplashActivity
+flag:finish
+
+com.ypyproductions.martplayer.MainActivity-->com.ypyproductions.martplayer.ShowUrlActivity
+flag:
+
+com.ypyproductions.martplayer.MainActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  FLAG_ACTIVITY_SINGLE_TOP  FLAG_FROM_BACKGROUND  
+
+com.ypyproductions.martplayer.MainActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+

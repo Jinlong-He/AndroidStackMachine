@@ -1,0 +1,66 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+
+com.applovin.adview.AppLovinInterstitialActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+
+com.timmystudios.redrawkeyboard.app.main.PreMainActivity-->unknown
+flag:finish
+
+com.timmystudios.redrawkeyboard.LauncherActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:finish
+
+com.timmystudios.redrawkeyboard.LauncherActivity-->com.timmystudios.redrawkeyboard.app.main.SplashActivity
+flag:finish
+
+com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity-->unknown
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.android.inputmethod.keyboard.emoji.ShareStickerActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+
+com.android.inputmethod.keyboard.emoji.ShareStickerActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.timmystudios.redrawkeyboard.app.main.MainActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+
+com.timmystudios.redrawkeyboard.app.main.MainActivity-->com.timmystudios.redrawkeyboard.app.setup.SetupActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.timmystudios.redrawkeyboard.app.main.SplashActivity-->com.timmystudios.redrawkeyboard.app.setup.SetupActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.timmystudios.redrawkeyboard.app.main.SplashActivity-->com.timmystudios.redrawkeyboard.app.setup.SetupActivity
+flag:finish
+
+com.timmystudios.redrawkeyboard.app.setup.SetupActivity-->unknown
+flag:finish
+
+com.timmystudios.redrawkeyboard.app.wallpaper.WallpaperActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.supersonicads.sdk.controller.OpenUrlActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:finish
+
+com.timmystudios.redrawkeyboard.app.details.PreDetailsActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.inmobi.rendering.InMobiAdActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.timmystudios.redrawkeyboard.app.main.SetupGoogleActivity-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+
+com.timmystudios.redrawkeyboard.app.details.DetailsActivityThemes-->com.timmystudios.redrawkeyboard.app.main.DeepLinksActivity
+flag:
+

@@ -1,0 +1,9 @@
+com.overlook.android.fing.ui.fingbox.FingboxOnboardingActivity-->com.overlook.android.fing.ui.ConfigurationActivity
+flag:
+
+com.overlook.android.fing.ui.fingbox.FingboxDeviceAssignmentActivity-->com.theartofdev.edmodo.cropper.CropImageActivity
+flag:
+
+com.overlook.android.fing.ui.fingbox.FingboxContactListActivity-->com.overlook.android.fing.ui.fingbox.FingboxDeviceAssignmentActivity
+flag:FLAG_ACTIVITY_FORWARD_RESULT  finish
+

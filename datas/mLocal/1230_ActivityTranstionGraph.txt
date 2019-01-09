@@ -1,0 +1,39 @@
+com.lotte.lottedutyfreeChina.WebViewActivity-->com.lotte.lottedutyfreeChina.PopupActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.lotte.lottedutyfreeChina.WebViewActivity-->com.lotte.lottedutyfreeChina.AgreePushPopupActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  
+
+com.lotte.lottedutyfreeChina.WebViewActivity-->com.lotte.lottedutyfreeChina.LotteDutyfreeActivity
+flag:
+
+com.lotte.lottedutyfreeChina.WebViewActivity-->com.lotte.lottedutyfreeChina.PopupBannerActivity
+flag:FLAG_ACTIVITY_BROUGHT_TO_FRONT  FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.lotte.lottedutyfreeChina.WebViewActivity-->com.lotte.lottedutyfreeChina.coupon.CouponActivity
+flag:
+
+com.lotte.lottedutyfreeChina.PopupActivity-->com.lotte.lottedutyfreeChina.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.pms.sdk.push.PushPopupActivity-->com.lotte.lottedutyfreeChina.LotteDutyfreeActivity
+flag:
+
+com.lotte.lottedutyfreeChina.LotteDutyfreeActivity-->com.lotte.lottedutyfreeChina.LotteDutyfreeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.lotte.lottedutyfreeChina.LotteDutyfreeActivity-->com.lotte.lottedutyfreeChina.WebViewActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.alipay.sdk.auth.AuthActivity-->com.lotte.lottedutyfreeChina.LotteDutyfreeActivity
+flag:
+
+com.google.zxing.client.android.CaptureActivity-->com.lotte.lottedutyfreeChina.InputBarCodeActivity
+flag:
+
+com.lotte.lottedutyfreeChina.TransActivity-->com.lotte.lottedutyfreeChina.PopupActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.lotte.lottedutyfreeChina.MsgboxPopupActivity-->com.lotte.lottedutyfreeChina.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+

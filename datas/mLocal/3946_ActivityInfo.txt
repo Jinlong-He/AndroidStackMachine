@@ -1,0 +1,6 @@
+#MAIN
+activity:com.tencent.qlauncher.theme.ThemeDetailActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

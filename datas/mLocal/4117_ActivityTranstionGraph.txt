@@ -1,0 +1,15 @@
+.Start-->com.ilwp.oceanaqarium.Preview
+flag:
+
+com.a.s.a.list3d.List3DActivity-->com.a.s.a.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+.Settings-->com.ilwp.oceanaqarium.StartPuzzle
+flag:
+
+.Settings-->com.ilwp.oceanaqarium.Preview
+flag:
+
+.Preview-->com.ilwp.oceanaqarium.StartPuzzle
+flag:finish
+

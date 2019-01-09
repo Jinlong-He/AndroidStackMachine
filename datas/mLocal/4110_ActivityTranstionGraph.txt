@@ -1,0 +1,15 @@
+.InfoActivity-->com.keyboardplus.cute.MainActivity
+flag:finish
+
+.MainActivity-->com.keyboardplus.cute.KRateActivity
+flag:
+
+.MainActivity-->.wallpaper
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_CLEAR_TASK  
+
+.MainActivity-->com.keyboardplus.cute.KDownloadActivity
+flag:
+
+.MainActivity-->com.keyboardplus.cute.wallpaper
+flag:
+

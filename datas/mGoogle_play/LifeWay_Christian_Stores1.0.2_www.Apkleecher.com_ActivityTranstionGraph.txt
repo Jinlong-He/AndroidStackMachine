@@ -1,0 +1,9 @@
+com.lifeway.christianstores.Startup-->com.lifeway.christianstores.FirstSelectLocation
+flag:finish
+
+com.lifeway.christianstores.Startup-->com.lifeway.christianstores.PrimaryActivity
+flag:finish
+
+com.lifeway.christianstores.FirstSelectLocation-->com.lifeway.christianstores.PrimaryActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:VPlug
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

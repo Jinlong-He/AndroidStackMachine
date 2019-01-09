@@ -1,0 +1,10 @@
+#MAIN
+activity:com.sorasu.cameralib.MikutureActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.nifty.cloud.mb.ncmbgcmplugin.NCMBDialogActivity
+LaunchMode:sit
+TaskAffinity:null
+

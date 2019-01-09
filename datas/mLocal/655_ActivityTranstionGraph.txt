@@ -1,0 +1,15 @@
+com.kuguo.ad.BoutiqueActivity-->com.kuguo.ad.MainActivity
+flag:
+
+com.yjfsdk.advertSdk.AdverWallActivity-->com.yjfsdk.advertSdk.AdverWallActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.peeper-->com.yjfsdk.advertSdk.AdverCheckActivity
+flag:
+
+.peeper-->com.yjfsdk.advertSdk.AdverWallActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yjfsdk.advertSdk.AdverCheckActivity-->com.yjfsdk.advertSdk.AdverCheckActivity
+flag:
+

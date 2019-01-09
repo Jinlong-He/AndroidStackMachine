@@ -1,0 +1,6 @@
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.example.administrator.pdfread.MainActivity-->com.appsgeyser.sdk.AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

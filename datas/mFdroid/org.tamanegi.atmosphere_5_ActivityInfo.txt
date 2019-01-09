@@ -1,0 +1,6 @@
+#MAIN
+activity:org.tamanegi.atmosphere.AtmosphereActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

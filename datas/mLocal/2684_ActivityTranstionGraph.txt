@@ -1,0 +1,12 @@
+com.virtualdroid.loc.Home-->com.virtualdroid.loc.Turtab
+flag:
+
+com.virtualdroid.loc.Home-->com.virtualdroid.loc.Virtualpad
+flag:
+
+com.virtualdroid.loc.Home-->com.virtualdroid.loc.IPaytab
+flag:
+
+com.virtualdroid.loc.Home-->com.virtualdroid.loc.Aboutab
+flag:
+

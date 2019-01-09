@@ -1,0 +1,14 @@
+#MAIN
+activity:com.jensdriller.contentproviderhelper.ui.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.jensdriller.contentproviderhelper.ui.activity.ResultActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.jensdriller.contentproviderhelper.ui.activity.PreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

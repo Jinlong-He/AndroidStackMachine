@@ -1,0 +1,48 @@
+com.antutu.benchmark.activity.ScoreBenchActivity-->com.antutu.ABenchMark.ABenchMarkStart
+flag:
+
+com.antutu.benchmark.averify.activity.ActivityVerifySuccess-->com.antutu.benchmark.activity.CommentActivity
+flag:
+
+com.antutu.utils.widget.WebBrowserActivity-->com.antutu.utils.widget.WebBrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.antutu.redacc.activity.OptimizeActivity-->com.antutu.redacc.activity.MainActivity
+flag:finish
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.benchmark.activity.TestResultActivity
+flag:
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.benchmark.activity.DetailScoreActivity
+flag:
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.ABenchMark.ABenchMarkStart
+flag:finish
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.benchmark.activity.WizardActivity
+flag:
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.utils.widget.WebBrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.benchmark.activity.ScoreBenchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.benchmark.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.benchmark.activity.ExposureDetailActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.antutu.benchmark.activity.MainActivity-->com.antutu.benchmark.activity.ExposureActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.antutu.ABenchMark.ABenchMarkStart-->com.antutu.benchmark.activity.MainActivity
+flag:finish
+
+com.antutu.benchmark.activity.RootIntroActivity-->com.antutu.utils.widget.WebBrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.antutu.benchmark.activity.WebViewActivity-->com.antutu.benchmark.activity.WebViewActivity
+flag:
+

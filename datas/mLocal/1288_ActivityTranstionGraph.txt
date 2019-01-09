@@ -1,0 +1,12 @@
+com.mgyun.rootmaster.ui.MainActivity-->com.mgyun.rootmaster.ui.SettingActivity
+flag:
+
+com.mgyun.rootmaster.ui.SettingActivity-->com.mgyun.rootmaster.ui.FeedbackActivity
+flag:
+
+com.mgyun.rootmaster.ui.SettingActivity-->unknown
+flag:
+
+.ui.base.CommonActivity-->com.mgyun.rootmaster.ui.base.CommonActivity
+flag:
+

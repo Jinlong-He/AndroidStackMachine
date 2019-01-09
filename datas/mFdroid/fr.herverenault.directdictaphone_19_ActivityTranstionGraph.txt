@@ -1,0 +1,6 @@
+fr.herverenault.directdictaphone.DirectDictaphone-->fr.herverenault.directdictaphone.NotesList
+flag:
+
+fr.herverenault.directdictaphone.DirectDictaphone-->fr.herverenault.directdictaphone.Preferences
+flag:
+

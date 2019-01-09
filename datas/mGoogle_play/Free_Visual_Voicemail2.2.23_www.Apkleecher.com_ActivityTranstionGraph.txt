@@ -1,0 +1,12 @@
+fr.freemobile.android.vvm.customui.activities.CustomUiPlayerActivity-->fr.freemobile.android.vvm.customui.activities.HpAutoTutoActivity
+flag:
+
+fr.freemobile.android.vvm.customui.activities.CustomUiActionBarActivity-->fr.freemobile.android.vvm.customui.activities.CustomUiPlayerActivity
+flag:
+
+fr.freemobile.android.vvm.customui.activities.CustomUiActionBarActivity-->fr.freemobile.android.vvm.customui.activities.VVMPreferencesActivity
+flag:
+
+fr.freemobile.android.vvm.customui.launchscreens.FirstLaunchActivity-->fr.freemobile.android.vvm.customui.activities.CustomUiActionBarActivity
+flag:finish
+

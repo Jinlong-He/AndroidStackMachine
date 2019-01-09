@@ -1,0 +1,3 @@
+ch.ihdg.calendarcolor.CalendarListActivity-->ch.ihdg.calendarcolor.ColorPickerActivity
+flag:
+

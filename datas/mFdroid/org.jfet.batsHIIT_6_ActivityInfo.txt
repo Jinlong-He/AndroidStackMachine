@@ -1,0 +1,10 @@
+#MAIN
+activity:org.jfet.batsHIIT.HIITMain
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.jfet.batsHIIT.HIITRun
+LaunchMode:std
+TaskAffinity:null
+

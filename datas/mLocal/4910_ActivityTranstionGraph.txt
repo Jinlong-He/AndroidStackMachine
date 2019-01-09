@@ -1,0 +1,15 @@
+com.slanissue.apps.mobile.childrensrhyme.poetry.BaiduVideoPlayerActivity-->unknown
+flag:
+
+com.slanissue.apps.mobile.childrensrhyme.poetry.HomeActivity-->unknown
+flag:
+
+com.slanissue.apps.mobile.childrensrhyme.poetry.StartingActivity-->unknown
+flag:
+
+com.slanissue.apps.mobile.childrensrhyme.poetry.VideoPlayerActivity-->unknown
+flag:
+
+.GuideActivity-->unknown
+flag:
+

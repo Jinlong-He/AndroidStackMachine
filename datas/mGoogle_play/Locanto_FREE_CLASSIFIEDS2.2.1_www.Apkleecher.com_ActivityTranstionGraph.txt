@@ -1,0 +1,3 @@
+com.adobe.phonegap.push.PushHandlerActivity-->de.locanto.app.MainActivity
+flag:
+

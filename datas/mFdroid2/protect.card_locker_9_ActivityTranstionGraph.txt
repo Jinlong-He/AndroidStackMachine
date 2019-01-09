@@ -1,0 +1,12 @@
+protect.card_locker.MainActivity-->protect.card_locker.LoyaltyCardViewActivity
+flag:
+
+protect.card_locker.MainActivity-->protect.card_locker.ImportExportActivity
+flag:
+
+protect.card_locker.LoyaltyCardViewActivity-->protect.card_locker.LoyaltyCardViewActivity
+flag:finish
+
+protect.card_locker.LoyaltyCardViewActivity-->protect.card_locker.BarcodeSelectorActivity
+flag:
+

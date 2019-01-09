@@ -1,0 +1,66 @@
+com.amazon.sellermobile.android.debug.DebugContextActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.debug.DebugWebFragmentActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.amazon.sellermobile.android.debug.DebugWebFragmentActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.pushnotification.PushNotificationRoutingActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.amazon.sellermobile.android.pushnotification.PushNotificationRoutingActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.pushnotification.PushNotificationRoutingActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.amazon.sellermobile.android.flow.FlowEntryActivity-->com.amazon.sellermobile.android.flow.FlowCameraActivity
+flag:
+
+com.amazon.sellermobile.android.startup.WelcomeScreenActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.debug.DebugCacheActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.debug.DebugMerchantActivity-->com.amazon.sellermobile.android.startup.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.amazon.sellermobile.android.SellerActivity-->com.amazon.sellermobile.android.flow.FlowEntryActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.amazon.sellermobile.android.SellerActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.amazon.sellermobile.android.SellerActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.debug.DebugNativeViewActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.auth.PreLoginActivity-->com.amazon.sellermobile.android.auth.AuthActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.amazon.sellermobile.android.debug.DebugA9ImageCaptureActivity-->com.amazon.sellermobile.android.flow.FlowEntryActivity
+flag:finish
+
+com.amazon.sellermobile.android.debug.DebugListActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.debug.DebugWebViewActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.debug.DebugCordovaTestActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.auth.AuthActivity-->com.amazon.sellermobile.android.startup.StartupActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.amazon.sellermobile.android.auth.AuthActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:
+
+com.amazon.sellermobile.android.auth.AuthActivity-->com.amazon.sellermobile.android.stack.StackActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,33 @@
+com.example.livenessproject.ResultActivity-->com.example.livenessproject.ResultActivity
+flag:
+
+com.example.livenessproject.ResultActivity-->com.example.livenessproject.LoadingActivity
+flag:
+
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.jpush.android.ui.PopWinActivity-->com.example.jdk.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.shareApi.WXEntryActivity-->com.example.jdk.MainActivity
+flag:
+
+com.megvii.idcardlib.IDCardScanActivity-->com.megvii.idcardlib.IDCardScanActivity
+flag:
+
+cn.jpush.android.ui.PushActivity-->com.example.jdk.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.megvii.idcardproject.LoadingActivity-->com.megvii.idcardproject.ResultActivity
+flag:
+
+com.megvii.idcardproject.LoadingActivity-->com.megvii.idcardlib.IDCardScanActivity
+flag:
+
+com.yintong.secure.activity.BaseActivity-->com.example.jdk.MainActivity
+flag:
+
+com.yintong.secure.activity.BaseActivity-->com.yintong.secure.activity.BaseActivity
+flag:
+

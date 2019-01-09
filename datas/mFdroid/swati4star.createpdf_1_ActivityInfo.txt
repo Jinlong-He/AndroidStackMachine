@@ -1,0 +1,10 @@
+activity:com.gun0912.tedpicker.ImagePickerActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:swati4star.createpdf.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

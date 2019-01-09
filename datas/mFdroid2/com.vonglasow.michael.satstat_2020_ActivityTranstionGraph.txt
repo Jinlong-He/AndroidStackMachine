@@ -1,0 +1,9 @@
+com.vonglasow.michael.satstat.MainActivity-->com.vonglasow.michael.satstat.SettingsActivity
+flag:
+
+com.vonglasow.michael.satstat.MainActivity-->com.vonglasow.michael.satstat.LegendActivity
+flag:
+
+com.vonglasow.michael.satstat.MainActivity-->com.vonglasow.michael.satstat.AboutActivity
+flag:
+

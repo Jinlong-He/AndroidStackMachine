@@ -1,0 +1,15 @@
+com.simplemobiletools.draw.activities.SplashActivity-->com.simplemobiletools.draw.activities.MainActivity
+flag:finish
+
+com.simplemobiletools.draw.activities.SettingsActivity-->com.simplemobiletools.commons.activities.CustomizationActivity
+flag:
+
+com.simplemobiletools.commons.activities.AboutActivity-->com.simplemobiletools.commons.activities.LicenseActivity
+flag:
+
+com.simplemobiletools.draw.activities.MainActivity-->com.simplemobiletools.draw.activities.SettingsActivity
+flag:
+
+com.simplemobiletools.draw.activities.MainActivity-->com.simplemobiletools.commons.activities.AboutActivity
+flag:
+

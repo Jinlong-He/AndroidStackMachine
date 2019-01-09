@@ -1,0 +1,63 @@
+com.cube.arc.blood.SiebelDownActivity-->com.cube.arc.blood.LandingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.cube.arc.blood.LandingActivity-->com.cube.arc.blood.MainActivity
+flag:finish
+
+com.cube.arc.blood.signup.SignupCompleteActivity-->com.cube.arc.blood.appointment.AppointmentWizardActivity
+flag:finish
+
+com.cube.arc.blood.BootActivity-->com.cube.arc.blood.MainActivity
+flag:finish
+
+com.cube.arc.blood.BootActivity-->com.cube.arc.blood.LandingActivity
+flag:finish
+
+com.cube.arc.blood.NoInformationCardActivity-->com.cube.arc.blood.appointment.AppointmentWizardActivity
+flag:finish
+
+com.cube.arc.blood.NoInformationCardActivity-->com.cube.arc.blood.UpdateInformationCardActivity
+flag:finish
+
+com.cube.arc.blood.appointment.AppointmentConfirmedActivity-->com.cube.arc.blood.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.cube.arc.blood.appointment.AppointmentNoDrivesActivity-->com.cube.arc.blood.appointment.AppointmentDriveResultsActivity
+flag:finish
+
+com.cube.arc.blood.appointment.AppointmentNoDrivesActivity-->com.cube.arc.blood.appointment.ChangeDateTimeActivity
+flag:
+
+com.cube.arc.blood.appointment.AppointmentNoDrivesActivity-->com.cube.arc.blood.appointment.ChangeLocationActivity
+flag:
+
+com.cube.arc.blood.appointment.AppointmentNoDrivesActivity-->com.cube.arc.blood.appointment.ChangeDonationTypeActivity
+flag:
+
+com.cube.arc.blood.appointment.AppointmentIneligibleErrorActivity-->com.cube.arc.blood.ManageAppointmentListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cube.arc.blood.TeamSearchActivity-->com.cube.arc.blood.LandingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.cube.arc.blood.appointment.NoAppointmentsAvailableActivity-->com.cube.arc.blood.LandingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.cube.arc.blood.rewards.RewardThankYouActivity-->com.cube.arc.blood.appointment.AppointmentWizardActivity
+flag:finish
+
+com.cube.arc.blood.MainActivity-->com.cube.arc.blood.appointment.AppointmentWizardActivity
+flag:
+
+com.cube.arc.blood.MainActivity-->com.cube.arc.blood.LandingActivity
+flag:finish
+
+com.cube.arc.blood.MainActivity-->com.cube.arc.blood.EditProfileActivity
+flag:
+
+com.cube.arc.blood.MainActivity-->com.cube.arc.blood.SettingsActivity
+flag:
+
+com.cube.arc.blood.MainActivity-->com.cube.arc.blood.NotificationSettingsActivity
+flag:
+

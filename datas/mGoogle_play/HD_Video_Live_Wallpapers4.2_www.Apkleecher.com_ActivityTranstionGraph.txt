@@ -1,0 +1,3 @@
+com.fatowl.screensprofree.activity.MainActivity-->com.fatowl.screensprofree.activity.SettingsActivity
+flag:
+

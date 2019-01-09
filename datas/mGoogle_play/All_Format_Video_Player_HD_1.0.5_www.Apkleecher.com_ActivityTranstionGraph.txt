@@ -1,0 +1,36 @@
+.gui.video.VideoPlayerActivity-->player.videoaudio.hd.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.video.VideoPlayerActivity-->player.videoaudio.hd.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.gui.video.VideoPlayerActivity-->unknown
+flag:finish
+
+.gui.video.VideoPlayerActivity-->player.videoaudio.hd.gui.MainActivity
+flag:finish
+
+.gui.NativeCrashActivity-->player.videoaudio.hd.gui.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+.gui.PreferencesActivity-->player.videoaudio.hd.gui.BrowserActivity
+flag:
+
+.gui.PreferencesActivity-->player.videoaudio.hd.gui.DebugLogActivity
+flag:
+
+.gui.MainActivity-->player.videoaudio.hd.gui.PreferencesActivity
+flag:
+
+.gui.MainActivity-->.gui.video.VideoPlayerActivity
+flag:finish
+
+.gui.MainActivity-->player.videoaudio.hd.gui.SecondaryActivity
+flag:
+
+.gui.MainActivity-->player.videoaudio.hd.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+.gui.MainActivity-->player.videoaudio.hd.gui.video.VideoPlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

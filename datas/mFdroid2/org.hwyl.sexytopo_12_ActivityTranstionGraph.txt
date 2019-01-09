@@ -1,0 +1,3 @@
+org.hwyl.sexytopo.control.activity.StartUpActivity-->org.hwyl.sexytopo.control.activity.DeviceActivity
+flag:
+

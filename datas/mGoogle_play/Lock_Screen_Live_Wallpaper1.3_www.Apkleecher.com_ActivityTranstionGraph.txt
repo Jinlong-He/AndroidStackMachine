@@ -1,0 +1,12 @@
+com.MaMouer.lockscreen.StartActivity-->com.MaMouer.lockscreen.PinPreference
+flag:
+
+com.MaMouer.lockscreen.StartActivity-->com.MaMouer.lockscreen.PinPreference
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.MaMouer.lockscreen.StartActivity-->com.revmob.FullscreenActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+

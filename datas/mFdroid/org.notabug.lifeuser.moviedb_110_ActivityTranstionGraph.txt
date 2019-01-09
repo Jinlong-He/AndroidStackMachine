@@ -1,0 +1,6 @@
+org.notabug.lifeuser.moviedb.ListActivity-->org.notabug.lifeuser.moviedb.DetailActivity
+flag:
+
+org.notabug.lifeuser.moviedb.MovieActivity-->org.notabug.lifeuser.moviedb.DetailActivity
+flag:
+

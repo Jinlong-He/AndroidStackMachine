@@ -1,0 +1,15 @@
+com.vladlee.callblocker.LogViewActivity-->com.vladlee.callblocker.CallBlockerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.vladlee.callblocker.CallBlockerActivity-->com.vladlee.callblocker.CheckPermissionsActivity
+flag:finish
+
+com.vladlee.callblocker.CallBlockerActivity-->com.vladlee.callblocker.SettingsActivity
+flag:
+
+com.vladlee.callblocker.CallBlockerActivity-->com.vladlee.callblocker.WhitelistActivity
+flag:
+
+com.vladlee.callblocker.CheckPermissionsActivity-->com.vladlee.callblocker.CallBlockerActivity
+flag:finish
+

@@ -1,0 +1,21 @@
+douzifly.list.ui.home.SettingActivity-->douzifly.list.ui.home.GroupEditorActivity
+flag:
+
+douzifly.list.ui.home.SettingActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+douzifly.list.ui.home.MainActivity-->douzifly.list.ui.home.SettingActivity
+flag:
+
+douzifly.list.ui.home.MainActivity-->douzifly.list.ui.home.GroupEditorActivity
+flag:
+
+douzifly.list.ui.home.DetailActivity-->douzifly.list.ui.home.GroupEditorActivity
+flag:
+
+com.jakewharton.processphoenix.ProcessPhoenix-->douzifly.list.ui.home.MainActivity
+flag:finish
+
+com.jakewharton.processphoenix.ProcessPhoenix-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

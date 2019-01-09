@@ -1,0 +1,12 @@
+com.tsm.iqg-->com.tsm.hod
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.tsm.iqg-->com.iphonefake.LauncherActivity
+flag:
+
+com.iphonefake.LauncherActivity-->com.iphonefake.LauncherActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.iphonefake.LauncherActivity-->com.iphonefake.LauncherActivity
+flag:
+

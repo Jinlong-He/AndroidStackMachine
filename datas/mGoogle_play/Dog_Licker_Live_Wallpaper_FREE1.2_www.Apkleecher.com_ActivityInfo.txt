@@ -1,0 +1,14 @@
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.main
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:.setting
+launchMode:stp
+TaskAffinity:null
+

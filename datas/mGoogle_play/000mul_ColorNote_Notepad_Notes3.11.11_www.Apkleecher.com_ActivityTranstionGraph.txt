@@ -1,0 +1,24 @@
+com.socialnmobile.colornote.oauth.RedirectOauthReceiverActivity-->com.socialnmobile.colornote.activity.SyncActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.socialnmobile.colornote.activity.Search-->com.socialnmobile.colornote.activity.Search
+flag:finish
+
+com.socialnmobile.colornote.activity.Search-->com.socialnmobile.colornote.activity.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.socialnmobile.colornote.activity.Today-->com.socialnmobile.colornote.activity.Search
+flag:
+
+com.socialnmobile.colornote.activity.Main-->com.socialnmobile.colornote.activity.Settings
+flag:
+
+com.socialnmobile.colornote.activity.Main-->com.socialnmobile.colornote.activity.Search
+flag:
+
+com.socialnmobile.colornote.activity.SendToNoteByTitle-->com.socialnmobile.colornote.activity.Search
+flag:finish
+
+com.socialnmobile.colornote.activity.ActionReceiver-->com.socialnmobile.colornote.activity.NoteEditor
+flag:finish
+

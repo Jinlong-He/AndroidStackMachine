@@ -1,0 +1,99 @@
+com.github.mobile.ui.team.TeamViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.github.mobile.ui.ref.BranchFileViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.issue.FiltersViewActivity-->com.github.mobile.ui.user.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.gist.GistsActivity-->com.github.mobile.ui.user.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.repo.RepositoryContributorsActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.accounts.LoginActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.gist.GistFilesViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.search.SearchActivity-->com.github.mobile.ui.user.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.repo.RepositoryViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.repo.RepositoryViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.github.mobile.ui.repo.RepositoryViewActivity-->com.github.mobile.ui.UriLauncherActivity
+flag:
+
+com.github.mobile.ui.issue.EditIssueActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.commit.CommitViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.user.HomeActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.user.HomeActivity-->com.github.mobile.ui.gist.GistsActivity
+flag:
+
+com.github.mobile.ui.user.HomeActivity-->com.github.mobile.ui.issue.IssueDashboardActivity
+flag:
+
+com.github.mobile.ui.user.HomeActivity-->com.github.mobile.ui.UriLauncherActivity
+flag:
+
+com.github.mobile.ui.gist.CreateGistActivity-->com.github.mobile.ui.gist.GistsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.github.mobile.ui.gist.CreateGistActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:finish
+
+com.github.mobile.ui.notification.NotificationsListActivity-->com.github.mobile.ui.user.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.gist.GistsViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.gist.GistsViewActivity-->com.github.mobile.ui.gist.GistsActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.issue.IssueSearchActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.commit.CommitCompareViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.user.UserViewActivity-->com.github.mobile.ui.user.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.user.UserViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.issue.IssueDashboardActivity-->com.github.mobile.ui.user.HomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.commit.CommitFileViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.issue.IssuesViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.issue.IssuesViewActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.issue.IssueBrowseActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.github.mobile.ui.UriLauncherActivity-->com.github.mobile.ui.notification.NotificationsListActivity
+flag:
+
+com.github.mobile.ui.UriLauncherActivity-->com.github.mobile.ui.UriLauncherActivity
+flag:
+

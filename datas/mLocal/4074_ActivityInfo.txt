@@ -1,0 +1,14 @@
+#MAIN
+activity:com.okaytime.hundouluo2.Main
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:net.youmi.android.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:cn.domob.android.ads.DomobActivity
+LaunchMode:std
+TaskAffinity:null
+

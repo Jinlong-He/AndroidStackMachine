@@ -1,0 +1,15 @@
+com.jiubang.fastestflashlight.ui.setting.PowerManagerDialogActivity-->com.jiubang.fastestflashlight.ui.setting.PowerManagerDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jiubang.fastestflashlight.lock.LockScreenActivity-->com.jiubang.fastestflashlight.memoryclean.MemoryCleanActivity
+flag:
+
+com.jiubang.fastestflashlight.ui.setting.selectapp.NotifyAccessSettingActivity-->com.jiubang.fastestflashlight.ui.setting.selectapp.AccessibilityDialogActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.commerce.notification.main.core.HandleNotificaionClickActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.jiubang.commerce.ad.h5.H5AdActivity-->com.jiubang.commerce.ad.h5.H5AdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

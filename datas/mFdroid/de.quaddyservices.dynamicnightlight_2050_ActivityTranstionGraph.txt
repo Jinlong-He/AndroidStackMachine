@@ -1,0 +1,3 @@
+de.quaddyservices.dynamicnightlight.MainActivity-->de.quaddyservices.dynamicnightlight.SettingsActivity
+flag:
+

@@ -1,0 +1,6 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+org.fossasia.openevent.activities.MainActivity-->org.fossasia.openevent.activities.MainActivity
+flag:
+

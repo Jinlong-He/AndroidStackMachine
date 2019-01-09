@@ -1,0 +1,9 @@
+com.emisoradominicana.tv.CategoryItem-->com.emisoradominicana.tv.TvDetails
+flag:
+
+com.emisoradominicana.tv.TvDetails-->com.emisoradominicana.tv.TvPlay
+flag:
+
+com.emisoradominicana.tv.SplashActivity-->com.emisoradominicana.tv.MainActivity
+flag:finish
+

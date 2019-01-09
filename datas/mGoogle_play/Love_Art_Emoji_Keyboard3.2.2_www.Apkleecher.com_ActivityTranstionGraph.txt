@@ -1,0 +1,6 @@
+com.emojifamily.emoji.keyboard.art.love.MainActivity-->com.emojifamily.emoji.keyboard.art.love.AnalyticService
+flag:
+
+com.emojifamily.emoji.keyboard.art.love.MainActivity-->com.emojifamily.emoji.keyboard.art.love.ShuffleLoadingActivity
+flag:
+

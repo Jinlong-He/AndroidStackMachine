@@ -1,0 +1,9 @@
+.Dispatcher-->no.rkkc.bysykkel.views.Favorites
+flag:
+
+.Dispatcher-->no.rkkc.bysykkel.views.Map
+flag:
+
+.views.Favorites-->.views.Map
+flag:
+

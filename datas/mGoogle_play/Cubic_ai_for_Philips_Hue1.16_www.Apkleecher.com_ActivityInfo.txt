@@ -1,0 +1,10 @@
+#MAIN
+activity:ai.cubic.cubicthings.LoadingActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:ai.cubic.cubicthings.OnboardingActivity
+LaunchMode:std
+TaskAffinity:null
+

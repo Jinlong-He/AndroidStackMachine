@@ -1,0 +1,6 @@
+MoreSettings-->net.tedstein.AndroSS.DebugInfo
+flag:
+
+ConfigurationActivity-->net.tedstein.AndroSS.MoreSettings
+flag:
+

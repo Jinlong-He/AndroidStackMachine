@@ -1,0 +1,3 @@
+com.audiobooksnow.app.SplashScreenActivity-->com.audiobooksnow.app.MainActivity
+flag:finish
+

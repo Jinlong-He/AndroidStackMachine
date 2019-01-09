@@ -1,0 +1,14 @@
+activity:interprone.caltrain.views.Main
+LaunchMode:stk
+TaskAffinity:null
+
+#MAIN
+activity:interprone.caltrain.views.Splash
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:interprone.caltrain.views.Train
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:de.stephanlindauer.criticalmaps.Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

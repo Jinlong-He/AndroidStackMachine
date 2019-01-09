@@ -1,0 +1,15 @@
+.Configuration-->com.beadgrip.bobnote.DataBackup
+flag:
+
+.Configuration-->com.beadgrip.bobnote.DataRestore
+flag:
+
+.BobNoteActivity-->com.beadgrip.bobnote.NoteEditor
+flag:
+
+.BobNoteActivity-->com.beadgrip.bobnote.Configuration
+flag:
+
+.BobNoteActivity-->com.beadgrip.bobnote.About
+flag:
+

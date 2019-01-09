@@ -1,0 +1,3 @@
+rx_activity_result.HolderActivity-->com.baicycle.app.ui.activity.SplashActivity
+flag:
+

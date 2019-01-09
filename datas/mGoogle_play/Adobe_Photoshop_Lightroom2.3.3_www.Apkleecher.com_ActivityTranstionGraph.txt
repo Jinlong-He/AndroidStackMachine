@@ -1,0 +1,21 @@
+com.adobe.lrmobile.LrMobileActivity-->com.adobe.capturemodule.CaptureActivity
+flag:
+
+com.adobe.lrmobile.lrimport.ptpimport.PtpActivity-->com.adobe.lrmobile.LrMobileActivity
+flag:
+
+com.adobe.lrmobile.lrimport.ptpimport.PtpActivity-->com.adobe.lrmobile.lrimport.CollectionChooserActivity
+flag:
+
+com.adobe.lrmobile.LrCaptureActivity-->com.adobe.lrmobile.StorageCheckActivity
+flag:finish
+
+com.adobe.lrmobile.lrimport.importgallery.ImportGalleryActivity-->com.adobe.lrmobile.StorageCheckActivity
+flag:
+
+com.adobe.lrmobile.StorageCheckActivity-->com.adobe.lrmobile.LrMobileActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.adobe.lrmobile.StorageCheckActivity-->com.adobe.lrmobile.LrMobileActivity
+flag:finish
+

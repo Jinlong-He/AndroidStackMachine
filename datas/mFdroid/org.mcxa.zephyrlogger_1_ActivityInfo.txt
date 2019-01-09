@@ -1,0 +1,10 @@
+#MAIN
+activity:org.mcxa.zephyrlogger.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.mcxa.zephyrlogger.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

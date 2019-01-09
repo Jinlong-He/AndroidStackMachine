@@ -1,0 +1,3 @@
+.WidgetConfigure-->com.devuni.flashlight.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.google.android.launcher.StubApp
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

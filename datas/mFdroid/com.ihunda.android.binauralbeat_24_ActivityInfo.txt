@@ -1,0 +1,6 @@
+#MAIN
+activity:.BBeat
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

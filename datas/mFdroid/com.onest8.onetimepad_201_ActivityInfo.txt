@@ -1,0 +1,14 @@
+#MAIN
+activity:com.onest8.onetimepad.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.onest8.onetimepad.CaptureActivityAnyOrientation
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.journeyapps.barcodescanner.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

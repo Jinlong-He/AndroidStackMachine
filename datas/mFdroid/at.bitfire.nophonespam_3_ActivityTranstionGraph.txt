@@ -1,0 +1,3 @@
+at.bitfire.nophonespam.BlacklistActivity-->at.bitfire.nophonespam.EditNumberActivity
+flag:
+

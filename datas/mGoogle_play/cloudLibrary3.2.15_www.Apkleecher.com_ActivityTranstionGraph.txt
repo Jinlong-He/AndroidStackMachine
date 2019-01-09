@@ -1,0 +1,15 @@
+com.mmm.android.cloudlibrary.ui.navigation.FragmentChangeActivity-->com.mmm.android.cloudlibrary.ui.navigation.FragmentChangeActivity
+flag:
+
+com.mmm.android.cloudlibrary.ui.navigation.FragmentChangeActivity-->com.txtr.android.mmm.ui.intro.MmmIntroActivity
+flag:finish
+
+com.mmm.android.cloudlibrary.ui.navigation.FragmentChangeActivity-->com.mmm.android.cloudlibrary.ui.login.LoginWizard
+flag:
+
+com.txtr.android.mmm.ui.intro.MmmIntroActivity-->com.mmm.android.cloudlibrary.ui.login.LoginWizard
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.txtr.android.mmm.ui.intro.MmmIntroActivity-->com.mmm.android.cloudlibrary.ui.navigation.FragmentChangeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

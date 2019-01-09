@@ -1,0 +1,10 @@
+#MAIN
+activity:fr.avianey.compass.Compass
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+.BpsActivity-->bps.search.SearchResultActivity
+flag:
+
+com.baidu.ops.appunion.sdk.activity.AppListActivity-->.BpsActivity
+flag:
+
+com.baidu.ops.appunion.sdk.activity.AppListActivity-->.BpsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+SearchResultActivity-->bps.search.DetailItemActivity
+flag:
+

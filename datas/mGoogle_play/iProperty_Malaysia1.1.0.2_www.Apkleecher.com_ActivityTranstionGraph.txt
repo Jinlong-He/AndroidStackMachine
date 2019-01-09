@@ -1,0 +1,6 @@
+au.com.realestate.app.ui.main.MainActivity-->au.com.realestate.welcome.WelcomeScreenActivity
+flag:finish
+
+au.com.realestate.welcome.WelcomeScreenActivity-->au.com.realestate.app.ui.main.MainActivity
+flag:finish
+

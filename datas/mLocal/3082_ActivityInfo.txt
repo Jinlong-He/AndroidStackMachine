@@ -1,0 +1,10 @@
+#MAIN
+activity:com.appchina.photoalbum.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.appchina.photoalbum.ThumbnailActivity
+LaunchMode:std
+TaskAffinity:null
+

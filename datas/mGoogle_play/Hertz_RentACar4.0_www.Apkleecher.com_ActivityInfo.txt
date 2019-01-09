@@ -1,0 +1,14 @@
+#MAIN
+activity:com.hertz.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.hertz.map.HertzMapFragmentActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

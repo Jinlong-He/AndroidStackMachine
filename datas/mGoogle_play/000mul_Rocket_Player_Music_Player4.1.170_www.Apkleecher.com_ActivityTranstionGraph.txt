@@ -1,0 +1,66 @@
+com.jrtstudio.AnotherMusicPlayer.ActivityPodcast-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityComposer-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivitySearch-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityVideoView-->com.jrtstudio.AnotherMusicPlayer.ActivityVideoView
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.jrtstudio.AnotherMusicPlayer.ActivityEditTags-->com.jrtstudio.AnotherMusicPlayer.ActivityPurchaseItem
+flag:
+
+com.jrtstudio.AnotherMusicPlayer.ActivityArtist-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityLockScreen-->com.jrtstudio.AnotherMusicPlayer.ActivityLockScreen
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.jrtstudio.AnotherMusicPlayer.ActivityGenre-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser-->com.jrtstudio.AnotherMusicPlayer.ActivityPurchaseItem
+flag:
+
+com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser-->com.jrtstudio.AnotherMusicPlayer.ActivityAdItem
+flag:
+
+com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:
+
+com.jrtstudio.AnotherMusicPlayer.ActivityEQ-->com.jrtstudio.AnotherMusicPlayer.ActivityPurchaseItem
+flag:
+
+com.jrtstudio.AnotherMusicPlayer.ActivityEQ-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityPlaylist-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityAlbum-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityLaunchPresetDialog-->com.jrtstudio.AnotherMusicPlayer.ActivityLaunchPresetDialog
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.jrtstudio.AnotherMusicPlayer.SettingsActivity-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.jrtstudio.AnotherMusicPlayer.SettingsActivity-->com.jrtstudio.AnotherMusicPlayer.ActivityPurchaseItem
+flag:
+
+com.jrtstudio.AnotherMusicPlayer.SettingsActivity-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.ActivityHelp-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.jrtstudio.AnotherMusicPlayer.SettingsOSSActivity-->com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

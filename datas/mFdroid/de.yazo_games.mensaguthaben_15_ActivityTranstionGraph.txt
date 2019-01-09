@@ -1,0 +1,9 @@
+de.yazo_games.mensaguthaben.PopupActivity-->de.yazo_games.mensaguthaben.MainActivity
+flag:
+
+de.yazo_games.mensaguthaben.MainActivity-->de.yazo_games.mensaguthaben.AboutActivity
+flag:
+
+de.yazo_games.mensaguthaben.MainActivity-->de.yazo_games.mensaguthaben.SettingsActivity
+flag:
+

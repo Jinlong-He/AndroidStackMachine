@@ -1,0 +1,6 @@
+com.agateau.catgenerator.MainActivity-->com.agateau.catgenerator.AboutActivity
+flag:
+
+com.agateau.catgenerator.AboutActivity-->com.agateau.catgenerator.AboutActivity
+flag:
+

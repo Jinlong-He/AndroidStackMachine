@@ -1,0 +1,9 @@
+com.clippersync.android.plugin.activity.AuthenticationActivity-->com.clippersync.android.plugin.activity.RegistrationActivity
+flag:
+
+com.clippersync.android.plugin.activity.AuthenticationActivity-->com.clippersync.android.plugin.activity.LoginActivity
+flag:
+
+com.clippersync.android.plugin.activity.AuthenticationActivity-->com.clippersync.android.plugin.activity.GoogleLoginActivity
+flag:
+

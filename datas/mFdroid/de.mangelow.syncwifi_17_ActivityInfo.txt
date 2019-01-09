@@ -1,0 +1,6 @@
+#MAIN
+activity:.AccountsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

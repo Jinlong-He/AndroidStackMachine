@@ -1,0 +1,12 @@
+com.zsz.dizigui.MainActivity-->com.zsz.dizigui.ItemContentActivity
+flag:
+
+com.zsz.dizigui.MainActivity-->com.zsz.dizigui.DownListActivity
+flag:
+
+com.zsz.dizigui.MainActivity-->com.zsz.dizigui.ReadActivity
+flag:
+
+com.zsz.dizigui.MainActivity-->zsz.com.commonlib.AppListActivity
+flag:
+

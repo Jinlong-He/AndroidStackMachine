@@ -1,0 +1,12 @@
+in.andres.kandroid.ui.MainActivity-->in.andres.kandroid.ui.LoginActivity
+flag:
+
+in.andres.kandroid.ui.MainActivity-->in.andres.kandroid.ui.SettingsActivity
+flag:
+
+in.andres.kandroid.ui.MainActivity-->in.andres.kandroid.ui.AboutActivity
+flag:
+
+in.andres.kandroid.ui.TaskDetailActivity-->in.andres.kandroid.ui.TaskEditActivity
+flag:
+

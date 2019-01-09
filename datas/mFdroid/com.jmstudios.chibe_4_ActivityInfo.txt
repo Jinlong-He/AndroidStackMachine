@@ -1,0 +1,10 @@
+#MAIN
+activity:com.jmstudios.chibe.ChibeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.jmstudios.chibe.ChibeIntro
+LaunchMode:std
+TaskAffinity:null
+

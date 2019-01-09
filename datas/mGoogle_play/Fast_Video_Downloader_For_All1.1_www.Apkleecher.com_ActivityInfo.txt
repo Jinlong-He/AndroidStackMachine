@@ -1,0 +1,14 @@
+#MAIN
+activity:com.freeappstore.video.downloader.forall.free.FastInitialActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.freeappstore.video.downloader.forall.free.FastVideoStream
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

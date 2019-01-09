@@ -1,0 +1,10 @@
+#MAIN
+activity:de.cryptobitch.muelli.barcodegen.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.journeyapps.barcodescanner.CaptureActivity
+LaunchMode:std
+TaskAffinity:null
+

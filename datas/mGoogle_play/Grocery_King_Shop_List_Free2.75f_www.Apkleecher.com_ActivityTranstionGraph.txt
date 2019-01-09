@@ -1,0 +1,84 @@
+com.groceryking.MainActivity-->com.groceryking.EditItemActivity
+flag:
+
+com.groceryking.EditItemActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.groceryking.ImageSearchActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.groceryking.ShoppingListMainActivity-->com.groceryking.ScanResultActivity
+flag:
+
+com.groceryking.ShoppingListMainActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.groceryking.ShoppingListMainActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.groceryking.ShoppingListMainActivity-->com.groceryking.EditItemActivity
+flag:
+
+com.groceryking.PantryViewPagerActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.groceryking.PantryViewPagerActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.groceryking.PantryViewPagerActivity-->com.groceryking.EditItemActivity
+flag:
+
+com.google.zxing.client.android.HelpActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.google.zxing.client.android.HelpActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.groceryking.ImageSearchActivity2-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.groceryking.EditShoppingListActivity2-->com.groceryking.PickLocationMapActivity
+flag:
+
+com.groceryking.EditShoppingListActivity2-->com.groceryking.PickLocationSearchActivity
+flag:
+
+com.groceryking.EditShoppingListActivity2-->com.groceryking.DueTimePickerActivity
+flag:
+
+com.groceryking.EditShoppingListActivity-->com.groceryking.DueTimePickerActivity
+flag:
+
+com.groceryking.EditShoppingListActivity-->com.groceryking.PickLocationMapActivity
+flag:
+
+com.groceryking.EditShoppingListActivity-->com.groceryking.PickLocationSearchActivity
+flag:
+
+com.google.zxing.client.android.share.ShareActivity-->com.google.zxing.client.android.encode.EncodeActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.google.zxing.client.android.share.ShareActivity-->com.google.zxing.client.android.share.BookmarkPickerActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.groceryking.RecipeViewPagerActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.groceryking.SearchProductActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.google.zxing.client.android.CaptureActivity-->com.google.zxing.client.android.HelpActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  
+
+com.groceryking.CheckoutActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.groceryking.EditRewardsActivity-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+com.groceryking.ItemViewMainActivity-->com.google.zxing.client.android.CaptureActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+

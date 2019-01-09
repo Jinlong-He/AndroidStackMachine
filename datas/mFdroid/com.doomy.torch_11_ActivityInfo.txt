@@ -1,0 +1,12 @@
+activity:com.doomy.torch.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.doomy.torch.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.doomy.torch.WidgetActivity
+LaunchMode:std
+TaskAffinity:null
+

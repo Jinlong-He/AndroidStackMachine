@@ -1,0 +1,12 @@
+com.ahhl.integratedserviceplat.pay.PayActivity-->com.ahhl.integratedserviceplat.pay.WebViewAcitivity
+flag:
+
+com.ahhl.integratedserviceplat.pay.PayActivity-->com.ahhl.integratedserviceplat.pay.CCBWebViewAcitivity
+flag:
+
+com.ahhl.integratedserviceplat.video.VideoListAcitvity-->com.ahhl.integratedserviceplat.video.DdnsVideoViewActivity
+flag:
+
+com.ahhl.integratedserviceplat.MainActivity-->com.ahhl.integratedserviceplat.activitys.PersonalInfoActivity
+flag:finish
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.samsandberg.mtafarebuster.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

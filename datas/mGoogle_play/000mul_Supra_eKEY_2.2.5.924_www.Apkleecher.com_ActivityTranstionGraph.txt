@@ -1,0 +1,9 @@
+com.utc.fs.ekey.ui.EditKeyboxViewActivity-->com.utc.fs.ekey.ui.EditTextViewActivity
+flag:
+
+com.utc.fs.ekey.ui.EditKeyboxViewActivity-->com.utc.fs.ekey.ui.EditTimedAccessViewActivity
+flag:
+
+com.utc.fs.ekey.ui.AboutViewActivity-->com.utc.fs.ekey.ui.ChangePinCodeViewActivity
+flag:
+

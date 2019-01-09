@@ -1,0 +1,8 @@
+activity:com.termux.widget.TermuxCreateShortcutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.termux.widget.TermuxLaunchShortcutActivity
+LaunchMode:std
+TaskAffinity:null
+

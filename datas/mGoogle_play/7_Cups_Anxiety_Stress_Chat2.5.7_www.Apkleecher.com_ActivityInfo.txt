@@ -1,0 +1,6 @@
+#MAIN
+activity:com.sevencupsoftea.app.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,10 @@
+activity:com.github.redpanal.android.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.github.redpanal.android.SplashActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

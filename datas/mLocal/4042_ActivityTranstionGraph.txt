@@ -1,0 +1,9 @@
+.ui.activity.MainActivity-->me.imid.purekeyguard.ui.activity.SettingsActivity
+flag:
+
+com.umeng.fb.ConversationActivity-->com.umeng.fb.ContactActivity
+flag:
+
+.ui.activity.PreviewBgActivity-->me.imid.purekeyguard.ui.activity.PreviewBgActivity
+flag:
+

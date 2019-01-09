@@ -1,0 +1,123 @@
+x1.Studio.Ali.Main-->x1.Studio.Ali.FileView
+flag:
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.Start
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.VideoConfig.ConfigOnekeyWifi
+flag:
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.Video_2D
+flag:
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.Video
+flag:
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.VideoConfig.VideoConfigMenu
+flag:
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.VideoConfig.AddDevice
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.SoundWifi
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.Splash
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.VideoConfig.ConfigUpdataPwd
+flag:
+
+x1.Studio.Ali.Main-->x1.Studio.Ali.GuideActivity
+flag:
+
+x1.Studio.Ali.VideoConfig.ConfigMenciNew-->x1.Studio.Ali.SettingSelect
+flag:
+
+x1.Studio.Ali.VideoConfig.ConfigSystem-->x1.Studio.Ali.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.VideoConfig.AddDevice-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+x1.Studio.Ali.PushPopup-->x1.Studio.Ali.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.VideoConfig.ConfigOnekeyWifi-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigVideo
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigSdCard
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.QuerySdCard
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigOptions
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigMailAlarm
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigAlarm
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.SetAccessPwd
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigTelephones
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigMenci
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigWifiIp
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigCloud
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigSystem
+flag:
+
+x1.Studio.Ali.VideoConfig.VideoConfigMenu-->x1.Studio.Ali.VideoConfig.ConfigMenciNew
+flag:
+
+x1.Studio.Ali.Splash-->x1.Studio.Ali.Start
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.Splash-->x1.Studio.Ali.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.Start-->x1.Studio.Ali.ForgotPwd
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+x1.Studio.Ali.Start-->x1.Studio.Ali.VideoConfig.AddUser
+flag:
+
+x1.Studio.Ali.Start-->x1.Studio.Ali.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.Start-->com.google.zxing.client.android.CaptureActivity
+flag:
+
+x1.Studio.Ali.Start-->x1.Studio.Ali.Splash
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.VideoConfig.QuerySdCard-->x1.Studio.Ali.Video
+flag:
+
+x1.Studio.Ali.VideoConfig.ConfigSdCard-->x1.Studio.Ali.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.VideoConfig.AddUser-->x1.Studio.Ali.Start
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.VideoConfig.ConfigWifiIp-->x1.Studio.Ali.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+x1.Studio.Ali.GuideActivity-->x1.Studio.Ali.Start
+flag:finish
+

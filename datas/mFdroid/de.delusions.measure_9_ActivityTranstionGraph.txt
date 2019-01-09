@@ -1,0 +1,12 @@
+.MeasureTabs-->de.delusions.measure.MeasureFastEdit
+flag:
+
+.MeasureTabs-->de.delusions.measure.activities.prefs.UserPreferences
+flag:
+
+de.delusions.measure.MeasureActivity-->de.delusions.measure.MeasureEdit
+flag:
+
+de.delusions.measure.activities.bmi.BmiTable-->de.delusions.measure.activities.bmi.BmiCalc
+flag:
+

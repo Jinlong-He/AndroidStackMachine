@@ -1,0 +1,14 @@
+#MAIN
+activity:mixedbit.speechtrainer.view.TrainingActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:mixedbit.speechtrainer.view.TrainingPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:mixedbit.speechtrainer.view.FileViewerActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,15 @@
+.DiveProfile-->to.networld.android.divedroid.DiverProfile
+flag:
+
+.DiveCollectionList-->to.networld.android.divedroid.DiveProfile
+flag:
+
+.DiveDroid-->to.networld.android.divedroid.DiverProfile
+flag:
+
+.DiveDroid-->to.networld.android.divedroid.Settings
+flag:
+
+.DiveDroid-->to.networld.android.divedroid.DiveCollectionList
+flag:
+

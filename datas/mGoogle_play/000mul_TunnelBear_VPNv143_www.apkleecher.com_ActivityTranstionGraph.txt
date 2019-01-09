@@ -1,0 +1,24 @@
+com.tunnelbear.android.TbearSplashActivity-->com.tunnelbear.android.TbearMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+de.blinkt.openvpn.LaunchVPN-->de.blinkt.openvpn.LaunchVPN
+flag:
+
+com.tunnelbear.android.TbearMainActivity-->com.tunnelbear.android.CountrySelectActivity
+flag:
+
+com.tunnelbear.android.TbearMainActivity-->com.tunnelbear.android.RegistrationActivity
+flag:
+
+com.tunnelbear.android.TbearMainActivity-->com.tunnelbear.android.freedata.FreeDataActivity
+flag:
+
+com.tunnelbear.android.TbearMainActivity-->de.blinkt.openvpn.LaunchVPN
+flag:
+
+com.tunnelbear.android.RegistrationActivity-->de.blinkt.openvpn.LaunchVPN
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.tunnelbear.android.RegistrationActivity-->com.tunnelbear.android.wizard.WizardActivity
+flag:
+

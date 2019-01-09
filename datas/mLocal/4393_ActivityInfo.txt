@@ -1,0 +1,10 @@
+#MAIN
+activity:com.myet.MyETView
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.myet.MyETViewSettings
+LaunchMode:std
+TaskAffinity:null
+

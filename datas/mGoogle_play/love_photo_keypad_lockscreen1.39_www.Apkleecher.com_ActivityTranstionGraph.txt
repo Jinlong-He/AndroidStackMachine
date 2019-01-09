@@ -1,0 +1,9 @@
+com.lockandroi.lockscreen.photo.lovekeypad.ChangeButtonImageActivity-->com.lockandroi.lockscreen.photo.lovekeypad.CropImageUI
+flag:finish
+
+com.lockandroi.lockscreen.photo.lovekeypad.HomeActivity-->com.lockandroi.lockscreen.photo.lovekeypad.MainPreferenceActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.lockandroi.lockscreen.photo.lovekeypad.passcode.ActivityPassCodeNew-->com.lockandroi.lockscreen.photo.lovekeypad.MainPreferenceActivity
+flag:
+

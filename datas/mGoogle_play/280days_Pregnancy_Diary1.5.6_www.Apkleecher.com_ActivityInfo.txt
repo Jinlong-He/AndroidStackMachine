@@ -1,0 +1,10 @@
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:org.cocos2dx.cpp.AppActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

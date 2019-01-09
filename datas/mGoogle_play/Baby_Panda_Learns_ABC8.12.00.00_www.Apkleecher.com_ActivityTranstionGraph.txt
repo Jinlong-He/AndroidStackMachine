@@ -1,0 +1,3 @@
+com.sinyee.babybus.SplashAct-->com.sinyee.babybus.Main
+flag:finish
+

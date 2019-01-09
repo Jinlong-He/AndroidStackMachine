@@ -1,0 +1,6 @@
+#MAIN
+activity:org.godotengine.godot.Godot
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

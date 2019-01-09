@@ -1,0 +1,6 @@
+DebianKitActivity-->org.dyndns.sven_ola.debian_kit.ReadmeActivity
+flag:
+
+DebianKitActivity-->org.dyndns.sven_ola.debian_kit.DownloadActivity
+flag:
+

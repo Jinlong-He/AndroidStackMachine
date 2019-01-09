@@ -1,0 +1,48 @@
+com.scoompa.content.packs.ui.DownloadPacksCardsActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.scoompa.photosuite.games.quiz.QuizActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.appbrain.AppBrainActivity-->com.appbrain.AppBrainActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.scoompa.ads.lib.MoreAppsDialogActivity-->com.scoompa.ads.lib.OfferWallActivity
+flag:finish
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.scoompa.photosuite.editor.MainActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.scoompa.photosuite.editor.MainActivity-->com.scoompa.photosuite.editor.SettingsActivity
+flag:
+
+com.scoompa.photosuite.editor.MainActivity-->com.scoompa.photosuite.editor.AboutActivity
+flag:
+
+com.scoompa.photosuite.ads.PostShareWallActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.scoompa.photosuite.games.diffgame.DiffGameActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.scoompa.common.android.RateAppDialogActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.scoompa.common.android.RateAppDialogActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.scoompa.photosuite.editor.AboutActivity-->com.scoompa.photosuite.editor.TermsActivity
+flag:
+
+com.scoompa.photosuite.editor.AboutActivity-->com.scoompa.photosuite.editor.CreditsActivity
+flag:
+

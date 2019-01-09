@@ -1,0 +1,18 @@
+com.disney.wdpro.mdx.dcl.activities.InitializationActivity-->com.disney.wdpro.mdx.dcl.activities.WelcomeMessageActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.disney.wdpro.mdx.dcl.activities.InitializationActivity-->com.disney.wdpro.mdx.dcl.activities.InitializationActivity
+flag:
+
+com.disney.wdpro.mdx.dcl.activities.InitializationActivity-->com.disney.wdpro.mdx.dcl.activities.MainNavigationActivity
+flag:finish
+
+com.disney.wdpro.mdx.dcl.activities.MainNavigationActivity-->unknown
+flag:finish
+
+com.disney.wdpro.mdx.dcl.activities.MainNavigationActivity-->com.disney.wdpro.mdx.dcl.activities.InitializationActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.disney.wdpro.mdx.dcl.activities.WelcomeMessageActivity-->com.disney.wdpro.mdx.dcl.activities.InitializationActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

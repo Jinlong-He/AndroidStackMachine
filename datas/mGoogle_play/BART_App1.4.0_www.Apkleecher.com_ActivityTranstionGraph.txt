@@ -1,0 +1,3 @@
+com.bartapp.MainTrainsActivity-->com.bartapp.MapActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:de.baumann.thema.Screen_Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

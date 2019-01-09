@@ -1,0 +1,3 @@
+haircolor2017-->com.haircolor2017.alfdigital.AdsActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.mediamushroom.copymydata.ui.PageViewActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:.Init
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.HighScores
+LaunchMode:std
+TaskAffinity:null
+
+activity:.Game
+LaunchMode:std
+TaskAffinity:null
+

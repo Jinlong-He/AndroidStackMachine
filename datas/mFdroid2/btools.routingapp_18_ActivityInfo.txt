@@ -1,0 +1,10 @@
+#MAIN
+activity:.BRouterActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.BInstallerActivity
+LaunchMode:std
+TaskAffinity:null
+

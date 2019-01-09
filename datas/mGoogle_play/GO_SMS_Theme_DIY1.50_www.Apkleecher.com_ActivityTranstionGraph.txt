@@ -1,0 +1,30 @@
+com.jb.gosms.themeplugin.ui.activity.ThemeDetailActivity-->com.jb.gosms.themeplugin.ui.activity.MainCreateThemeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.jb.gosms.themeplugin.ui.activity.ThemeDetailActivity-->com.jb.gosms.themeplugin.ui.activity.LoadingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.jb.gosms.themeplugin.ui.activity.MainThemeListActivity-->com.jb.gosms.themeplugin.ui.activity.MainCreateThemeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jb.gosms.themeplugin.ui.activity.MainThemeListActivity-->com.jb.gosms.themeplugin.ui.activity.DiyThemeScanActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jb.gosms.themeplugin.ui.activity.MainThemeListActivity-->com.jb.gosms.themeplugin.ui.activity.ThemeDetailActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jb.gosms.themeplugin.ui.activity.DiySharePageActivity-->com.jb.gosms.themeplugin.ui.activity.MainThemeListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jb.gosms.themeplugin.ui.activity.DiySharePageActivity-->com.jb.gosms.themeplugin.ui.activity.MainCreateThemeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jb.gosms.themeplugin.ui.activity.AboutActivity-->com.jb.gosms.themeplugin.ui.activity.WebActivity
+flag:
+
+com.jb.gosms.themeplugin.ui.activity.LoadingActivity-->com.jb.gosms.themeplugin.ui.activity.LoadingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+
+com.jb.gosms.themeplugin.cropimage.CropImageActivity-->com.jb.gosms.themeplugin.ui.activity.LoadingActivity
+flag:
+

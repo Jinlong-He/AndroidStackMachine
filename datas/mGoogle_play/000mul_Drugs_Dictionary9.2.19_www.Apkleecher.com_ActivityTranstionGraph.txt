@@ -1,0 +1,24 @@
+com.calldorado.permissions.OptInActivity-->com.calldorado.permissions.OptInActivity
+flag:
+
+com.calldorado.permissions.OptInActivity-->com.calldorado.permissions.PermissionCheckActivity
+flag:
+
+com.drugsdictionary.MainActivity-->com.calldorado.android.ui.SettingsActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.drugsdictionary.MainActivity-->com.drugsdictionary.Description
+flag:
+
+com.drugsdictionary.MainActivity-->com.calldorado.permissions.OptInActivity
+flag:
+
+com.drugsdictionary.MainActivity-->com.calldorado.permissions.PermissionCheckActivity
+flag:
+
+com.calldorado.android.ui.SettingsActivity-->com.calldorado.permissions.OptInActivity
+flag:
+
+com.calldorado.android.ui.SettingsActivity-->com.calldorado.permissions.PermissionCheckActivity
+flag:
+

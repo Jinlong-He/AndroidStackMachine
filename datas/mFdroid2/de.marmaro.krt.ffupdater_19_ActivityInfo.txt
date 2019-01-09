@@ -1,0 +1,6 @@
+#MAIN
+activity:de.marmaro.krt.ffupdater.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

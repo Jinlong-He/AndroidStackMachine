@@ -1,0 +1,6 @@
+.Map-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.StartActivity-->com.gpsactions.com.Map
+flag:
+

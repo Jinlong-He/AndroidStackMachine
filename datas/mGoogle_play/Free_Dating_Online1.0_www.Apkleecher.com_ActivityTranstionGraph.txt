@@ -1,0 +1,15 @@
+com.gotmakeupto.kolot.ui.activity.LoadingScreenActivity-->com.gotmakeupto.kolot.ui.activity.WebActivity
+flag:finish
+
+com.gotmakeupto.kolot.ui.activity.LoadingScreenActivity-->com.gotmakeupto.kolot.ui.activity.MatchScreenActivity
+flag:finish
+
+com.gotmakeupto.kolot.ui.activity.MainActivity-->com.gotmakeupto.kolot.ui.activity.LoadingScreenActivity
+flag:
+
+com.gotmakeupto.kolot.ui.activity.MainActivity-->com.gotmakeupto.kolot.ui.activity.WebActivity
+flag:
+
+com.gotmakeupto.kolot.ui.activity.MatchScreenActivity-->com.gotmakeupto.kolot.ui.activity.NotificationLikeActivity
+flag:
+

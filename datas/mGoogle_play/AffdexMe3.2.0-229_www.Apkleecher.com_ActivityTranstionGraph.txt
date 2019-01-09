@@ -1,0 +1,3 @@
+com.affectiva.affdexme.MainActivity-->com.affectiva.affdexme.SettingsActivity
+flag:
+

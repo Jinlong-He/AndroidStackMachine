@@ -1,0 +1,6 @@
+com.android.email2.ui.EndOfLifeMessageActivityEmail-->com.android.mail.ui.HelpActivity
+flag:
+
+com.android.email2.ui.EndOfLifeActivityEmail-->com.android.email2.ui.EndOfLifeMessageActivityEmail
+flag:finish
+

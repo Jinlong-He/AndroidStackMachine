@@ -1,0 +1,10 @@
+#MAIN
+activity:.Rives
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:es.cell.tracker.kids.Crusts
+LaunchMode:std
+TaskAffinity:null
+

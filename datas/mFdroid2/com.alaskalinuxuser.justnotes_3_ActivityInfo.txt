@@ -1,0 +1,14 @@
+#MAIN
+activity:com.alaskalinuxuser.justnotes.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.alaskalinuxuser.justnotes.writenote
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.alaskalinuxuser.justnotes.about
+LaunchMode:std
+TaskAffinity:null
+

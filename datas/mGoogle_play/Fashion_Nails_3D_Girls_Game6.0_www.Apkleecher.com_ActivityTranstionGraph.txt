@@ -1,0 +1,6 @@
+com.Pet.Friends.Line.Match.LoadActivity-->com.Pet.Friends.Line.Match.UnityPlayerNativeActivity
+flag:finish
+
+com.ironsource.mobilcore.InterstitialVideoActivity-->com.ironsource.mobilcore.InterstitialVideoActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,54 @@
+com.rvappstudios.strobe.StrobeLight-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:
+
+com.rvappstudios.flashlight.MainActivity-->com.rvappstudios.flashlight.SocialNetwork
+flag:
+
+com.rvappstudios.flashlight.MainActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MraidVideoPlayerActivity-->com.rvappstudios.flashlight.SocialNetwork
+flag:
+
+com.rvappstudios.flashlight.SocialNetwork-->com.rvappstudios.flashlight.SocialNetwork
+flag:
+
+com.rvappstudios.flashlight.SocialNetwork-->com.rvappstudios.flashlight.SocialSharing
+flag:finish
+
+com.rvappstudios.flashlight.SocialNetwork-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.rvappstudios.flashlight.SocialNetwork
+flag:
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.millennialmedia.internal.MMIntentWrapperActivity
+flag:
+
+com.rvappstudios.flashlight.SocialSharing-->com.rvappstudios.flashlight.SocialNetwork
+flag:finish
+
+com.rvappstudios.flashlight.SocialSharing-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MoPubActivity-->com.rvappstudios.flashlight.SocialNetwork
+flag:
+
+com.rvappstudios.flashlight.MapView-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mopub.mobileads.MraidActivity-->com.rvappstudios.flashlight.SocialNetwork
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.rvappstudios.flashlight.SocialNetwork
+flag:
+
+com.inmobi.rendering.InMobiAdActivity-->com.rvappstudios.flashlight.SocialNetwork
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

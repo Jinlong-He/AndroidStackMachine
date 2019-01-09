@@ -1,0 +1,3 @@
+com.luorrak.ouroboros.thread.ThreadActivity-->com.luorrak.ouroboros.catalog.CatalogActivity
+flag:
+

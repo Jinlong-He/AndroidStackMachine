@@ -1,0 +1,6 @@
+org.billthefarmer.tuner.MainActivity-->org.billthefarmer.tuner.HelpActivity
+flag:
+
+org.billthefarmer.tuner.MainActivity-->org.billthefarmer.tuner.SettingsActivity
+flag:
+

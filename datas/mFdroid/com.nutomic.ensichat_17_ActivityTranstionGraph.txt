@@ -1,0 +1,3 @@
+com.nutomic.ensichat.activities.FirstStartActivity-->com.nutomic.ensichat.activities.MainActivity
+flag:finish
+

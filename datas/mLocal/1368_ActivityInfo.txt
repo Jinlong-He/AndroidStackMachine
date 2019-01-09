@@ -1,0 +1,14 @@
+#MAIN
+activity:com.fast.fastrouter.LaunchActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.fast.fastrouter.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.fast.fastrouter.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

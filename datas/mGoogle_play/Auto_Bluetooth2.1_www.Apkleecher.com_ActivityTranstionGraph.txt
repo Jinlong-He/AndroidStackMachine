@@ -1,0 +1,3 @@
+papers.ch.autobluetooth.main.PreMainActivity-->papers.ch.autobluetooth.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

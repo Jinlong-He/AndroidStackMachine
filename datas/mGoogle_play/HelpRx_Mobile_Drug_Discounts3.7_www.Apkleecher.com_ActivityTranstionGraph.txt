@@ -1,0 +1,9 @@
+com.tapjoy.TJAdUnitView-->com.tapjoy.TJCOffersWebView
+flag:
+
+com.tapjoy.TJAdUnitView-->com.tapjoy.TJCOffersWebView
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.tapjoy.TapjoyVideoView-->com.tapjoy.TJAdUnitView
+flag:
+

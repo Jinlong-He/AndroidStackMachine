@@ -1,0 +1,12 @@
+net.babygender.predictor.BloodActivity-->net.babygender.predictor.MainActivity
+flag:finish
+
+net.babygender.predictor.ChinessActivity-->net.babygender.predictor.MainActivity
+flag:finish
+
+net.babygender.predictor.MainActivity-->net.babygender.predictor.ChinessActivity
+flag:
+
+net.babygender.predictor.MainActivity-->net.babygender.predictor.BloodActivity
+flag:
+

@@ -1,0 +1,3 @@
+de.shandschuh.slightbackup.BackupActivity-->de.shandschuh.slightbackup.ApplicationPreferencesActivity
+flag:
+

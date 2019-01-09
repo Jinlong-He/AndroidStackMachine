@@ -1,0 +1,14 @@
+#MAIN
+activity:com.gunshippenguin.openflood.GameActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.gunshippenguin.openflood.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.gunshippenguin.openflood.InfoActivity
+LaunchMode:std
+TaskAffinity:null
+

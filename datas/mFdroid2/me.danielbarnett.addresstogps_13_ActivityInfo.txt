@@ -1,0 +1,6 @@
+#MAIN
+activity:me.danielbarnett.AddressToGPS.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

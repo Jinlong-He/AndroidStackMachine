@@ -1,0 +1,14 @@
+activity:org.androidworks.livewallpaperwatervr.About
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:org.androidworks.livewallpaperwatervr.StereoViewActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.androidworks.livewallpaperwatervr.VRPrefs
+LaunchMode:std
+TaskAffinity:null
+

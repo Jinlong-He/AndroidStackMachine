@@ -1,0 +1,6 @@
+#MAIN
+activity:io.github.whirish.tvbuses.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

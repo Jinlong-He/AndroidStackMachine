@@ -1,0 +1,54 @@
+com.mcproteam.videoplayer.PhoneMemoryActivity-->com.mcproteam.videoplayer.StreamingVideoActivity
+flag:
+
+com.mcproteam.videoplayer.PropertiesVideoActivity-->com.mcproteam.videoplayer.StreamingVideoActivity
+flag:
+
+com.mcproteam.videoplayer.FavoriteVideoActivity-->com.mcproteam.videoplayer.StreamingVideoActivity
+flag:
+
+com.mcproteam.videoplayer.FavoriteVideoActivity-->com.mcproteam.videoplayer.PropertiesVideoActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.mcproteam.videoplayer.MainActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.mcproteam.videoplayer.MainActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.mcproteam.videoplayer.MainActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP  
+
+com.mcproteam.videoplayer.AppInfoActivity-->com.mcproteam.videoplayer.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.mcproteam.videoplayer.StreamingVideoActivity-->com.mcproteam.videoplayer.MainActivity
+flag:finish
+
+com.mcproteam.videoplayer.MainActivity-->com.mcproteam.videoplayer.MainActivity
+flag:
+
+com.mcproteam.videoplayer.MainActivity-->com.mcproteam.videoplayer.SearchVideoActivity
+flag:
+
+com.mcproteam.videoplayer.MainActivity-->com.mcproteam.videoplayer.StreamingVideoActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.mcproteam.videoplayer.MainActivity-->com.mcproteam.videoplayer.StreamingVideoActivity
+flag:
+
+com.mcproteam.videoplayer.MainActivity-->com.mcproteam.videoplayer.FavoriteVideoActivity
+flag:
+
+com.mcproteam.videoplayer.MainActivity-->com.mcproteam.videoplayer.PhoneMemoryActivity
+flag:
+
+com.mcproteam.videoplayer.MainActivity-->com.mcproteam.videoplayer.AppInfoActivity
+flag:
+

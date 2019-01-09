@@ -1,0 +1,27 @@
+com.livestream2.android.activity.splash.SplashActivity-->unknown
+flag:
+
+com.livestream2.android.activity.splash.SplashActivity-->com.livestream2.android.activity.ContainerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.livestream2.android.activity.splash.SplashActivity-->com.livestream2.android.activity.ContainerActivity
+flag:
+
+com.livestream2.android.activity.ContainerActivity-->com.livestream2.android.activity.ContainerActivity
+flag:
+
+com.livestream2.android.activity.ContainerActivity-->com.livestream2.android.activity.ContainerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.mixpanel.android.surveys.SurveyActivity-->com.livestream2.android.activity.splash.ExternalActionSplashActivity
+flag:finish
+
+com.livestream2.android.activity.splash.ExternalActionSplashActivity-->unknown
+flag:
+
+com.livestream2.android.activity.splash.ExternalActionSplashActivity-->com.livestream2.android.activity.ContainerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.livestream2.android.activity.splash.ExternalActionSplashActivity-->com.livestream2.android.activity.ContainerActivity
+flag:
+

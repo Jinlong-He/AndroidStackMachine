@@ -1,0 +1,15 @@
+com.rubenwardy.minetestmodmanager.ModDetailActivity-->com.rubenwardy.minetestmodmanager.ModDetailActivity
+flag:
+
+com.rubenwardy.minetestmodmanager.ModDetailActivity-->com.rubenwardy.minetestmodmanager.ModListActivity
+flag:
+
+com.rubenwardy.minetestmodmanager.ModListActivity-->com.rubenwardy.minetestmodmanager.WorldConfigActivity
+flag:
+
+com.rubenwardy.minetestmodmanager.ModListActivity-->com.rubenwardy.minetestmodmanager.AboutActivity
+flag:
+
+com.rubenwardy.minetestmodmanager.ModListActivity-->com.rubenwardy.minetestmodmanager.ModDetailActivity
+flag:
+

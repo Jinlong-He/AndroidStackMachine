@@ -1,0 +1,45 @@
+nodomain.freeyourgadget.gadgetbridge.activities.appmanager.AppManagerActivity-->nodomain.freeyourgadget.gadgetbridge.activities.FwAppInstallerActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2-->nodomain.freeyourgadget.gadgetbridge.activities.DiscoveryActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2-->nodomain.freeyourgadget.gadgetbridge.activities.SettingsActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2-->nodomain.freeyourgadget.gadgetbridge.activities.DebugActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2-->nodomain.freeyourgadget.gadgetbridge.activities.DbManagementActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.activities.ExternalPebbleJSActivity-->nodomain.freeyourgadget.gadgetbridge.activities.FwAppInstallerActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+nodomain.freeyourgadget.gadgetbridge.activities.SettingsActivity-->nodomain.freeyourgadget.gadgetbridge.devices.miband.MiBandPreferencesActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.activities.SettingsActivity-->nodomain.freeyourgadget.gadgetbridge.activities.AppBlacklistActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.devices.pebble.PebblePairingActivity-->nodomain.freeyourgadget.gadgetbridge.activities.DiscoveryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nodomain.freeyourgadget.gadgetbridge.devices.pebble.PebblePairingActivity-->nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nodomain.freeyourgadget.gadgetbridge.devices.miband.MiBandPairingActivity-->nodomain.freeyourgadget.gadgetbridge.activities.DiscoveryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nodomain.freeyourgadget.gadgetbridge.devices.miband.MiBandPairingActivity-->nodomain.freeyourgadget.gadgetbridge.devices.miband.MiBandPreferencesActivity
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.devices.miband.MiBandPairingActivity-->nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nodomain.freeyourgadget.gadgetbridge.activities.ConfigureAlarms-->nodomain.freeyourgadget.gadgetbridge.activities.AlarmDetails
+flag:
+
+nodomain.freeyourgadget.gadgetbridge.activities.DiscoveryActivity-->unknown
+flag:
+

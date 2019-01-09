@@ -1,0 +1,6 @@
+com.daystar.MainActivity-->com.daystar.DaystarWebViewActivity
+flag:
+
+com.daystar.DaystarSplashActivity-->com.daystar.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

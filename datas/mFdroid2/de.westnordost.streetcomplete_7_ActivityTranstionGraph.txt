@@ -1,0 +1,6 @@
+de.westnordost.streetcomplete.MainActivity-->de.westnordost.streetcomplete.settings.SettingsActivity
+flag:
+
+de.westnordost.streetcomplete.MainActivity-->de.westnordost.streetcomplete.about.AboutActivity
+flag:
+

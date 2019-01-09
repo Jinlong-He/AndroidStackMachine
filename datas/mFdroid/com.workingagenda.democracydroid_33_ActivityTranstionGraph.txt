@@ -1,0 +1,15 @@
+com.workingagenda.democracydroid.MainActivity-->com.workingagenda.democracydroid.SettingsActivity
+flag:
+
+com.workingagenda.democracydroid.MainActivity-->com.workingagenda.democracydroid.AboutActivity
+flag:
+
+com.workingagenda.democracydroid.MainActivity-->com.workingagenda.democracydroid.MediaActivity
+flag:
+
+com.workingagenda.democracydroid.MainActivity-->com.workingagenda.democracydroid.StoryActivity
+flag:
+
+com.workingagenda.democracydroid.StoryActivity-->com.workingagenda.democracydroid.MediaActivity
+flag:
+

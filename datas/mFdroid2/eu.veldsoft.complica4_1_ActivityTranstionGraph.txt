@@ -1,0 +1,9 @@
+.SplashActivity-->unknown
+flag:
+
+.GameActivity-->eu.veldsoft.complica4.HelpActivity
+flag:
+
+.GameActivity-->eu.veldsoft.complica4.AboutActivity
+flag:
+

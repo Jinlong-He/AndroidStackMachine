@@ -1,0 +1,9 @@
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+.health.activity.IndexActivity-->com.dido.health.activity.NewDeviceScanActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+.health.activity.IndexActivity-->com.tencent.tauth.AuthActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

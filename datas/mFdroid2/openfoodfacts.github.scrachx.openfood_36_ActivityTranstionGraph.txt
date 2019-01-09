@@ -1,0 +1,15 @@
+openfoodfacts.github.scrachx.openfood.views.MainActivity-->openfoodfacts.github.scrachx.openfood.views.ScannerFragmentActivity
+flag:
+
+openfoodfacts.github.scrachx.openfood.views.MainActivity-->openfoodfacts.github.scrachx.openfood.views.HistoryScanActivity
+flag:
+
+openfoodfacts.github.scrachx.openfood.views.MainActivity-->openfoodfacts.github.scrachx.openfood.views.LoginActivity
+flag:
+
+openfoodfacts.github.scrachx.openfood.views.SaveProductOfflineActivity-->openfoodfacts.github.scrachx.openfood.views.MainActivity
+flag:finish
+
+openfoodfacts.github.scrachx.openfood.views.SplashActivity-->openfoodfacts.github.scrachx.openfood.views.MainActivity
+flag:finish
+

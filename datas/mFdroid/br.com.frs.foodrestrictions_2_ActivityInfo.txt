@@ -1,0 +1,10 @@
+#MAIN
+activity:br.com.frs.foodrestrictions.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:br.com.frs.foodrestrictions.MessagesTab
+LaunchMode:std
+TaskAffinity:null
+

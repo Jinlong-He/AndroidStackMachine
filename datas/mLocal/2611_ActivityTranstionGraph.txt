@@ -1,0 +1,3 @@
+org.easelife.android.pisces.compass.MainActivity-->org.easelife.common.CommAboutActivity
+flag:
+

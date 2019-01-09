@@ -1,0 +1,6 @@
+com.kankan.player.MainActivity-->com.kankan.player.config.CfgSettingActivity
+flag:
+
+com.kankan.player.MainActivity-->com.kankan.player.feedback.FeedbackActivity
+flag:
+

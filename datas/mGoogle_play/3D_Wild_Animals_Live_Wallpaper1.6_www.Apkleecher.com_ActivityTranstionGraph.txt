@@ -1,0 +1,15 @@
+com.mosoyo.wildanimals.PicprivewActivity-->com.mosoyo.wildanimals.SettingActivity
+flag:finish
+
+com.mosoyo.wildanimals.SettingActivity-->com.mosoyo.wildanimals.PicprivewActivity
+flag:finish
+
+com.mosoyo.wildanimals.SettingActivity-->com.mosoyo.wildanimals.AboutActivity
+flag:
+
+com.mosoyo.wildanimals.MainActivity-->com.mosoyo.wildanimals.WpRateActivity
+flag:finish
+
+com.mosoyo.wildanimals.MainActivity-->com.mosoyo.wildanimals.SettingActivity
+flag:
+

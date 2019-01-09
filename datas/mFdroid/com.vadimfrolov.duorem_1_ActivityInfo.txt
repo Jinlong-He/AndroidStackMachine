@@ -1,0 +1,14 @@
+#MAIN
+activity:com.vadimfrolov.duorem.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.vadimfrolov.duorem.SearchConfigureActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.vadimfrolov.duorem.TargetConfigurationActivity
+LaunchMode:std
+TaskAffinity:null
+

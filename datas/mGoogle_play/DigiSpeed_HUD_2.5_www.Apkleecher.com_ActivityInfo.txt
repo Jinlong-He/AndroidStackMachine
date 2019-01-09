@@ -1,0 +1,14 @@
+activity:anywheresoftware.b4a.objects.preferenceactivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.main
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:.colourchooser
+launchMode:stp
+TaskAffinity:null
+

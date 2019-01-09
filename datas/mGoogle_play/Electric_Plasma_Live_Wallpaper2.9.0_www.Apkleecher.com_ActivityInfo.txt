@@ -1,0 +1,10 @@
+activity:mjp.android.wallpaper.plasma.PlasmaWallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:mjp.android.wallpaper.plasma.OpenActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

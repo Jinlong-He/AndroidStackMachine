@@ -1,0 +1,102 @@
+nithra.math.logicalreasoning.TopicListFormula-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+nithra.math.logicalreasoning.TopicListTest-->nithra.math.logicalreasoning.RateUs
+flag:finish
+
+nithra.math.logicalreasoning.TopicListTest-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nithra.math.logicalreasoning.TopicListTest-->nithra.math.logicalreasoning.Questions
+flag:
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.Questions
+flag:finish
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.NotificationMessage
+flag:finish
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.TopicListPractice
+flag:
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.RateUs
+flag:finish
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.Settings
+flag:finish
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.TopicListTest
+flag:
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.TopicSolved_Problems
+flag:
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.DailyTestReport
+flag:
+
+nithra.math.logicalreasoning.HomeScreen-->nithra.math.logicalreasoning.ShareApp
+flag:
+
+nithra.math.logicalreasoning.RateUs-->nithra.math.logicalreasoning.TopicListPractice
+flag:finish
+
+nithra.math.logicalreasoning.RateUs-->nithra.math.logicalreasoning.HomeScreen
+flag:finish
+
+nithra.math.logicalreasoning.RateUs-->nithra.math.logicalreasoning.TopicListTest
+flag:finish
+
+nithra.math.logicalreasoning.Settings-->nithra.math.logicalreasoning.Questions
+flag:finish
+
+nithra.math.logicalreasoning.Settings-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+nithra.math.logicalreasoning.Questions-->nithra.math.logicalreasoning.RateUs
+flag:
+
+nithra.math.logicalreasoning.Questions-->nithra.math.logicalreasoning.TopicListPractice
+flag:finish
+
+nithra.math.logicalreasoning.Questions-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nithra.math.logicalreasoning.Questions-->nithra.math.logicalreasoning.DailyTestReport
+flag:finish
+
+nithra.math.logicalreasoning.Questions-->nithra.math.logicalreasoning.Settings
+flag:
+
+nithra.math.logicalreasoning.Questions-->nithra.math.logicalreasoning.ShareQuestions
+flag:
+
+nithra.math.logicalreasoning.TopicListPractice-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nithra.math.logicalreasoning.TopicListPractice-->nithra.math.logicalreasoning.Questions
+flag:finish
+
+nithra.math.logicalreasoning.TopicListPractice-->nithra.math.logicalreasoning.RateUs
+flag:finish
+
+nithra.math.logicalreasoning.NotificationMessage-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nithra.math.logicalreasoning.ShareApp-->nithra.math.logicalreasoning.HomeScreen
+flag:
+
+nithra.math.logicalreasoning.DailyTestReport-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+nithra.math.logicalreasoning.DailyTestReport-->nithra.math.logicalreasoning.Questions
+flag:finish
+
+nithra.math.logicalreasoning.TopicSolved_Problems-->nithra.math.logicalreasoning.HomeScreen
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+nithra.math.logicalreasoning.TopicSolved_Problems-->nithra.math.logicalreasoning.TopicSolved_Problems_view
+flag:finish
+
+nithra.math.logicalreasoning.TopicSolved_Problems_view-->nithra.math.logicalreasoning.TopicSolved_Problems
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+

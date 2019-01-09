@@ -1,0 +1,10 @@
+activity:de.audioattack.openlink.MenuActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:de.audioattack.openlink.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

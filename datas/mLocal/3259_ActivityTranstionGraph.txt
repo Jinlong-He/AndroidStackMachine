@@ -1,0 +1,6 @@
+.activity.TextEditorMainActivity-->com.chaozhuo.texteditor.activity.FileBrowser
+flag:
+
+.activity.TextEditorMainActivity-->com.chaozhuo.texteditor.activity.MyShotcutKeyMappingActivity
+flag:
+

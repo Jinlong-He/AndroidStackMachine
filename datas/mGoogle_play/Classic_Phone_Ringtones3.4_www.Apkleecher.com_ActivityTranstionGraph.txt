@@ -1,0 +1,30 @@
+com.appnext.ads.interstitial.InterstitialActivity-->MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+be.classic.oldphoneringtones.com.Splash-->be.classic.oldphoneringtones.com.MainActivity
+flag:finish
+
+MainActivity-->be.classic.oldphoneringtones.com.SetAsActivity
+flag:
+
+MainActivity-->be.classic.oldphoneringtones.com.About
+flag:
+
+MainActivity-->MainActivity
+flag:
+
+com.appnext.ads.fullscreen.FullscreenActivity-->MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.appnext.ads.fullscreen.FullscreenActivity-->MainActivity
+flag:
+
+SetAsActivity-->be.classic.oldphoneringtones.com.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+SetAsActivity-->MainActivity
+flag:
+
+About-->be.classic.oldphoneringtones.com.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

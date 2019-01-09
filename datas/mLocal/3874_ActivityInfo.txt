@@ -1,0 +1,14 @@
+activity:.WallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:HowToActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:PondActivity
+LaunchMode:std
+TaskAffinity:null
+

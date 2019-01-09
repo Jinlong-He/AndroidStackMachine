@@ -1,0 +1,6 @@
+#MAIN
+activity:GameMasterDice
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

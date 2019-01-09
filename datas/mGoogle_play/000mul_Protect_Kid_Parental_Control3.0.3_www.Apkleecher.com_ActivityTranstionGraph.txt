@@ -1,0 +1,102 @@
+de.protectyourkid.ui.activity.ListGroupsActivity-->unknown
+flag:
+
+de.protectyourkid.ui.activity.SettingsActivity-->unknown
+flag:
+
+de.protectyourkid.ui.activity.SettingsActivity-->de.protectyourkid.ui.activity.BrowserActivity
+flag:
+
+de.protectyourkid.ui.activity.SplashActivity-->de.protectyourkid.ui.activity.SelectLauncherGuideActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+de.protectyourkid.ui.activity.SplashActivity-->de.protectyourkid.ui.activity.MainPcpActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+de.protectyourkid.ui.activity.SplashActivity-->de.protectyourkid.ui.activity.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+de.protectyourkid.ui.activity.SplashActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+de.protectyourkid.ui.activity.SelectLauncherGuideActivity-->com.android.launcher3.Launcher
+flag:
+
+de.protectyourkid.ui.activity.SelectLauncherGuideActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+de.protectyourkid.ui.activity.SelectLauncherGuideActivity-->com.android.launcher3.Launcher
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+de.protectyourkid.ui.activity.BrowserActivity-->com.android.launcher3.Launcher
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.protectyourkid.ui.activity.WelcomeSetDefaultActivity-->unknown
+flag:finish
+
+com.android.launcher3.Launcher-->com.android.launcher3.Launcher
+flag:
+
+com.android.launcher3.Launcher-->com.android.launcher3.Launcher
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.android.launcher3.Launcher-->de.protectyourkid.ui.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.android.launcher3.Launcher-->de.protectyourkid.ui.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.android.launcher3.Launcher-->com.android.launcher3.WallpaperPickerActivity
+flag:
+
+com.android.launcher3.Launcher-->com.android.launcher3.SettingsActivity
+flag:
+
+com.android.launcher3.Launcher-->de.protectyourkid.ui.activity.BrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+de.protectyourkid.ui.activity.MainActivity-->unknown
+flag:
+
+de.protectyourkid.ui.activity.WelcomeUsageActivity-->unknown
+flag:finish
+
+de.protectyourkid.ui.activity.LoginActivity-->de.protectyourkid.ui.activity.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.protectyourkid.ui.activity.LoginActivity-->de.protectyourkid.ui.activity.SendForgottenPasswordActivity
+flag:
+
+de.protectyourkid.ui.activity.WelcomePermissionsActivity-->unknown
+flag:finish
+
+de.protectyourkid.ui.activity.WelcomeRegisterActivity-->unknown
+flag:finish
+
+de.protectyourkid.ui.activity.ConfigureNightModeActivity-->de.protectyourkid.ui.activity.SelectPhoneAppActivity
+flag:
+
+de.protectyourkid.ui.activity.WelcomeLogOrRegActivity-->unknown
+flag:finish
+
+de.protectyourkid.ui.activity.SelectAppModeActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+de.protectyourkid.ui.activity.WelcomeLoginActivity-->unknown
+flag:finish
+
+de.protectyourkid.ui.activity.EnablePCPActivity-->de.protectyourkid.ui.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+de.protectyourkid.ui.activity.EnablePCPActivity-->de.protectyourkid.ui.activity.ConfigurePCPActivity
+flag:finish
+
+de.protectyourkid.ui.activity.UsageActivity-->com.android.launcher3.Launcher
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.protectyourkid.ui.activity.WelcomeVerifyAccountActivity-->unknown
+flag:finish
+
+com.android.launcher3.WallpaperPickerActivity-->com.android.launcher3.Launcher
+flag:
+

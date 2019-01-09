@@ -1,0 +1,15 @@
+com.peacock.flashlight.pages.flashlight.PeacockFlashLightActivity-->com.peacock.flashlight.pages.PeacockColorScreenActivityPeacock
+flag:
+
+com.peacock.flashlight.pages.flashlight.PeacockFlashLightActivity-->com.peacock.flashlight.pages.PeacockScreenMorseActivity
+flag:
+
+com.peacock.flashlight.pages.flashlight.PeacockFlashLightActivity-->com.peacock.flashlight.pages.PeacockCamera2MorseActivity
+flag:
+
+com.peacock.flashlight.pages.flashlight.PeacockFlashLightActivity-->com.peacock.flashlight.pages.PeacockMorseActivity
+flag:
+
+com.tapjoy.TJContentActivity-->com.tapjoy.TJContentActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_NEW_TASK  
+

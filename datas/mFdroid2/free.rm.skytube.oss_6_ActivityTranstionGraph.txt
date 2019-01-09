@@ -1,0 +1,6 @@
+free.rm.skytube.gui.activities.MainActivity-->free.rm.skytube.gui.activities.YouTubePlayerActivity
+flag:
+
+free.rm.skytube.gui.activities.MainActivity-->free.rm.skytube.gui.activities.PreferencesActivity
+flag:
+

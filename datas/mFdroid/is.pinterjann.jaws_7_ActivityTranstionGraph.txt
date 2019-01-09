@@ -1,0 +1,6 @@
+is.pinterjann.jaws.activities.JAWSActivity-->is.pinterjann.jaws.activities.SettingsActivity
+flag:
+
+is.pinterjann.jaws.activities.JAWSActivity-->is.pinterjann.jaws.activities.AboutActivity
+flag:
+

@@ -1,0 +1,24 @@
+.SettingsActivity-->org.sparkleshare.android.SetupActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+.BrowsingActivity-->org.sparkleshare.android.BrowsingActivity
+flag:
+
+.BrowsingActivity-->org.sparkleshare.android.FileDetailsActivity
+flag:
+
+.BrowsingActivity-->org.sparkleshare.android.AboutActivity
+flag:
+
+.BrowsingActivity-->org.sparkleshare.android.BrowsingActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+.SplashActivity-->org.sparkleshare.android.SetupActivity
+flag:
+
+.SplashActivity-->org.sparkleshare.android.BrowsingActivity
+flag:finish
+
+.SetupActivity-->org.sparkleshare.android.BrowsingActivity
+flag:
+

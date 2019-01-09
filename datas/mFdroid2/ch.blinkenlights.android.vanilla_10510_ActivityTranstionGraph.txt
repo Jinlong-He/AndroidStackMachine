@@ -1,0 +1,27 @@
+LibraryActivity-->ch.blinkenlights.android.vanilla.PlaylistActivity
+flag:
+
+LibraryActivity-->ch.blinkenlights.android.vanilla.FullPlaybackActivity
+flag:
+
+PreferencesActivity-->LibraryActivity
+flag:finish
+
+MiniPlaybackActivity-->ch.blinkenlights.android.vanilla.FullPlaybackActivity
+flag:finish
+
+FullPlaybackActivity-->ch.blinkenlights.android.vanilla.FullPlaybackActivity
+flag:finish
+
+FullPlaybackActivity-->ch.blinkenlights.android.vanilla.LibraryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+FullPlaybackActivity-->ch.blinkenlights.android.vanilla.LibraryActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+PermissionRequestActivity-->ch.blinkenlights.android.vanilla.PermissionRequestActivity
+flag:
+
+PermissionRequestActivity-->LibraryActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+

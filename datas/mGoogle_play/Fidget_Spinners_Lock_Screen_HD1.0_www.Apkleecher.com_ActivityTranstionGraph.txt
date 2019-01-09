@@ -1,0 +1,27 @@
+com.hpv.keypad.ActivityCreateKeypad-->com.hpv.photokeypad.main.MainActivity
+flag:finish
+
+com.hpv.keypad.ActivityOldKeypad-->com.hpv.keypad.ActivityCreateKeypad2
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.hpv.photokeypad.main.HomeActivity-->com.hpv.photokeypad.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.hpv.keypad.UnlockScreenActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:finish
+
+com.hpv.keypad.UnlockScreenActivity-->com.hpv.photokeypad.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.hpv.keypad.ActivityConfirmKeypad-->com.hpv.photokeypad.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.hpv.keypad.ActivityCreateKeypad2-->com.hpv.keypad.ActivityConfirmKeypad
+flag:finish
+
+com.hpv.wallpaper.GalleryBackground-->com.hpv.wallpaper.SimpleImageActivity
+flag:
+

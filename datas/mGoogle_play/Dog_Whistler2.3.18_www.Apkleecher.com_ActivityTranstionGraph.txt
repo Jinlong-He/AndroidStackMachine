@@ -1,0 +1,15 @@
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.mobeezio.android.dogwhistler.OnboardingActivity-->com.mobeezio.android.dogwhistler.DogWhistler
+flag:finish
+
+com.mobeezio.android.dogwhistler.DogWhistler-->com.mobeezio.android.dogwhistler.TimerActivity
+flag:
+
+com.mobeezio.android.dogwhistler.DogWhistler-->com.mobeezio.android.dogwhistler.DogParkListActivity
+flag:
+
+com.mobeezio.android.dogwhistler.DogWhistler-->com.mobeezio.android.dogwhistler.HelpActivity
+flag:
+

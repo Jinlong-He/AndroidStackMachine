@@ -1,0 +1,36 @@
+com.spreadsong.books.activity.search.SearchActivity-->unknown
+flag:
+
+com.spreadsong.books.activity.detail.book.RegularBookDetailActivity-->com.spreadsong.books.activity.detail.book.AudioBookDetailActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.spreadsong.books.activity.detail.book.RegularBookDetailActivity-->com.spreadsong.books.activity.reader.EPubReaderActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.spreadsong.books.activity.detail.book.RegularBookDetailActivity-->com.spreadsong.books.activity.browse.IntermediateBrowseActivity
+flag:
+
+com.spreadsong.books.activity.reader.EPubReaderActivity-->com.spreadsong.books.activity.reader.EPubReaderSettingsActivity
+flag:
+
+com.spreadsong.books.activity.detail.book.AudioBookDetailActivity-->com.spreadsong.books.activity.detail.book.RegularBookDetailActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.spreadsong.books.activity.detail.book.AudioBookDetailActivity-->com.spreadsong.books.activity.browse.IntermediateBrowseActivity
+flag:
+
+com.spreadsong.books.activity.detail.book.AudioBookDetailActivity-->com.spreadsong.books.activity.player.AudioBookChapterPlayerActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.spreadsong.books.activity.browse.BrowseActivity-->com.spreadsong.books.activity.browser.BrowserActivity
+flag:
+
+com.spreadsong.books.activity.browse.BrowseActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.spreadsong.books.activity.browse.BrowseActivity-->com.spreadsong.books.activity.search.SearchActivity
+flag:
+
+com.spreadsong.books.activity.reader.EPubReaderSettingsActivity-->com.spreadsong.books.activity.reader.EPubBookmarksActivity
+flag:
+

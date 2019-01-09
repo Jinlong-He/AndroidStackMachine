@@ -1,0 +1,15 @@
+.BlackWhiteBedroomIdeas-->com.zalebox.black.and.white.bedroom.ideas.m1.BlackAndWhiteBedroomGal1
+flag:
+
+.BlackWhiteBedroomIdeas-->com.zalebox.black.and.white.bedroom.ideas.m1.BlackAndWhiteBedroomGal2
+flag:
+
+.BlackWhiteBedroomIdeas-->com.zalebox.black.and.white.bedroom.ideas.m1.BlackAndWhiteBedroomGal3
+flag:
+
+.BlackWhiteBedroomIdeas-->com.zalebox.black.and.white.bedroom.ideas.m1.BlackAndWhiteBedroomGal4
+flag:
+
+com.google.ads.AdActivity-->com.google.ads.AdActivity
+flag:
+

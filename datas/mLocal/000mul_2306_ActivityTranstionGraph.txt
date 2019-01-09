@@ -1,0 +1,9 @@
+com.clock.example.activity.AlarmClockActivity-->com.clock.example.activity.BrowserPictureActivity
+flag:
+
+com.clock.example.activity.AlarmClockActivity-->com.clock.example.activity.MainActivity
+flag:
+
+com.clock.example.activity.MainActivity-->unknown
+flag:
+

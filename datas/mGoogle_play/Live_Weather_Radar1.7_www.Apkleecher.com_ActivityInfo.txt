@@ -1,0 +1,14 @@
+#MAIN
+activity:com.sam.meteo.views.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.sam.meteo.views.VilleActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

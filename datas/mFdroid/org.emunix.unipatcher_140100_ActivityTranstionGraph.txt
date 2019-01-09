@@ -1,0 +1,9 @@
+org.emunix.unipatcher.ui.activity.MainActivity-->org.emunix.unipatcher.ui.activity.SettingsActivity
+flag:
+
+org.emunix.unipatcher.ui.activity.MainActivity-->org.emunix.unipatcher.ui.activity.DonateActivity
+flag:
+
+org.emunix.unipatcher.ui.activity.MainActivity-->org.emunix.unipatcher.ui.activity.HelpActivity
+flag:
+

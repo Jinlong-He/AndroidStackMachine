@@ -1,0 +1,4 @@
+activity:.Configure
+LaunchMode:std
+TaskAffinity:null
+

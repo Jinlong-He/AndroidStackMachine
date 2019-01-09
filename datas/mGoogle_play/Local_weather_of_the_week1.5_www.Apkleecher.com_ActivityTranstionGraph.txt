@@ -1,0 +1,12 @@
+com.localweatherfree.android.Splesh-->com.localweatherfree.android.WeatherActivity
+flag:finish
+
+com.localweatherfree.android.WeatherActivity-->com.localweatherfree.android.CountryList
+flag:
+
+com.localweatherfree.android.WeatherActivity-->com.localweatherfree.android.SettingActivity
+flag:FLAG_ACTIVITY_NO_HISTORY  finish
+
+com.localweatherfree.android.SettingActivity-->com.localweatherfree.android.WeatherActivity
+flag:
+

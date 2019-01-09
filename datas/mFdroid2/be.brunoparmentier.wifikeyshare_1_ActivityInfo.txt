@@ -1,0 +1,14 @@
+#MAIN
+activity:be.brunoparmentier.wifikeyshare.activities.WifiListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:be.brunoparmentier.wifikeyshare.activities.WifiNetworkActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:be.brunoparmentier.wifikeyshare.activities.ConfirmConnectToWifiNetworkActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.iamtrk.ItemListActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.iamtrk.ItemDetailActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,4 @@
+activity:.WallpaperSetterActivity
+LaunchMode:std
+TaskAffinity:null
+

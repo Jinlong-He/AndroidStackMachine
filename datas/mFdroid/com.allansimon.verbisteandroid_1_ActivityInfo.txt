@@ -1,0 +1,14 @@
+#MAIN
+activity:MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:DisplayConjugationActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:DeconjugationActivity
+LaunchMode:std
+TaskAffinity:null
+

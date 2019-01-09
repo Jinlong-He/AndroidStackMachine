@@ -1,0 +1,3 @@
+fr.herverenault.selfhostedgpstracker.SelfHostedGPSTrackerActivity-->fr.herverenault.selfhostedgpstracker.SelfHostedGPSTrackerPrefs
+flag:
+

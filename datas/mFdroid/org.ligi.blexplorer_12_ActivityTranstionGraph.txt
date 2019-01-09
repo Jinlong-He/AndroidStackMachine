@@ -1,0 +1,3 @@
+org.ligi.blexplorer.scan.DeviceListActivity-->org.ligi.blexplorer.HelpActivity
+flag:
+

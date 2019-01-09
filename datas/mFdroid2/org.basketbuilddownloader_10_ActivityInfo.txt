@@ -1,0 +1,14 @@
+#MAIN
+activity:org.basketbuilddownloader.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.basketbuilddownloader.DirectoryPicker
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.basketbuilddownloader.SetPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,24 @@
+org.openbmap.commands.StartTracking-->org.openbmap.activities.TabHostActivity
+flag:finish
+
+org.openbmap.activities.CellsListContainer-->org.openbmap.activities.CellDetailsActivity
+flag:
+
+org.openbmap.commands.UploadAll-->org.openbmap.activities.StartscreenActivity
+flag:finish
+
+org.openbmap.activities.TabHostActivity-->org.openbmap.activities.StartscreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+org.openbmap.activities.WifiListContainer-->org.openbmap.activities.WifiDetailsActivity
+flag:
+
+org.openbmap.activities.StartscreenActivity-->org.openbmap.activities.TabHostActivity
+flag:
+
+org.openbmap.activities.StartscreenActivity-->org.openbmap.activities.SettingsActivity
+flag:
+
+org.openbmap.activities.StartscreenActivity-->org.openbmap.activities.CreditsActivity
+flag:
+

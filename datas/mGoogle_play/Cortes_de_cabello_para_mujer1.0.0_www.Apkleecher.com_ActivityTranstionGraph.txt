@@ -1,0 +1,12 @@
+com.cortesdecabello.mujer.SlideImageActivity-->com.cortesdecabello.mujer.SetAsWallpaperActivity
+flag:
+
+com.cortesdecabello.mujer.SlideImageActivity-->com.cortesdecabello.mujer.PinchZoom
+flag:
+
+com.cortesdecabello.mujer.Activity_Splash-->com.cortesdecabello.mujer.NavigationDrawerMain
+flag:finish
+
+com.cortesdecabello.mujer.Activity_CategoryItem-->com.cortesdecabello.mujer.SlideImageActivity
+flag:
+

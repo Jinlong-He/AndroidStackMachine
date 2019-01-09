@@ -1,0 +1,10 @@
+#MAIN
+activity:.ChessClock
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.Prefs
+LaunchMode:std
+TaskAffinity:null
+

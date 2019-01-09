@@ -1,0 +1,6 @@
+#MAIN
+activity:.Smarty
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

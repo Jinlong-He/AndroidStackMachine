@@ -1,0 +1,6 @@
+#MAIN
+activity:telegra.ph.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

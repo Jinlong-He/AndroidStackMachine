@@ -1,0 +1,6 @@
+net.iaround.ui.seach.UserSearchResult-->net.iaround.ui.activity.UserInfoActivity
+flag:
+
+net.iaround.ui.seach.UserSearchResult-->net.iaround.ui.activity.OtherInfoActivity
+flag:
+

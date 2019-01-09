@@ -1,0 +1,3 @@
+com.netease.protecteyes.DAActivity-->com.netease.protecteyes.DAActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

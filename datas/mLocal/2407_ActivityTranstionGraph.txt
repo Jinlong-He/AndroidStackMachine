@@ -1,0 +1,3 @@
+com.justep.x5.support.chooser.FileUploadChooserActivity-->com.justep.x5.support.video.record.CameraActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.enrico.earthquake.batterysimplysolid.PreferenceActivity-->com.enrico.earthquake.batterysimplysolid.AboutActivity
+flag:
+

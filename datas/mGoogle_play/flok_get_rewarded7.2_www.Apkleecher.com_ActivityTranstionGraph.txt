@@ -1,0 +1,210 @@
+com.paypal.android.sdk.payments.PayPalProfileSharingActivity-->com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+flag:
+
+com.paypal.android.sdk.payments.FuturePaymentConsentActivity-->com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+flag:
+
+loyalblocks.userapp.ScanQRActivity-->loyalblocks.userapp.PlayVideoActivity
+flag:
+
+loyalblocks.userapp.SignInActivity-->loyalblocks.userapp.AreYouHereActivityOld
+flag:finish
+
+loyalblocks.userapp.SignInActivity-->loyalblocks.userapp.ChatActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.SignInActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+loyalblocks.userapp.SignInActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+loyalblocks.userapp.MyProfileActivity-->loyalblocks.userapp.CameraPreview
+flag:
+
+loyalblocks.userapp.MyProfileActivity-->loyalblocks.userapp.EditProfileActivity
+flag:
+
+loyalblocks.userapp.MyProfileActivity-->loyalblocks.userapp.EditWalkinsActivity
+flag:
+
+com.flok.flokutils.BigPicActivity-->com.flok.flokutils.BigPicActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.paypal.android.sdk.payments.PayPalTouchActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:
+
+loyalblocks.userapp.AreasListActivity-->loyalblocks.userapp.CreateAreaActivity
+flag:
+
+loyalblocks.userapp.AllSpotsListAcitivity-->loyalblocks.userapp.OnBoardingActivity
+flag:finish
+
+loyalblocks.userapp.AllSpotsListAcitivity-->loyalblocks.userapp.AllSpotsListAcitivity
+flag:
+
+loyalblocks.userapp.AllSpotsListAcitivity-->loyalblocks.userapp.ShowMapActivity
+flag:
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.ShowMapActivity
+flag:
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.AreasListActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.AreYouHereActivityOld
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.AllSpotsListAcitivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.MembershipsListActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.MyProfileActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:FLAG_ACTIVITY_NO_ANIMATION FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.ChatActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+loyalblocks.userapp.MembershipsListActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+loyalblocks.userapp.OnBoardingActivity-->loyalblocks.userapp.CategoryChooseActivity
+flag:
+
+loyalblocks.userapp.OnBoardingActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:finish
+
+loyalblocks.userapp.OnBoardingActivity-->loyalblocks.userapp.ChatActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.OnBoardingActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+loyalblocks.userapp.OnBoardingActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+loyalblocks.userapp.EditProfileActivity-->loyalblocks.userapp.CameraPreview
+flag:
+
+loyalblocks.userapp.GalleryActivity-->loyalblocks.userapp.ShowPictureActivity
+flag:
+
+loyalblocks.userapp.RewardActionActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:
+
+loyalblocks.userapp.RewardActionActivity-->loyalblocks.userapp.ShowMapActivity
+flag:
+
+loyalblocks.userapp.RewardActionActivity-->loyalblocks.userapp.RewardActionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.OutStoreMapActivity
+flag:
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.CameraPreview
+flag:
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:finish
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.OnBoardingActivity
+flag:finish
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.ChatActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+loyalblocks.userapp.AreYouHereActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.paypal.android.sdk.payments.LoginActivity-->com.paypal.android.sdk.payments.LoginActivity
+flag:
+
+com.paypal.android.sdk.payments.LoginActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:
+
+loyalblocks.userapp.ChatActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+loyalblocks.userapp.ChatActivity-->loyalblocks.userapp.CameraPreview
+flag:
+
+loyalblocks.userapp.ChatActivity-->loyalblocks.userapp.RewardActionActivity
+flag:
+
+loyalblocks.userapp.ChatActivity-->loyalblocks.userapp.ShowMapActivity
+flag:
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.CameraPreview
+flag:
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.ShowMapActivity
+flag:
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.AreYouHereActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.ScanQRActivity
+flag:
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.OnBoardingActivity
+flag:finish
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.ChatActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.RewardActionActivity
+flag:
+
+loyalblocks.userapp.InstoreHomeActivity-->loyalblocks.userapp.RewardActionActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.paypal.android.sdk.payments.PayPalFuturePaymentActivity-->com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+flag:
+
+loyalblocks.userapp.AreYouHereActivityOld-->loyalblocks.userapp.OnBoardingActivity
+flag:finish
+
+loyalblocks.userapp.AreYouHereActivityOld-->loyalblocks.userapp.ChatActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.AreYouHereActivityOld-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+loyalblocks.userapp.AreYouHereActivityOld-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.paypal.android.sdk.payments.ProfileSharingConsentActivity-->com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+flag:
+
+loyalblocks.userapp.OutStoreMapActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:
+
+loyalblocks.userapp.OutStoreMapActivity-->loyalblocks.userapp.ChatActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+loyalblocks.userapp.OutStoreMapActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+loyalblocks.userapp.OutStoreMapActivity-->loyalblocks.userapp.InstoreHomeActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,12 @@
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+kr.co.smartstudy.phonicsiap.GameActivity-->kr.co.smartstudy.anicommon.AboutActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.notifications.internal.activity.CardActivity-->kr.co.smartstudy.phonicsiap.GameActivity
+flag:finish
+

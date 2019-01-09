@@ -1,0 +1,9 @@
+net.hockeyapp.android.LoginActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.emf.klove.LaunchActivity-->com.emf.klove.MainActivity
+flag:finish
+
+net.hockeyapp.android.FeedbackActivity-->net.hockeyapp.android.PaintActivity
+flag:
+

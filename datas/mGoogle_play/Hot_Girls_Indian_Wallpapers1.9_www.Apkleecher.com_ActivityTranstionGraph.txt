@@ -1,0 +1,6 @@
+.SplashScreen-->com.artapps.indian.wallpaper.SelectWallpaperActivity
+flag:finish
+
+.SelectWallpaperActivity-->com.artapps.indian.wallpaper.DisplayActivity
+flag:
+

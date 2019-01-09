@@ -1,0 +1,6 @@
+#MAIN
+activity:com.agateau.catgenerator.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

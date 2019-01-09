@@ -1,0 +1,6 @@
+#MAIN
+activity:.MrWhiteActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

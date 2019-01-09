@@ -1,0 +1,14 @@
+#MAIN
+activity:fr.neamar.kiss.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:fr.neamar.kiss.DummyActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:fr.neamar.kiss.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

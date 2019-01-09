@@ -1,0 +1,3 @@
+com.androidlab.gpsfix.Main-->com.androidlab.gpsfix.SettingsActivity
+flag:
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:cz.eutopia.snooperstopper.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:cz.eutopia.snooperstopper.PasswordManagerActivity
+LaunchMode:std
+TaskAffinity:null
+

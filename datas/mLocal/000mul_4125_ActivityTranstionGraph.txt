@@ -1,0 +1,15 @@
+com.tencent.connect.common.AssistActivity-->com.fenbi.android.solar.activity.SplashActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.fenbi.android.solar.activity.SplashActivity
+flag:finish
+
+com.tencent.android.tpush.XGPushActivity-->com.fenbi.android.solar.activity.SplashActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tencent.android.tpush.XGPushActivity-->com.fenbi.android.solar.activity.SplashActivity
+flag:finish
+

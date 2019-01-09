@@ -1,0 +1,6 @@
+#MAIN
+activity:com.asmnet.jetmobile.android.JET
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

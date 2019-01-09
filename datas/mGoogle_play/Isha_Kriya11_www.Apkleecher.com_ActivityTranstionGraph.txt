@@ -1,0 +1,12 @@
+org.isha.ishakriya.PracticeSelectionActivity-->org.isha.ishakriya.PlayerActivity
+flag:
+
+org.isha.ishakriya.MainActivity-->org.isha.ishakriya.EnrollActivity
+flag:finish
+
+org.isha.ishakriya.MainActivity-->org.isha.ishakriya.PracticeSelectionActivity
+flag:finish
+
+org.isha.ishakriya.EnrollActivity-->org.isha.ishakriya.PracticeSelectionActivity
+flag:finish
+

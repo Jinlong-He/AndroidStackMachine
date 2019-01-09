@@ -1,0 +1,3 @@
+com.github.sryze.wirebug.MainActivity-->com.github.sryze.wirebug.SettingsActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.br.livewallpaper.LaunchActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+

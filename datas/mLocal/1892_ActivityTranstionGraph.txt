@@ -1,0 +1,12 @@
+com.pdagate.chmreaderlib.CHMReader-->unknown
+flag:
+
+com.pdagate.chmreaderlib.CHMReader-->com.pdagate.chmreaderlib.CHMPrefs
+flag:
+
+com.pdagate.chmreaderlib.CHMViewer-->com.pdagate.chmreaderlib.CHMPrefs
+flag:
+
+com.pdagate.chmreaderlib.CHMViewer-->com.pdagate.chmreaderlib.CHMReader
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

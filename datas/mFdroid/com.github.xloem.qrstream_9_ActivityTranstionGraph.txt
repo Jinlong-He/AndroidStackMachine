@@ -1,0 +1,9 @@
+com.github.xloem.qrstream.Launcher-->com.github.xloem.qrstream.Send
+flag:
+
+com.github.xloem.qrstream.Launcher-->com.github.xloem.qrstream.Receive
+flag:
+
+com.github.xloem.qrstream.Launcher-->com.github.xloem.qrstream.Settings
+flag:
+

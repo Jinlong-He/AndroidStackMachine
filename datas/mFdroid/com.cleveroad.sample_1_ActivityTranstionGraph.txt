@@ -1,0 +1,3 @@
+com.cleveroad.sample.MusicListActivity-->com.cleveroad.sample.MainActivity
+flag:
+

@@ -1,0 +1,18 @@
+realappes.greetingscards.NotificationActivity-->realappes.greetingscards.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+realappes.greetingscards.shareActivity-->realappes.greetingscards.MainActivity
+flag:
+
+realappes.greetingscards.ImageEditActivity-->realappes.greetingscards.shareActivity
+flag:
+
+realappes.greetingscards.ImageEditActivity-->realappes.greetingscards.MainActivity
+flag:
+
+realappes.greetingscards.MainActivity-->realappes.greetingscards.ImageEditActivity
+flag:
+
+realappes.greetingscards.MainActivity-->realappes.greetingscards.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

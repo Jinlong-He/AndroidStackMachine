@@ -1,0 +1,54 @@
+com.ba.mobile.activity.book.nfs.NFSPassengerListActivity-->com.ba.mobile.activity.book.nfs.NFSModalActivity
+flag:
+
+com.ba.mobile.activity.help.WhatsNewActivity-->com.ba.mobile.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.ba.mobile.activity.book.BookFlightActivity-->com.ba.mobile.activity.book.rewards.BookRewardFlightsActivity
+flag:
+
+com.ba.mobile.activity.book.nfs.NFSAvailabilityActivity-->com.ba.mobile.activity.versioncontrol.VersionActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ba.mobile.activity.airport.WeatherForecastActivity-->com.ba.mobile.activity.versioncontrol.VersionActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ba.mobile.LaunchActivity-->com.ba.mobile.activity.help.WhatsNewActivity
+flag:finish
+
+com.ba.mobile.LaunchActivity-->com.ba.mobile.activity.versioncontrol.VersionActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.ba.mobile.activity.book.nfs.NFSBookingConfirmationActivity-->com.ba.mobile.activity.book.nfs.NFSModalActivity
+flag:
+
+com.ba.mobile.activity.book.nfs.NFSBookingConfirmationActivity-->com.ba.mobile.LaunchActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ba.mobile.activity.book.nfs.NFSBookingConfirmationActivity-->com.ba.mobile.activity.book.BookFlightActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ba.mobile.activity.book.nfs.NFSBookingConfirmationActivity-->com.ba.mobile.activity.web.MobileWebActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ba.mobile.activity.book.rewards.RewardFlightsLocationSelectorActivity-->com.ba.mobile.activity.book.rewards.RewardFlightsAvailabilityActivity
+flag:
+
+com.facebook.CustomTabActivity-->com.facebook.FacebookActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.ba.mobile.activity.web.MobileWebActivity-->com.ba.mobile.activity.book.BookFlightActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.ba.mobile.activity.book.nfs.NFSPaymentActivity-->com.ba.mobile.activity.web.MobileWebActivity
+flag:
+
+com.ba.mobile.activity.book.nfs.NFSPaymentActivity-->com.ba.mobile.activity.book.nfs.NFSModalActivity
+flag:
+
+com.ba.mobile.activity.book.nfs.NFSPaymentActivity-->com.ba.mobile.activity.book.nfs.NFSBookingConfirmationActivity
+flag:
+
+com.ba.mobile.activity.book.nfs.NFSPaymentActivity-->com.ba.mobile.activity.book.BookFlightActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+

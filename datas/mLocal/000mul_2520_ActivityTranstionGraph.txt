@@ -1,0 +1,9 @@
+com.tencent.connect.common.AssistActivity-->com.china3s.android.home.activity.Main
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.china3s.android.home.activity.Main
+flag:finish
+

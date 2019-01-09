@@ -1,0 +1,15 @@
+com.philips.sleepmapper.activity.FirstNightActivity-->com.philips.sleepmapper.activity.SplashScreenActivity
+flag:finish
+
+com.philips.sleepmapper.activity.SelectServerActivity-->com.philips.sleepmapper.activity.SplashScreenActivity
+flag:finish
+
+com.philips.sleepmapper.activity.HomePannelActivity-->com.philips.sleepmapper.activity.SplashScreenActivity
+flag:finish
+
+com.philips.sleepmapper.activity.HomePannelActivity-->com.philips.sleepmapper.activity.LoginActivity
+flag:finish
+
+com.philips.sleepmapper.activity.LoginActivity-->com.philips.sleepmapper.activity.SplashScreenActivity
+flag:finish
+

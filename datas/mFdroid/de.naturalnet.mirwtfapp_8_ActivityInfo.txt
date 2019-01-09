@@ -1,0 +1,6 @@
+#MAIN
+activity:de.naturalnet.mirwtfapp.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

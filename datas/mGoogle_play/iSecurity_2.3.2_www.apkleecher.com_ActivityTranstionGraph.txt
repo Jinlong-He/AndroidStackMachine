@@ -1,0 +1,12 @@
+com.seedonk.android.androidisecurityplus.TabFragmentActivity-->com.seedonk.android.androidisecurityplus.AuthenticationActivity
+flag:
+
+com.seedonk.android.androidisecurityplus.TabFragmentActivity-->com.seedonk.android.androidisecurityplus.DeviceSetupActivity
+flag:
+
+com.seedonk.android.androidisecurityplus.TabFragmentActivity-->com.seedonk.android.androidisecurityplus.TabFragmentActivity
+flag:finish
+
+com.seedonk.android.androidisecurityplus.TabFragmentActivity-->com.seedonk.android.androidisecurityplus.SettingsListFragmentActivity
+flag:
+

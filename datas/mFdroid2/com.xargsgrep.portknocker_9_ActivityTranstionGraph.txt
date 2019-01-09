@@ -1,0 +1,15 @@
+com.xargsgrep.portknocker.activity.EditHostActivity-->com.xargsgrep.portknocker.activity.HostListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.xargsgrep.portknocker.activity.SettingsActivityCompat-->com.xargsgrep.portknocker.activity.HostListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.xargsgrep.portknocker.activity.SettingsActivity-->com.xargsgrep.portknocker.activity.HostListActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.xargsgrep.portknocker.activity.HostListActivity-->com.xargsgrep.portknocker.activity.SettingsActivityCompat
+flag:
+
+com.xargsgrep.portknocker.activity.HostListActivity-->com.xargsgrep.portknocker.activity.SettingsActivity
+flag:
+

@@ -1,0 +1,10 @@
+activity:com.antutu.benchmark.full.UnityPlayerActivity
+LaunchMode:stk
+TaskAffinity:null
+
+#MAIN
+activity:com.antutu.benchmark.full.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

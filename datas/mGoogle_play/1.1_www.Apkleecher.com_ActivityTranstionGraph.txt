@@ -1,0 +1,3 @@
+and.syncsys.ginotoys.SplashScreen-->and.syncsys.ginotoys.MainActivity
+flag:finish
+

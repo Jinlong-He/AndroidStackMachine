@@ -1,0 +1,36 @@
+com.facebook.accountkit.ui.AccountKitActivity-->co.gotitapp.android.activity.SplashActivity
+flag:finish
+
+com.facebook.accountkit.ui.AccountKitEmailRedirectActivity-->com.facebook.accountkit.ui.AccountKitActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.mixpanel.android.surveys.SurveyActivity-->co.gotitapp.android.activity.SplashActivity
+flag:finish
+
+co.gotitapp.android.activity.MainActivity-->co.gotitapp.android.activity.SplashActivity
+flag:
+
+co.gotitapp.android.activity.MainActivity-->co.gotitapp.android.activity.InternetCutoffActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+co.gotitapp.android.activity.MainActivity-->co.gotitapp.android.picker.PhotoPickerActivity
+flag:
+
+com.theartofdev.edmodo.cropper.CropImageActivity-->co.gotitapp.android.activity.SplashActivity
+flag:
+
+co.gotitapp.android.activity.SplashActivity-->co.gotitapp.android.activity.LoginActivity
+flag:finish
+
+co.gotitapp.android.activity.SplashActivity-->co.gotitapp.android.activity.InternetCutoffActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+co.gotitapp.android.activity.ForceUpdateActivity-->co.gotitapp.android.activity.SplashActivity
+flag:
+
+com.braintreepayments.api.dropin.DropInActivity-->com.braintreepayments.api.dropin.AddCardActivity
+flag:
+

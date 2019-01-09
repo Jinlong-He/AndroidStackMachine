@@ -1,0 +1,6 @@
+#MAIN
+activity:com.Match.powerlock.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

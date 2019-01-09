@@ -1,0 +1,9 @@
+jingo.mob.dro.MainActivity-->jingo.mob.dro.GuideDetail
+flag:
+
+jingo.mob.dro.MainActivity-->jingo.mob.dro.AboutApp
+flag:
+
+jingo.mob.dro.SplashScreen-->jingo.mob.dro.MainActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.jjoe64.graphview_demos.ItemListActivity-->com.jjoe64.graphview_demos.ItemDetailActivity
+flag:
+

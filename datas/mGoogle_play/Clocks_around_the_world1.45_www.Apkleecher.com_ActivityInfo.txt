@@ -1,0 +1,10 @@
+#MAIN
+activity:com.chineseinspiration.Clocks
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.chineseinspiration.ZoneList
+LaunchMode:std
+TaskAffinity:null
+

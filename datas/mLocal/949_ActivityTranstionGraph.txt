@@ -1,0 +1,9 @@
+org.zywx.wbpalmstar.engine.EBrowserActivity-->org.zywx.wbpalmstar.engine.EBrowserActivity
+flag:
+
+org.zywx.wbpalmstar.engine.EBrowserActivity-->org.zywx.wbpalmstar.engine.TempActivity
+flag:
+
+com.alipay.sdk.auth.AuthActivity-->org.zywx.wbpalmstar.engine.EBrowserActivity
+flag:
+

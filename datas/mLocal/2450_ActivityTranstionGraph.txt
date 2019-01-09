@@ -1,0 +1,3 @@
+com.tkrgnxxwubfhclxhofhoj.ozdubsdiw-->com.ykolxjgcsryfjhnsjnplxwxzfzgogkkdb.vgynsjepydvwora
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

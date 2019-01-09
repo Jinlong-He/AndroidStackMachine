@@ -1,0 +1,10 @@
+#MAIN
+activity:.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.CamshotActivity
+LaunchMode:std
+TaskAffinity:null
+

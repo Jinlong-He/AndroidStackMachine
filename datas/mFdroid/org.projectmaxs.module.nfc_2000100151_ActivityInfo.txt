@@ -1,0 +1,16 @@
+activity:org.projectmaxs.shared.global.util.PermissionUtil$RequestPermissionDialog
+LaunchMode:std
+TaskAffinity:null
+
+activity:.activities.InfoAndSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:.activities.Settings
+LaunchMode:std
+TaskAffinity:null
+
+activity:.activities.NfcDiscoveredActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.alimama.bluestone.ui.MigrateMajibaoActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

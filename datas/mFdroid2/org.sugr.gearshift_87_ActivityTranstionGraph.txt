@@ -1,0 +1,6 @@
+org.sugr.gearshift.ui.TorrentFileReadActivity-->org.sugr.gearshift.ui.TorrentListActivity
+flag:finish
+
+org.sugr.gearshift.ui.TorrentListActivity-->org.sugr.gearshift.ui.TorrentDetailActivity
+flag:
+

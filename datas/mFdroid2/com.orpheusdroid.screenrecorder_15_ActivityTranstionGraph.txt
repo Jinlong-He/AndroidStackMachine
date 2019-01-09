@@ -1,0 +1,12 @@
+com.orpheusdroid.screenrecorder.DeepLinkActivity-->com.orpheusdroid.screenrecorder.MainActivity
+flag:finish
+
+com.orpheusdroid.screenrecorder.MainActivity-->com.orpheusdroid.screenrecorder.DeepLinkActivity
+flag:
+
+com.orpheusdroid.screenrecorder.MainActivity-->com.orpheusdroid.screenrecorder.AboutActivity
+flag:
+
+com.orpheusdroid.screenrecorder.MainActivity-->com.orpheusdroid.screenrecorder.PrivacyPolicy
+flag:
+

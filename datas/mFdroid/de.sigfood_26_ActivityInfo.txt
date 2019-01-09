@@ -1,0 +1,14 @@
+#MAIN
+activity:de.sigfood.SigfoodActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.sigfood.MealActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.sigfood.SigfoodSettings
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,30 @@
+org.xbmc.kore.ui.MusicActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+org.xbmc.kore.ui.TVShowsActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+org.xbmc.kore.ui.AddonsActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+org.xbmc.kore.ui.RemoteActivity-->org.xbmc.kore.ui.hosts.AddHostActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+org.xbmc.kore.ui.hosts.EditHostActivity-->org.xbmc.kore.ui.hosts.HostManagerActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.xbmc.kore.ui.PVRActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+org.xbmc.kore.ui.MoviesActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+org.xbmc.kore.ui.AllCastActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_NEW_DOCUMENT  
+
+org.xbmc.kore.ui.hosts.AddHostActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+org.xbmc.kore.ui.FileActivity-->org.xbmc.kore.ui.RemoteActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:.TallyphantActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:Preferences
+LaunchMode:std
+TaskAffinity:null
+
+activity:ItemEdit
+LaunchMode:std
+TaskAffinity:null
+

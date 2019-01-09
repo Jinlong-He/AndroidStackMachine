@@ -1,0 +1,6 @@
+#MAIN
+activity:com.mridang.throttle.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

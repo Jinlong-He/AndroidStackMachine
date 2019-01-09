@@ -1,0 +1,12 @@
+de.appplant.cordova.plugin.localnotification.ClickActivity-->com.atistudios.mondly.languages.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.atistudios.mondly.languages.MainActivity
+flag:
+
+de.appplant.cordova.plugin.notification.ClickActivity-->com.atistudios.mondly.languages.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT FLAG_ACTIVITY_SINGLE_TOP  
+
+com.onesignal.PermissionsActivity-->com.onesignal.PermissionsActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+

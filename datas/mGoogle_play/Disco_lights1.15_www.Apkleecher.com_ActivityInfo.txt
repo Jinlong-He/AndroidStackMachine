@@ -1,0 +1,14 @@
+activity:.Custompage176730
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.Dashboard_000
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.google.android.gms.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,3 @@
+at.bitfire.gfxtablet.CanvasActivity-->at.bitfire.gfxtablet.SettingsActivity
+flag:
+

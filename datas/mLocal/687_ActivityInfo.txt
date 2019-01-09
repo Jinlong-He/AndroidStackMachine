@@ -1,0 +1,14 @@
+#MAIN
+activity:.main_activity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.clip_activity
+LaunchMode:std
+TaskAffinity:null
+
+activity:net.youmi.android.appoffers.YoumiOffersActivity
+LaunchMode:std
+TaskAffinity:null
+

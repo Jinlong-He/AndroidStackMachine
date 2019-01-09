@@ -1,0 +1,14 @@
+#MAIN
+activity:com.github.yeriomin.smsscheduler.Activity.SmsListActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.github.yeriomin.smsscheduler.Activity.AddSmsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.github.yeriomin.smsscheduler.Activity.SmsSchedulerPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,14 @@
+activity:com.yalei8.zwb.BrowserActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.yalei8.zwb.BookmarkActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.yalei8.zwb.SplashScreenActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

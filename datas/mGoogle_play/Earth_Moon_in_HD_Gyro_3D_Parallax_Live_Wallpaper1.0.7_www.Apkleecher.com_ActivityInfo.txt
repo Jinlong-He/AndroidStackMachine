@@ -1,0 +1,10 @@
+#MAIN
+activity:com.afkettler.earth.LauncherActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.afkettler.earth.SettingsActivity
+launchMode:stp
+TaskAffinity:null
+

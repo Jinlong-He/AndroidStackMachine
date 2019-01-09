@@ -1,0 +1,15 @@
+softin.my.fast.fitness.PreloadingFotoApp-->softin.my.fast.fitness.MainFastF
+flag:finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.google.android.gms.appinvite.PreviewActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.smaato.soma.video.VASTAdActivity-->com.google.android.gms.tagmanager.TagManagerPreviewActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

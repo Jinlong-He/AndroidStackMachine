@@ -1,0 +1,12 @@
+com.hobbylobbystores.android.StoreMapActivity-->com.hobbylobbystores.android.StoreDetailsActivity
+flag:
+
+com.hobbylobbystores.android.AboutActivity-->com.hobbylobbystores.android.TermsOfUseActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.hobbylobbystores.android.WeeklySavingsActivity
+flag:
+
+com.hobbylobbystores.android.StoreDetailsActivity-->com.hobbylobbystores.android.WeeklySavingsActivity
+flag:
+

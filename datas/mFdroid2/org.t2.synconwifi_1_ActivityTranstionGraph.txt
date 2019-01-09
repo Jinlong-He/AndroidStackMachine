@@ -1,0 +1,6 @@
+org.t2.synconwifi.SettingsActivity-->org.t2.synconwifi.SsidActivity
+flag:
+
+org.t2.synconwifi.SettingsActivity-->org.t2.synconwifi.AccountActivity
+flag:
+

@@ -1,0 +1,3 @@
+com.toys.dohtoysreview.Logo-->com.toys.dohtoysreview.MainActivity
+flag:
+

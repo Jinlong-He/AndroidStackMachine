@@ -1,0 +1,14 @@
+#MAIN
+activity:com.flyblade.Blade.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.facebook.FacebookActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.adobe.phonegap.push.PushHandlerActivity
+LaunchMode:std
+TaskAffinity:null
+

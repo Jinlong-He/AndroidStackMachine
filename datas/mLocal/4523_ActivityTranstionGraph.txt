@@ -1,0 +1,3 @@
+com.loft.single.plugin.activity.SplashActivity-->com.loft.single.plugin.activity.LocalSMSPayActivity
+flag:finish
+

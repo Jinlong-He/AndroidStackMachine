@@ -1,0 +1,9 @@
+com.raon.aremotefreegalaxy.MainActivity-->com.raon.aremotefreegalaxy.AddDeviceActivity
+flag:
+
+com.raon.aremotefreegalaxy.SplashActivity-->com.raon.aremotefreegalaxy.MainActivity
+flag:finish
+
+com.raon.aremotefreegalaxy.AddDeviceActivity-->com.raon.aremotefreegalaxy.SelectBrandActivity
+flag:
+

@@ -1,0 +1,4 @@
+activity:.LiveWallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+

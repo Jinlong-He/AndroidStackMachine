@@ -1,0 +1,10 @@
+#MAIN
+activity:.MoCaptureActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.google.ads.AdActivity
+LaunchMode:std
+TaskAffinity:null
+

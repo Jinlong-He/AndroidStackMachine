@@ -1,0 +1,15 @@
+.Home-->com.aldygamedev.web5.ticket.tiket.pesawat.promo.cheap.flights.Hotels
+flag:
+
+.Home-->com.aldygamedev.web5.ticket.tiket.pesawat.promo.cheap.flights.Flight
+flag:
+
+.Home-->com.aldygamedev.web5.ticket.tiket.pesawat.promo.cheap.flights.Info
+flag:
+
+.Home-->com.aldygamedev.web5.ticket.tiket.pesawat.promo.cheap.flights.Train
+flag:
+
+.SplashActivity-->com.aldygamedev.web5.ticket.tiket.pesawat.promo.cheap.flights.Home
+flag:finish
+

@@ -1,0 +1,15 @@
+com.levintv.ui.SearchActivity-->com.levintv.ui.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.levintv.ui.VideoDetailActivity-->com.levintv.ui.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.levintv.ui.SplashActivity-->com.levintv.ui.PromotionActivity
+flag:finish
+
+com.levintv.ui.SplashActivity-->com.levintv.ui.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.levintv.ui.PromotionActivity-->com.levintv.ui.DetailCollectionActivity
+flag:finish
+

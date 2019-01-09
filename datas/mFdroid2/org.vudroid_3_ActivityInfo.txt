@@ -1,0 +1,14 @@
+activity:.pdfdroid.PdfViewerActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:.djvudroid.DjvuViewerActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:.core.MainBrowserActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

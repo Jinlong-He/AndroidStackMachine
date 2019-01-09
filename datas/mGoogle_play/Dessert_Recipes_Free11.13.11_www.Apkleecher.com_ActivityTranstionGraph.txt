@@ -1,0 +1,33 @@
+com.riatech.dessertrecipes.Activities.MainActivity-->com.riatech.dessertrecipes.Activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.riatech.dessertrecipes.Activities.MainActivity-->com.riatech.dessertrecipes.Activities.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.riatech.dessertrecipes.Activities.MainActivity-->com.riatech.dessertrecipes.Activities.MainActivity
+flag:
+
+com.riatech.dessertrecipes.Activities.MainActivity-->com.riatech.dessertrecipes.imageSubmission.MainActivity
+flag:
+
+com.riatech.dessertrecipes.Activities.MainActivity-->com.thefinestartist.ytpa.YouTubePlayerActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.riatech.dessertrecipes.imageSubmission.MainActivity-->com.riatech.dessertrecipes.imageSubmission.ImageUploadActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.riatech.dessertrecipes.Activities.MainActivity
+flag:
+
+com.thefinestartist.ytpa.YouTubePlayerActivity-->com.riatech.dessertrecipes.Activities.MainActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.riatech.dessertrecipes.Activities.SplashScreen-->com.riatech.dessertrecipes.Activities.MainActivity
+flag:
+

@@ -1,0 +1,6 @@
+com.beakerapps.instameter2.LogInActivity-->com.beakerapps.instameter2.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+
+com.beakerapps.instameter2.MainActivity-->com.beakerapps.instameter2.LogInActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

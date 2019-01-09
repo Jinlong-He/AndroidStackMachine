@@ -1,0 +1,15 @@
+com.tencent.android.tpush.XGPushActivity-->cn.sharesdk.framework.ShareSDKUIShell
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.tencent.android.tpush.XGPushActivity-->cn.sharesdk.framework.ShareSDKUIShell
+flag:finish
+
+com.iveely.rabbit.weiwen.Setting-->com.iveely.rabbit.weiwen.Browser
+flag:
+
+com.iveely.rabbit.weiwen.SplashScreen-->com.iveely.rabbit.weiwen.MainActivity
+flag:finish
+
+com.iveely.rabbit.weiwen.wxapi.WXEntryActivity-->cn.sharesdk.framework.ShareSDKUIShell
+flag:
+

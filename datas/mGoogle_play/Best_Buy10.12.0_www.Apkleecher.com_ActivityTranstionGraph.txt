@@ -1,0 +1,15 @@
+com.bestbuy.android.activity.DeepLinkingActivity-->com.bestbuy.android.activity.DeepLinkingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.bestbuy.android.activity.StoreDetailsActivity-->com.bestbuy.android.activity.DeepLinkingActivity
+flag:
+
+com.bestbuy.android.activity.loyalty.CABOOfferDetailPage-->com.bestbuy.android.activity.DeepLinkingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  finish
+
+com.bestbuy.android.activity.loyalty.CABOOfferDetailPage-->com.bestbuy.android.activity.DeepLinkingActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.bestbuy.android.activity.ProductList-->com.bestbuy.android.activity.SortAndFacetsActivity
+flag:
+

@@ -1,0 +1,69 @@
+pj.fontmarket.pay.ActPay2-->pj.fontmarket.pay.ActPay2
+flag:
+
+pj.fontmarket.pay.ActPay2-->pj.fontmarket.local.ActLocal
+flag:
+
+pj.fontmarket.help.ActHelp-->pj.fontmarket.help.ActHelp
+flag:
+
+pj.fontmarket.help.ActHelp-->pj.fontmarket.detail.ActFontDetail
+flag:
+
+pj.fontmarket.more.ActFind-->pj.fontmarket.local.ActLocal
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.more.ActFind-->pj.fontmarket.online.ActOnline
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.more.ActFind-->pj.fontmarket.more.ActFind
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.local.ActLocal-->pj.fontmarket.detail.ActFontDetail
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+pj.fontmarket.local.ActLocal-->pj.fontmarket.local.ActLocal
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.local.ActLocal-->pj.fontmarket.online.ActOnline
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.local.ActLocal-->pj.fontmarket.more.ActFind
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.local.ActLocal-->pj.fontmarket.help.ActHelp
+flag:
+
+pj.fontmarket.online.ActOnline-->pj.fontmarket.local.ActLocal
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.online.ActOnline-->pj.fontmarket.online.ActOnline
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.online.ActOnline-->pj.fontmarket.more.ActFind
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.welcome.ActWelcome-->pj.fontmarket.online.ActOnline
+flag:FLAG_ACTIVITY_NO_ANIMATION  finish
+
+pj.fontmarket.detail.ActFontDetail-->pj.fontmarket.detail.ActFontDetail
+flag:
+
+pj.fontmarket.detail.ActFontDetail-->pj.fontmarket.local.ActLocal
+flag:
+
+pj.fontmarket.detail.ActFontDetail-->pj.fontmarket.pkg.ActFlashPkg
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+pj.fontmarket.detail.ActFontDetail-->pj.fontmarket.pay.ActPay
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+pj.fontmarket.pay.ActPay-->pj.fontmarket.pay.ActPay
+flag:FLAG_ACTIVITY_NO_ANIMATION  
+
+pj.fontmarket.pay.ActPay-->pj.fontmarket.pay.ActPay2
+flag:
+
+pj.fontmarket.shortcut.ActShortcut-->pj.fontmarket.local.ActLocal
+flag:
+

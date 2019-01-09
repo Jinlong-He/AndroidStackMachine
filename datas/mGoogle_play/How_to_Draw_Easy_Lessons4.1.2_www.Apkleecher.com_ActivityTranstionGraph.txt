@@ -1,0 +1,3 @@
+com.artelplus.howtodraw.Main-->com.artelplus.howtodraw.Settings
+flag:
+

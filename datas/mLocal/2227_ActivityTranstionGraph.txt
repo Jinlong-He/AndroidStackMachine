@@ -1,0 +1,12 @@
+com.hwhd.hongbao.MainActivity-->com.hwhd.hongbao.StartActivity
+flag:
+
+com.hwhd.hongbao.MainActivity-->com.hwhd.hongbao.HelpActivity
+flag:
+
+com.hwhd.hongbao.MainActivity-->com.hwhd.hongbao.MainActivity
+flag:
+
+com.hwhd.hongbao.SplashActivity-->com.hwhd.hongbao.MainActivity
+flag:finish
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.extremelogic.android.app.birthdayreminder.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.extremelogic.android.app.birthdayreminder.SettingActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.extremelogic.android.app.birthdayreminder.DisplayInfoActivity
+LaunchMode:std
+TaskAffinity:null
+

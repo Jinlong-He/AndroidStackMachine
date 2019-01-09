@@ -1,0 +1,12 @@
+com.ufo.workout.SplashActivity-->com.ufo.workout.MainActivity
+flag:finish
+
+com.ufo.workout.MainActivity-->com.ufo.workout.MainActivity
+flag:finish
+
+com.ufo.workout.MainActivity-->com.ufo.workout.Setting
+flag:
+
+com.ufo.workout.MainActivity-->com.ufo.workout.ReminderActivity
+flag:
+

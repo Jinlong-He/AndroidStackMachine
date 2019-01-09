@@ -1,0 +1,6 @@
+com.mylottos.results.MainActivity-->com.mylottos.results.MainActivity
+flag:
+
+com.mylottos.results.MainActivity-->com.mylottos.results.HistoryActivity
+flag:
+

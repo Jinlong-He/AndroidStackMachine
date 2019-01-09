@@ -1,0 +1,10 @@
+#MAIN
+activity:com.morega.wifihack.ScanWiFiActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.morega.wifihack.SuggestActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,3 @@
+com.devuni.flashlight.MainActivity-->com.devuni.flashlight.ADActivity
+flag:
+

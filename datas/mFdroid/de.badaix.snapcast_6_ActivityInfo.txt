@@ -1,0 +1,14 @@
+#MAIN
+activity:de.badaix.snapcast.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:de.badaix.snapcast.ClientSettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.badaix.snapcast.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

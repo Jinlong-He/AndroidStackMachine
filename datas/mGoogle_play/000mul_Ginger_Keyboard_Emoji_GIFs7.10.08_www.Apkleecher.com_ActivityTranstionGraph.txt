@@ -1,0 +1,210 @@
+com.gingersoftware.android.app.activities.WidgetConfigureActivityJB-->com.gingersoftware.android.app.activities.GingerWidgetPickerActivity
+flag:
+
+com.gingersoftware.android.keyboard.ui.PersonalizeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.keyboard.ui.PersonalizeActivity-->org.pocketworkstation.pckeyboard.InputLanguageSelection
+flag:
+
+com.gingersoftware.android.keyboard.ui.PersonalizeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.crop.PhotoCropActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+org.mozc.android.inputmethod.japanese.mushroom.MushroomSelectionActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.activities.TouchBeamIAMActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_GRANT_READ_URI_PERMISSION  
+
+com.gingersoftware.android.app.activities.TouchBeamIAMActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.batch.android.BatchActionActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.internal.ads.StartAppWrapperActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.TouchBeamIAMActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.ShareActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+org.pocketworkstation.pckeyboard.GingerIMESettings-->unknown
+flag:
+
+org.pocketworkstation.pckeyboard.GingerIMESettings-->com.gingersoftware.android.app.activities.ShareActivity
+flag:finish
+
+com.gingersoftware.android.internal.view.WebDialogActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:finish
+
+com.gingersoftware.android.internal.view.ab.YahooSearchActivityContainer-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.activities.UpgradesActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.activities.UpgradesActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yahoo.mobile.client.share.search.ui.activity.LocalPreviewActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.activities.ShareHelperActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_GRANT_READ_URI_PERMISSION  
+
+com.gingersoftware.android.app.activities.ShareHelperActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.keyboard.ui.NotificationActivity-->unknown
+flag:finish
+
+com.gingersoftware.android.keyboard.ui.NotificationActivity-->com.gingersoftware.android.keyboard.ui.InstallationWizardActivity
+flag:finish
+
+org.mozc.android.inputmethod.japanese.MozcProxyPreferenceActivity-->unknown
+flag:finish
+
+org.pocketworkstation.pckeyboard.PrefMyAccount-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.pocketworkstation.pckeyboard.PrefScreenHelp-->unknown
+flag:
+
+com.gingersoftware.android.app.activities.GingerStoreActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.android.app.activities.GingerStoreActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.GingerStoreActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.GingerStoreActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.gingersoftware.android.app.activities.GingerStoreActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.batch.android.MessagingActivity-->com.batch.android.MessagingActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.yahoo.mobile.client.share.search.ui.activity.ImageGalleryActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.yahoo.mobile.client.share.search.ui.activity.SearchBrowserActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.activities.CreateThemeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+com.gingersoftware.android.app.activities.CreateThemeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.activities.CreateThemeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.android.app.activities.CreateThemeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.CreateThemeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.CreateThemeActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_NO_ANIMATION  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.startapp.android.publish.list3d.List3DActivity-->com.startapp.android.publish.OverlayActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_CLEAR_TASK  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP  FLAG_ACTIVITY_NEW_TASK  
+
+com.startapp.android.publish.list3d.List3DActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_DOCUMENT FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP  
+
+com.gingersoftware.android.app.activities.NotificationHandlerActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.gingersoftware.android.app.activities.NotificationHandlerActivity-->com.gingersoftware.android.internal.view.LaunchFacebookAppInviteActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_MULTIPLE_TASK  FLAG_ACTIVITY_NEW_DOCUMENT  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  
+
+com.gingersoftware.android.app.activities.MainActivity-->com.gingersoftware.android.app.activities.OnBoardingActivity
+flag:finish
+
+com.gingersoftware.android.app.activities.MainActivity-->com.gingersoftware.android.app.activities.TutorialPlayerActivity
+flag:finish
+
+com.gingersoftware.android.app.activities.MainActivity-->com.gingersoftware.android.keyboard.ui.InstallationWizardActivity
+flag:
+
+com.gingersoftware.android.app.activities.StartActivity-->com.gingersoftware.android.app.activities.MainActivity
+flag:finish
+
+com.gingersoftware.android.app.activities.OnBoardingActivity-->com.gingersoftware.android.app.activities.MainActivity
+flag:finish
+
+com.gingersoftware.android.app.activities.OnBoardingActivity-->unknown
+flag:finish
+
+org.pocketworkstation.pckeyboard.PrefScreenSmartWriting-->com.gingersoftware.android.internal.view.PermissionActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.android.app.activities.SigninActivity-->com.gingersoftware.android.app.activities.MainActivity
+flag:finish
+
+com.gingersoftware.android.app.activities.SigninActivity-->com.gingersoftware.android.app.activities.ConnectWithProviderActivity
+flag:
+
+com.gingersoftware.android.internal.view.LaunchFacebookAppInviteActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+org.pocketworkstation.pckeyboard.Main-->org.pocketworkstation.pckeyboard.SwipeTestingActivity
+flag:
+
+org.pocketworkstation.pckeyboard.Main-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.app.PushIntentLauncherActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.gingersoftware.android.app.PushIntentLauncherActivity-->com.gingersoftware.android.app.activities.TouchBeamIAMActivity
+flag:FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS FLAG_ACTIVITY_MULTIPLE_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.gingersoftware.android.app.activities.TutorialPlayerActivity-->com.gingersoftware.android.app.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.gingersoftware.android.keyboard.ui.InstallationWizardActivity-->com.gingersoftware.android.app.activities.ShareActivity
+flag:
+
+com.gingersoftware.android.keyboard.ui.InstallationWizardActivity-->com.gingersoftware.android.keyboard.ui.PersonalizeActivity
+flag:
+
+com.gingersoftware.android.keyboard.ui.InstallationWizardActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_SINGLE_TOP  
+

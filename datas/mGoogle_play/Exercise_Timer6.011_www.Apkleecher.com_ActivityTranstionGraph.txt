@@ -1,0 +1,39 @@
+com.neurondigital.exercisetimer.WorkoutEditActivity-->com.neurondigital.exercisetimer.ExercisteEditActivity
+flag:
+
+com.neurondigital.exercisetimer.WorkoutListActivity-->com.neurondigital.exercisetimer.WorkoutEditActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.SettingsActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.PolicyActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.HistoryActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.SplashScreenActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.MainActivity
+flag:
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.MyWorkoutsActivity
+flag:
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.WorkoutEditActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.PremiumActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.neurondigital.exercisetimer.MainActivity-->com.neurondigital.exercisetimer.WorkoutFinishedActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.neurondigital.exercisetimer.SettingsActivity-->com.neurondigital.exercisetimer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  finish
+
+com.neurondigital.exercisetimer.SplashScreenActivity-->com.neurondigital.exercisetimer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,15 @@
+.ui.SerieEpisodes-->nl.asymmetrics.droidshows.ui.ViewEpisode
+flag:
+
+nl.asymmetrics.droidshows.DroidShows-->nl.asymmetrics.droidshows.ui.ViewEpisode
+flag:
+
+nl.asymmetrics.droidshows.DroidShows-->nl.asymmetrics.droidshows.ui.ViewSerie
+flag:
+
+nl.asymmetrics.droidshows.DroidShows-->nl.asymmetrics.droidshows.ui.SerieSeasons
+flag:
+
+.ui.SerieSeasons-->nl.asymmetrics.droidshows.ui.SerieEpisodes
+flag:
+

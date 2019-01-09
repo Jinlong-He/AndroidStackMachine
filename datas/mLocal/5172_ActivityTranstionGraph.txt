@@ -1,0 +1,12 @@
+com.tencent.smtt.sdk.VideoActivity-->com.tencent.smtt.sdk.VideoActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+org.zywx.wbpalmstar.engine.EBrowserActivity-->org.zywx.wbpalmstar.engine.EBrowserActivity
+flag:
+
+org.zywx.wbpalmstar.engine.EBrowserActivity-->org.zywx.wbpalmstar.engine.TempActivity
+flag:
+
+cn.jpush.android.ui.PushActivity-->org.zywx.wbpalmstar.engine.EBrowserActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

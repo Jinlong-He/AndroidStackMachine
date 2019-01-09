@@ -1,0 +1,10 @@
+#MAIN
+activity:.SokobanLevelMenuActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.SokobanGameActivity
+LaunchMode:std
+TaskAffinity:null
+

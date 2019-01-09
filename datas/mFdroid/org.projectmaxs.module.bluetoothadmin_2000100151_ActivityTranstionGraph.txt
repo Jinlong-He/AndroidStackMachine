@@ -1,0 +1,3 @@
+.activities.InfoAndSettings-->org.projectmaxs.module.bluetoothadmin.activities.Settings
+flag:
+

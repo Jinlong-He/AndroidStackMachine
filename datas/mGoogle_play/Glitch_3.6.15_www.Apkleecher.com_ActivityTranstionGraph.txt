@@ -1,0 +1,15 @@
+com.lucagrillo.ImageGlitcher.FramePreviewActivity-->com.lucagrillo.ImageGlitcher.AnimationActivity
+flag:
+
+com.lucagrillo.ImageGlitcher.MainActivity-->com.lucagrillo.ImageGlitcher.WebViewActivity
+flag:
+
+com.lucagrillo.ImageGlitcher.MainActivity-->com.lucagrillo.ImageGlitcher.PurchaseActivity
+flag:
+
+com.lucagrillo.ImageGlitcher.MainActivity-->com.lucagrillo.ImageGlitcher.FramePreviewActivity
+flag:
+
+com.lucagrillo.ImageGlitcher.SplashScreenActivity-->com.lucagrillo.ImageGlitcher.MainActivity
+flag:finish
+

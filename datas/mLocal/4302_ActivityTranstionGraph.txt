@@ -1,0 +1,15 @@
+.MainWin-->colorsoft.zuowen.xiaoxue.SearchList
+flag:
+
+.MainWin-->colorsoft.zuowen.xiaoxue.WebWin
+flag:
+
+.Opening-->colorsoft.zuowen.xiaoxue.MainWin
+flag:finish
+
+.SearchList-->colorsoft.zuowen.xiaoxue.ShowWin
+flag:
+
+net.youmi.android.AdActivity-->net.youmi.android.AdActivity
+flag:
+

@@ -1,0 +1,12 @@
+com.hayaisoftware.launcher.activities.SearchActivity-->com.hayaisoftware.launcher.activities.AboutActivity
+flag:
+
+com.hayaisoftware.launcher.activities.SearchActivity-->com.hayaisoftware.launcher.activities.SettingsActivity
+flag:
+
+com.hayaisoftware.launcher.activities.SearchActivity-->com.hayaisoftware.launcher.activities.SearchActivity
+flag:
+
+com.hayaisoftware.launcher.activities.SearchActivity-->com.hayaisoftware.launcher.activities.SearchActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

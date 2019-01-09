@@ -1,0 +1,3 @@
+com.gelly.joy.android.ui.activities.FakeLauncher-->com.gelly.joy.android.ui.activities.MainActivity
+flag:finish
+

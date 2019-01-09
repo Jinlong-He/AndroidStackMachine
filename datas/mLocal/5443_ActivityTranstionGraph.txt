@@ -1,0 +1,3 @@
+com.elinkway.tvlive2.activity.SplashActivity-->com.elinkway.tvlive2.home.LiveVideoActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

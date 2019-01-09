@@ -1,0 +1,15 @@
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.connect.common.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+com.tencent.tauth.AuthActivity-->com.tencent.tauth.AuthActivity
+flag:finish
+
+iwan.tencent.com.Test-->iwan.tencent.com.WebViewActivity
+flag:
+
+iwan.tencent.com.Test-->com.tencent.tauth.AuthActivity
+flag:
+

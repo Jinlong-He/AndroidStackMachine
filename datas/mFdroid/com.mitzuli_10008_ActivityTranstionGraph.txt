@@ -1,0 +1,3 @@
+com.mitzuli.MainActivity-->com.mitzuli.SettingsActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:ca.cmetcalfe.locationshare.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

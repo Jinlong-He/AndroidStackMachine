@@ -1,0 +1,27 @@
+cn.jpush.android.ui.PopWinActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.jpush.android.ui.PopWinActivity-->com.guokr.fanta.ui.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.guokr.fanta.ui.activity.SplashActivity-->com.guokr.fanta.ui.activity.MainActivity
+flag:finish
+
+com.guokr.fanta.ui.activity.SplashActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.sina.weibo.sdk.component.WeiboSdkBrowser
+flag:
+
+com.sina.weibo.sdk.component.WeiboSdkBrowser-->com.guokr.fanta.ui.activity.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+cn.jpush.android.ui.PushActivity-->com.guokr.fanta.ui.activity.SplashActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.guokr.fanta.ui.activity.MainActivity-->com.guokr.fanta.ui.activity.SplashActivity
+flag:
+
+com.guokr.fanta.ui.activity.MainActivity-->com.sina.weibo.sdk.component.WeiboSdkBrowser
+flag:
+

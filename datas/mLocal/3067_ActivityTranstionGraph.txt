@@ -1,0 +1,78 @@
+cn.richinfo.automail.ui.activity.JumpActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.richinfo.maillauncher.activity.GuideActivity-->cn.richinfo.maillauncher.activity.AdActivity
+flag:finish
+
+cn.richinfo.maillauncher.activity.GuideActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:finish
+
+cn.richinfo.maillauncher.activity.MainActivity-->cn.richinfo.maillauncher.webview.WebViewActivity
+flag:
+
+cn.richinfo.automail.ui.activity.NativeMailActivationGuide-->cn.richinfo.automail.ui.activity.PrepareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.richinfo.automail.lottery.ui.LotteryActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:
+
+cn.richinfo.automail.lottery.ui.LotteryActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  
+
+com.umeng.qq.tencent.AssistActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:finish
+
+com.google.zxing.activity.CaptureActivity-->cn.richinfo.maillauncher.activity.WebLoginActivity
+flag:
+
+com.google.zxing.activity.CaptureActivity-->cn.richinfo.maillauncher.activity.CardActicity
+flag:
+
+com.google.zxing.activity.CaptureActivity-->cn.richinfo.maillauncher.webview.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+cn.richinfo.maillauncher.activity.AdActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:
+
+cn.richinfo.automail.lottery.ui.SplashActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:finish
+
+cn.richinfo.automail.ui.activity.AlertActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.richinfo.maillauncher.activity.CardActicity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:
+
+cn.richinfo.maillauncher.activity.CardActicity-->cn.richinfo.maillauncher.webview.WebViewActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+cn.richinfo.automail.ui.activity.PrepareActivity-->cn.richinfo.automail.ui.activity.PrepareActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+cn.richinfo.automail.ui.activity.PrepareActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  
+
+com.umeng.qq.tencent.AuthActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:finish
+
+com.umeng.qq.tencent.AuthActivity-->com.umeng.qq.tencent.AssistActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+cn.richinfo.maillauncher.webview.WebViewActivity-->cn.richinfo.maillauncher.activity.AboutActivity
+flag:
+
+cn.richinfo.maillauncher.webview.WebViewActivity-->cn.richinfo.maillauncher.activity.UserInfoActivity
+flag:
+
+cn.richinfo.maillauncher.webview.WebViewActivity-->cn.richinfo.maillauncher.activity.FoldersManageActivity
+flag:
+
+cn.richinfo.maillauncher.webview.WebViewActivity-->com.google.zxing.activity.CaptureActivity
+flag:
+
+cn.richinfo.maillauncher.webview.WebViewActivity-->com.richinfo.providers.downloads.ui.DownloadListActivity
+flag:
+
+cn.richinfo.maillauncher.webview.WebViewActivity-->cn.richinfo.maillauncher.activity.MainActivity
+flag:finish
+

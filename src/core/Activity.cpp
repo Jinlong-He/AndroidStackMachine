@@ -48,6 +48,25 @@ void Activity::mkExitAndEntranceMap(const Acts& visited, PortMap& exitMap, PortM
     }
 }
 
+void Activity::mkOutActionsMap(Acts& visited, Activity* realAct, Aft2ActionsMap& actionsMap, Acts& reachActs, Actions& reachActions) {
+    for (Action* action : getActions()) {
+        Activity* newAct = action -> getTargetAct();
+        Aft newAft = newAct -> getAft();
+        Aft aft = realAct -> getAft();
+        if (!action -> isSwitchingTaskAction(aft)) {
+            reachActs.insert(newAct);
+            reachActions.insert(action);
+            Acts newVisited;
+            newVisited.insert(visited.begin(), visited.end());
+            if (newVisited.insert(newAct).second) { 
+                newAct -> mkOutActionsMap(newVisited, realAct, actionsMap, reachActs, reachActions);
+            }
+        } else {
+            actionsMap[newAft].insert(action);
+        }
+    }
+}
+
 bool isEqual(const Acts& acts1, const Acts& acts2) {
     if (acts1.size() != acts2.size()) return false;
     for (Activity* act : acts1) {
@@ -107,6 +126,7 @@ bool Action::hasRTFFlag()
 
 bool Action::hasCTPFlag() 
 {
+    if (targetAct -> getLmd() == lmd_stk) return true;
     for (FLAG flag : getFlags())
         if (flag == CTP) return !hasCTKFlag();
     return false;

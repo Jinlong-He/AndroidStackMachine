@@ -1,0 +1,3 @@
+com.mtk.btnotification.SplashActivity-->com.mtk.btnotification.SettingActivity
+flag:finish
+

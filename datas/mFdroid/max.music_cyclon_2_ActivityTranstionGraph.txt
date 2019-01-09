@@ -1,0 +1,6 @@
+max.music_cyclon.preference.MainPreferenceActivity-->max.music_cyclon.SynchronizeActivity
+flag:
+
+max.music_cyclon.SynchronizeActivity-->max.music_cyclon.preference.MainPreferenceActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:net.alegen.android.netclip.ui.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

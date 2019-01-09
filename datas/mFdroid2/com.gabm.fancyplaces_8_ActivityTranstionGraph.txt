@@ -1,0 +1,3 @@
+com.gabm.fancyplaces.ui.MainWindow-->com.gabm.fancyplaces.ui.ShowEditPlace
+flag:
+

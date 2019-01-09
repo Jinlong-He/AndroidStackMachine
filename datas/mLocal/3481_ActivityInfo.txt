@@ -1,0 +1,14 @@
+#MAIN
+activity:com.youyudk.app.IntroActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.youyudk.app.MainActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.youyudk.app.WebActivity
+LaunchMode:std
+TaskAffinity:null
+

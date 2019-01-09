@@ -1,0 +1,3 @@
+org.openlp.android2.OpenLP-->org.openlp.android2.activities.SettingsActivity
+flag:
+

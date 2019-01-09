@@ -1,0 +1,39 @@
+org.khanacademy.android.ui.DeepLinkActivity-->org.khanacademy.android.ui.library.MainActivity
+flag:finish
+
+org.khanacademy.android.ui.BetaToggleActivity-->org.khanacademy.android.ui.library.MainActivity
+flag:finish
+
+org.khanacademy.android.ui.BetaToggleActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+org.khanacademy.android.ui.settings.SettingsActivity-->org.khanacademy.android.ui.settings.LanguageMenuActivity
+flag:
+
+org.khanacademy.android.ui.settings.SettingsActivity-->org.khanacademy.android.ui.settings.LicenseActivity
+flag:
+
+org.khanacademy.android.ui.settings.SettingsActivity-->org.khanacademy.android.ui.library.MainActivity
+flag:
+
+org.khanacademy.android.ui.settings.SettingsActivity-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+org.khanacademy.android.ui.library.MainActivity-->org.khanacademy.android.ui.settings.SettingsActivity
+flag:
+
+org.khanacademy.android.ui.library.MainActivity-->unknown
+flag:
+
+org.khanacademy.android.ui.profile.ProfileLoginActivity-->org.khanacademy.android.ui.settings.SettingsActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->org.khanacademy.android.ui.library.MainActivity
+flag:
+
+com.jakewharton.processphoenix.ProcessPhoenix-->com.jakewharton.processphoenix.ProcessPhoenix
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+com.jakewharton.processphoenix.ProcessPhoenix-->org.khanacademy.android.ui.library.MainActivity
+flag:finish
+

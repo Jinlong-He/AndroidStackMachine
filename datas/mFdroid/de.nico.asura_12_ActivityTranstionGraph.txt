@@ -1,0 +1,12 @@
+de.nico.asura.Main-->de.nico.asura.activities.Preferences
+flag:
+
+de.nico.asura.Main-->de.nico.asura.activities.WebView1
+flag:
+
+de.nico.asura.Main-->de.nico.asura.activities.WebView2
+flag:
+
+de.nico.asura.Main-->de.nico.asura.activities.WebView3
+flag:
+

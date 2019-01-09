@@ -1,0 +1,9 @@
+com.cookware.worldcusinerecipes.MainActivity-->com.cookware.worldcusinerecipes.MainActivity
+flag:
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->com.cookware.worldcusinerecipes.MainActivity
+flag:
+
+com.cookware.worldcusinerecipes.SplashActivity-->com.cookware.worldcusinerecipes.MainActivity
+flag:finish
+

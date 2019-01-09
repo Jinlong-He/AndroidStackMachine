@@ -1,0 +1,6 @@
+#MAIN
+activity:tf.nox.wifisetup.WifiSetup
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

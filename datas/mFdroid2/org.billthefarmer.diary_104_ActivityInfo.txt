@@ -1,0 +1,14 @@
+#MAIN
+activity:org.billthefarmer.diary.Diary
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.billthefarmer.diary.DiaryCalendar
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.billthefarmer.diary.Settings
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.gcstar.viewer.GCstarViewer
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:.GCstarFileChooser
+LaunchMode:std
+TaskAffinity:null
+

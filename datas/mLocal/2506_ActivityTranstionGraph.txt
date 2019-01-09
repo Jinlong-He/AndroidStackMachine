@@ -1,0 +1,9 @@
+com.google.earth.EarthActivity-->com.google.earth.Settings
+flag:
+
+com.google.earth.EarthActivity-->com.google.earth.EarthGalleryActivity
+flag:
+
+com.google.earth.EarthActivity-->com.google.earth.EarthActivity
+flag:
+

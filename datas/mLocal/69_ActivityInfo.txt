@@ -1,0 +1,14 @@
+#MAIN
+activity:com.mercury.mercuryrouter.LaunchActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.mercury.mercuryrouter.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.mercury.mercuryrouter.AboutActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.legalshield.MembersOnly.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

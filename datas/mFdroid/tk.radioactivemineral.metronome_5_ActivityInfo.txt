@@ -1,0 +1,10 @@
+#MAIN
+activity:tk.radioactivemineral.metronome.MetronomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:tk.radioactivemineral.metronome.SaveDialogActivity
+LaunchMode:std
+TaskAffinity:null
+

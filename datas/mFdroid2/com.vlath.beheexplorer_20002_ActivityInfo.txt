@@ -1,0 +1,14 @@
+#MAIN
+activity:com.vlath.beheexplorer.activity.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.vlath.beheexplorer.activity.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.vlath.beheexplorer.activity.ReadingActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,12 @@
+br.odb.menu.KnightsOfAlentejoSplashActivity-->br.odb.menu.ShowOutcomeActivity
+flag:
+
+br.odb.menu.KnightsOfAlentejoSplashActivity-->br.odb.menu.ShowCreditsActivity
+flag:
+
+br.odb.menu.KnightsOfAlentejoSplashActivity-->br.odb.menu.ShowHowToPlayActivity
+flag:
+
+br.odb.menu.KnightsOfAlentejoSplashActivity-->br.odb.menu.GameActivity
+flag:
+

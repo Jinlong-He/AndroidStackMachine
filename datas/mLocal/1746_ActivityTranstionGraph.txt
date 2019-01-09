@@ -1,0 +1,6 @@
+.ui.SplashActivity-->com.yxeee.dongman.ui.MainActivity
+flag:finish
+
+.ui.AdActivity-->com.yxeee.dongman.ui.MainActivity
+flag:finish
+

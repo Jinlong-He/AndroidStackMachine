@@ -1,0 +1,12 @@
+.Tasks-->com.markuspage.android.atimetracker.Settings
+flag:
+
+.Tasks-->com.markuspage.android.atimetracker.TaskTimes
+flag:
+
+.Tasks-->com.markuspage.android.atimetracker.Report
+flag:
+
+.TaskTimes-->com.markuspage.android.atimetracker.EditTime
+flag:
+

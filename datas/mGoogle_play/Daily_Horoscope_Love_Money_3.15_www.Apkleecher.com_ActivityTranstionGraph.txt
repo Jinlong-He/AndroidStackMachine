@@ -1,0 +1,45 @@
+mobi.kingville.horoscope.ui.HoroscopActivity-->mobi.kingville.horoscope.ui.FullHoroscopeActivity
+flag:
+
+mobi.kingville.horoscope.ui.HoroscopActivity-->mobi.kingville.horoscope.ui.PreloaderActivity
+flag:
+
+mobi.kingville.horoscope.ui.HoroscopActivity-->mobi.kingville.horoscope.ui.ShowTokenActivity
+flag:
+
+mobi.kingville.horoscope.ui.HoroscopActivity-->mobi.kingville.horoscope.ui.MainActivity
+flag:finish
+
+mobi.kingville.horoscope.ui.MainActivity-->mobi.kingville.horoscope.ui.PreloaderActivity
+flag:
+
+mobi.kingville.horoscope.ui.MainActivity-->mobi.kingville.horoscope.ui.HoroscopActivity
+flag:finish
+
+mobi.kingville.horoscope.ui.MainActivity-->mobi.kingville.horoscope.ui.FullHoroscopeActivity
+flag:
+
+mobi.kingville.horoscope.ui.PreloaderActivity-->mobi.kingville.horoscope.ui.HoroscopActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+mobi.kingville.horoscope.ui.PreloaderActivity-->mobi.kingville.horoscope.ui.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->mobi.kingville.horoscope.ui.PreloaderActivity
+flag:
+
+mobi.kingville.horoscope.ui.FullHoroscopeActivity-->mobi.kingville.horoscope.ui.NumerologyInfoActivity
+flag:
+
+mobi.kingville.horoscope.ui.FullHoroscopeActivity-->mobi.kingville.horoscope.ui.HoroscopActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+mobi.kingville.horoscope.ui.FullHoroscopeActivity-->mobi.kingville.horoscope.ui.DruidInfoActivity
+flag:
+
+mobi.kingville.horoscope.ui.FullHoroscopeActivity-->mobi.kingville.horoscope.ui.ChineInfoActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

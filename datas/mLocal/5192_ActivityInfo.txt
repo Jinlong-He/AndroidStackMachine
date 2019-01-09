@@ -1,0 +1,10 @@
+#MAIN
+activity:io.dcloud.PandoraEntry
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:io.dcloud.PandoraEntryActivity
+LaunchMode:stk
+TaskAffinity:null
+

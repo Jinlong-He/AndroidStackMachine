@@ -1,0 +1,10 @@
+activity:org.renpy.android.PythonActivity
+LaunchMode:stk
+TaskAffinity:null
+
+#MAIN
+activity:org.renpy.android.ProjectChooser
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

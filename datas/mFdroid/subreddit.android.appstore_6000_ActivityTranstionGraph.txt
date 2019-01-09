@@ -1,0 +1,3 @@
+subreddit.android.appstore.screens.settings.SettingsActivity-->subreddit.android.appstore.screens.settings.AboutActivity
+flag:
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:com.yutong.dingwei.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

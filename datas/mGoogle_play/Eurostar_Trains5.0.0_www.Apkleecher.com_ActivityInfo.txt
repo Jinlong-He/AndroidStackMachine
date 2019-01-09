@@ -1,0 +1,14 @@
+#MAIN
+activity:com.eurostar.androidapp.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:com.shureview.android.medialib.MediaPortal
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.shureview.android.medialib.PlaybackActivity
+LaunchMode:std
+TaskAffinity:null
+

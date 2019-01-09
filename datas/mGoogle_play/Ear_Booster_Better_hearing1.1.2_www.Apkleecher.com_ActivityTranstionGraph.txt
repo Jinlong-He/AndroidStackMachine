@@ -1,0 +1,6 @@
+com.zygne.earbooster.SplashActivity-->com.zygne.earbooster.MainActivity
+flag:
+
+com.zygne.earbooster.MainActivity-->com.zygne.earbooster.AboutActivity
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:ru.sash0k.bluetooth_terminal.activity.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:ru.sash0k.bluetooth_terminal.bluetooth.DeviceListActivity
+LaunchMode:std
+TaskAffinity:null
+

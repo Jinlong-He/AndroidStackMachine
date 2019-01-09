@@ -1,0 +1,6 @@
+#MAIN
+activity:.activity.ApplistActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,15 @@
+com.forrestguice.suntimeswidget.SuntimesWidgetListActivity-->unknown
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.forrestguice.suntimeswidget.SuntimesActivity-->com.forrestguice.suntimeswidget.SuntimesActivity
+flag:
+
+com.forrestguice.suntimeswidget.SuntimesActivity-->com.forrestguice.suntimeswidget.SuntimesSettingsActivity
+flag:
+
+com.forrestguice.suntimeswidget.SuntimesSettingsActivity-->com.forrestguice.suntimeswidget.SuntimesWidgetListActivity
+flag:finish
+
+com.forrestguice.suntimeswidget.SuntimesSettingsActivity-->com.forrestguice.suntimeswidget.SuntimesActivity
+flag:finish
+

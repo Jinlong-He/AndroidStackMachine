@@ -1,0 +1,3 @@
+.activities.InfoAndSettings-->org.projectmaxs.module.smswrite.activities.Settings
+flag:
+

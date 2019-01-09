@@ -1,0 +1,10 @@
+#MAIN
+activity:com.moonpi.swiftnotes.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.moonpi.swiftnotes.EditActivity
+LaunchMode:std
+TaskAffinity:null
+

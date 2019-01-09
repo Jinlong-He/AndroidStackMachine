@@ -1,0 +1,9 @@
+net.czlee.debatekeeper.DebatingActivity-->net.czlee.debatekeeper.FormatChooserActivity
+flag:
+
+net.czlee.debatekeeper.DebatingActivity-->net.czlee.debatekeeper.DebatingTimerService
+flag:
+
+net.czlee.debatekeeper.DebatingActivity-->net.czlee.debatekeeper.GlobalSettingsActivity
+flag:
+

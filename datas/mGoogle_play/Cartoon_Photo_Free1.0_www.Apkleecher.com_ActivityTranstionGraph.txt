@@ -1,0 +1,3 @@
+com.photo.cartoon.SelectActivity-->com.photo.cartoon.MainActivity
+flag:
+

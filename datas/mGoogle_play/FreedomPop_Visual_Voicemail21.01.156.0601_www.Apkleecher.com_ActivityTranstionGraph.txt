@@ -1,0 +1,15 @@
+com.freedompop.vvm.PaywallActivity-->com.freedompop.vvm.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.freedompop.vvm.MainActivity-->com.freedompop.vvm.NewMessageRecorder
+flag:
+
+com.freedompop.vvm.MainActivity-->com.freedompop.vvm.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+com.freedompop.vvm.MainActivity-->com.freedompop.vvm.MainActivity
+flag:finish
+
+com.freedompop.vvm.MainActivity-->com.freedompop.vvm.PaywallActivity
+flag:finish
+

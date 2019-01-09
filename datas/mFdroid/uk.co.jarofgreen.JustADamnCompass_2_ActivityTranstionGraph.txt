@@ -1,0 +1,3 @@
+.MainActivity-->uk.co.jarofgreen.JustADamnCompass.AboutActivity
+flag:
+

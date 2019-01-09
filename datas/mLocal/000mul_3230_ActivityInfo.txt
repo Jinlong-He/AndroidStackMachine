@@ -1,0 +1,6 @@
+#MAIN
+activity:com.dataviz.dxtg.common.android.JumpScreenActivity
+LaunchMode:stk
+TaskAffinity:com.dataviz.dxtg.common.android.JumpScreenActivity
+NIAM#
+

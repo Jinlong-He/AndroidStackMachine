@@ -1,0 +1,14 @@
+#MAIN
+activity:click.dummer.UartSmartwatch.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:click.dummer.UartSmartwatch.PreferencesActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:click.dummer.UartSmartwatch.DeviceListActivity
+LaunchMode:std
+TaskAffinity:null
+

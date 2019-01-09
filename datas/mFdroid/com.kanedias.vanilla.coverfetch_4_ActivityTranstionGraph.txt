@@ -1,0 +1,3 @@
+com.kanedias.vanilla.coverfetch.CoverShowActivity-->com.kanedias.vanilla.plugins.saf.SafRequestActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+

@@ -1,0 +1,12 @@
+fr.s3i.pointeuse.Parametre-->fr.s3i.pointeuse.activite.Aide
+flag:
+
+fr.s3i.pointeuse.Pointeuse-->fr.s3i.pointeuse.activite.Aide
+flag:
+
+fr.s3i.pointeuse.Pointeuse-->fr.s3i.pointeuse.activite.Suppression
+flag:
+
+fr.s3i.pointeuse.Pointeuse-->fr.s3i.pointeuse.Parametre
+flag:
+

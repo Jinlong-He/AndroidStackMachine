@@ -1,0 +1,9 @@
+com.monotype.android.font.freefontsforsamsung.MainActivity-->com.monotype.android.font.freefontsforsamsung.FontFlipActivity
+flag:
+
+com.monotype.android.font.freefontsforsamsung.frontpage-->com.monotype.android.font.freefontsforsamsung.MainActivity
+flag:
+
+com.monotype.android.font.freefontsforsamsung.SplashScreen-->com.monotype.android.font.freefontsforsamsung.frontpage
+flag:finish
+

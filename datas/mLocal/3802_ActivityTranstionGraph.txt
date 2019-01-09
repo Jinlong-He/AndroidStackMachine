@@ -1,0 +1,3 @@
+.ActivityMain-->com.plexnor.gravityscreenoffpro.GravityService
+flag:
+

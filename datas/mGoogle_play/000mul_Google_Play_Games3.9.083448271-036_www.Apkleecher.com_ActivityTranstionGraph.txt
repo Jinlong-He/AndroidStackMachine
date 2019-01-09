@@ -1,0 +1,60 @@
+com.google.android.gms.games.ui.destination.players.DestinationPlayerSearchActivity-->com.google.android.gms.games.ui.destination.players.PlayerDetailActivity
+flag:
+
+com.google.android.gms.games.ui.destination.players.DestinationPlayerSearchActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:
+
+com.google.android.gms.games.ui.destination.players.PlayerDetailActivity-->com.google.android.gms.games.ui.destination.players.DestinationPlayerSearchActivity
+flag:
+
+com.google.android.gms.games.ui.destination.games.GameDetailActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:
+
+com.google.android.gms.games.ui.destination.games.GameDetailActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  FLAG_ACTIVITY_CLEAR_TOP  
+
+com.google.android.gms.games.ui.destination.games.GameDetailActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.google.android.gms.games.ui.destination.games.GameDetailActivity-->com.google.android.gms.games.ui.GamesSettingsActivity
+flag:
+
+com.google.android.gms.games.ui.restricted.videos.RestrictedVideoCapturedActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:finish
+
+com.google.android.gms.games.ui.destination.matches.DestinationParticipantListActivity-->com.google.android.gms.games.ui.destination.players.PlayerDetailActivity
+flag:
+
+com.google.android.gms.games.ui.destination.matches.DestinationParticipantListActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:
+
+com.google.android.gms.games.ui.destination.inbox.DestinationInboxActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.google.android.gms.games.ui.destination.games.DestinationGameSearchActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:
+
+com.google.android.gms.games.ui.destination.games.DestinationGameSearchActivity-->com.google.android.gms.games.ui.destination.games.GameDetailActivity
+flag:
+
+com.google.android.gms.games.ui.client.main.ClientSettingsActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+
+com.google.android.gms.games.ui.destination.main.MainActivity-->com.google.android.gms.games.ui.destination.onboarding.GamesOnboardHostActivity
+flag:
+
+com.google.android.gms.games.ui.destination.main.MainActivity-->com.google.android.gms.games.ui.destination.players.DestinationPlayerSearchActivity
+flag:
+
+com.google.android.gms.games.ui.destination.main.MainActivity-->com.google.android.gms.games.ui.destination.games.DestinationGameSearchActivity
+flag:
+
+com.google.android.gms.games.ui.destination.main.MainActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.google.android.gms.games.ui.client.ClientUiProxyActivity-->com.google.android.gms.games.ui.destination.main.MainActivity
+flag:
+
+com.google.android.gms.games.ui.client.ClientUiProxyActivity-->com.google.android.gms.games.ui.client.ClientUiProxyActivity
+flag:FLAG_ACTIVITY_NEW_TASK  FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS  FLAG_ACTIVITY_CLEAR_TASK  
+

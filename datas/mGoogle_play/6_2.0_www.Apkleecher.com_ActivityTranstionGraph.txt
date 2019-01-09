@@ -1,0 +1,15 @@
+com.njpwworld.NJPWWORLD.VersionCheckActivity-->com.njpwworld.NJPWWORLD.VersionCheckActivity
+flag:finish
+
+com.njpwworld.NJPWWORLD.UlizaControllerActivity-->com.njpwworld.NJPWWORLD.VersionCheckActivity
+flag:finish
+
+com.njpwworld.NJPWWORLD.MainBrowserActivity-->com.njpwworld.NJPWWORLD.VersionCheckActivity
+flag:
+
+jp.co.suvt.ulizaplayer.MovieActivity-->com.njpwworld.NJPWWORLD.VersionCheckActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+jp.co.suvt.ulizaplayer.MovieActivity-->com.njpwworld.NJPWWORLD.VersionCheckActivity
+flag:
+

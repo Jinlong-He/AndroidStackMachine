@@ -1,0 +1,9 @@
+com.vseazs.fuelcalc.ConvertActivity-->com.vseazs.fuelcalc.InputValueActivity
+flag:
+
+com.vseazs.fuelcalc.CalcActivity-->com.vseazs.fuelcalc.InputValueActivity
+flag:
+
+com.vseazs.fuelcalc.CalcActivity-->com.vseazs.fuelcalc.purchases.PurchaseVoiceInputActivity
+flag:
+

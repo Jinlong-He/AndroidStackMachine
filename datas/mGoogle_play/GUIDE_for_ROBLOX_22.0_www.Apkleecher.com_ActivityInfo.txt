@@ -1,0 +1,6 @@
+#MAIN
+activity:com.roblox.gude.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

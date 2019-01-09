@@ -1,0 +1,6 @@
+.CoolReader-->.CoolReader
+flag:
+
+.CoolReader-->.CoolReader
+flag:FLAG_ACTIVITY_NO_HISTORY  
+

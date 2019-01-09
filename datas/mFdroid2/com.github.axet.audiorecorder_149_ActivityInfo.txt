@@ -1,0 +1,14 @@
+activity:com.github.axet.audiorecorder.activities.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.github.axet.audiorecorder.activities.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.github.axet.audiorecorder.activities.RecordingActivity
+LaunchMode:sit
+TaskAffinity:null
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.android2.calculator3.Calculator
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.android2.calculator3.floating.FloatingCalculatorCreateShortCutActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.android2.calculator3.floating.FloatingCalculatorOpenShortCutActivity
+LaunchMode:sit
+TaskAffinity:null
+

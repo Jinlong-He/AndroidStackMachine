@@ -1,0 +1,14 @@
+#MAIN
+activity:com.compasspro.magneticcompasspro.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.unity3d.ads.adunit.AdUnitActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.unity3d.ads.adunit.AdUnitSoftwareActivity
+LaunchMode:std
+TaskAffinity:null
+

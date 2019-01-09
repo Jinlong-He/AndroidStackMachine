@@ -1,0 +1,6 @@
+com.cpuid.cpu_z.MainActivity-->com.cpuid.cpu_z.SettingActivity
+flag:
+
+com.cpuid.cpu_z.MainActivity-->com.cpuid.cpu_z.OGLActivity
+flag:
+

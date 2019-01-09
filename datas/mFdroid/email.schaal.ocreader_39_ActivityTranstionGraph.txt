@@ -1,0 +1,15 @@
+email.schaal.ocreader.ListActivity-->email.schaal.ocreader.SettingsActivity
+flag:
+
+email.schaal.ocreader.ListActivity-->email.schaal.ocreader.LoginActivity
+flag:
+
+email.schaal.ocreader.ListActivity-->email.schaal.ocreader.ItemPagerActivity
+flag:
+
+email.schaal.ocreader.ListActivity-->email.schaal.ocreader.ManageFeedsActivity
+flag:
+
+email.schaal.ocreader.SettingsActivity-->email.schaal.ocreader.ListActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_NEW_TASK  
+

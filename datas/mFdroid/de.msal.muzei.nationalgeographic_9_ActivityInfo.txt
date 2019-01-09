@@ -1,0 +1,8 @@
+activity:de.msal.muzei.nationalgeographic.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:de.msal.muzei.nationalgeographic.PhotoDescriptionActivity
+LaunchMode:std
+TaskAffinity:null
+

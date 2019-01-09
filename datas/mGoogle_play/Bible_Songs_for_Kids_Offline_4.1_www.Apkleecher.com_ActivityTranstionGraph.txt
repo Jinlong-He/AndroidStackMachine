@@ -1,0 +1,12 @@
+com.bibleforkids.MainActivity-->com.bibleforkids.SongPlay_Activity
+flag:
+
+com.bibleforkids.MainActivity-->com.bibleforkids.About_Activity
+flag:
+
+com.bibleforkids.SongPlay_Activity-->com.bibleforkids.About_Activity
+flag:
+
+com.bibleforkids.Splash_Activity-->com.bibleforkids.MainActivity
+flag:finish
+

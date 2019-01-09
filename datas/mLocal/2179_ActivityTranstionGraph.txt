@@ -1,0 +1,12 @@
+com.e4a.runtime.android.mainActivity-->com.e4a.runtime.android.mainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+com.e4a.runtime.android.mainActivity-->com.e4a.runtime.android.StartActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.tencent.connect.common.AssistActivity-->com.e4a.runtime.android.StartActivity
+flag:
+
+com.e4a.runtime.android.StartActivity-->com.e4a.runtime.android.mainActivity
+flag:
+

@@ -760,8 +760,6 @@ namespace cgh {
             system("dot -Tpng -o res.png res.dot");
         }
         friend FA<Character>;
-        friend BasicRegEx<Character>;
-        
     };
 }
 

@@ -1,0 +1,16 @@
+activity:io.github.benoitduffez.cupsprint.AddPrintersActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:io.github.benoitduffez.cupsprint.UntrustedCertActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:io.github.benoitduffez.cupsprint.BasicAuthActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:io.github.benoitduffez.cupsprint.HostNotVerifiedActivity
+LaunchMode:std
+TaskAffinity:null
+

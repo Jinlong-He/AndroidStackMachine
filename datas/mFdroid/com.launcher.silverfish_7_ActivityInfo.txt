@@ -1,0 +1,6 @@
+#MAIN
+activity:com.launcher.silverfish.launcher.LauncherActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

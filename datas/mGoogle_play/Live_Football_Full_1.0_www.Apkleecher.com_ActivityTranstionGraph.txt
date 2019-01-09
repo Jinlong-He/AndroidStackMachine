@@ -1,0 +1,15 @@
+com.beyondinfinity.beyondthisisfull.GroupActivity-->com.beyondinfinity.beyondthisisfull.LinkActivity
+flag:
+
+com.beyondinfinity.beyondthisisfull.MainActivity-->com.beyondinfinity.beyondthisisfull.LinkActivity
+flag:
+
+com.beyondinfinity.beyondthisisfull.MainActivity-->com.beyondinfinity.beyondthisisfull.WebViewActivity
+flag:
+
+com.beyondinfinity.beyondthisisfull.MainActivity-->com.beyondinfinity.beyondthisisfull.ContactUsActivity
+flag:
+
+com.beyondinfinity.beyondthisisfull.MainActivity-->com.beyondinfinity.beyondthisisfull.GroupActivity
+flag:
+

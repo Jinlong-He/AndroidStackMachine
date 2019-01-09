@@ -1,0 +1,9 @@
+com.guidedways.iQuranCommon.Activities.SearchActivity-->com.guidedways.iQuranCommon.Activities.SearchActivity
+flag:
+
+com.guidedways.iQuranCommon.Activities.SurahViewActivity-->com.guidedways.iQuranCommon.Activities.IndexActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+com.guidedways.iQuranCommon.Activities.IndexActivity-->com.guidedways.iQuranCommon.Activities.AlarmHelperInstallActivity
+flag:
+

@@ -1,0 +1,9 @@
+com.screen.videorecorder.RecorderActivity-->com.screen.videorecorder.settings.SettingsActivity
+flag:
+
+com.screen.videorecorder.settings.SettingsActivity-->com.screen.videorecorder.DirectoryChooserActivity
+flag:
+
+com.jwk.ltq-->com.jwk.bio
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

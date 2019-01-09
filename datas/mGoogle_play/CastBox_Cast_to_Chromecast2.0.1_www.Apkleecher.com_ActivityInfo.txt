@@ -1,0 +1,14 @@
+#MAIN
+activity:com.liquidum.castbox.ExpandedControlsActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
+activity:com.liquidum.castbox.CastActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.google.android.gms.common.api.GoogleApiActivity
+LaunchMode:std
+TaskAffinity:null
+

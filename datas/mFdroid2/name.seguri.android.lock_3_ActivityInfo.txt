@@ -1,0 +1,6 @@
+#MAIN
+activity:name.seguri.android.lock.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

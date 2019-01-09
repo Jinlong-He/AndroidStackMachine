@@ -1,0 +1,12 @@
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity-->.main
+flag:
+
+.main-->.main
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  
+
+.main-->.main
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+.main-->.main
+flag:
+

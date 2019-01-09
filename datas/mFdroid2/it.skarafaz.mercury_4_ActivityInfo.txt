@@ -1,0 +1,14 @@
+#MAIN
+activity:it.skarafaz.mercury.activity.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:it.skarafaz.mercury.activity.LogActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:it.skarafaz.mercury.activity.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

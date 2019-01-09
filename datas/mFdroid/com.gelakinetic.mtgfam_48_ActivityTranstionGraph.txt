@@ -1,0 +1,3 @@
+com.gelakinetic.mtgfam.FamiliarActivity-->com.gelakinetic.mtgfam.FamiliarActivity
+flag:finish
+

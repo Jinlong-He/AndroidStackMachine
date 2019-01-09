@@ -1,0 +1,12 @@
+com.machine.thunderloan.page.home.activity.HybridHomeActivity-->com.machine.thunderloan.page.home.activity.HybridHomeActivity
+flag:
+
+com.machine.thunderloan.page.home.activity.HybridHomeActivity-->com.machine.thunderloan.page.authorize.AuthorizeOperatorActivity
+flag:
+
+com.machine.thunderloan.page.authorize.AuthorizeOperatorActivity-->com.machine.thunderloan.page.authorize.AuthorizeOperatorActivity
+flag:
+
+com.machine.thunderloan.page.welcome.SplashscreenActivity-->com.machine.thunderloan.page.home.activity.HybridHomeActivity
+flag:
+

@@ -1,0 +1,12 @@
+com.chaks.juzamma.activities.MainActivity-->com.chaks.juzamma.activities.PreferencesActivity
+flag:
+
+com.chaks.juzamma.activities.SuraListActivity-->com.chaks.juzamma.activities.MainActivity
+flag:
+
+com.chaks.juzamma.activities.SuraListActivity-->com.chaks.juzamma.activities.PreferencesActivity
+flag:
+
+com.chaks.juzamma.activities.SplashActivity-->com.chaks.juzamma.activities.SuraListActivity
+flag:finish
+

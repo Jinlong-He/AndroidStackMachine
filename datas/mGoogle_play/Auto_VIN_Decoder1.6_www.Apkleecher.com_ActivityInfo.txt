@@ -1,0 +1,6 @@
+#MAIN
+activity:com.autovindecoder.HomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

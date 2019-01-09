@@ -1,0 +1,10 @@
+#MAIN
+activity:org.androidpn.client.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.androidpn.client.SetPreferenceActivity
+LaunchMode:std
+TaskAffinity:null
+

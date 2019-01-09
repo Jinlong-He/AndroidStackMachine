@@ -1,0 +1,21 @@
+com.urbanairship.actions.LandingPageActivity-->com.urbanairship.actions.LandingPageActivity
+flag:finish
+
+com.gloto.telemundo.TelemundoRootActivity-->com.urbanairship.google.PlayServicesErrorActivity
+flag:
+
+com.urbanairship.util.HelperActivity-->com.urbanairship.actions.LandingPageActivity
+flag:
+
+com.urbanairship.util.HelperActivity-->com.urbanairship.util.HelperActivity
+flag:
+
+com.gloto.telemundo.TelemundoStartupActivity-->com.gloto.telemundo.TelemundoRootActivity
+flag:finish
+
+com.facebook.CustomTabActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.defianttech.diskdiggerpro.DiskDiggerActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.defianttech.diskdiggerpro.DigDeeperActivity
+LaunchMode:std
+TaskAffinity:null
+

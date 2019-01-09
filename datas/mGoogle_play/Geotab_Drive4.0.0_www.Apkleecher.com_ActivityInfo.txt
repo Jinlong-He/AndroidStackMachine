@@ -1,0 +1,6 @@
+#MAIN
+activity:com.geotab.androidCheckmate.MainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,36 @@
+net.kosev.rulering.MainActivity-->net.kosev.rulering.ThemesActivity
+flag:
+
+net.kosev.rulering.MainActivity-->net.kosev.rulering.IntroActivity
+flag:
+
+net.kosev.rulering.MainActivity-->net.kosev.rulering.SettingsActivity
+flag:
+
+net.kosev.rulering.UpdateActivity-->net.kosev.rulering.MainActivity
+flag:finish
+
+net.kosev.rulering.IntroActivity-->net.kosev.rulering.MainActivity
+flag:
+
+net.kosev.rulering.CalibrateActivity-->net.kosev.rulering.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+net.kosev.rulering.SettingsActivity-->net.kosev.rulering.CalibrateActivity
+flag:
+
+net.kosev.rulering.SettingsActivity-->net.kosev.rulering.ThemesActivity
+flag:
+
+net.kosev.rulering.SettingsActivity-->net.kosev.rulering.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+
+net.kosev.rulering.SettingsActivity-->net.kosev.rulering.MainActivity
+flag:
+
+net.kosev.rulering.SettingsActivity-->net.kosev.rulering.MainActivity
+flag:FLAG_ACTIVITY_NEW_TASK FLAG_ACTIVITY_NO_HISTORY  
+
+net.kosev.rulering.ThemesActivity-->net.kosev.rulering.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

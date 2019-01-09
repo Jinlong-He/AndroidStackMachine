@@ -1,0 +1,24 @@
+com.arvin.applemessage.AboutActivity-->com.arvin.applemessage.ComposeSmsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  
+
+com.arvin.applemessage.AboutActivity-->com.arvin.applemessage.ComposeSmsActivity
+flag:
+
+com.arvin.applemessage.ConversationActivity-->com.arvin.applemessage.DefaultMsgActivity
+flag:
+
+com.arvin.applemessage.ConversationActivity-->com.arvin.applemessage.MessageActivity
+flag:
+
+com.arvin.applemessage.ConversationActivity-->com.arvin.applemessage.AboutActivity
+flag:
+
+com.arvin.applemessage.ConversationActivity-->com.arvin.applemessage.ComposeSmsActivity
+flag:
+
+com.arvin.applemessage.DefaultMsgActivity-->com.arvin.applemessage.ConversationActivity
+flag:finish
+
+com.arvin.applemessage.MessageActivity-->com.arvin.applemessage.DefaultMsgActivity
+flag:finish
+

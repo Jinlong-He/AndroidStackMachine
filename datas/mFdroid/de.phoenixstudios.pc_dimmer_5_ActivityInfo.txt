@@ -1,0 +1,6 @@
+#MAIN
+activity:de.phoenixstudios.pc_dimmer.Main
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

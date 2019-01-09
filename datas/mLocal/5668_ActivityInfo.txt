@@ -1,0 +1,10 @@
+#MAIN
+activity:instagram.takipci.begeni.Splash
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:instagram.takipci.begeni.InstAnalizMain
+LaunchMode:std
+TaskAffinity:null
+

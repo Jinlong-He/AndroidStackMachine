@@ -1,0 +1,15 @@
+com.bomgar.thinscc.android.ui.MainActivity-->com.bomgar.thinscc.android.ui.login.LoginActivity
+flag:
+
+com.bomgar.thinscc.android.ui.login.LoginActivity-->com.bomgar.thinscc.android.ui.MainActivity
+flag:finish
+
+com.bomgar.thinscc.android.ui.login.LoginActivity-->com.bomgar.thinscc.android.ui.login.LoginActivity
+flag:
+
+com.bomgar.thinscc.android.ui.CameraActivity-->com.bomgar.thinscc.android.ui.login.LoginActivity
+flag:finish
+
+com.bomgar.thinscc.android.ui.CameraActivity-->com.bomgar.thinscc.android.ui.MainActivity
+flag:FLAG_ACTIVITY_REORDER_TO_FRONT  finish
+

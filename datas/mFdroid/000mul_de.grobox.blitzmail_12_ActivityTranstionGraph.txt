@@ -1,0 +1,6 @@
+de.grobox.blitzmail.NoteActivity-->de.grobox.blitzmail.SendActivity
+flag:
+
+de.grobox.blitzmail.NotificationHandlerActivity-->de.grobox.blitzmail.SendActivity
+flag:
+

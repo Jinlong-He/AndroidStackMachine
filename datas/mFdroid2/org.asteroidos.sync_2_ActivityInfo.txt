@@ -1,0 +1,6 @@
+#MAIN
+activity:org.asteroidos.sync.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+

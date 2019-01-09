@@ -1,0 +1,72 @@
+com.cvte.liblink.activities.MultiImageViewerActivity-->unknown
+flag:
+
+com.cvte.liblink.activities.HistoryPreviewActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.liblink.activities.TouchPadActivity-->unknown
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.liblink.activities.TouchPadActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.liblink.activities.HomeActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.liblink.activities.SingleImageViewerActivity-->unknown
+flag:
+
+com.cvte.link.activities.RemoteControlActivity-->com.cvte.liblink.activities.HomeActivity
+flag:FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.link.activities.RemoteControlActivity-->com.cvte.link.activities.PreferenceSettingsActivity
+flag:
+
+com.cvte.link.activities.RemoteControlActivity-->unknown
+flag:
+
+com.cvte.link.activities.BlankStartUpActivity-->com.cvte.link.activities.RemoteControlHDStartupActivity
+flag:finish
+
+com.cvte.liblink.activities.ScreenMirroringActivity-->unknown
+flag:
+
+com.cvte.liblink.activities.ScreenMirroringActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:
+
+com.cvte.liblink.activities.ScreenMirroringActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.link.activities.RemoteControlHDStartupActivity-->com.cvte.link.activities.RemoteControlActivity
+flag:finish
+
+com.cvte.liblink.activities.NewCoursePlayActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.link.activities.NewCameraActivity-->com.cvte.liblink.activities.SingleImageUploadAndViewerActivity
+flag:
+
+com.cvte.link.activities.NewCameraActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:finish
+
+com.cvte.link.activities.NewCameraActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.liblink.activities.CourseWarePresentationActivity-->unknown
+flag:
+
+com.cvte.liblink.activities.CourseWarePresentationActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.cvte.liblink.activities.SingleImageUploadAndViewerActivity-->unknown
+flag:
+
+com.cvte.liblink.activities.BrowserActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:
+
+com.cvte.liblink.activities.UploadedFilesActivity-->com.cvte.liblink.activities.HistoryPreviewActivity
+flag:
+
+com.cvte.liblink.activities.UploadedFilesActivity-->com.cvte.liblink.activities.ConnectPromptActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+

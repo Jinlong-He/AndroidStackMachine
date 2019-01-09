@@ -1,0 +1,14 @@
+#MAIN
+activity:org.smblott.intentradio.IntentRadio
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.smblott.intentradio.Prefs
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.smblott.intentradio.ClipButtons
+LaunchMode:std
+TaskAffinity:null
+

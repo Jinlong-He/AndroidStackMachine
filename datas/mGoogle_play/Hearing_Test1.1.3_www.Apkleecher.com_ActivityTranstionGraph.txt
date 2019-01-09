@@ -1,0 +1,15 @@
+mobile.eaudiologia.ustawienia.Ustawienia-->mobile.eaudiologia.ustawienia.UstawieniaSynchronizacja
+flag:
+
+mobile.eaudiologia.ustawienia.Ustawienia-->mobile.eaudiologia.ustawienia.CzestBadania
+flag:
+
+mobile.eaudiologia.ustawienia.Ustawienia-->mobile.eaudiologia.ustawienia.UstawieniaImport
+flag:
+
+mobile.eaudiologia.ustawienia.Ustawienia-->mobile.eaudiologia.ustawienia.OAplikacji
+flag:
+
+mobile.eaudiologia.BadanieSluchu-->mobile.eaudiologia.ustawienia.Ustawienia
+flag:
+

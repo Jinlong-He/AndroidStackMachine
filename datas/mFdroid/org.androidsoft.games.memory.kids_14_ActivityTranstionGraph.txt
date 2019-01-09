@@ -1,0 +1,6 @@
+.ui.MainActivity-->org.androidsoft.games.memory.kids.ui.CreditsActivity
+flag:
+
+.ui.MainActivity-->org.androidsoft.games.memory.kids.ui.PreferencesActivity
+flag:
+

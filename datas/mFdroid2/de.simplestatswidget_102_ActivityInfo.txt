@@ -1,0 +1,4 @@
+activity:de.simplestatswidget.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

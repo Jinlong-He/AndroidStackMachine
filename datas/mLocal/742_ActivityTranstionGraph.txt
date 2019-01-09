@@ -1,0 +1,9 @@
+de.mvielberth.pictureextractor.PictureViewActivity-->de.mvielberth.viewpager.ViewPagerActivity
+flag:
+
+de.mvielberth.pictureextractor.PictureViewActivity-->de.mvielberth.pictureextractor.SettingsActivity
+flag:
+
+de.mvielberth.pictureextractor.PictureViewActivity-->de.mvielberth.pictureextractor.AboutActivity
+flag:
+

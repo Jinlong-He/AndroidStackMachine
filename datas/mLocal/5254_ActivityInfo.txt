@@ -1,0 +1,14 @@
+#MAIN
+activity:.WebDemo
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.admob.android.ads.AdMobActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.mobclix.android.sdk.MobclixBrowserActivity
+LaunchMode:std
+TaskAffinity:null
+

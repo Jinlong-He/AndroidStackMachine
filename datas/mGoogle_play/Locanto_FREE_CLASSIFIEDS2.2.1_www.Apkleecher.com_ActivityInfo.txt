@@ -1,0 +1,10 @@
+#MAIN
+activity:de.locanto.app.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:com.adobe.phonegap.push.PushHandlerActivity
+LaunchMode:std
+TaskAffinity:null
+

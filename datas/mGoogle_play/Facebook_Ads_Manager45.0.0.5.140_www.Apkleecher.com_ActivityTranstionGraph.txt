@@ -1,0 +1,3 @@
+com.facebook.adsmanager.AdsManagerLoginActivity-->unknown
+flag:finish
+

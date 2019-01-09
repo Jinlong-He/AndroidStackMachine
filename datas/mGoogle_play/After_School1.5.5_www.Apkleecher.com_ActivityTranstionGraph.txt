@@ -1,0 +1,9 @@
+com.whatisone.afterschool.login.LoginActivity-->com.whatisone.afterschool.feed.presentation.views.activities.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.whatisone.afterschool.feed.presentation.views.activities.MainActivity-->com.whatisone.afterschool.login.LoginActivity
+flag:finish
+
+com.whatisone.afterschool.feed.presentation.views.activities.MainActivity-->com.whatisone.afterschool.mvp.views.impl.activities.ChatActivity
+flag:
+

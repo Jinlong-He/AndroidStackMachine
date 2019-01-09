@@ -1,0 +1,10 @@
+activity:com.sbg.lwc.LiveWallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+
+#MAIN
+activity:com.sbg.lwc.Splash
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

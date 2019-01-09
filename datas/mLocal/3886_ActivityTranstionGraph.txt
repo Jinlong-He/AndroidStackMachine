@@ -1,0 +1,12 @@
+com.monotype.android.font.dev.handwriting.MainActivity-->com.monotype.android.font.dev.handwriting.SupportActivity
+flag:
+
+com.monotype.android.font.dev.handwriting.MainActivity-->com.monotype.android.font.dev.handwriting.Preview
+flag:
+
+com.monotype.android.font.dev.handwriting.Preview-->cn.jpush.android.ui.PushActivity
+flag:
+
+com.monotype.android.font.dev.handwriting.SplashActivity-->com.monotype.android.font.dev.handwriting.MainActivity
+flag:finish
+

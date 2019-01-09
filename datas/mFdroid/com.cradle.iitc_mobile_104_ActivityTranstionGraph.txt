@@ -1,0 +1,12 @@
+com.cradle.iitc_mobile.IITC_Mobile-->com.cradle.iitc_mobile.IITC_Mobile
+flag:
+
+com.cradle.iitc_mobile.IITC_Mobile-->com.cradle.iitc_mobile.prefs.PreferenceActivity
+flag:
+
+com.cradle.iitc_mobile.share.SaveToFile-->com.cradle.iitc_mobile.IITC_Mobile
+flag:
+
+com.cradle.iitc_mobile.share.ShareActivity-->com.cradle.iitc_mobile.IITC_Mobile
+flag:
+

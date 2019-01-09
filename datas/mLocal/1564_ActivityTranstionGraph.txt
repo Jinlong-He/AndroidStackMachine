@@ -1,0 +1,9 @@
+com.fteam.openmaster.SplashActivity-->com.fteam.openmaster.MainActivity
+flag:finish
+
+com.fteam.openmaster.thirdcall.WxVideoThirdCallActivity-->com.fteam.openmaster.base.ui.functionwindow.FunctionActivity
+flag:
+
+com.fteam.openmaster.thirdcall.PicturePickerActivity-->com.fteam.openmaster.base.ui.functionwindow.FunctionActivity
+flag:
+

@@ -1,0 +1,6 @@
+com.wingsoft.fakecall.SplashScreenActivity-->com.wingsoft.fakecall.MainActivity
+flag:finish
+
+com.umeng.fb.ConversationActivity-->com.umeng.fb.ContactActivity
+flag:
+

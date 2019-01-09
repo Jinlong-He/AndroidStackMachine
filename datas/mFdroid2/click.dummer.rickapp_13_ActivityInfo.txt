@@ -1,0 +1,6 @@
+#MAIN
+activity:click.dummer.rickapp.RickActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

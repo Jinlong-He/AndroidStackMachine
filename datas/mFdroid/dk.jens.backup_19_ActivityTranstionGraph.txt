@@ -1,0 +1,15 @@
+dk.jens.backup.OAndBackup-->dk.jens.backup.Preferences
+flag:
+
+dk.jens.backup.OAndBackup-->dk.jens.backup.Scheduler
+flag:
+
+dk.jens.backup.OAndBackup-->dk.jens.backup.Tools
+flag:
+
+dk.jens.backup.OAndBackup-->dk.jens.backup.Help
+flag:
+
+dk.jens.backup.Tools-->dk.jens.backup.LogViewer
+flag:
+

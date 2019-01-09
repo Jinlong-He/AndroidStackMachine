@@ -1,0 +1,9 @@
+kr.zzzi.ZZZIWeatherActivity-->kr.zzzi.ZZZIMainFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+kr.zzzi.ZZZIAlarmActivity-->kr.zzzi.ZZZIMainFragmentActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+kr.zzzi.setting.ZZZISettingActivity-->kr.zzzi.setting.ZZZIFolderListActivity
+flag:
+

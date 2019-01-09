@@ -1,0 +1,14 @@
+#MAIN
+activity:com.shijia.zzbus.HomeActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.shijia.zzbus.MainActivity
+LaunchMode:stk
+TaskAffinity:null
+
+activity:com.shijia.zzbus.other.Car_info
+LaunchMode:std
+TaskAffinity:null
+

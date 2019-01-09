@@ -1,0 +1,14 @@
+#MAIN
+activity:org.jsl.shmp.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:org.jsl.shmp.GameServerActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:org.jsl.shmp.GameClientActivity
+LaunchMode:std
+TaskAffinity:null
+

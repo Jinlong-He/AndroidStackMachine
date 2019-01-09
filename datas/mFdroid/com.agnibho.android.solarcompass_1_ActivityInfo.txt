@@ -1,0 +1,14 @@
+#MAIN
+activity:com.agnibho.android.solarcompass.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.agnibho.android.solarcompass.LocationActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.agnibho.android.solarcompass.HelpActivity
+LaunchMode:std
+TaskAffinity:null
+

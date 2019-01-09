@@ -1,0 +1,10 @@
+#MAIN
+activity:com.adobe.phonegap.push.PushMainActivity
+launchMode:stp
+TaskAffinity:null
+NIAM#
+
+activity:org.apache.cordova.sohumail.multiimgselector.MultiImageSelectorActivity
+LaunchMode:std
+TaskAffinity:null
+

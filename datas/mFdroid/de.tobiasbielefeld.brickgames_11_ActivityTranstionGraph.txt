@@ -1,0 +1,6 @@
+de.tobiasbielefeld.brickgames.ui.Main-->de.tobiasbielefeld.brickgames.ui.about.AboutActivity
+flag:
+
+de.tobiasbielefeld.brickgames.ui.Main-->de.tobiasbielefeld.brickgames.ui.Settings
+flag:
+

@@ -1,0 +1,14 @@
+#MAIN
+activity:com.cs35.cs35.cs20.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.cs35.cs35.cs20.GprsActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:net.youmi.android.AdBrowser
+LaunchMode:std
+TaskAffinity:null
+

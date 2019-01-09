@@ -1,0 +1,9 @@
+de.hoffmannsgimmicks.MeetingUhrActivity-->de.hoffmannsgimmicks.MeetingUhrInfoActivity
+flag:
+
+de.hoffmannsgimmicks.MeetingUhrActivity-->de.hoffmannsgimmicks.MeetingUhrSettingsActivity
+flag:
+
+de.hoffmannsgimmicks.MeetingUhrActivity-->de.hoffmannsgimmicks.PreferencesActivity
+flag:
+

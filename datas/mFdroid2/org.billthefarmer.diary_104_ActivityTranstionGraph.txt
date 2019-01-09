@@ -1,0 +1,6 @@
+org.billthefarmer.diary.Diary-->org.billthefarmer.diary.Settings
+flag:
+
+org.billthefarmer.diary.Diary-->org.billthefarmer.diary.DiaryCalendar
+flag:
+

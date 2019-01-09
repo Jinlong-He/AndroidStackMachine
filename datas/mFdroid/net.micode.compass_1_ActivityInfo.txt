@@ -1,0 +1,6 @@
+#MAIN
+activity:.CompassActivity
+LaunchMode:std
+TaskAffinity:net.micode.compass
+NIAM#
+

@@ -1,0 +1,10 @@
+#MAIN
+activity:com.uzmap.pkg.EntranceActivity
+LaunchMode:stk
+TaskAffinity:null
+NIAM#
+
+activity:.wxapi.WXEntryActivity
+LaunchMode:std
+TaskAffinity:null
+

@@ -1,0 +1,6 @@
+#MAIN
+activity:atitel.com.todoer.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

@@ -1,0 +1,15 @@
+com.android.launcher3.Launcher-->com.android.launcher3.Launcher
+flag:
+
+com.android.launcher3.Launcher-->com.android.launcher3.WallpaperPickerActivity
+flag:
+
+com.android.launcher3.Launcher-->com.android.launcher3.theme.manager.ThemeManagerActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  
+
+com.android.launcher3.Launcher-->com.android.launcher3.Launcher
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.android.launcher3.Launcher-->com.android.launcher3.LauncherSettingsActivity
+flag:FLAG_ACTIVITY_RESET_TASK_IF_NEEDED FLAG_ACTIVITY_NEW_TASK  
+

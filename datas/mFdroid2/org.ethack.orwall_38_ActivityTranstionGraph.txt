@@ -1,0 +1,3 @@
+org.ethack.orwall.TabbedMain-->org.ethack.orwall.WizardActivity
+flag:
+

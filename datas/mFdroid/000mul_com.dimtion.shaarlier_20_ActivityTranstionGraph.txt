@@ -1,0 +1,12 @@
+com.dimtion.shaarlier.MainActivity-->com.dimtion.shaarlier.AddAccountActivity
+flag:
+
+com.dimtion.shaarlier.MainActivity-->com.dimtion.shaarlier.AccountsManagementActivity
+flag:
+
+com.dimtion.shaarlier.AccountsManagementActivity-->com.dimtion.shaarlier.AddAccountActivity
+flag:
+
+com.dimtion.shaarlier.AddActivity-->com.dimtion.shaarlier.MainActivity
+flag:
+

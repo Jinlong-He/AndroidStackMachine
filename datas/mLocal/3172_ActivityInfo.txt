@@ -1,0 +1,10 @@
+#MAIN
+activity:.Notepad
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:.NoteEdit
+LaunchMode:std
+TaskAffinity:null
+

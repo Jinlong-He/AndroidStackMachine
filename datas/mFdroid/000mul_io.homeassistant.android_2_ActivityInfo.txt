@@ -1,0 +1,10 @@
+#MAIN
+activity:io.homeassistant.android.HassActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:io.homeassistant.android.shortcuts.ShortcutActivity
+LaunchMode:std
+TaskAffinity:
+

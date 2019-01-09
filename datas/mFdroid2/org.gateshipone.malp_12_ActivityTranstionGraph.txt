@@ -1,0 +1,6 @@
+org.gateshipone.malp.application.activities.SplashActivity-->org.gateshipone.malp.application.activities.MainActivity
+flag:finish
+
+org.gateshipone.malp.application.activities.AboutActivity-->org.gateshipone.malp.application.activities.ContributorsActivity
+flag:
+

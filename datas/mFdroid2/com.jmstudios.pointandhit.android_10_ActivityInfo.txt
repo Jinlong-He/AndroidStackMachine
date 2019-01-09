@@ -1,0 +1,6 @@
+#MAIN
+activity:com.jmstudios.pointandhit.android.AndroidLauncher
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

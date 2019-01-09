@@ -1,0 +1,15 @@
+com.nutomic.syncthingandroid.activities.SettingsActivity-->com.nutomic.syncthingandroid.activities.RestartActivity
+flag:
+
+com.nutomic.syncthingandroid.activities.MainActivity-->com.nutomic.syncthingandroid.activities.SettingsActivity
+flag:finish
+
+com.nutomic.syncthingandroid.activities.MainActivity-->com.nutomic.syncthingandroid.activities.RestartActivity
+flag:
+
+com.nutomic.syncthingandroid.activities.FolderActivity-->com.nutomic.syncthingandroid.activities.FolderPickerActivity
+flag:
+
+com.nutomic.syncthingandroid.activities.FirstStartActivity-->com.nutomic.syncthingandroid.activities.MainActivity
+flag:finish
+

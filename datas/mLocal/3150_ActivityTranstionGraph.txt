@@ -1,0 +1,9 @@
+com.jinks.memorandum.activity.SplashActivity-->com.jinks.memorandum.activity.MainActivity
+flag:finish
+
+com.jinks.memorandum.activity.MainActivity-->com.jinks.memorandum.activity.NewNoteActivity
+flag:
+
+com.jinks.memorandum.activity.NewNoteActivity-->com.jinks.memorandum.activity.NewNoteActivity
+flag:finish
+

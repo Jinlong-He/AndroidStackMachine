@@ -1,0 +1,15 @@
+com.neaststudios.procapture.ImageDetailActivity-->com.neaststudios.procapture.Camera
+flag:
+
+com.neaststudios.procapture.Preferences-->com.neaststudios.procapture.FileDialog
+flag:
+
+com.neaststudios.procapture.ReviewImage-->com.neaststudios.procapture.Camera
+flag:
+
+com.neaststudios.procapture.Camera-->com.neaststudios.procapture.Preferences
+flag:
+
+com.neaststudios.procapture.Camera-->com.neaststudios.procapture.ImageDetailActivity
+flag:
+

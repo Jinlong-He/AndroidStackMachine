@@ -1,0 +1,14 @@
+#MAIN
+activity:uk.co.yahoo.p1rpp.calendartrigger.activites.MainActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:uk.co.yahoo.p1rpp.calendartrigger.activites.EditActivity
+LaunchMode:std
+TaskAffinity:null
+
+activity:uk.co.yahoo.p1rpp.calendartrigger.activites.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

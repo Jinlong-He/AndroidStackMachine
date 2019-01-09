@@ -1,0 +1,10 @@
+#MAIN
+activity:com.danvelazco.fbwrapper.FbWrapper
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:com.danvelazco.fbwrapper.preferences.FacebookPreferences
+LaunchMode:std
+TaskAffinity:null
+

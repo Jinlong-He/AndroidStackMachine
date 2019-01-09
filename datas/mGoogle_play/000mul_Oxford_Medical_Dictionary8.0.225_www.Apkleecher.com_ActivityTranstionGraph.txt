@@ -1,0 +1,21 @@
+com.mobisystems.msdict.ocr.OcrCaptureActivity-->com.mobisystems.msdict.viewer.MainActivity
+flag:finish
+
+com.mobisystems.msdict.viewer.EulaActivity-->unknown
+flag:finish
+
+com.mobisystems.msdict.viewer.ArticleActivity-->com.mobisystems.msdict.viewer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.mobisystems.msdict.viewer.ArticleActivity-->com.mobisystems.msdict.viewer.MainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  finish
+
+com.mobisystems.msdict.viewer.MainActivity-->com.mobisystems.msdict.ocr.OcrCaptureActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.mobisystems.msdict.viewer.MainActivity-->com.mobisystems.msdict.viewer.UserGuideActivity
+flag:
+
+com.mobisystems.msdict.viewer.MainActivity-->com.mobisystems.msdict.viewer.am
+flag:
+

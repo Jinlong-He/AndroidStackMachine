@@ -1,0 +1,6 @@
+#MAIN
+activity:WidgetDemo
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+

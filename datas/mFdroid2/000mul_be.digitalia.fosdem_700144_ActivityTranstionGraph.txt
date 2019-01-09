@@ -1,0 +1,12 @@
+be.digitalia.fosdem.activities.SearchResultActivity-->be.digitalia.fosdem.activities.EventDetailsActivity
+flag:finish
+
+be.digitalia.fosdem.activities.TrackScheduleActivity-->be.digitalia.fosdem.activities.TrackScheduleEventActivity
+flag:
+
+be.digitalia.fosdem.activities.EventDetailsActivity-->be.digitalia.fosdem.activities.TrackScheduleActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+be.digitalia.fosdem.activities.MainActivity-->be.digitalia.fosdem.activities.SettingsActivity
+flag:
+

@@ -1,0 +1,24 @@
+com.gamersky.ui.account.LoginActivity-->com.sina.weibo.sdk.web.WeiboSdkWebActivity
+flag:
+
+com.tencent.connect.common.AssistActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+com.gamersky.ui.account.RegistStep3Activity-->com.gamersky.ui.account.LoginActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+
+com.gamersky.ui.BrowserActivity-->com.tencent.tauth.AuthActivity
+flag:
+
+com.gamersky.ui.main.MainActivity-->com.alibaba.sdk.android.feedback.windvane.CustomHybirdActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.gamersky.ui.main.MainActivity-->com.alibaba.sdk.android.feedback.windvane.CustomHybirdActivity
+flag:
+
+com.gamersky.ui.main.MainActivity-->com.alibaba.sdk.android.feedback.impl.ErrorPageActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.gamersky.ui.main.MainActivity-->com.alibaba.sdk.android.feedback.impl.ErrorPageActivity
+flag:
+

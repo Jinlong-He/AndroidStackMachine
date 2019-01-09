@@ -1,0 +1,18 @@
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:FLAG_ACTIVITY_NEW_TASK  
+
+com.millennialmedia.internal.MMActivity-->com.millennialmedia.internal.MMActivity
+flag:
+
+com.facebook.CustomTabMainActivity-->com.facebook.CustomTabMainActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  
+
+com.millennialmedia.internal.MMIntentWrapperActivity-->com.millennialmedia.internal.MMIntentWrapperActivity
+flag:
+
+com.sports.schedules.library.ui.activities.MainActivity-->com.sports.schedules.library.ui.activities.MainActivity
+flag:finish
+
+com.sports.schedules.library.ui.activities.MainActivity-->com.sports.schedules.library.ui.activities.SplashActivity
+flag:finish
+

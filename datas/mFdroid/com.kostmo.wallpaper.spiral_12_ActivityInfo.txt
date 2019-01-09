@@ -1,0 +1,8 @@
+activity:com.kostmo.wallpaper.spiral.activity.prefs.SpiralWallpaperSettings
+LaunchMode:std
+TaskAffinity:null
+
+activity:com.kostmo.wallpaper.spiral.activity.prefs.PrefsHypnoDisc
+LaunchMode:std
+TaskAffinity:null
+

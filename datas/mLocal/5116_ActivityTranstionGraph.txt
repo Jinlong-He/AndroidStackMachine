@@ -1,0 +1,9 @@
+net.muji.sleep.mujitosleep.CreateActivity-->net.muji.sleep.mujitosleep.CreatePlayActivity
+flag:FLAG_ACTIVITY_CLEAR_TASK  finish
+
+net.muji.sleep.mujitosleep.CreateActivity-->net.muji.sleep.mujitosleep.CreateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  
+
+net.muji.sleep.mujitosleep.CreatePlayActivity-->net.muji.sleep.mujitosleep.CreateActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP  finish
+

@@ -1,0 +1,12 @@
+com.example.hcicloud.activity.WebviewActivity-->com.example.hcicloud.activity.HciCloudOtherActivity
+flag:
+
+com.tainiu.stepcount.PortalActivity-->com.tainiu.stepcount.invite.InviteActivity
+flag:
+
+com.cpic.sxbxxe.wxapi.WXEntryActivity-->cn.jpush.android.ui.PushActivity
+flag:
+
+cn.jpush.android.ui.PushActivity-->cn.jpush.android.ui.PushActivity
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_NEW_TASK  
+

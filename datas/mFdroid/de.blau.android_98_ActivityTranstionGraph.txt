@@ -1,0 +1,81 @@
+de.blau.android.RemoteControlUrlActivity-->de.blau.android.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+de.blau.android.prefs.VespucciURLActivity-->de.blau.android.Main
+flag:
+
+de.blau.android.prefs.VespucciURLActivity-->de.blau.android.prefs.PresetEditorActivity
+flag:
+
+de.blau.android.prefs.VespucciURLActivity-->de.blau.android.prefs.APIEditorActivity
+flag:
+
+de.blau.android.prefs.VespucciURLActivity-->de.blau.android.prefs.VespucciURLActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.blau.android.prefs.PrefEditor-->de.blau.android.prefs.PrefEditor
+flag:
+
+de.blau.android.propertyeditor.PropertyEditor-->de.blau.android.propertyeditor.PropertyEditor
+flag:
+
+de.blau.android.propertyeditor.PropertyEditor-->de.blau.android.prefs.VespucciURLActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.blau.android.HelpViewer-->de.blau.android.HelpViewer
+flag:
+
+de.blau.android.prefs.APIEditorActivity-->de.blau.android.prefs.APIEditorActivity
+flag:
+
+de.blau.android.DebugInformation-->de.blau.android.prefs.VespucciURLActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.blau.android.prefs.PresetEditorActivity-->de.blau.android.prefs.PresetEditorActivity
+flag:
+
+de.blau.android.GeoUrlActivity-->de.blau.android.Main
+flag:FLAG_ACTIVITY_CLEAR_TOP FLAG_ACTIVITY_SINGLE_TOP  finish
+
+de.blau.android.filter.TagFilterActivity-->de.blau.android.filter.TagFilterActivity
+flag:
+
+de.blau.android.filter.TagFilterActivity-->de.blau.android.HelpViewer
+flag:
+
+de.blau.android.prefs.GeocoderEditorActivity-->de.blau.android.prefs.GeocoderEditorActivity
+flag:
+
+de.blau.android.Main-->de.blau.android.prefs.VespucciURLActivity
+flag:
+
+de.blau.android.Main-->de.blau.android.BoxPicker
+flag:
+
+de.blau.android.Main-->de.blau.android.propertyeditor.PropertyEditor
+flag:
+
+de.blau.android.Main-->de.blau.android.prefs.PrefEditor
+flag:
+
+de.blau.android.Main-->de.blau.android.HelpViewer
+flag:
+
+de.blau.android.Main-->de.blau.android.util.ThemedFilePickerActivity
+flag:
+
+de.blau.android.Main-->de.blau.android.prefs.VespucciURLActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+
+de.blau.android.Splash-->de.blau.android.Main
+flag:finish
+
+de.blau.android.filter.PresetFilterActivity-->de.blau.android.filter.PresetFilterActivity
+flag:
+
+de.blau.android.filter.PresetFilterActivity-->de.blau.android.HelpViewer
+flag:
+
+de.blau.android.BoxPicker-->de.blau.android.prefs.VespucciURLActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

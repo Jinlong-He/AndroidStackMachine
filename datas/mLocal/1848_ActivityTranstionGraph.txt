@@ -1,0 +1,6 @@
+com.morgoo.droidplugin.stub.ShortcutProxyActivity-->com.morgoo.droidplugin.stub.ShortcutProxyActivity
+flag:
+
+com.moon.hao2.mhnnx3.activity.MainActivity-->com.morgoo.droidplugin.stub.ShortcutProxyActivity
+flag:FLAG_ACTIVITY_NEW_TASK  finish
+

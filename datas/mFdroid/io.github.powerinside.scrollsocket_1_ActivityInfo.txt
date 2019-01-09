@@ -1,0 +1,10 @@
+#MAIN
+activity:io.github.powerinside.scrollsocket.CanvasActivity
+LaunchMode:std
+TaskAffinity:null
+NIAM#
+
+activity:io.github.powerinside.scrollsocket.SettingsActivity
+LaunchMode:std
+TaskAffinity:null
+

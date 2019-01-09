@@ -1,0 +1,6 @@
+#MAIN
+activity:com.vackosar.searchbasedlauncher.boundary.MainActivity
+LaunchMode:sit
+TaskAffinity:null
+NIAM#
+
