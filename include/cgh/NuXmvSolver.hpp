@@ -398,7 +398,6 @@ public:
     /// \return StateVar pointer.
     StateVar* mkStateVar(ID id, const Values& values, Value* initValue, Value* trapValue = nullptr) {
         StateVar* stateVar = new StateVar(id, values, initValue, trapValue);
-        stateVars.push_back(stateVar); 
         return stateVar;
     }
 
@@ -408,7 +407,6 @@ public:
     /// \return CharVar pointer.
     CharVar* mkCharVar(ID id, const Values& values) {
         CharVar* charVar = new CharVar(id, values);
-        charVars.push_back(charVar);
         return charVar;
     }
 

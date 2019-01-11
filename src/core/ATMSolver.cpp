@@ -63,7 +63,6 @@ void ATMSolver::initCharVars() {
     popValue = mkValue(1);
     charValues.push_back(popValue);
     charVars.push_back(mkCharVar(0, charValues));
-    charVars.resize(1);
 }
 
 void ATMSolver::initOrderVars() {
@@ -90,7 +89,6 @@ void ATMSolver::initOrderVars() {
     }
     ID sId = stateVarNum - 1;
     stateVars[sId] = mkStateVar(sId, orderValues, nullValue);
-    stateVars.resize(stateVarNum);
 }
 void ATMSolver::init() {
     ID n = getTaskNum();
